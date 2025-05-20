@@ -125,10 +125,14 @@ def generate_table(papers: List[Dict[str, str]], ignore_keys: List[str] = []) ->
         body += "\n| " + " | ".join(paper.values()) + " |"
     return header + body
 
-def back_up_readme_file(backup_date):
-    # back up README.md
-    # shutil.copyfile("README.md", os.path.join(os.getcwd(), "backup", f"Papers - {backup_date}.md"))
-    os.remove("README.md")
+def back_up_file(file, backup_date):
+    # back up file
+    content = open(file, "r", encoding="utf-8").read()
+    backup_path = f"backup/Papers - {backup_date}.md"
+    with open(backup_path, "w", encoding="utf-8") as f:
+        f.write(content)
+    f.close()
+
 
 def get_daily_date():
     # get beijing time in the format of "March 1, 2021"

@@ -1,7 +1,7 @@
 import sys
 import time
 
-from utils import get_daily_papers_by_keyword_with_retries, generate_table, back_up_readme_file, get_daily_date
+from utils import get_daily_papers_by_keyword_with_retries, generate_table, back_up_file, get_daily_date
 
 
 # keywords
@@ -60,4 +60,4 @@ for keyword in keywords:
 f_rm.close()
 f_is.close()
 
-back_up_readme_file(cur_date)
+back_up_file("README.md", cur_date)
