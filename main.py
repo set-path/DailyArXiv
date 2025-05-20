@@ -64,7 +64,7 @@ f_rm = open("README.md", "r", encoding="utf-8")
 content = f_rm.read()
 f_rm.close()
 
-f = open("backup/q.md", "w", encoding="utf-8")
+f = open(f"backup/Papers - {cur_date}.md", "w", encoding="utf-8")
 f.write(content)
 f.close()
 
