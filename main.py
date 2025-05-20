@@ -31,7 +31,7 @@ if len(all_papers) == 0:
 cur_date = get_daily_date()
 
 f_rm = open("README.md", "w", encoding="utf-8")
-f_is = open("ISSUE.md", "w", encoding="utf-8")
+f_is = open(".github/ISSUE.md", "w", encoding="utf-8")
 
 f_rm.write("# Daily Papers\n")
 
