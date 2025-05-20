@@ -127,7 +127,13 @@ def generate_table(papers: List[Dict[str, str]], ignore_keys: List[str] = []) ->
 
 def back_up_file(backup_date):
     # back up file
-    shutil.copyfile("README.md", f"Papers - {backup_date}.md")
+    f_rm = open("README.md", "r", encoding="utf-8")
+    content = f_rm.read()
+    f_rm.close()
+
+    f = open(f"backup/Papers - {backup_date}.md", "w", encoding="utf-8")
+    f.write(content)
+    f.close()
 
 
 def get_daily_date():
