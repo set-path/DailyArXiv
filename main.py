@@ -62,7 +62,7 @@ f_is.close()
 
 
 content = open("README.md", "r", encoding="utf-8").read()
-f_backup = open(f"backup/Papers - {cur_date}.md", "w", encoding="utf-8")
+f_backup = open(f"backup/Papers.md", "w", encoding="utf-8")
 f_backup.write(content)
 f_backup.close()
 
