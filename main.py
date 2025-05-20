@@ -60,4 +60,9 @@ for keyword in keywords:
 f_rm.close()
 f_is.close()
 
-back_up_file("README.md", cur_date)
+f = open("backup/q.md", "w", encoding="utf-8")
+f.write(111111)
+f.close()
+
+
+# back_up_file("README.md", cur_date)
