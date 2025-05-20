@@ -23,7 +23,7 @@ for keyword in keywords:
     papers = get_daily_papers_by_keyword_with_retries(keyword, column_names, max_result, link)
     if papers is not None:
         all_papers[keyword] = papers
-all_papers.pop("Remote Sensing Vision Language Model")
+
 if len(all_papers) == 0:
     print("No paper found!")
     sys.exit("No paper found!")
@@ -31,7 +31,7 @@ if len(all_papers) == 0:
 cur_date = get_daily_date()
 
 f_rm = open("README.md", "w", encoding="utf-8")
-f_is = open(".github/ISSUE.md", "w", encoding="utf-8")
+f_is = open(".github/ISSUE_TEMPLATE.md", "w", encoding="utf-8")
 
 f_rm.write("# Daily Papers\n")
 
