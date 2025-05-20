@@ -1,63 +1,73 @@
 ---
-title: Latest 15 Papers - May 16, 2025
+title: Latest 15 Papers - May 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
 
-## Time Series
+## Open Vocabulary Semantic Segmentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Decoding Futures Price Dynamics: A Regularized Sparse Autoencoder for Interpretable Multi-Horizon Forecasting and Factor Discovery](http://arxiv.org/abs/2505.06795v3)** | 2025-05-14 |  |
-| **[A Call to Arms: AI Should be Critical for Social Media Analysis of Conflict Zones](http://arxiv.org/abs/2311.00810v3)** | 2025-05-14 |  |
-| **[ARCANE -- Early Detection of Interplanetary Coronal Mass Ejections](http://arxiv.org/abs/2505.09365v1)** | 2025-05-14 | <details><summary>25 pa...</summary><p>25 pages, 9 figures, 1 table, submitted to AGU Space Weather on 14th May 2025</p></details> |
-| **[DACAD: Domain Adaptation Contrastive Learning for Anomaly Detection in Multivariate Time Series](http://arxiv.org/abs/2404.11269v3)** | 2025-05-14 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 6 tables</p></details> |
-| **[OLinear: A Linear Model for Time Series Forecasting in Orthogonally Transformed Domain](http://arxiv.org/abs/2505.08550v2)** | 2025-05-14 |  |
-| **[METDrive: Multi-modal End-to-end Autonomous Driving with Temporal Guidance](http://arxiv.org/abs/2409.12667v3)** | 2025-05-14 | Accepted by ICRA |
-| **[Estimation of large approximate dynamic matrix factor models based on the EM algorithm and Kalman filtering](http://arxiv.org/abs/2502.04112v2)** | 2025-05-14 |  |
-| **[Deployable and Generalizable Motion Prediction: Taxonomy, Open Challenges and Future Directions](http://arxiv.org/abs/2505.09074v1)** | 2025-05-14 | <details><summary>Initi...</summary><p>Initial draft, 162 pages, 40 figures, 13 tables</p></details> |
-| **[Reach-Avoid-Stabilize Using Admissible Control Sets](http://arxiv.org/abs/2505.09058v1)** | 2025-05-14 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, submitted to 64th IEEE Conference on Decision and Control</p></details> |
-| **[Multimodal Fusion of Glucose Monitoring and Food Imagery for Caloric Content Prediction](http://arxiv.org/abs/2505.09018v1)** | 2025-05-13 |  |
-| **[Forecasting intermittent time series with Gaussian Processes and Tweedie likelihood](http://arxiv.org/abs/2502.19086v3)** | 2025-05-13 | Under review |
-| **[Causal Feedback Discovery using Convergence Cross Mapping from Sea Ice Data](http://arxiv.org/abs/2505.09001v1)** | 2025-05-13 |  |
-| **[SPAT: Sensitivity-based Multihead-attention Pruning on Time Series Forecasting Models](http://arxiv.org/abs/2505.08768v1)** | 2025-05-13 |  |
-| **[Implet: A Post-hoc Subsequence Explainer for Time Series Models](http://arxiv.org/abs/2505.08748v1)** | 2025-05-13 |  |
-| **[TiMo: Spatiotemporal Foundation Model for Satellite Image Time Series](http://arxiv.org/abs/2505.08723v1)** | 2025-05-13 |  |
+| **[DPSeg: Dual-Prompt Cost Volume Learning for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2505.11676v1)** | 2025-05-16 | Accepted by CVPR2025 |
+| **[3D Vision-Language Gaussian Splatting](http://arxiv.org/abs/2410.07577v2)** | 2025-05-05 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025. Main paper + supplementary material</p></details> |
+| **[FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation](http://arxiv.org/abs/2504.10487v1)** | 2025-04-14 | <details><summary>Proje...</summary><p>Project Page: https://yasserben.github.io/FLOSS/</p></details> |
+| **[ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements](http://arxiv.org/abs/2411.12044v2)** | 2025-04-14 |  |
+| **[RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Radiology with Zero-Shot Multi-Task Capability](http://arxiv.org/abs/2504.07416v1)** | 2025-04-10 |  |
+| **[econSG: Efficient and Multi-view Consistent Open-Vocabulary 3D Semantic Gaussians](http://arxiv.org/abs/2504.06003v1)** | 2025-04-08 |  |
+| **[Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2411.17150v3)** | 2025-04-07 |  |
+| **[Effective SAM Combination for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2411.14723v2)** | 2025-03-30 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
+| **[Open-Vocabulary Semantic Segmentation with Uncertainty Alignment for Robotic Scene Understanding in Indoor Building Environments](http://arxiv.org/abs/2503.23105v1)** | 2025-03-29 | 32 pages, 7 figures |
+| **[Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2503.21780v1)** | 2025-03-27 | <details><summary>CVPR ...</summary><p>CVPR 2025. Project page: https://thegoodailab.org/semla Code: https://github.com/rezaqorbani/SemLA</p></details> |
+| **[Rethinking the Global Knowledge of CLIP in Training-Free Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2502.06818v2)** | 2025-03-27 | Under review |
+| **[LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation](http://arxiv.org/abs/2503.19777v1)** | 2025-03-25 |  |
+| **[Test-Time Optimization for Domain Adaptive Open Vocabulary Segmentation](http://arxiv.org/abs/2501.04696v2)** | 2025-03-08 |  |
+| **[From Open-Vocabulary to Vocabulary-Free Semantic Segmentation](http://arxiv.org/abs/2502.11891v1)** | 2025-02-17 | <details><summary>Submi...</summary><p>Submitted to: Pattern Recognition Letters, Klara Reichard and Giulia Rizzoli equally contributed to this work</p></details> |
+| **[Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models](http://arxiv.org/abs/2501.16769v4)** | 2025-02-11 |  |
 
-## Trajectory
+## Remote Sensing Segmentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Quantum-Enhanced Parameter-Efficient Learning for Typhoon Trajectory Forecasting](http://arxiv.org/abs/2505.09395v1)** | 2025-05-14 |  |
-| **[TransDiffuser: End-to-end Trajectory Generation with Decorrelated Multi-modal Representation for Autonomous Driving](http://arxiv.org/abs/2505.09315v1)** | 2025-05-14 | Under review |
-| **[Stable and Convexified Information Bottleneck Optimization via Symbolic Continuation and Entropy-Regularized Trajectories](http://arxiv.org/abs/2505.09239v1)** | 2025-05-14 | <details><summary>23 pa...</summary><p>23 pages, 11 figures, includes analytical proofs, sensitivity analysis (95% CI), and JAX-based open-source implementation available at: https://github.com/farukalpay/information-bottleneck-beta-optimization</p></details> |
-| **[RT-cache: Efficient Robot Trajectory Retrieval System](http://arxiv.org/abs/2505.09040v1)** | 2025-05-14 | <details><summary>9 pag...</summary><p>9 pages, 5 figures. Submitted to an IEEE robotics conference</p></details> |
-| **[DiffOG: Differentiable Policy Trajectory Optimization with Generalizability](http://arxiv.org/abs/2504.13807v3)** | 2025-05-13 |  |
-| **[SPOT: SE(3) Pose Trajectory Diffusion for Object-Centric Manipulation](http://arxiv.org/abs/2411.00965v2)** | 2025-05-13 |  |
-| **[PRIMER: Perception-Aware Robust Learning-based Multiagent Trajectory Planner](http://arxiv.org/abs/2406.10060v4)** | 2025-05-13 | 7 pages, 3 figures |
-| **[Deep Representation Learning for Unsupervised Clustering of Myocardial Fiber Trajectories in Cardiac Diffusion Tensor Imaging](http://arxiv.org/abs/2504.01953v2)** | 2025-05-13 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. An extended journal manuscript is in preparation</p></details> |
-| **[Optimal Trajectory Planning with Collision Avoidance for Autonomous Vehicle Maneuvering](http://arxiv.org/abs/2505.08724v1)** | 2025-05-13 | <details><summary>SIAM ...</summary><p>SIAM Conference on Control and Its Applications, July 28-30th, 2025, Montreal, Canada</p></details> |
-| **[MC-Swarm: Minimal-Communication Multi-Agent Trajectory Planning and Deadlock Resolution for Quadrotor Swarm](http://arxiv.org/abs/2505.08593v1)** | 2025-05-13 | 13 pages, 11 figures |
-| **[Reinforcement Learning meets Masked Video Modeling : Trajectory-Guided Adaptive Token Selection](http://arxiv.org/abs/2505.08561v1)** | 2025-05-13 |  |
-| **[FOCI: Trajectory Optimization on Gaussian Splats](http://arxiv.org/abs/2505.08510v1)** | 2025-05-13 | <details><summary>7 pag...</summary><p>7 pages, 8 figures, Mario Gomez Andreu and Maximum Wilder-Smith contributed equally</p></details> |
-| **[UVTM: Universal Vehicle Trajectory Modeling with ST Feature Domain Generation](http://arxiv.org/abs/2402.07232v4)** | 2025-05-13 |  |
-| **[ACT-R: Adaptive Camera Trajectories for 3D Reconstruction from Single Image](http://arxiv.org/abs/2505.08239v1)** | 2025-05-13 |  |
-| **[Graph-Based Floor Separation Using Node Embeddings and Clustering of WiFi Trajectories](http://arxiv.org/abs/2505.08088v1)** | 2025-05-12 |  |
+| **[AerOSeg: Harnessing SAM for Open-Vocabulary Segmentation in Remote Sensing Images](http://arxiv.org/abs/2504.09203v1)** | 2025-04-12 | <details><summary>Accep...</summary><p>Accepted at EarthVision workshop, CVPR 2025</p></details> |
+| **[Center-guided Classifier for Semantic Segmentation of Remote Sensing Images](http://arxiv.org/abs/2503.16963v1)** | 2025-03-21 |  |
+| **[SAM2-ELNet: Label Enhancement and Automatic Annotation for Remote Sensing Segmentation](http://arxiv.org/abs/2503.12404v1)** | 2025-03-16 |  |
+| **[Detect Changes like Humans: Incorporating Semantic Priors for Improved Change Detection](http://arxiv.org/abs/2412.16918v1)** | 2024-12-22 |  |
+| **[Joint-Optimized Unsupervised Adversarial Domain Adaptation in Remote Sensing Segmentation with Prompted Foundation Model](http://arxiv.org/abs/2411.05878v2)** | 2024-11-18 | <details><summary>12 pa...</summary><p>12 pages,6 figures, 6 tables</p></details> |
+| **[Graph Information Bottleneck for Remote Sensing Segmentation](http://arxiv.org/abs/2312.02545v2)** | 2024-08-31 | 13 pages, 6 figures |
+| **[Hi-ResNet: Edge Detail Enhancement for High-Resolution Remote Sensing Segmentation](http://arxiv.org/abs/2305.12691v3)** | 2024-08-15 |  |
+| **[ALPS: An Auto-Labeling and Pre-training Scheme for Remote Sensing Segmentation With Segment Anything Model](http://arxiv.org/abs/2406.10855v1)** | 2024-06-16 |  |
+| **[Embedding Generalized Semantic Knowledge into Few-Shot Remote Sensing Segmentation](http://arxiv.org/abs/2405.13686v1)** | 2024-05-22 |  |
+| **[SFFNet: A Wavelet-Based Spatial and Frequency Domain Fusion Network for Remote Sensing Segmentation](http://arxiv.org/abs/2405.01992v1)** | 2024-05-03 |  |
+| **[RSAM-Seg: A SAM-based Approach with Prior Knowledge Integration for Remote Sensing Image Semantic Segmentation](http://arxiv.org/abs/2402.19004v1)** | 2024-02-29 | 12 pages, 11 figures |
+| **[A Framework of Full-Process Generation Design for Park Green Spaces Based on Remote Sensing Segmentation-GAN-Diffusion](http://arxiv.org/abs/2312.10674v1)** | 2023-12-17 |  |
+| **[SAMRS: Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model](http://arxiv.org/abs/2305.02034v4)** | 2023-10-13 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2023 Datasets and Benchmarks Track</p></details> |
+| **[Efficient Remote Sensing Segmentation With Generative Adversarial Transformer](http://arxiv.org/abs/2310.01292v1)** | 2023-10-02 |  |
+| **[Semantic Labeling of High Resolution Images Using EfficientUNets and Transformers](http://arxiv.org/abs/2206.09731v2)** | 2022-06-22 |  |
 
-## Graph Neural Networks
+## Remote Sensing Vision Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Rhomboid Tiling for Geometric Graph Deep Learning](http://arxiv.org/abs/2505.09586v1)** | 2025-05-14 |  |
-| **[SpecSphere: Dual-Pass Spectral-Spatial Graph Neural Networks with Certified Robustness](http://arxiv.org/abs/2505.08320v2)** | 2025-05-14 |  |
-| **[Considerations in the use of ML interaction potentials for free energy calculations](http://arxiv.org/abs/2403.13952v3)** | 2025-05-14 |  |
-| **[Advancing Drug Discovery with Enhanced Chemical Understanding via Asymmetric Contrastive Multimodal Learning](http://arxiv.org/abs/2311.06456v6)** | 2025-05-14 | <details><summary>51 pa...</summary><p>51 pages, 19 figures, 11 tables</p></details> |
-| **[Efficient Mixed Precision Quantization in Graph Neural Networks](http://arxiv.org/abs/2505.09361v1)** | 2025-05-14 |  |
-| **[Learning Traffic Anomalies from Generative Models on Real-Time Observations](http://arxiv.org/abs/2502.01391v2)** | 2025-05-14 |  |
-| **[Quotient Complex Transformer (QCformer) for Perovskite Data Analysis](http://arxiv.org/abs/2505.09174v1)** | 2025-05-14 |  |
-| **[Morphological-Symmetry-Equivariant Heterogeneous Graph Neural Network for Robotic Dynamics Learning](http://arxiv.org/abs/2412.01297v2)** | 2025-05-14 |  |
-| **[WSCIF: A Weakly-Supervised Color Intelligence Framework for Tactical Anomaly Detection in Surveillance Keyframes](http://arxiv.org/abs/2505.09129v1)** | 2025-05-14 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 3 tables. The paper proposes a lightweight weakly-supervised color intelligence model for tactical video anomaly detection, tested on anonymized African surveillance data</p></details> |
-| **[WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks](http://arxiv.org/abs/2505.08614v2)** | 2025-05-14 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 4 tables</p></details> |
-| **[Integrating Single-Cell Foundation Models with Graph Neural Networks for Drug Response Prediction](http://arxiv.org/abs/2504.14361v2)** | 2025-05-13 | 8 pages, 6 figures |
-| **[GraphSparseNet: a Novel Method for Large Scale Traffic Flow Prediction](http://arxiv.org/abs/2502.19823v2)** | 2025-05-13 | <details><summary>Accep...</summary><p>Accepted by VLDB 2025</p></details> |
-| **[AI-accelerated Discovery of Altermagnetic Materials](http://arxiv.org/abs/2311.04418v4)** | 2025-05-13 | <details><summary>46 pa...</summary><p>46 pages; 23 figures; 4 tables</p></details> |
-| **[GRID: Protecting Training Graph from Link Stealing Attacks on GNN Models](http://arxiv.org/abs/2501.10985v2)** | 2025-05-13 |  |
-| **[Open the Eyes of MPNN: Vision Enhances MPNN in Link Prediction](http://arxiv.org/abs/2505.08266v1)** | 2025-05-13 | ICML 2025 |
+| **[A Survey on Remote Sensing Foundation Models: From Vision to Multimodality](http://arxiv.org/abs/2503.22081v1)** | 2025-03-28 |  |
+| **[Enhancing Remote Sensing Vision-Language Models for Zero-Shot Scene Classification](http://arxiv.org/abs/2409.00698v2)** | 2025-01-07 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2025</p></details> |
+| **[RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts](http://arxiv.org/abs/2412.05679v2)** | 2024-12-10 |  |
+| **[Aquila: A Hierarchically Aligned Visual-Language Model for Enhanced Remote Sensing Image Comprehension](http://arxiv.org/abs/2411.06074v1)** | 2024-11-09 |  |
+| **[Mind the Modality Gap: Towards a Remote Sensing Vision-Language Model via Cross-modal Alignment](http://arxiv.org/abs/2402.09816v1)** | 2024-02-15 |  |
+| **[RSGPT: A Remote Sensing Vision Language Model and Benchmark](http://arxiv.org/abs/2307.15266v1)** | 2023-07-28 |  |
+
+## Vision Language Model
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models](http://arxiv.org/abs/2505.13444v1)** | 2025-05-19 |  |
+| **[G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning](http://arxiv.org/abs/2505.13426v1)** | 2025-05-19 | <details><summary>21 pa...</summary><p>21 pages, 14 figures, code released at https://github.com/chenllliang/G1</p></details> |
+| **[Seeing, Saying, Solving: An LLM-to-TL Framework for Cooperative Robots](http://arxiv.org/abs/2505.13376v1)** | 2025-05-19 |  |
+| **[Unlabeled Data or Pre-trained Model: Rethinking Semi-Supervised Learning and Pretrain-Finetuning](http://arxiv.org/abs/2505.13317v1)** | 2025-05-19 |  |
+| **[I'll believe it when I see it: Images increase misinformation sharing in Vision-Language Models](http://arxiv.org/abs/2505.13302v1)** | 2025-05-19 |  |
+| **[Computer Vision Models Show Human-Like Sensitivity to Geometric and Topological Concepts](http://arxiv.org/abs/2505.13281v1)** | 2025-05-19 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, CosSci 2025</p></details> |
+| **[FIOVA: A Multi-Annotator Benchmark for Human-Aligned Video Captioning](http://arxiv.org/abs/2410.15270v2)** | 2025-05-19 |  |
+| **[From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection](http://arxiv.org/abs/2505.13233v1)** | 2025-05-19 |  |
+| **[ViPlan: A Benchmark for Visual Planning with Symbolic Predicates and Vision-Language Models](http://arxiv.org/abs/2505.13180v1)** | 2025-05-19 | <details><summary>9 pag...</summary><p>9 pages, 5 figures and 1 table in the main text; 43 pages, 9 figures and 16 tables including supplementary material</p></details> |
+| **[Feedback-Driven Vision-Language Alignment with Minimal Human Supervision](http://arxiv.org/abs/2501.04568v2)** | 2025-05-19 | Preprint |
+| **[VCM: Vision Concept Modeling Based on Implicit Contrastive Learning with Vision-Language Instruction Fine-Tuning](http://arxiv.org/abs/2504.19627v2)** | 2025-05-19 | VCM |
+| **[Hearing from Silence: Reasoning Audio Descriptions from Silent Videos via Vision-Language Model](http://arxiv.org/abs/2505.13062v1)** | 2025-05-19 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2025</p></details> |
+| **[3D Visual Illusion Depth Estimation](http://arxiv.org/abs/2505.13061v1)** | 2025-05-19 | <details><summary>Proje...</summary><p>Project: https://github.com/YaoChengTang/3D-Visual-Illusion-Depth-Estimation</p></details> |
+| **[MindOmni: Unleashing Reasoning Generation in Vision Language Models with RGPO](http://arxiv.org/abs/2505.13031v1)** | 2025-05-19 | <details><summary>Code:...</summary><p>Code: https://github.com/EasonXiao-888/MindOmni</p></details> |
+| **[Uniformity First: Uniformity-aware Test-time Adaptation of Vision-language Models against Image Corruption](http://arxiv.org/abs/2505.12912v1)** | 2025-05-19 | <details><summary>Code ...</summary><p>Code is available at https://github.com/kzkadc/uninfo</p></details> |
 
