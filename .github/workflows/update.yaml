@@ -37,7 +37,7 @@ jobs:
         push-branch: 'master'
         commit-message: '✏️ Update papers automatically.'
         force-add: 'true'
-        files: README.md .github/ISSUE_TEMPLATE.md backup/*
+        files: README.md .github/ISSUE_TEMPLATE.md
 
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2
