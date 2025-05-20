@@ -125,13 +125,9 @@ def generate_table(papers: List[Dict[str, str]], ignore_keys: List[str] = []) ->
         body += "\n| " + " | ".join(paper.values()) + " |"
     return header + body
 
-def back_up_file(file, backup_date):
+def back_up_file(backup_date):
     # back up file
-    content = open(file, "r", encoding="utf-8").read()
-    backup_path = f"backup/Papers - {backup_date}.md"
-    with open(backup_path, "w", encoding="utf-8") as f:
-        f.write(content)
-    f.close()
+    shutil.copyfile("README.md", f"Papers - {backup_date}.md")
 
 
 def get_daily_date():
