@@ -61,7 +61,7 @@ f_rm.close()
 f_is.close()
 
 f = open("backup/q.md", "w", encoding="utf-8")
-f.write(111111)
+f.write("111111")
 f.close()
 
 
