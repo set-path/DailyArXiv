@@ -1,8 +1,8 @@
 import sys
 import time
+import shutil
 
 from utils import get_daily_papers_by_keyword_with_retries, generate_table, back_up_file, get_daily_date
-
 
 # keywords
 keywords = ["Open Vocabulary Semantic Segmentation", "Remote Sensing Segmentation", "Remote Sensing Vision Language Model", "Vision Language Model"] # TODO add more keywords
@@ -60,8 +60,11 @@ for keyword in keywords:
 f_rm.close()
 f_is.close()
 
-f = open("backup/q.md", "w", encoding="utf-8")
-f.write("111111")
-f.close()
+# f = open("backup/q.md", "w", encoding="utf-8")
+# f.write("111111")
+# f.close()
+
+shutil.copyfile("README.md", f"Papers - {cur_date}.md")
+
 
 # back_up_file("README.md", cur_date)
