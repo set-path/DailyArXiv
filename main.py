@@ -60,11 +60,15 @@ for keyword in keywords:
 f_rm.close()
 f_is.close()
 
-# f = open("backup/q.md", "w", encoding="utf-8")
-# f.write("111111")
-# f.close()
+f_rm = open("README.md", "r", encoding="utf-8")
+content = f_rm.read()
+f_rm.close()
 
-shutil.copyfile("README.md", f"Papers - {cur_date}.md")
+f = open("backup/q.md", "w", encoding="utf-8")
+f.write(content)
+f.close()
+
+# shutil.copyfile("README.md", f"Papers - {cur_date}.md")
 
 
 # back_up_file("README.md", cur_date)
