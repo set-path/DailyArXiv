@@ -60,7 +60,5 @@ for keyword in keywords:
 f_rm.close()
 f_is.close()
 
-# shutil.copyfile("README.md", f"Papers - {cur_date}.md")
-
 
 back_up_file(cur_date)
