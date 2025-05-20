@@ -60,12 +60,8 @@ for keyword in keywords:
 f_rm.close()
 f_is.close()
 
-
-content = open("README.md", "r", encoding="utf-8").read()
-f_backup = open(f"backup/Papers.md", "w", encoding="utf-8")
-f_backup.write(content)
-f_backup.close()
-
+f = open("backup/q.md", "w", encoding="utf-8")
+f.write("111111")
 
 
 # back_up_file("README.md", cur_date)
