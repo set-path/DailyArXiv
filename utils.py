@@ -127,8 +127,8 @@ def generate_table(papers: List[Dict[str, str]], ignore_keys: List[str] = []) ->
 
 def back_up_readme_file(backup_date):
     # back up README.md
-    shutil.copyfile("README.md", os.path.join(os.getcwd(), "backup", f"Papers - {backup_date}.md"))
-    print(11111)
+    # shutil.copyfile("README.md", os.path.join(os.getcwd(), "backup", f"Papers - {backup_date}.md"))
+    os.remove("README.md")
 
 def get_daily_date():
     # get beijing time in the format of "March 1, 2021"
