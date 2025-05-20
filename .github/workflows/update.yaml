@@ -37,7 +37,7 @@ jobs:
         push-branch: 'master'
         commit-message: '✏️ Update papers automatically.'
         force-add: 'true'
-        files: README.md .github/ISSUE_TEMPLATE.md
+        files: README.md .github/ISSUE.md
         name: set-path
         email: liaowenbin23z@ict.ac.cn
 
