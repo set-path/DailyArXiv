@@ -126,7 +126,8 @@ def generate_table(papers: List[Dict[str, str]], ignore_keys: List[str] = []) ->
     return header + body
 
 def back_up_readme_file(backup_date):
-    # back up README.md and ISSUE_TEMPLATE.md
+    # back up README.md
+    os.makedirs("backup", exist_ok=True)
     shutil.copy("README.md", f"backup/Papers - {backup_date}.md")
 
 def get_daily_date():
