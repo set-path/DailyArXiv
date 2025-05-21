@@ -1,5 +1,5 @@
 ---
-title: Papers - May 21, 2025
+title: Papers - May 22, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -53,19 +53,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models](http://arxiv.org/abs/2505.13444v1)** | 2025-05-19 |  |
-| **[G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning](http://arxiv.org/abs/2505.13426v1)** | 2025-05-19 | <details><summary>21 pa...</summary><p>21 pages, 14 figures, code released at https://github.com/chenllliang/G1</p></details> |
-| **[Seeing, Saying, Solving: An LLM-to-TL Framework for Cooperative Robots](http://arxiv.org/abs/2505.13376v1)** | 2025-05-19 |  |
-| **[Unlabeled Data or Pre-trained Model: Rethinking Semi-Supervised Learning and Pretrain-Finetuning](http://arxiv.org/abs/2505.13317v1)** | 2025-05-19 |  |
-| **[I'll believe it when I see it: Images increase misinformation sharing in Vision-Language Models](http://arxiv.org/abs/2505.13302v1)** | 2025-05-19 |  |
-| **[Computer Vision Models Show Human-Like Sensitivity to Geometric and Topological Concepts](http://arxiv.org/abs/2505.13281v1)** | 2025-05-19 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, CosSci 2025</p></details> |
-| **[FIOVA: A Multi-Annotator Benchmark for Human-Aligned Video Captioning](http://arxiv.org/abs/2410.15270v2)** | 2025-05-19 |  |
-| **[From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection](http://arxiv.org/abs/2505.13233v1)** | 2025-05-19 |  |
-| **[ViPlan: A Benchmark for Visual Planning with Symbolic Predicates and Vision-Language Models](http://arxiv.org/abs/2505.13180v1)** | 2025-05-19 | <details><summary>9 pag...</summary><p>9 pages, 5 figures and 1 table in the main text; 43 pages, 9 figures and 16 tables including supplementary material</p></details> |
-| **[Feedback-Driven Vision-Language Alignment with Minimal Human Supervision](http://arxiv.org/abs/2501.04568v2)** | 2025-05-19 | Preprint |
-| **[VCM: Vision Concept Modeling Based on Implicit Contrastive Learning with Vision-Language Instruction Fine-Tuning](http://arxiv.org/abs/2504.19627v2)** | 2025-05-19 | VCM |
-| **[Hearing from Silence: Reasoning Audio Descriptions from Silent Videos via Vision-Language Model](http://arxiv.org/abs/2505.13062v1)** | 2025-05-19 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2025</p></details> |
-| **[3D Visual Illusion Depth Estimation](http://arxiv.org/abs/2505.13061v1)** | 2025-05-19 | <details><summary>Proje...</summary><p>Project: https://github.com/YaoChengTang/3D-Visual-Illusion-Depth-Estimation</p></details> |
-| **[MindOmni: Unleashing Reasoning Generation in Vision Language Models with RGPO](http://arxiv.org/abs/2505.13031v1)** | 2025-05-19 | <details><summary>Code:...</summary><p>Code: https://github.com/EasonXiao-888/MindOmni</p></details> |
-| **[Uniformity First: Uniformity-aware Test-time Adaptation of Vision-language Models against Image Corruption](http://arxiv.org/abs/2505.12912v1)** | 2025-05-19 | <details><summary>Code ...</summary><p>Code is available at https://github.com/kzkadc/uninfo</p></details> |
+| **[UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens](http://arxiv.org/abs/2505.14671v1)** | 2025-05-20 |  |
+| **[CAD-Coder: An Open-Source Vision-Language Model for Computer-Aided Design Code Generation](http://arxiv.org/abs/2505.14646v1)** | 2025-05-20 |  |
+| **[Debating for Better Reasoning: An Unsupervised Multimodal Approach](http://arxiv.org/abs/2505.14627v1)** | 2025-05-20 |  |
+| **[PlanGPT-VL: Enhancing Urban Planning with Domain-Specific Vision-Language Models](http://arxiv.org/abs/2505.14481v1)** | 2025-05-20 |  |
+| **[RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding](http://arxiv.org/abs/2505.14462v1)** | 2025-05-20 |  |
+| **[Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model](http://arxiv.org/abs/2503.16282v2)** | 2025-05-20 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
+| **[Does Acceleration Cause Hidden Instability in Vision Language Models? Uncovering Instance-Level Divergence Through a Large-Scale Empirical Study](http://arxiv.org/abs/2503.06794v3)** | 2025-05-20 |  |
+| **[SCAN: Semantic Document Layout Analysis for Textual and Visual Retrieval-Augmented Generation](http://arxiv.org/abs/2505.14381v1)** | 2025-05-20 | v1 |
+| **[Diffusion Model as a Noise-Aware Latent Reward Model for Step-Level Preference Optimization](http://arxiv.org/abs/2502.01051v3)** | 2025-05-20 | <details><summary>25 pa...</summary><p>25 pages, 26 tables, 15 figures</p></details> |
+| **[Towards Embodied Cognition in Robots via Spatially Grounded Synthetic Worlds](http://arxiv.org/abs/2505.14366v1)** | 2025-05-20 | <details><summary>Accep...</summary><p>Accepted to: Intelligent Autonomous Systems (IAS) 2025 as Late Breaking Report</p></details> |
+| **[DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning](http://arxiv.org/abs/2505.14362v1)** | 2025-05-20 |  |
+| **[Vision-Language Modeling Meets Remote Sensing: Models, Datasets and Perspectives](http://arxiv.org/abs/2505.14361v1)** | 2025-05-20 | <details><summary>Accep...</summary><p>Accepted by IEEE Geoscience and Remote Sensing Magazine</p></details> |
+| **[Plane Geometry Problem Solving with Multi-modal Reasoning: A Survey](http://arxiv.org/abs/2505.14340v1)** | 2025-05-20 | 18 pages |
+| **[Uni-Retrieval: A Multi-Style Retrieval Framework for STEM's Education](http://arxiv.org/abs/2502.05863v2)** | 2025-05-20 |  |
+| **[Aligning Attention Distribution to Information Flow for Hallucination Mitigation in Large Vision-Language Models](http://arxiv.org/abs/2505.14257v1)** | 2025-05-20 |  |
 
