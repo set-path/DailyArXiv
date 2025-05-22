@@ -1,5 +1,5 @@
 ---
-title: Papers - May 22, 2025
+title: Papers - May 23, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -53,19 +53,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens](http://arxiv.org/abs/2505.14671v1)** | 2025-05-20 |  |
-| **[CAD-Coder: An Open-Source Vision-Language Model for Computer-Aided Design Code Generation](http://arxiv.org/abs/2505.14646v1)** | 2025-05-20 |  |
-| **[Debating for Better Reasoning: An Unsupervised Multimodal Approach](http://arxiv.org/abs/2505.14627v1)** | 2025-05-20 |  |
-| **[PlanGPT-VL: Enhancing Urban Planning with Domain-Specific Vision-Language Models](http://arxiv.org/abs/2505.14481v1)** | 2025-05-20 |  |
-| **[RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding](http://arxiv.org/abs/2505.14462v1)** | 2025-05-20 |  |
-| **[Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model](http://arxiv.org/abs/2503.16282v2)** | 2025-05-20 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
-| **[Does Acceleration Cause Hidden Instability in Vision Language Models? Uncovering Instance-Level Divergence Through a Large-Scale Empirical Study](http://arxiv.org/abs/2503.06794v3)** | 2025-05-20 |  |
-| **[SCAN: Semantic Document Layout Analysis for Textual and Visual Retrieval-Augmented Generation](http://arxiv.org/abs/2505.14381v1)** | 2025-05-20 | v1 |
-| **[Diffusion Model as a Noise-Aware Latent Reward Model for Step-Level Preference Optimization](http://arxiv.org/abs/2502.01051v3)** | 2025-05-20 | <details><summary>25 pa...</summary><p>25 pages, 26 tables, 15 figures</p></details> |
-| **[Towards Embodied Cognition in Robots via Spatially Grounded Synthetic Worlds](http://arxiv.org/abs/2505.14366v1)** | 2025-05-20 | <details><summary>Accep...</summary><p>Accepted to: Intelligent Autonomous Systems (IAS) 2025 as Late Breaking Report</p></details> |
-| **[DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning](http://arxiv.org/abs/2505.14362v1)** | 2025-05-20 |  |
-| **[Vision-Language Modeling Meets Remote Sensing: Models, Datasets and Perspectives](http://arxiv.org/abs/2505.14361v1)** | 2025-05-20 | <details><summary>Accep...</summary><p>Accepted by IEEE Geoscience and Remote Sensing Magazine</p></details> |
-| **[Plane Geometry Problem Solving with Multi-modal Reasoning: A Survey](http://arxiv.org/abs/2505.14340v1)** | 2025-05-20 | 18 pages |
-| **[Uni-Retrieval: A Multi-Style Retrieval Framework for STEM's Education](http://arxiv.org/abs/2502.05863v2)** | 2025-05-20 |  |
-| **[Aligning Attention Distribution to Information Flow for Hallucination Mitigation in Large Vision-Language Models](http://arxiv.org/abs/2505.14257v1)** | 2025-05-20 |  |
+| **[InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition](http://arxiv.org/abs/2505.15818v1)** | 2025-05-21 |  |
+| **[From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems](http://arxiv.org/abs/2505.15685v1)** | 2025-05-21 | 17 pages, 13 figures |
+| **[FragFake: A Dataset for Fine-Grained Detection of Edited Images with Vision Language Models](http://arxiv.org/abs/2505.15644v1)** | 2025-05-21 | 14pages,15 figures |
+| **[Scaling Text-Rich Image Understanding via Code-Guided Synthetic Multimodal Data Generation](http://arxiv.org/abs/2502.14846v2)** | 2025-05-21 | <details><summary>Publi...</summary><p>Published in ACL 2025, project page: https://yueyang1996.github.io/cosyn/</p></details> |
+| **[Visual Perturbation and Adaptive Hard Negative Contrastive Learning for Compositional Reasoning in Vision-Language Models](http://arxiv.org/abs/2505.15576v1)** | 2025-05-21 | <details><summary>Accep...</summary><p>Accepted at the International Joint Conference on Artificial Intelligence (IJCAI 2025)</p></details> |
+| **[TinyDrive: Multiscale Visual Question Answering with Selective Token Routing for Autonomous Driving](http://arxiv.org/abs/2505.15564v1)** | 2025-05-21 |  |
+| **[Clapper: Compact Learning and Video Representation in VLMs](http://arxiv.org/abs/2505.15529v1)** | 2025-05-21 |  |
+| **[Robo2VLM: Visual Question Answering from Large-Scale In-the-Wild Robot Manipulation Datasets](http://arxiv.org/abs/2505.15517v1)** | 2025-05-21 |  |
+| **[Visual Thoughts: A Unified Perspective of Understanding Multimodal Chain-of-Thought](http://arxiv.org/abs/2505.15510v1)** | 2025-05-21 |  |
+| **[Prompt Tuning Vision Language Models with Margin Regularizer for Few-Shot Learning under Distribution Shifts](http://arxiv.org/abs/2505.15506v1)** | 2025-05-21 | <details><summary>Publi...</summary><p>Published in TMLR (2025)</p></details> |
+| **[Beyond Linearity: Squeeze-and-Recalibrate Blocks for Few-Shot Whole Slide Image Classification](http://arxiv.org/abs/2505.15504v1)** | 2025-05-21 |  |
+| **[Seeing Through Deception: Uncovering Misleading Creator Intent in Multimodal News with Vision-Language Models](http://arxiv.org/abs/2505.15489v1)** | 2025-05-21 |  |
+| **[Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL](http://arxiv.org/abs/2505.15436v1)** | 2025-05-21 |  |
+| **[TimeCausality: Evaluating the Causal Ability in Time Dimension for Vision Language Models](http://arxiv.org/abs/2505.15435v1)** | 2025-05-21 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 3 tables</p></details> |
+| **[On the Robustness of Medical Vision-Language Models: Are they Truly Generalizable?](http://arxiv.org/abs/2505.15425v1)** | 2025-05-21 | <details><summary>Datas...</summary><p>Dataset and Code is available at https://github.com/BioMedIA-MBZUAI/RobustMedCLIP Accepted at: Medical Image Understanding and Analysis (MIUA) 2025</p></details> |
 
