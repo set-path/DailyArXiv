@@ -1,10 +1,11 @@
 ---
-title: Papers - May 23, 2025
+title: Papers - May 26, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OpenSeg-R: Improving Open-Vocabulary Segmentation via Step-by-Step Visual Reasoning](http://arxiv.org/abs/2505.16974v1)** | 2025-05-22 |  |
 | **[DPSeg: Dual-Prompt Cost Volume Learning for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2505.11676v1)** | 2025-05-16 | Accepted by CVPR2025 |
 | **[3D Vision-Language Gaussian Splatting](http://arxiv.org/abs/2410.07577v2)** | 2025-05-05 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025. Main paper + supplementary material</p></details> |
 | **[FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation](http://arxiv.org/abs/2504.10487v1)** | 2025-04-14 | <details><summary>Proje...</summary><p>Project Page: https://yasserben.github.io/FLOSS/</p></details> |
@@ -19,7 +20,6 @@ labels: documentation
 | **[LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation](http://arxiv.org/abs/2503.19777v1)** | 2025-03-25 |  |
 | **[Test-Time Optimization for Domain Adaptive Open Vocabulary Segmentation](http://arxiv.org/abs/2501.04696v2)** | 2025-03-08 |  |
 | **[From Open-Vocabulary to Vocabulary-Free Semantic Segmentation](http://arxiv.org/abs/2502.11891v1)** | 2025-02-17 | <details><summary>Submi...</summary><p>Submitted to: Pattern Recognition Letters, Klara Reichard and Giulia Rizzoli equally contributed to this work</p></details> |
-| **[Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models](http://arxiv.org/abs/2501.16769v4)** | 2025-02-11 |  |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -53,19 +53,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition](http://arxiv.org/abs/2505.15818v1)** | 2025-05-21 |  |
-| **[From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems](http://arxiv.org/abs/2505.15685v1)** | 2025-05-21 | 17 pages, 13 figures |
-| **[FragFake: A Dataset for Fine-Grained Detection of Edited Images with Vision Language Models](http://arxiv.org/abs/2505.15644v1)** | 2025-05-21 | 14pages,15 figures |
-| **[Scaling Text-Rich Image Understanding via Code-Guided Synthetic Multimodal Data Generation](http://arxiv.org/abs/2502.14846v2)** | 2025-05-21 | <details><summary>Publi...</summary><p>Published in ACL 2025, project page: https://yueyang1996.github.io/cosyn/</p></details> |
-| **[Visual Perturbation and Adaptive Hard Negative Contrastive Learning for Compositional Reasoning in Vision-Language Models](http://arxiv.org/abs/2505.15576v1)** | 2025-05-21 | <details><summary>Accep...</summary><p>Accepted at the International Joint Conference on Artificial Intelligence (IJCAI 2025)</p></details> |
-| **[TinyDrive: Multiscale Visual Question Answering with Selective Token Routing for Autonomous Driving](http://arxiv.org/abs/2505.15564v1)** | 2025-05-21 |  |
-| **[Clapper: Compact Learning and Video Representation in VLMs](http://arxiv.org/abs/2505.15529v1)** | 2025-05-21 |  |
-| **[Robo2VLM: Visual Question Answering from Large-Scale In-the-Wild Robot Manipulation Datasets](http://arxiv.org/abs/2505.15517v1)** | 2025-05-21 |  |
-| **[Visual Thoughts: A Unified Perspective of Understanding Multimodal Chain-of-Thought](http://arxiv.org/abs/2505.15510v1)** | 2025-05-21 |  |
-| **[Prompt Tuning Vision Language Models with Margin Regularizer for Few-Shot Learning under Distribution Shifts](http://arxiv.org/abs/2505.15506v1)** | 2025-05-21 | <details><summary>Publi...</summary><p>Published in TMLR (2025)</p></details> |
-| **[Beyond Linearity: Squeeze-and-Recalibrate Blocks for Few-Shot Whole Slide Image Classification](http://arxiv.org/abs/2505.15504v1)** | 2025-05-21 |  |
-| **[Seeing Through Deception: Uncovering Misleading Creator Intent in Multimodal News with Vision-Language Models](http://arxiv.org/abs/2505.15489v1)** | 2025-05-21 |  |
-| **[Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL](http://arxiv.org/abs/2505.15436v1)** | 2025-05-21 |  |
-| **[TimeCausality: Evaluating the Causal Ability in Time Dimension for Vision Language Models](http://arxiv.org/abs/2505.15435v1)** | 2025-05-21 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 3 tables</p></details> |
-| **[On the Robustness of Medical Vision-Language Models: Are they Truly Generalizable?](http://arxiv.org/abs/2505.15425v1)** | 2025-05-21 | <details><summary>Datas...</summary><p>Dataset and Code is available at https://github.com/BioMedIA-MBZUAI/RobustMedCLIP Accepted at: Medical Image Understanding and Analysis (MIUA) 2025</p></details> |
+| **[Remote Sensing Spatio-Temporal Vision-Language Models: A Comprehensive Survey](http://arxiv.org/abs/2412.02573v2)** | 2025-05-22 |  |
+| **[Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models](http://arxiv.org/abs/2505.16854v1)** | 2025-05-22 |  |
+| **[LaViDa: A Large Diffusion Language Model for Multimodal Understanding](http://arxiv.org/abs/2505.16839v1)** | 2025-05-22 | 25 pages, 8 figures |
+| **[From EduVisBench to EduVisAgent: A Benchmark and Multi-Agent Framework for Pedagogical Visualization](http://arxiv.org/abs/2505.16832v1)** | 2025-05-22 | 16 pages; 7 figures |
+| **[Perceptual Quality Assessment for Embodied AI](http://arxiv.org/abs/2505.16815v1)** | 2025-05-22 |  |
+| **[SOLVE: Synergy of Language-Vision and End-to-End Networks for Autonomous Driving](http://arxiv.org/abs/2505.16805v1)** | 2025-05-22 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
+| **[REOBench: Benchmarking Robustness of Earth Observation Foundation Models](http://arxiv.org/abs/2505.16793v1)** | 2025-05-22 | 24 pages |
+| **[Single Domain Generalization for Few-Shot Counting via Universal Representation Matching](http://arxiv.org/abs/2505.16778v1)** | 2025-05-22 | CVPR 2025 |
+| **[IFEval-Audio: Benchmarking Instruction-Following Capability in Audio-based Large Language Models](http://arxiv.org/abs/2505.16774v1)** | 2025-05-22 | <details><summary>Link:...</summary><p>Link: https://github.com/AudioLLMs/AudioBench/tree/main/IFEval-Audio</p></details> |
+| **[InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning](http://arxiv.org/abs/2505.13888v2)** | 2025-05-22 |  |
+| **[Self-Rewarding Large Vision-Language Models for Optimizing Prompts in Text-to-Image Generation](http://arxiv.org/abs/2505.16763v1)** | 2025-05-22 |  |
+| **[GeoBiked: A Dataset with Geometric Features and Automated Labeling Techniques to Enable Deep Generative Models in Engineering Design](http://arxiv.org/abs/2409.17045v2)** | 2025-05-22 |  |
+| **[VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning](http://arxiv.org/abs/2505.12081v3)** | 2025-05-22 |  |
+| **[SD-MAD: Sign-Driven Few-shot Multi-Anomaly Detection in Medical Images](http://arxiv.org/abs/2505.16659v1)** | 2025-05-22 |  |
+| **[Point, Detect, Count: Multi-Task Medical Image Understanding with Instruction-Tuned Vision-Language Models](http://arxiv.org/abs/2505.16647v1)** | 2025-05-22 | <details><summary>Accep...</summary><p>Accepted as a full paper at the 38th IEEE International Symposium on Computer-Based Medical Systems (CBMS) 2025</p></details> |
 
