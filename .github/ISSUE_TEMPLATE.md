@@ -1,5 +1,5 @@
 ---
-title: Papers - May 27, 2025
+title: Papers - May 28, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -53,19 +53,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VideoGameBench: Can Vision-Language Models complete popular video games?](http://arxiv.org/abs/2505.18134v1)** | 2025-05-23 | <details><summary>9 pag...</summary><p>9 pages, 33 pages including supplementary</p></details> |
-| **[One RL to See Them All: Visual Triple Unified Reinforcement Learning](http://arxiv.org/abs/2505.18129v1)** | 2025-05-23 | Technical Report |
-| **[MMXU: A Multi-Modal and Multi-X-ray Understanding Dataset for Disease Progression](http://arxiv.org/abs/2502.11651v2)** | 2025-05-23 |  |
-| **[CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays](http://arxiv.org/abs/2505.18087v1)** | 2025-05-23 |  |
-| **[Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models](http://arxiv.org/abs/2505.16854v2)** | 2025-05-23 | <details><summary>updat...</summary><p>update more examples in appendix</p></details> |
-| **[FDBPL: Faster Distillation-Based Prompt Learning for Region-Aware Vision-Language Models Adaptation](http://arxiv.org/abs/2505.18053v1)** | 2025-05-23 |  |
-| **[Clip4Retrofit: Enabling Real-Time Image Labeling on Edge Devices via Cross-Architecture CLIP Distillation](http://arxiv.org/abs/2505.18039v1)** | 2025-05-23 |  |
-| **[Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling](http://arxiv.org/abs/2505.17982v1)** | 2025-05-23 |  |
-| **[On the Robustness of Medical Vision-Language Models: Are they Truly Generalizable?](http://arxiv.org/abs/2505.15425v2)** | 2025-05-23 | <details><summary>Datas...</summary><p>Dataset and Code is available at https://github.com/BioMedIA-MBZUAI/RobustMedCLIP Accepted at: Medical Image Understanding and Analysis (MIUA) 2025</p></details> |
-| **[VLM Models and Automated Grading of Atopic Dermatitis](http://arxiv.org/abs/2505.17835v1)** | 2025-05-23 | 10 pages |
-| **[Seeing It or Not? Interpretable Vision-aware Latent Steering to Mitigate Object Hallucinations](http://arxiv.org/abs/2505.17812v1)** | 2025-05-23 |  |
-| **[U2-BENCH: Benchmarking Large Vision-Language Models on Ultrasound Understanding](http://arxiv.org/abs/2505.17779v1)** | 2025-05-23 |  |
-| **[SafeMVDrive: Multi-view Safety-Critical Driving Video Synthesis in the Real World Domain](http://arxiv.org/abs/2505.17727v1)** | 2025-05-23 |  |
-| **[Seek-CAD: A Self-refined Generative Modeling for 3D Parametric CAD Using Local Inference via DeepSeek](http://arxiv.org/abs/2505.17702v1)** | 2025-05-23 |  |
-| **[MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention](http://arxiv.org/abs/2504.16083v2)** | 2025-05-23 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
+| **[Agentic 3D Scene Generation with Spatially Contextualized VLMs](http://arxiv.org/abs/2505.20129v1)** | 2025-05-26 |  |
+| **[MEBench: A Novel Benchmark for Understanding Mutual Exclusivity Bias in Vision-Language Models](http://arxiv.org/abs/2505.20122v1)** | 2025-05-26 |  |
+| **[NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation](http://arxiv.org/abs/2504.13055v2)** | 2025-05-26 | Technical Report |
+| **[Time-VLM: Exploring Multimodal Vision-Language Models for Augmented Time Series Forecasting](http://arxiv.org/abs/2502.04395v2)** | 2025-05-26 | 20 pages |
+| **[EmoNet-Face: An Expert-Annotated Benchmark for Synthetic Emotion Recognition](http://arxiv.org/abs/2505.20033v1)** | 2025-05-26 |  |
+| **[ViTaPEs: Visuotactile Position Encodings for Cross-Modal Alignment in Multimodal Transformers](http://arxiv.org/abs/2505.20032v1)** | 2025-05-26 |  |
+| **[Decomposing Complex Visual Comprehension into Atomic Visual Skills for Vision Language Models](http://arxiv.org/abs/2505.20021v1)** | 2025-05-26 | 69 pages, 16 figures |
+| **[DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning](http://arxiv.org/abs/2505.14362v2)** | 2025-05-26 | <details><summary>Ziwei...</summary><p>Ziwei, Michael, Jack, and Chenxiao are equal-contribution. The list order is random</p></details> |
+| **[Can Visual Encoder Learn to See Arrows?](http://arxiv.org/abs/2505.19944v1)** | 2025-05-26 | <details><summary>This ...</summary><p>This work has been accepted for poster presentation at the Second Workshop on Visual Concepts in CVPR 2025</p></details> |
+| **[OmniSVG: A Unified Scalable Vector Graphics Generation Model](http://arxiv.org/abs/2504.06263v2)** | 2025-05-26 | <details><summary>18 pa...</summary><p>18 pages; Project Page: https://omnisvg.github.io/</p></details> |
+| **[Attention! You Vision Language Model Could Be Maliciously Manipulated](http://arxiv.org/abs/2505.19911v1)** | 2025-05-26 |  |
+| **[Underwater Diffusion Attention Network with Contrastive Language-Image Joint Learning for Underwater Image Enhancement](http://arxiv.org/abs/2505.19895v1)** | 2025-05-26 |  |
+| **[One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP](http://arxiv.org/abs/2505.19840v1)** | 2025-05-26 | <details><summary>21 pa...</summary><p>21 pages, 15 figures, 18 tables To appear in the Proceedings of The ACM Conference on Computer and Communications Security (CCS), 2025</p></details> |
+| **[Generalizable Prompt Learning of CLIP: A Brief Overview](http://arxiv.org/abs/2503.01263v5)** | 2025-05-26 |  |
+| **[TeViR: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning](http://arxiv.org/abs/2505.19769v1)** | 2025-05-26 |  |
 
