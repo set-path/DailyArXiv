@@ -1,5 +1,5 @@
 ---
-title: Papers - May 28, 2025
+title: Papers - May 29, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -53,19 +53,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agentic 3D Scene Generation with Spatially Contextualized VLMs](http://arxiv.org/abs/2505.20129v1)** | 2025-05-26 |  |
-| **[MEBench: A Novel Benchmark for Understanding Mutual Exclusivity Bias in Vision-Language Models](http://arxiv.org/abs/2505.20122v1)** | 2025-05-26 |  |
-| **[NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation](http://arxiv.org/abs/2504.13055v2)** | 2025-05-26 | Technical Report |
-| **[Time-VLM: Exploring Multimodal Vision-Language Models for Augmented Time Series Forecasting](http://arxiv.org/abs/2502.04395v2)** | 2025-05-26 | 20 pages |
-| **[EmoNet-Face: An Expert-Annotated Benchmark for Synthetic Emotion Recognition](http://arxiv.org/abs/2505.20033v1)** | 2025-05-26 |  |
-| **[ViTaPEs: Visuotactile Position Encodings for Cross-Modal Alignment in Multimodal Transformers](http://arxiv.org/abs/2505.20032v1)** | 2025-05-26 |  |
-| **[Decomposing Complex Visual Comprehension into Atomic Visual Skills for Vision Language Models](http://arxiv.org/abs/2505.20021v1)** | 2025-05-26 | 69 pages, 16 figures |
-| **[DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning](http://arxiv.org/abs/2505.14362v2)** | 2025-05-26 | <details><summary>Ziwei...</summary><p>Ziwei, Michael, Jack, and Chenxiao are equal-contribution. The list order is random</p></details> |
-| **[Can Visual Encoder Learn to See Arrows?](http://arxiv.org/abs/2505.19944v1)** | 2025-05-26 | <details><summary>This ...</summary><p>This work has been accepted for poster presentation at the Second Workshop on Visual Concepts in CVPR 2025</p></details> |
-| **[OmniSVG: A Unified Scalable Vector Graphics Generation Model](http://arxiv.org/abs/2504.06263v2)** | 2025-05-26 | <details><summary>18 pa...</summary><p>18 pages; Project Page: https://omnisvg.github.io/</p></details> |
-| **[Attention! You Vision Language Model Could Be Maliciously Manipulated](http://arxiv.org/abs/2505.19911v1)** | 2025-05-26 |  |
-| **[Underwater Diffusion Attention Network with Contrastive Language-Image Joint Learning for Underwater Image Enhancement](http://arxiv.org/abs/2505.19895v1)** | 2025-05-26 |  |
-| **[One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP](http://arxiv.org/abs/2505.19840v1)** | 2025-05-26 | <details><summary>21 pa...</summary><p>21 pages, 15 figures, 18 tables To appear in the Proceedings of The ACM Conference on Computer and Communications Security (CCS), 2025</p></details> |
-| **[Generalizable Prompt Learning of CLIP: A Brief Overview](http://arxiv.org/abs/2503.01263v5)** | 2025-05-26 |  |
-| **[TeViR: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning](http://arxiv.org/abs/2505.19769v1)** | 2025-05-26 |  |
+| **[ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models](http://arxiv.org/abs/2505.21500v1)** | 2025-05-27 | <details><summary>Proje...</summary><p>Project: https://zju-real.github.io/ViewSpatial-Page/</p></details> |
+| **[AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery](http://arxiv.org/abs/2505.21499v1)** | 2025-05-27 |  |
+| **[Mitigating Hallucination in Large Vision-Language Models via Adaptive Attention Calibration](http://arxiv.org/abs/2505.21472v1)** | 2025-05-27 |  |
+| **[ID-Align: RoPE-Conscious Position Remapping for Dynamic High-Resolution Adaptation in Vision-Language Models](http://arxiv.org/abs/2505.21465v1)** | 2025-05-27 |  |
+| **[LazyVLM: Neuro-Symbolic Approach to Video Analytics](http://arxiv.org/abs/2505.21459v1)** | 2025-05-27 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, Working paper</p></details> |
+| **[DeCAF: Decentralized Consensus-And-Factorization for Low-Rank Adaptation of Foundation Models](http://arxiv.org/abs/2505.21382v1)** | 2025-05-27 |  |
+| **[OrionBench: A Benchmark for Chart and Human-Recognizable Object Detection in Infographics](http://arxiv.org/abs/2505.17473v2)** | 2025-05-27 |  |
+| **[Chain-of-Zoom: Extreme Super-Resolution via Scale Autoregression and Preference Alignment](http://arxiv.org/abs/2505.18600v2)** | 2025-05-27 | <details><summary>Proje...</summary><p>Project Page: https://bryanswkim.github.io/chain-of-zoom/</p></details> |
+| **[SURDS: Benchmarking Spatial Understanding and Reasoning in Driving Scenarios with Vision Language Models](http://arxiv.org/abs/2411.13112v3)** | 2025-05-27 |  |
+| **[XBOUND: Exploring the Capability Boundaries of Device-Control Agents through Trajectory Tree Exploration](http://arxiv.org/abs/2505.21279v1)** | 2025-05-27 |  |
+| **[Interpreting Social Bias in LVLMs via Information Flow Analysis and Multi-Round Dialogue Evaluation](http://arxiv.org/abs/2505.21106v1)** | 2025-05-27 |  |
+| **[DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response](http://arxiv.org/abs/2505.21089v1)** | 2025-05-27 | <details><summary>A mul...</summary><p>A multi-hazard, multi-sensor, and multi-task vision-language dataset for global-scale disaster assessment and response</p></details> |
+| **[LPOI: Listwise Preference Optimization for Vision Language Models](http://arxiv.org/abs/2505.21061v1)** | 2025-05-27 | <details><summary>ACL 2...</summary><p>ACL 2025 Main. Code is released at https://github.com/fatemehpesaran310/lpoi</p></details> |
+| **[Selftok: Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning](http://arxiv.org/abs/2505.07538v3)** | 2025-05-27 |  |
+| **[Visuospatial Cognitive Assistant](http://arxiv.org/abs/2505.12312v2)** | 2025-05-27 | <details><summary>31 pa...</summary><p>31 pages, 10 figures, 6 tables. The implementation and fine-tuned model (ViCA-7B), along with detailed documentation, are publicly available at https://huggingface.co/nkkbr/ViCA. This is a draft technical report. At Professor Hidetoshi Shimodaira's request, his name has been removed from the author list</p></details> |
 
