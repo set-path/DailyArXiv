@@ -1,10 +1,12 @@
 ---
-title: Papers - May 29, 2025
+title: Papers - May 30, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Survey on Training-free Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2505.22209v1)** | 2025-05-28 |  |
+| **[Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2505.21844v1)** | 2025-05-28 |  |
 | **[OpenSeg-R: Improving Open-Vocabulary Segmentation via Step-by-Step Visual Reasoning](http://arxiv.org/abs/2505.16974v1)** | 2025-05-22 |  |
 | **[DPSeg: Dual-Prompt Cost Volume Learning for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2505.11676v1)** | 2025-05-16 | Accepted by CVPR2025 |
 | **[3D Vision-Language Gaussian Splatting](http://arxiv.org/abs/2410.07577v2)** | 2025-05-05 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025. Main paper + supplementary material</p></details> |
@@ -18,8 +20,6 @@ labels: documentation
 | **[Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2503.21780v1)** | 2025-03-27 | <details><summary>CVPR ...</summary><p>CVPR 2025. Project page: https://thegoodailab.org/semla Code: https://github.com/rezaqorbani/SemLA</p></details> |
 | **[Rethinking the Global Knowledge of CLIP in Training-Free Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2502.06818v2)** | 2025-03-27 | Under review |
 | **[LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation](http://arxiv.org/abs/2503.19777v1)** | 2025-03-25 |  |
-| **[Test-Time Optimization for Domain Adaptive Open Vocabulary Segmentation](http://arxiv.org/abs/2501.04696v2)** | 2025-03-08 |  |
-| **[From Open-Vocabulary to Vocabulary-Free Semantic Segmentation](http://arxiv.org/abs/2502.11891v1)** | 2025-02-17 | <details><summary>Submi...</summary><p>Submitted to: Pattern Recognition Letters, Klara Reichard and Giulia Rizzoli equally contributed to this work</p></details> |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -53,19 +53,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models](http://arxiv.org/abs/2505.21500v1)** | 2025-05-27 | <details><summary>Proje...</summary><p>Project: https://zju-real.github.io/ViewSpatial-Page/</p></details> |
-| **[AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery](http://arxiv.org/abs/2505.21499v1)** | 2025-05-27 |  |
-| **[Mitigating Hallucination in Large Vision-Language Models via Adaptive Attention Calibration](http://arxiv.org/abs/2505.21472v1)** | 2025-05-27 |  |
-| **[ID-Align: RoPE-Conscious Position Remapping for Dynamic High-Resolution Adaptation in Vision-Language Models](http://arxiv.org/abs/2505.21465v1)** | 2025-05-27 |  |
-| **[LazyVLM: Neuro-Symbolic Approach to Video Analytics](http://arxiv.org/abs/2505.21459v1)** | 2025-05-27 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, Working paper</p></details> |
-| **[DeCAF: Decentralized Consensus-And-Factorization for Low-Rank Adaptation of Foundation Models](http://arxiv.org/abs/2505.21382v1)** | 2025-05-27 |  |
-| **[OrionBench: A Benchmark for Chart and Human-Recognizable Object Detection in Infographics](http://arxiv.org/abs/2505.17473v2)** | 2025-05-27 |  |
-| **[Chain-of-Zoom: Extreme Super-Resolution via Scale Autoregression and Preference Alignment](http://arxiv.org/abs/2505.18600v2)** | 2025-05-27 | <details><summary>Proje...</summary><p>Project Page: https://bryanswkim.github.io/chain-of-zoom/</p></details> |
-| **[SURDS: Benchmarking Spatial Understanding and Reasoning in Driving Scenarios with Vision Language Models](http://arxiv.org/abs/2411.13112v3)** | 2025-05-27 |  |
-| **[XBOUND: Exploring the Capability Boundaries of Device-Control Agents through Trajectory Tree Exploration](http://arxiv.org/abs/2505.21279v1)** | 2025-05-27 |  |
-| **[Interpreting Social Bias in LVLMs via Information Flow Analysis and Multi-Round Dialogue Evaluation](http://arxiv.org/abs/2505.21106v1)** | 2025-05-27 |  |
-| **[DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response](http://arxiv.org/abs/2505.21089v1)** | 2025-05-27 | <details><summary>A mul...</summary><p>A multi-hazard, multi-sensor, and multi-task vision-language dataset for global-scale disaster assessment and response</p></details> |
-| **[LPOI: Listwise Preference Optimization for Vision Language Models](http://arxiv.org/abs/2505.21061v1)** | 2025-05-27 | <details><summary>ACL 2...</summary><p>ACL 2025 Main. Code is released at https://github.com/fatemehpesaran310/lpoi</p></details> |
-| **[Selftok: Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning](http://arxiv.org/abs/2505.07538v3)** | 2025-05-27 |  |
-| **[Visuospatial Cognitive Assistant](http://arxiv.org/abs/2505.12312v2)** | 2025-05-27 | <details><summary>31 pa...</summary><p>31 pages, 10 figures, 6 tables. The implementation and fine-tuned model (ViCA-7B), along with detailed documentation, are publicly available at https://huggingface.co/nkkbr/ViCA. This is a draft technical report. At Professor Hidetoshi Shimodaira's request, his name has been removed from the author list</p></details> |
+| **[Zero-Shot Vision Encoder Grafting via LLM Surrogates](http://arxiv.org/abs/2505.22664v1)** | 2025-05-28 | 15 pages |
+| **[Training Free Stylized Abstraction](http://arxiv.org/abs/2505.22663v1)** | 2025-05-28 | <details><summary>Proje...</summary><p>Project Page: https://kartik-3004.github.io/TF-SA/</p></details> |
+| **[VScan: Rethinking Visual Token Reduction for Efficient Large Vision-Language Models](http://arxiv.org/abs/2505.22654v1)** | 2025-05-28 |  |
+| **[Sherlock: Self-Correcting Reasoning in Vision-Language Models](http://arxiv.org/abs/2505.22651v1)** | 2025-05-28 | 27 pages |
+| **[VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use](http://arxiv.org/abs/2505.19255v2)** | 2025-05-28 |  |
+| **[VLM Can Be a Good Assistant: Enhancing Embodied Visual Tracking with Self-Improving Vision-Language Models](http://arxiv.org/abs/2505.20718v2)** | 2025-05-28 |  |
+| **[Hypothesis Testing in Imaging Inverse Problems](http://arxiv.org/abs/2505.22481v1)** | 2025-05-28 |  |
+| **[Zero-Shot 3D Visual Grounding from Vision-Language Models](http://arxiv.org/abs/2505.22429v1)** | 2025-05-28 | <details><summary>3D-LL...</summary><p>3D-LLM/VLA @ CVPR 2025; Project Page at https://seeground.github.io/</p></details> |
+| **[IKIWISI: An Interactive Visual Pattern Generator for Evaluating the Reliability of Vision-Language Models Without Ground Truth](http://arxiv.org/abs/2505.22305v1)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted at DIS'25 (Funchal, Portugal)</p></details> |
+| **[HumanAesExpert: Advancing a Multi-Modality Foundation Model for Human Image Aesthetic Assessment](http://arxiv.org/abs/2503.23907v2)** | 2025-05-28 |  |
+| **[Interpreting CLIP with Hierarchical Sparse Autoencoders](http://arxiv.org/abs/2502.20578v2)** | 2025-05-28 |  |
+| **[Investigating Mechanisms for In-Context Vision Language Binding](http://arxiv.org/abs/2505.22200v1)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted to MIV at CVPRW 2025 (Oral)</p></details> |
+| **[Improving Brain-to-Image Reconstruction via Fine-Grained Text Bridging](http://arxiv.org/abs/2505.22150v1)** | 2025-05-28 | CogSci2025 |
+| **[3D Question Answering via only 2D Vision-Language Models](http://arxiv.org/abs/2505.22143v1)** | 2025-05-28 | ICML2025 |
+| **[Visuospatial Cognitive Assistant](http://arxiv.org/abs/2505.12312v3)** | 2025-05-28 | <details><summary>Autho...</summary><p>Author list corrected. In version 1, Hidetoshi Shimodaira was included as a co-author without their consent and has been removed from the author list</p></details> |
 
