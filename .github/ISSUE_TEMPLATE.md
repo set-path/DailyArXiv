@@ -1,5 +1,5 @@
 ---
-title: Papers - June 02, 2025
+title: Papers - June 03, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -53,19 +53,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ZeroGUI: Automating Online GUI Learning at Zero Human Cost](http://arxiv.org/abs/2505.23762v1)** | 2025-05-29 |  |
-| **[Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint](http://arxiv.org/abs/2505.23759v1)** | 2025-05-29 |  |
-| **[To Trust Or Not To Trust Your Vision-Language Model's Prediction](http://arxiv.org/abs/2505.23745v1)** | 2025-05-29 |  |
-| **[LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization](http://arxiv.org/abs/2505.23740v1)** | 2025-05-29 | <details><summary>Proje...</summary><p>Project Page: https://layerpeeler.github.io/</p></details> |
-| **[Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better](http://arxiv.org/abs/2505.23705v1)** | 2025-05-29 |  |
-| **[Grounded Reinforcement Learning for Visual Reasoning](http://arxiv.org/abs/2505.23678v1)** | 2025-05-29 | <details><summary>Proje...</summary><p>Project website: https://visually-grounded-rl.github.io/</p></details> |
-| **[A Benchmark and Evaluation for Real-World Out-of-Distribution Detection Using Vision-Language Models](http://arxiv.org/abs/2501.18463v3)** | 2025-05-29 | <details><summary>Accep...</summary><p>Accepted at ICIP2025 Dataset and Benchmark Track</p></details> |
-| **[Uni-MuMER: Unified Multi-Task Fine-Tuning of Vision-Language Model for Handwritten Mathematical Expression Recognition](http://arxiv.org/abs/2505.23566v1)** | 2025-05-29 |  |
-| **[Qwen Look Again: Guiding Vision-Language Reasoning Models to Re-attention Visual Information](http://arxiv.org/abs/2505.23558v1)** | 2025-05-29 |  |
-| **[TRAP: Targeted Redirecting of Agentic Preferences](http://arxiv.org/abs/2505.23518v1)** | 2025-05-29 |  |
-| **[VCapsBench: A Large-scale Fine-grained Benchmark for Video Caption Quality Evaluation](http://arxiv.org/abs/2505.23484v1)** | 2025-05-29 | submitting |
-| **[Retrieval Visual Contrastive Decoding to Mitigate Object Hallucinations in Large Vision-Language Models](http://arxiv.org/abs/2505.20569v2)** | 2025-05-29 | <details><summary>ACL 2...</summary><p>ACL 2025 Findings camera-ready version. Code is released at https://github.com/JiHoonLee9898/RVCD</p></details> |
-| **[SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding](http://arxiv.org/abs/2412.04383v2)** | 2025-05-29 | <details><summary>CVPR ...</summary><p>CVPR 2025; 21 pages, 10 figures, 10 tables; Code at https://seeground.github.io/</p></details> |
-| **[DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation](http://arxiv.org/abs/2411.04999v2)** | 2025-05-29 | <details><summary>Websi...</summary><p>Website: https://dynamem.github.io</p></details> |
-| **[SCoTT: Strategic Chain-of-Thought Tasking for Wireless-Aware Robot Navigation in Digital Twins](http://arxiv.org/abs/2411.18212v2)** | 2025-05-29 |  |
+| **[ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL](http://arxiv.org/abs/2505.24875v1)** | 2025-05-30 |  |
+| **[ProxyThinker: Test-Time Guidance through Small Visual Reasoners](http://arxiv.org/abs/2505.24872v1)** | 2025-05-30 |  |
+| **[GenSpace: Benchmarking Spatially-Aware Image Generation](http://arxiv.org/abs/2505.24870v1)** | 2025-05-30 |  |
+| **[Time Blindness: Why Video-Language Models Can't See What Humans Can?](http://arxiv.org/abs/2505.24867v1)** | 2025-05-30 | <details><summary>Proje...</summary><p>Project page at https://timeblindness.github.io/</p></details> |
+| **[CLIP-IT: CLIP-based Pairing for Histology Images Classification](http://arxiv.org/abs/2504.16181v2)** | 2025-05-30 |  |
+| **[VLDBench Evaluating Multimodal Disinformation with Regulatory Alignment](http://arxiv.org/abs/2502.11361v3)** | 2025-05-30 | under review |
+| **[U2-BENCH: Benchmarking Large Vision-Language Models on Ultrasound Understanding](http://arxiv.org/abs/2505.17779v2)** | 2025-05-30 |  |
+| **[MAGIC-VQA: Multimodal And Grounded Inference with Commonsense Knowledge for Visual Question Answering](http://arxiv.org/abs/2503.18491v2)** | 2025-05-30 | Findings of ACL 2025 |
+| **[Post-hoc Probabilistic Vision-Language Models](http://arxiv.org/abs/2412.06014v3)** | 2025-05-30 | <details><summary>Proje...</summary><p>Project page: https://aaltoml.github.io/BayesVLM/</p></details> |
+| **[SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement](http://arxiv.org/abs/2504.07934v3)** | 2025-05-30 | 27 pages, 5 figures |
+| **[Conformal Prediction for Zero-Shot Models](http://arxiv.org/abs/2505.24693v1)** | 2025-05-30 | <details><summary>CVPR ...</summary><p>CVPR 2025. Code: https://github.com/jusiro/CLIP-Conformal</p></details> |
+| **[VideoGameBench: Can Vision-Language Models complete popular video games?](http://arxiv.org/abs/2505.18134v2)** | 2025-05-30 | <details><summary>9 pag...</summary><p>9 pages, 33 pages including supplementary</p></details> |
+| **[BIMA: Bijective Maximum Likelihood Learning Approach to Hallucination Prediction and Mitigation in Large Vision-Language Models](http://arxiv.org/abs/2505.24649v1)** | 2025-05-30 | <details><summary>CVPRW...</summary><p>CVPRW 2025, 8 pages, 4 figures</p></details> |
+| **[Efficient Adaptation For Remote Sensing Visual Grounding](http://arxiv.org/abs/2503.23083v3)** | 2025-05-30 |  |
+| **[All-in-one: Understanding and Generation in Multimodal Reasoning with the MAIA Benchmark](http://arxiv.org/abs/2502.16989v2)** | 2025-05-30 |  |
 
