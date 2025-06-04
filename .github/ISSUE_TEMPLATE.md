@@ -1,5 +1,5 @@
 ---
-title: Papers - June 04, 2025
+title: Papers - June 05, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -53,19 +53,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Unveiling the Lack of LVLM Robustness to Fundamental Visual Variations: Why and Path Forward](http://arxiv.org/abs/2504.16727v3)** | 2025-06-02 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Findings</p></details> |
-| **[Multimodal Conversation Structure Understanding](http://arxiv.org/abs/2505.17536v2)** | 2025-06-02 |  |
-| **[3MDBench: Medical Multimodal Multi-agent Dialogue Benchmark](http://arxiv.org/abs/2504.13861v2)** | 2025-06-02 | <details><summary>35 pa...</summary><p>35 pages, 13 figures, 7 tables</p></details> |
-| **[Generalizing from SIMPLE to HARD Visual Reasoning: Can We Mitigate Modality Imbalance in VLMs?](http://arxiv.org/abs/2501.02669v2)** | 2025-06-02 |  |
-| **[PerSRV: Personalized Sticker Retrieval with Vision-Language Model](http://arxiv.org/abs/2410.21801v2)** | 2025-06-02 | Accepted at WWW '25 |
-| **[Safety at Scale: A Comprehensive Survey of Large Model Safety](http://arxiv.org/abs/2502.05206v4)** | 2025-06-02 | <details><summary>47 pa...</summary><p>47 pages, 3 figures, 11 tables; GitHub: https://github.com/xingjunm/Awesome-Large-Model-Safety</p></details> |
-| **[ChitroJera: A Regionally Relevant Visual Question Answering Dataset for Bangla](http://arxiv.org/abs/2410.14991v2)** | 2025-06-02 | <details><summary>Accep...</summary><p>Accepted in ECML PKDD 2025</p></details> |
-| **[DiffVLA: Vision-Language Guided Diffusion Planning for Autonomous Driving](http://arxiv.org/abs/2505.19381v3)** | 2025-06-02 | 4pages |
-| **[Improving Medical Large Vision-Language Models with Abnormal-Aware Feedback](http://arxiv.org/abs/2501.01377v2)** | 2025-06-02 | 16 pages |
-| **[DIS-CO: Discovering Copyrighted Content in VLMs Training Data](http://arxiv.org/abs/2502.17358v3)** | 2025-06-02 |  |
-| **[VL-RewardBench: A Challenging Benchmark for Vision-Language Generative Reward Models](http://arxiv.org/abs/2411.17451v2)** | 2025-06-02 | <details><summary>CVPR ...</summary><p>CVPR 2025 Camera Ready Version. Project page: https://vl-rewardbench.github.io</p></details> |
-| **[FactCheXcker: Mitigating Measurement Hallucinations in Chest X-ray Report Generation Models](http://arxiv.org/abs/2411.18672v3)** | 2025-06-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
-| **[VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction](http://arxiv.org/abs/2505.20279v2)** | 2025-06-01 | <details><summary>Proje...</summary><p>Project Page: https://vlm-3r.github.io/</p></details> |
-| **[Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search](http://arxiv.org/abs/2501.19252v2)** | 2025-06-01 | <details><summary>Code:...</summary><p>Code: https://github.com/shim0114/T2V-Diffusion-Search</p></details> |
-| **[MMSciBench: Benchmarking Language Models on Chinese Multimodal Scientific Problems](http://arxiv.org/abs/2503.01891v2)** | 2025-06-01 | <details><summary>Accep...</summary><p>Accepted to the Findings of the Association for Computational Linguistics (ACL 2025)</p></details> |
+| **[OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models](http://arxiv.org/abs/2506.03135v1)** | 2025-06-03 | <details><summary>Proje...</summary><p>Project Page: https://qizekun.github.io/omnispatial/</p></details> |
+| **[Towards Automated Semantic Interpretability in Reinforcement Learning via Vision-Language Models](http://arxiv.org/abs/2503.16724v2)** | 2025-06-03 |  |
+| **[EgoVLM: Policy Optimization for Egocentric Video Understanding](http://arxiv.org/abs/2506.03097v1)** | 2025-06-03 | <details><summary>Our C...</summary><p>Our Code can be found at https://github.com/adityavavre/VidEgoVLM</p></details> |
+| **[DPO Learning with LLMs-Judge Signal for Computer Use Agents](http://arxiv.org/abs/2506.03095v1)** | 2025-06-03 |  |
+| **[From Flat to Hierarchical: Extracting Sparse Representations with Matching Pursuit](http://arxiv.org/abs/2506.03093v1)** | 2025-06-03 | Preprint |
+| **[Text-guided Generation of Efficient Personalized Inspection Plans](http://arxiv.org/abs/2506.02917v1)** | 2025-06-03 | 8 pages, 5 figures |
+| **[FlySearch: Exploring how vision-language models explore](http://arxiv.org/abs/2506.02896v1)** | 2025-06-03 |  |
+| **[Surfer-H Meets Holo1: Cost-Efficient Web Agent Powered by Open Weights](http://arxiv.org/abs/2506.02865v1)** | 2025-06-03 | Alphabetical order |
+| **[Bayesian Prompt Flow Learning for Zero-Shot Anomaly Detection](http://arxiv.org/abs/2503.10080v3)** | 2025-06-03 |  |
+| **[SemVink: Advancing VLMs' Semantic Understanding of Optical Illusions via Visual Global Thinking](http://arxiv.org/abs/2506.02803v1)** | 2025-06-03 |  |
+| **[Towards Efficient Online Tuning of VLM Agents via Counterfactual Soft Reinforcement Learning](http://arxiv.org/abs/2505.03792v2)** | 2025-06-03 | ICML 2025 |
+| **[Learning from True-False Labels via Multi-modal Prompt Retrieving](http://arxiv.org/abs/2405.15228v2)** | 2025-06-03 | 15 pages, 5 figures |
+| **[X-Driver: Explainable Autonomous Driving with Vision-Language Models](http://arxiv.org/abs/2505.05098v2)** | 2025-06-03 |  |
+| **[Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning](http://arxiv.org/abs/2506.02738v1)** | 2025-06-03 | 15 pages |
+| **[Iterative Self-Improvement of Vision Language Models for Image Scoring and Self-Explanation](http://arxiv.org/abs/2506.02708v1)** | 2025-06-03 | Accepted to ICIP2025 |
 
