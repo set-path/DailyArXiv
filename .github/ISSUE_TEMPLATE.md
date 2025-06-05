@@ -1,10 +1,12 @@
 ---
-title: Papers - June 05, 2025
+title: Papers - June 06, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AetherVision-Bench: An Open-Vocabulary RGB-Infrared Benchmark for Multi-Angle Segmentation across Aerial and Ground Perspectives](http://arxiv.org/abs/2506.03709v1)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted at Workshop on Foundation Models Meet Embodied Agents at CVPR 2025 (Non-archival Track)</p></details> |
+| **[OV-COAST: Cost Aggregation with Optimal Transport for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2506.03706v1)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025 Workshop on Transformers for Vision (Non-archival track)</p></details> |
 | **[A Survey on Training-free Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2505.22209v1)** | 2025-05-28 |  |
 | **[Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2505.21844v1)** | 2025-05-28 |  |
 | **[OpenSeg-R: Improving Open-Vocabulary Segmentation via Step-by-Step Visual Reasoning](http://arxiv.org/abs/2505.16974v1)** | 2025-05-22 |  |
@@ -18,12 +20,11 @@ labels: documentation
 | **[Effective SAM Combination for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2411.14723v2)** | 2025-03-30 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
 | **[Open-Vocabulary Semantic Segmentation with Uncertainty Alignment for Robotic Scene Understanding in Indoor Building Environments](http://arxiv.org/abs/2503.23105v1)** | 2025-03-29 | 32 pages, 7 figures |
 | **[Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2503.21780v1)** | 2025-03-27 | <details><summary>CVPR ...</summary><p>CVPR 2025. Project page: https://thegoodailab.org/semla Code: https://github.com/rezaqorbani/SemLA</p></details> |
-| **[Rethinking the Global Knowledge of CLIP in Training-Free Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2502.06818v2)** | 2025-03-27 | Under review |
-| **[LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation](http://arxiv.org/abs/2503.19777v1)** | 2025-03-25 |  |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Cross-Modal Urban Sensing: Evaluating Sound-Vision Alignment Across Street-Level and Aerial Imagery](http://arxiv.org/abs/2506.03388v1)** | 2025-06-03 |  |
 | **[AerOSeg: Harnessing SAM for Open-Vocabulary Segmentation in Remote Sensing Images](http://arxiv.org/abs/2504.09203v1)** | 2025-04-12 | <details><summary>Accep...</summary><p>Accepted at EarthVision workshop, CVPR 2025</p></details> |
 | **[Center-guided Classifier for Semantic Segmentation of Remote Sensing Images](http://arxiv.org/abs/2503.16963v1)** | 2025-03-21 |  |
 | **[SAM2-ELNet: Label Enhancement and Automatic Annotation for Remote Sensing Segmentation](http://arxiv.org/abs/2503.12404v1)** | 2025-03-16 |  |
@@ -38,7 +39,6 @@ labels: documentation
 | **[A Framework of Full-Process Generation Design for Park Green Spaces Based on Remote Sensing Segmentation-GAN-Diffusion](http://arxiv.org/abs/2312.10674v1)** | 2023-12-17 |  |
 | **[SAMRS: Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model](http://arxiv.org/abs/2305.02034v4)** | 2023-10-13 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2023 Datasets and Benchmarks Track</p></details> |
 | **[Efficient Remote Sensing Segmentation With Generative Adversarial Transformer](http://arxiv.org/abs/2310.01292v1)** | 2023-10-02 |  |
-| **[Semantic Labeling of High Resolution Images Using EfficientUNets and Transformers](http://arxiv.org/abs/2206.09731v2)** | 2022-06-22 |  |
 
 ## Remote Sensing Vision Language Model - Preview 6 papers
 | **Title** | **Date** | **Comment** |
@@ -53,19 +53,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models](http://arxiv.org/abs/2506.03135v1)** | 2025-06-03 | <details><summary>Proje...</summary><p>Project Page: https://qizekun.github.io/omnispatial/</p></details> |
-| **[Towards Automated Semantic Interpretability in Reinforcement Learning via Vision-Language Models](http://arxiv.org/abs/2503.16724v2)** | 2025-06-03 |  |
-| **[EgoVLM: Policy Optimization for Egocentric Video Understanding](http://arxiv.org/abs/2506.03097v1)** | 2025-06-03 | <details><summary>Our C...</summary><p>Our Code can be found at https://github.com/adityavavre/VidEgoVLM</p></details> |
-| **[DPO Learning with LLMs-Judge Signal for Computer Use Agents](http://arxiv.org/abs/2506.03095v1)** | 2025-06-03 |  |
-| **[From Flat to Hierarchical: Extracting Sparse Representations with Matching Pursuit](http://arxiv.org/abs/2506.03093v1)** | 2025-06-03 | Preprint |
-| **[Text-guided Generation of Efficient Personalized Inspection Plans](http://arxiv.org/abs/2506.02917v1)** | 2025-06-03 | 8 pages, 5 figures |
-| **[FlySearch: Exploring how vision-language models explore](http://arxiv.org/abs/2506.02896v1)** | 2025-06-03 |  |
-| **[Surfer-H Meets Holo1: Cost-Efficient Web Agent Powered by Open Weights](http://arxiv.org/abs/2506.02865v1)** | 2025-06-03 | Alphabetical order |
-| **[Bayesian Prompt Flow Learning for Zero-Shot Anomaly Detection](http://arxiv.org/abs/2503.10080v3)** | 2025-06-03 |  |
-| **[SemVink: Advancing VLMs' Semantic Understanding of Optical Illusions via Visual Global Thinking](http://arxiv.org/abs/2506.02803v1)** | 2025-06-03 |  |
-| **[Towards Efficient Online Tuning of VLM Agents via Counterfactual Soft Reinforcement Learning](http://arxiv.org/abs/2505.03792v2)** | 2025-06-03 | ICML 2025 |
-| **[Learning from True-False Labels via Multi-modal Prompt Retrieving](http://arxiv.org/abs/2405.15228v2)** | 2025-06-03 | 15 pages, 5 figures |
-| **[X-Driver: Explainable Autonomous Driving with Vision-Language Models](http://arxiv.org/abs/2505.05098v2)** | 2025-06-03 |  |
-| **[Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning](http://arxiv.org/abs/2506.02738v1)** | 2025-06-03 | 15 pages |
-| **[Iterative Self-Improvement of Vision Language Models for Image Scoring and Self-Explanation](http://arxiv.org/abs/2506.02708v1)** | 2025-06-03 | Accepted to ICIP2025 |
+| **[Right Side Up? Disentangling Orientation Understanding in MLLMs with Fine-grained Multi-axis Perception Tasks](http://arxiv.org/abs/2505.21649v4)** | 2025-06-04 |  |
+| **[Image Editing As Programs with Diffusion Models](http://arxiv.org/abs/2506.04158v1)** | 2025-06-04 |  |
+| **[Recent Advances in Medical Image Classification](http://arxiv.org/abs/2506.04129v1)** | 2025-06-04 |  |
+| **[LaF-GRPO: In-Situ Navigation Instruction Generation for the Visually Impaired via GRPO with LLM-as-Follower Reward](http://arxiv.org/abs/2506.04070v1)** | 2025-06-04 |  |
+| **[Mitigating Hallucinations in Large Vision-Language Models via Entity-Centric Multimodal Preference Optimization](http://arxiv.org/abs/2506.04039v1)** | 2025-06-04 |  |
+| **[Vocabulary-free few-shot learning for Vision-Language Models](http://arxiv.org/abs/2506.04005v1)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted at CVPR Workshops 2025</p></details> |
+| **[DiffCAP: Diffusion-based Cumulative Adversarial Purification for Vision Language Models](http://arxiv.org/abs/2506.03933v1)** | 2025-06-04 |  |
+| **[RAC3: Retrieval-Augmented Corner Case Comprehension for Autonomous Driving with Vision-Language Models](http://arxiv.org/abs/2412.11050v3)** | 2025-06-04 | 14 pages, 7 figures |
+| **[Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning](http://arxiv.org/abs/2506.02738v2)** | 2025-06-04 | 15 pages |
+| **[SemEval-2025 Task 1: AdMIRe -- Advancing Multimodal Idiomaticity Representation](http://arxiv.org/abs/2503.15358v3)** | 2025-06-04 | <details><summary>Autho...</summary><p>Author accepted version; SemEval-2025 proceedings to appear at ACL 2025. This version corrects a typo in the results table</p></details> |
+| **[FlySearch: Exploring how vision-language models explore](http://arxiv.org/abs/2506.02896v2)** | 2025-06-04 |  |
+| **[MemeReaCon: Probing Contextual Meme Understanding in Large Vision-Language Models](http://arxiv.org/abs/2505.17433v2)** | 2025-06-04 |  |
+| **[DreamFrame: Enhancing Video Understanding via Automatically Generated QA and Style-Consistent Keyframes](http://arxiv.org/abs/2403.01422v3)** | 2025-06-04 |  |
+| **[AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models](http://arxiv.org/abs/2406.09295v3)** | 2025-06-04 |  |
+| **[Zero-Shot Temporal Interaction Localization for Egocentric Videos](http://arxiv.org/abs/2506.03662v1)** | 2025-06-04 |  |
 
