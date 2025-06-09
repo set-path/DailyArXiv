@@ -1,5 +1,5 @@
 ---
-title: Papers - June 06, 2025
+title: Papers - June 10, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -53,19 +53,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Right Side Up? Disentangling Orientation Understanding in MLLMs with Fine-grained Multi-axis Perception Tasks](http://arxiv.org/abs/2505.21649v4)** | 2025-06-04 |  |
-| **[Image Editing As Programs with Diffusion Models](http://arxiv.org/abs/2506.04158v1)** | 2025-06-04 |  |
-| **[Recent Advances in Medical Image Classification](http://arxiv.org/abs/2506.04129v1)** | 2025-06-04 |  |
-| **[LaF-GRPO: In-Situ Navigation Instruction Generation for the Visually Impaired via GRPO with LLM-as-Follower Reward](http://arxiv.org/abs/2506.04070v1)** | 2025-06-04 |  |
-| **[Mitigating Hallucinations in Large Vision-Language Models via Entity-Centric Multimodal Preference Optimization](http://arxiv.org/abs/2506.04039v1)** | 2025-06-04 |  |
-| **[Vocabulary-free few-shot learning for Vision-Language Models](http://arxiv.org/abs/2506.04005v1)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted at CVPR Workshops 2025</p></details> |
-| **[DiffCAP: Diffusion-based Cumulative Adversarial Purification for Vision Language Models](http://arxiv.org/abs/2506.03933v1)** | 2025-06-04 |  |
-| **[RAC3: Retrieval-Augmented Corner Case Comprehension for Autonomous Driving with Vision-Language Models](http://arxiv.org/abs/2412.11050v3)** | 2025-06-04 | 14 pages, 7 figures |
-| **[Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning](http://arxiv.org/abs/2506.02738v2)** | 2025-06-04 | 15 pages |
-| **[SemEval-2025 Task 1: AdMIRe -- Advancing Multimodal Idiomaticity Representation](http://arxiv.org/abs/2503.15358v3)** | 2025-06-04 | <details><summary>Autho...</summary><p>Author accepted version; SemEval-2025 proceedings to appear at ACL 2025. This version corrects a typo in the results table</p></details> |
-| **[FlySearch: Exploring how vision-language models explore](http://arxiv.org/abs/2506.02896v2)** | 2025-06-04 |  |
-| **[MemeReaCon: Probing Contextual Meme Understanding in Large Vision-Language Models](http://arxiv.org/abs/2505.17433v2)** | 2025-06-04 |  |
-| **[DreamFrame: Enhancing Video Understanding via Automatically Generated QA and Style-Consistent Keyframes](http://arxiv.org/abs/2403.01422v3)** | 2025-06-04 |  |
-| **[AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models](http://arxiv.org/abs/2406.09295v3)** | 2025-06-04 |  |
-| **[Zero-Shot Temporal Interaction Localization for Egocentric Videos](http://arxiv.org/abs/2506.03662v1)** | 2025-06-04 |  |
+| **[CoMemo: LVLMs Need Image Context with Image Memory](http://arxiv.org/abs/2506.06279v1)** | 2025-06-06 | ICML 2025 |
+| **[Movie Facts and Fibs (MF$^2$): A Benchmark for Long Movie Understanding](http://arxiv.org/abs/2506.06275v1)** | 2025-06-06 | Under Review |
+| **[Leopard: A Vision Language Model For Text-Rich Multi-Image Tasks](http://arxiv.org/abs/2410.01744v3)** | 2025-06-06 | <details><summary>Our c...</summary><p>Our code is available at https://github.com/tencent-ailab/Leopard</p></details> |
+| **[Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models](http://arxiv.org/abs/2504.02821v2)** | 2025-06-06 | Preprint |
+| **[Challenging Vision-Language Models with Surgical Data: A New Dataset and Broad Benchmarking Study](http://arxiv.org/abs/2506.06232v1)** | 2025-06-06 |  |
+| **[GenIR: Generative Visual Feedback for Mental Image Retrieval](http://arxiv.org/abs/2506.06220v1)** | 2025-06-06 |  |
+| **[STSBench: A Spatio-temporal Scenario Benchmark for Multi-modal Large Language Models in Autonomous Driving](http://arxiv.org/abs/2506.06218v1)** | 2025-06-06 | <details><summary>Datas...</summary><p>Dataset: https://huggingface.co/datasets/ivc-lrp/STSBench, Code: https://github.com/LRP-IVC/STSBench</p></details> |
+| **[GenSpace: Benchmarking Spatially-Aware Image Generation](http://arxiv.org/abs/2505.24870v2)** | 2025-06-06 |  |
+| **[WisWheat: A Three-Tiered Vision-Language Dataset for Wheat Management](http://arxiv.org/abs/2506.06084v1)** | 2025-06-06 |  |
+| **[Full Conformal Adaptation of Medical Vision-Language Models](http://arxiv.org/abs/2506.06076v1)** | 2025-06-06 | <details><summary>IPMI ...</summary><p>IPMI 2025. Code: https://github.com/jusiro/FCA</p></details> |
+| **[BEAST: Efficient Tokenization of B-Splines Encoded Action Sequences for Imitation Learning](http://arxiv.org/abs/2506.06072v1)** | 2025-06-06 |  |
+| **[MCA-Bench: A Multimodal Benchmark for Evaluating CAPTCHA Robustness Against VLM-based Attacks](http://arxiv.org/abs/2506.05982v1)** | 2025-06-06 | 31 pages, 8 figures |
+| **[HMVLM: Multistage Reasoning-Enhanced Vision-Language Model for Long-Tailed Driving Scenarios](http://arxiv.org/abs/2506.05883v1)** | 2025-06-06 | <details><summary>WOD V...</summary><p>WOD Vision-based End-to-End Driving Challenge</p></details> |
+| **[On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation](http://arxiv.org/abs/2502.19285v3)** | 2025-06-06 | 11 pages, 1 figure |
+| **[Does Your 3D Encoder Really Work? When Pretrain-SFT from 2D VLMs Meets 3D VLMs](http://arxiv.org/abs/2506.05318v2)** | 2025-06-06 |  |
 
