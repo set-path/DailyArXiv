@@ -1,5 +1,5 @@
 ---
-title: Papers - June 10, 2025
+title: Papers - June 11, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,6 +24,7 @@ labels: documentation
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[F2Net: A Frequency-Fused Network for Ultra-High Resolution Remote Sensing Segmentation](http://arxiv.org/abs/2506.07847v1)** | 2025-06-09 |  |
 | **[Cross-Modal Urban Sensing: Evaluating Sound-Vision Alignment Across Street-Level and Aerial Imagery](http://arxiv.org/abs/2506.03388v1)** | 2025-06-03 |  |
 | **[AerOSeg: Harnessing SAM for Open-Vocabulary Segmentation in Remote Sensing Images](http://arxiv.org/abs/2504.09203v1)** | 2025-04-12 | <details><summary>Accep...</summary><p>Accepted at EarthVision workshop, CVPR 2025</p></details> |
 | **[Center-guided Classifier for Semantic Segmentation of Remote Sensing Images](http://arxiv.org/abs/2503.16963v1)** | 2025-03-21 |  |
@@ -38,7 +39,6 @@ labels: documentation
 | **[RSAM-Seg: A SAM-based Approach with Prior Knowledge Integration for Remote Sensing Image Semantic Segmentation](http://arxiv.org/abs/2402.19004v1)** | 2024-02-29 | 12 pages, 11 figures |
 | **[A Framework of Full-Process Generation Design for Park Green Spaces Based on Remote Sensing Segmentation-GAN-Diffusion](http://arxiv.org/abs/2312.10674v1)** | 2023-12-17 |  |
 | **[SAMRS: Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model](http://arxiv.org/abs/2305.02034v4)** | 2023-10-13 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2023 Datasets and Benchmarks Track</p></details> |
-| **[Efficient Remote Sensing Segmentation With Generative Adversarial Transformer](http://arxiv.org/abs/2310.01292v1)** | 2023-10-02 |  |
 
 ## Remote Sensing Vision Language Model - Preview 6 papers
 | **Title** | **Date** | **Comment** |
@@ -53,19 +53,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CoMemo: LVLMs Need Image Context with Image Memory](http://arxiv.org/abs/2506.06279v1)** | 2025-06-06 | ICML 2025 |
-| **[Movie Facts and Fibs (MF$^2$): A Benchmark for Long Movie Understanding](http://arxiv.org/abs/2506.06275v1)** | 2025-06-06 | Under Review |
-| **[Leopard: A Vision Language Model For Text-Rich Multi-Image Tasks](http://arxiv.org/abs/2410.01744v3)** | 2025-06-06 | <details><summary>Our c...</summary><p>Our code is available at https://github.com/tencent-ailab/Leopard</p></details> |
-| **[Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models](http://arxiv.org/abs/2504.02821v2)** | 2025-06-06 | Preprint |
-| **[Challenging Vision-Language Models with Surgical Data: A New Dataset and Broad Benchmarking Study](http://arxiv.org/abs/2506.06232v1)** | 2025-06-06 |  |
-| **[GenIR: Generative Visual Feedback for Mental Image Retrieval](http://arxiv.org/abs/2506.06220v1)** | 2025-06-06 |  |
-| **[STSBench: A Spatio-temporal Scenario Benchmark for Multi-modal Large Language Models in Autonomous Driving](http://arxiv.org/abs/2506.06218v1)** | 2025-06-06 | <details><summary>Datas...</summary><p>Dataset: https://huggingface.co/datasets/ivc-lrp/STSBench, Code: https://github.com/LRP-IVC/STSBench</p></details> |
-| **[GenSpace: Benchmarking Spatially-Aware Image Generation](http://arxiv.org/abs/2505.24870v2)** | 2025-06-06 |  |
-| **[WisWheat: A Three-Tiered Vision-Language Dataset for Wheat Management](http://arxiv.org/abs/2506.06084v1)** | 2025-06-06 |  |
-| **[Full Conformal Adaptation of Medical Vision-Language Models](http://arxiv.org/abs/2506.06076v1)** | 2025-06-06 | <details><summary>IPMI ...</summary><p>IPMI 2025. Code: https://github.com/jusiro/FCA</p></details> |
-| **[BEAST: Efficient Tokenization of B-Splines Encoded Action Sequences for Imitation Learning](http://arxiv.org/abs/2506.06072v1)** | 2025-06-06 |  |
-| **[MCA-Bench: A Multimodal Benchmark for Evaluating CAPTCHA Robustness Against VLM-based Attacks](http://arxiv.org/abs/2506.05982v1)** | 2025-06-06 | 31 pages, 8 figures |
-| **[HMVLM: Multistage Reasoning-Enhanced Vision-Language Model for Long-Tailed Driving Scenarios](http://arxiv.org/abs/2506.05883v1)** | 2025-06-06 | <details><summary>WOD V...</summary><p>WOD Vision-based End-to-End Driving Challenge</p></details> |
-| **[On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation](http://arxiv.org/abs/2502.19285v3)** | 2025-06-06 | 11 pages, 1 figure |
-| **[Does Your 3D Encoder Really Work? When Pretrain-SFT from 2D VLMs Meets 3D VLMs](http://arxiv.org/abs/2506.05318v2)** | 2025-06-06 |  |
+| **[Vision Transformers Don't Need Trained Registers](http://arxiv.org/abs/2506.08010v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project page and code: https://avdravid.github.io/test-time-registers</p></details> |
+| **[Hidden in plain sight: VLMs overlook their visual representations](http://arxiv.org/abs/2506.08008v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project page: https://hidden-plain-sight.github.io/</p></details> |
+| **[BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models](http://arxiv.org/abs/2506.07961v1)** | 2025-06-09 | In Submission |
+| **[Decoupling the Image Perception and Multimodal Reasoning for Reasoning Segmentation with Digital Twin Representations](http://arxiv.org/abs/2506.07943v1)** | 2025-06-09 |  |
+| **[Mimicking or Reasoning: Rethinking Multi-Modal In-Context Learning in Vision-Language Models](http://arxiv.org/abs/2506.07936v1)** | 2025-06-09 |  |
+| **[SAM2Auto: Auto Annotation Using FLASH](http://arxiv.org/abs/2506.07850v1)** | 2025-06-09 |  |
+| **[ConECT Dataset: Overcoming Data Scarcity in Context-Aware E-Commerce MT](http://arxiv.org/abs/2506.04929v2)** | 2025-06-09 | <details><summary>Accep...</summary><p>Accepted at ACL 2025 (The 63rd Annual Meeting of the Association for Computational Linguistics)</p></details> |
+| **[Image Reconstruction as a Tool for Feature Analysis](http://arxiv.org/abs/2506.07803v1)** | 2025-06-09 | 23 pages, 14 figures |
+| **[Benchmark Granularity and Model Robustness for Image-Text Retrieval](http://arxiv.org/abs/2407.15239v4)** | 2025-06-09 | <details><summary>accep...</summary><p>accepted at SIGIR 2025</p></details> |
+| **[Re-ranking Reasoning Context with Tree Search Makes Large Vision-Language Models Stronger](http://arxiv.org/abs/2506.07785v1)** | 2025-06-09 | <details><summary>ICML ...</summary><p>ICML 2025 Spotlight. 22 pages, 16 figures</p></details> |
+| **[Language-Vision Planner and Executor for Text-to-Visual Reasoning](http://arxiv.org/abs/2506.07778v1)** | 2025-06-09 |  |
+| **[GRE Suite: Geo-localization Inference via Fine-Tuned Vision-Language Models and Enhanced Reasoning Chains](http://arxiv.org/abs/2505.18700v2)** | 2025-06-09 |  |
+| **[ArchiLense: A Framework for Quantitative Analysis of Architectural Styles Based on Vision Large Language Models](http://arxiv.org/abs/2506.07739v1)** | 2025-06-09 |  |
+| **[EVADE: Multimodal Benchmark for Evasive Content Detection in E-Commerce Applications](http://arxiv.org/abs/2505.17654v2)** | 2025-06-09 |  |
+| **[OpenSplat3D: Open-Vocabulary 3D Instance Segmentation using Gaussian Splatting](http://arxiv.org/abs/2506.07697v1)** | 2025-06-09 |  |
 
