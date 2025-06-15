@@ -1,5 +1,5 @@
 ---
-title: Papers - June 13, 2025
+title: Papers - June 16, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -53,19 +53,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing](http://arxiv.org/abs/2506.09965v1)** | 2025-06-11 |  |
-| **[7B Fully Open Source Moxin-LLM/VLM -- From Pretraining to GRPO-based Reinforcement Learning Enhancement](http://arxiv.org/abs/2412.06845v5)** | 2025-06-11 |  |
-| **[From Intention to Execution: Probing the Generalization Boundaries of Vision-Language-Action Models](http://arxiv.org/abs/2506.09930v1)** | 2025-06-11 | Under review |
-| **[MVTamperBench: Evaluating Robustness of Vision-Language Models](http://arxiv.org/abs/2412.19794v5)** | 2025-06-11 |  |
-| **[3D-Aware Vision-Language Models Fine-Tuning with Geometric Distillation](http://arxiv.org/abs/2506.09883v1)** | 2025-06-11 |  |
-| **[MindOmni: Unleashing Reasoning Generation in Vision Language Models with RGPO](http://arxiv.org/abs/2505.13031v2)** | 2025-06-11 | <details><summary>Code:...</summary><p>Code: https://github.com/TencentARC/MindOmni</p></details> |
-| **[Decoupling the Image Perception and Multimodal Reasoning for Reasoning Segmentation with Digital Twin Representations](http://arxiv.org/abs/2506.07943v2)** | 2025-06-11 | <details><summary>This ...</summary><p>This work was submitted without the consent of all co-authors. We request withdrawal until all parties agree</p></details> |
-| **[Adding simple structure at inference improves Vision-Language Compositionality](http://arxiv.org/abs/2506.09691v1)** | 2025-06-11 |  |
-| **[HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model](http://arxiv.org/abs/2506.04704v2)** | 2025-06-11 | <details><summary>Proje...</summary><p>Project page: https://youngwanlee.github.io/holisafe</p></details> |
-| **[Same Task, Different Circuits: Disentangling Modality-Specific Mechanisms in VLMs](http://arxiv.org/abs/2506.09047v2)** | 2025-06-11 |  |
-| **[FedVLMBench: Benchmarking Federated Fine-Tuning of Vision-Language Models](http://arxiv.org/abs/2506.09638v1)** | 2025-06-11 |  |
-| **[MAGIC-VQA: Multimodal And Grounded Inference with Commonsense Knowledge for Visual Question Answering](http://arxiv.org/abs/2503.18491v3)** | 2025-06-11 | Findings of ACL 2025 |
-| **[Surfer-H Meets Holo1: Cost-Efficient Web Agent Powered by Open Weights](http://arxiv.org/abs/2506.02865v2)** | 2025-06-11 | Alphabetical order |
-| **[Revisit What You See: Disclose Language Prior in Vision Tokens for Efficient Guided Decoding of LVLMs](http://arxiv.org/abs/2506.09522v1)** | 2025-06-11 | <details><summary>Code ...</summary><p>Code available at https://github.com/bscho333/ReVisiT</p></details> |
-| **[Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency](http://arxiv.org/abs/2506.07497v2)** | 2025-06-11 |  |
+| **[AIR: Zero-shot Generative Model Adaptation with Iterative Refinement](http://arxiv.org/abs/2506.10895v1)** | 2025-06-12 |  |
+| **[Video-CoT: A Comprehensive Dataset for Spatiotemporal Understanding of Videos Based on Chain-of-Thought](http://arxiv.org/abs/2506.08817v3)** | 2025-06-12 |  |
+| **[RationalVLA: A Rational Vision-Language-Action Model with Dual System](http://arxiv.org/abs/2506.10826v1)** | 2025-06-12 | 14 pages |
+| **[Grounded Vision-Language Navigation for UAVs with Open-Vocabulary Goal Understanding](http://arxiv.org/abs/2506.10756v1)** | 2025-06-12 |  |
+| **[IQE-CLIP: Instance-aware Query Embedding for Zero-/Few-shot Anomaly Detection in Medical Domain](http://arxiv.org/abs/2506.10730v1)** | 2025-06-12 |  |
+| **[TDS-CLIP: Temporal Difference Side Network for Efficient VideoAction Recognition](http://arxiv.org/abs/2408.10688v2)** | 2025-06-12 |  |
+| **[GigaVideo-1: Advancing Video Generation via Automatic Feedback with 4 GPU-Hours Fine-Tuning](http://arxiv.org/abs/2506.10639v1)** | 2025-06-12 |  |
+| **[Text to Image for Multi-Label Image Recognition with Joint Prompt-Adapter Learning](http://arxiv.org/abs/2506.10575v1)** | 2025-06-12 |  |
+| **[Don't Lag, RAG: Training-Free Adversarial Detection Using RAG](http://arxiv.org/abs/2504.04858v2)** | 2025-06-12 | <details><summary>Accep...</summary><p>Accepted at VecDB @ ICML 2025</p></details> |
+| **[LLMs Are Not Yet Ready for Deepfake Image Detection](http://arxiv.org/abs/2506.10474v1)** | 2025-06-12 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, and 2 tables. paper is under review</p></details> |
+| **[VScan: Rethinking Visual Token Reduction for Efficient Large Vision-Language Models](http://arxiv.org/abs/2505.22654v2)** | 2025-06-12 | <details><summary>Chang...</summary><p>Changes from v1: Uploaded code link and fixed minor typos</p></details> |
+| **[AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving](http://arxiv.org/abs/2505.15298v3)** | 2025-06-12 | 18 pages, 8 figures |
+| **[Simultaneous Localization and Affordance Prediction of Tasks from Egocentric Video](http://arxiv.org/abs/2407.13856v2)** | 2025-06-12 |  |
+| **[PhysNav-DG: A Novel Adaptive Framework for Robust VLM-Sensor Fusion in Navigation Applications](http://arxiv.org/abs/2505.01881v2)** | 2025-06-12 | <details><summary>9 pag...</summary><p>9 pages, 5 figures. CVPRW 2025</p></details> |
+| **[UrbanSense:AFramework for Quantitative Analysis of Urban Streetscapes leveraging Vision Large Language Models](http://arxiv.org/abs/2506.10342v1)** | 2025-06-12 |  |
 
