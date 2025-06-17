@@ -1,10 +1,11 @@
 ---
-title: Papers - June 17, 2025
+title: Papers - June 18, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Test-time Contrastive Concepts for Open-world Semantic Segmentation with Vision-Language Models](http://arxiv.org/abs/2407.05061v3)** | 2025-06-16 | TMLR camera-ready |
 | **[Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation](http://arxiv.org/abs/2506.09881v1)** | 2025-06-11 |  |
 | **[AetherVision-Bench: An Open-Vocabulary RGB-Infrared Benchmark for Multi-Angle Segmentation across Aerial and Ground Perspectives](http://arxiv.org/abs/2506.03709v1)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted at Workshop on Foundation Models Meet Embodied Agents at CVPR 2025 (Non-archival Track)</p></details> |
 | **[OV-COAST: Cost Aggregation with Optimal Transport for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2506.03706v1)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025 Workshop on Transformers for Vision (Non-archival track)</p></details> |
@@ -19,7 +20,6 @@ labels: documentation
 | **[econSG: Efficient and Multi-view Consistent Open-Vocabulary 3D Semantic Gaussians](http://arxiv.org/abs/2504.06003v1)** | 2025-04-08 |  |
 | **[Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2411.17150v3)** | 2025-04-07 |  |
 | **[Effective SAM Combination for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2411.14723v2)** | 2025-03-30 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
-| **[Open-Vocabulary Semantic Segmentation with Uncertainty Alignment for Robotic Scene Understanding in Indoor Building Environments](http://arxiv.org/abs/2503.23105v1)** | 2025-03-29 | 32 pages, 7 figures |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -53,19 +53,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Affogato: Learning Open-Vocabulary Affordance Grounding with Automated Data Generation at Scale](http://arxiv.org/abs/2506.12009v1)** | 2025-06-13 |  |
-| **[How Visual Representations Map to Language Feature Space in Multimodal LLMs](http://arxiv.org/abs/2506.11976v1)** | 2025-06-13 |  |
-| **[Rethinking Multilingual Vision-Language Translation: Dataset, Evaluation, and Adaptation](http://arxiv.org/abs/2506.11820v1)** | 2025-06-13 |  |
-| **[Vision-Language Models for Edge Networks: A Comprehensive Survey](http://arxiv.org/abs/2502.07855v2)** | 2025-06-13 |  |
-| **[RationalVLA: A Rational Vision-Language-Action Model with Dual System](http://arxiv.org/abs/2506.10826v2)** | 2025-06-13 | 14 pages |
-| **[Beyond the Visible: Multispectral Vision-Language Learning for Earth Observation](http://arxiv.org/abs/2503.15969v2)** | 2025-06-13 |  |
-| **[MTabVQA: Evaluating Multi-Tabular Reasoning of Language Models in Visual Space](http://arxiv.org/abs/2506.11684v1)** | 2025-06-13 |  |
-| **[LLaVA-CMoE: Towards Continual Mixture of Experts for Large Vision-Language Models](http://arxiv.org/abs/2503.21227v2)** | 2025-06-13 | Preprint |
-| **[VLM@school -- Evaluation of AI image understanding on German middle school knowledge](http://arxiv.org/abs/2506.11604v1)** | 2025-06-13 |  |
-| **[EasyARC: Evaluating Vision Language Models on True Visual Reasoning](http://arxiv.org/abs/2506.11595v1)** | 2025-06-13 | <details><summary>CVPR2...</summary><p>CVPR2025 Workshop on Test-time Scaling for Computer Vision</p></details> |
-| **[Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis](http://arxiv.org/abs/2506.11526v1)** | 2025-06-13 |  |
-| **[Manager: Aggregating Insights from Unimodal Experts in Two-Tower VLMs and MLLMs](http://arxiv.org/abs/2506.11515v1)** | 2025-06-13 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). June 2025. DOI: https://doi.org/10.1109/TCSVT.2025.3578266</p></details> |
-| **[Taming Stable Diffusion for Computed Tomography Blind Super-Resolution](http://arxiv.org/abs/2506.11496v1)** | 2025-06-13 |  |
-| **[On the Natural Robustness of Vision-Language Models Against Visual Perception Attacks in Autonomous Driving](http://arxiv.org/abs/2506.11472v1)** | 2025-06-13 |  |
-| **[PhysNav-DG: A Novel Adaptive Framework for Robust VLM-Sensor Fusion in Navigation Applications](http://arxiv.org/abs/2505.01881v3)** | 2025-06-13 | <details><summary>Accep...</summary><p>Accepted at IEEE/CVF Computer Society Conference on Computer Vision and Pattern Recognition Workshops 2025 (CVPRW)</p></details> |
+| **[Touch begins where vision ends: Generalizable policies for contact-rich manipulation](http://arxiv.org/abs/2506.13762v1)** | 2025-06-16 |  |
+| **[Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins](http://arxiv.org/abs/2506.13761v1)** | 2025-06-16 |  |
+| **[OTFusion: Bridging Vision-only and Vision-Language Models via Optimal Transport for Transductive Zero-Shot Learning](http://arxiv.org/abs/2506.13723v1)** | 2025-06-16 |  |
+| **[ROSA: Harnessing Robot States for Vision-Language and Action Alignment](http://arxiv.org/abs/2506.13679v1)** | 2025-06-16 |  |
+| **[DualEdit: Dual Editing for Knowledge Updating in Vision-Language Models](http://arxiv.org/abs/2506.13638v1)** | 2025-06-16 | Under Review |
+| **[Agentic 3D Scene Generation with Spatially Contextualized VLMs](http://arxiv.org/abs/2505.20129v2)** | 2025-06-16 | <details><summary>Proje...</summary><p>Project page: https://spatctxvlm.github.io/project_page/</p></details> |
+| **[VLM-SFD: VLM-Assisted Siamese Flow Diffusion Framework for Dual-Arm Cooperative Manipulation](http://arxiv.org/abs/2506.13428v1)** | 2025-06-16 |  |
+| **[Multiverse Through Deepfakes: The MultiFakeVerse Dataset of Person-Centric Visual and Conceptual Manipulations](http://arxiv.org/abs/2506.00868v2)** | 2025-06-16 |  |
+| **[Zero-Shot Temporal Interaction Localization for Egocentric Videos](http://arxiv.org/abs/2506.03662v3)** | 2025-06-16 |  |
+| **[Uncertainty-Informed Active Perception for Open Vocabulary Object Goal Navigation](http://arxiv.org/abs/2506.13367v1)** | 2025-06-16 | 7 pages, 3 figures |
+| **[Test-time Contrastive Concepts for Open-world Semantic Segmentation with Vision-Language Models](http://arxiv.org/abs/2407.05061v3)** | 2025-06-16 | TMLR camera-ready |
+| **[Anomaly Object Segmentation with Vision-Language Models for Steel Scrap Recycling](http://arxiv.org/abs/2506.13282v1)** | 2025-06-16 |  |
+| **[BiFold: Bimanual Cloth Folding with Language Guidance](http://arxiv.org/abs/2501.16458v2)** | 2025-06-16 | <details><summary>Accep...</summary><p>Accepted at ICRA 2025. Project page at https://barbany.github.io/bifold/</p></details> |
+| **[Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency](http://arxiv.org/abs/2506.07497v3)** | 2025-06-16 |  |
+| **[Screen Hijack: Visual Poisoning of VLM Agents in Mobile Environments](http://arxiv.org/abs/2506.13205v1)** | 2025-06-16 | 12 pages |
 
