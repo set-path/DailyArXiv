@@ -1,5 +1,5 @@
 ---
-title: Papers - June 23, 2025
+title: Papers - June 24, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -53,19 +53,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GenRecal: Generation after Recalibration from Large to Small Vision-Language Models](http://arxiv.org/abs/2506.15681v1)** | 2025-06-18 | <details><summary>Proje...</summary><p>Project page: https://byungkwanlee.github.io/GenRecal-page/</p></details> |
-| **[Dual-Stage Value-Guided Inference with Margin-Based Reward Adjustment for Fast and Faithful VLM Captioning](http://arxiv.org/abs/2506.15649v1)** | 2025-06-18 |  |
-| **[FindingDory: A Benchmark to Evaluate Memory in Embodied Agents](http://arxiv.org/abs/2506.15635v1)** | 2025-06-18 | <details><summary>Our d...</summary><p>Our dataset and code will be made available at: https://findingdory-benchmark.github.io/</p></details> |
-| **[Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey](http://arxiv.org/abs/2407.21794v2)** | 2025-06-18 | <details><summary>Accep...</summary><p>Accepted at TMLR2025. Survey paper. We welcome questions, issues, and paper requests via https://github.com/AtsuMiyai/Awesome-OOD-VLM</p></details> |
-| **[Vision Transformers Don't Need Trained Registers](http://arxiv.org/abs/2506.08010v3)** | 2025-06-18 | <details><summary>Proje...</summary><p>Project page and code: https://avdravid.github.io/test-time-registers</p></details> |
-| **[WikiMixQA: A Multimodal Benchmark for Question Answering over Tables and Charts](http://arxiv.org/abs/2506.15594v1)** | 2025-06-18 | ACL 2025 (Findings) |
-| **[DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement](http://arxiv.org/abs/2506.15583v1)** | 2025-06-18 |  |
-| **[LaViDa: A Large Diffusion Language Model for Multimodal Understanding](http://arxiv.org/abs/2505.16839v3)** | 2025-06-18 | 26 pages, 8 figures |
-| **[Context-Informed Grounding Supervision](http://arxiv.org/abs/2506.15480v1)** | 2025-06-18 |  |
-| **[RefChartQA: Grounding Visual Answer on Chart Images through Instruction Tuning](http://arxiv.org/abs/2503.23131v2)** | 2025-06-18 | <details><summary>Accep...</summary><p>Accepted by ICDAR 2025. All models and code will be publicly available at https://github.com/moured/RefChartQA</p></details> |
-| **[SCAM: A Real-World Typographic Robustness Evaluation for Multimodal Foundation Models](http://arxiv.org/abs/2504.04893v5)** | 2025-06-18 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025 Workshop EVAL-FoMo-2</p></details> |
-| **[OpenPath: Open-Set Active Learning for Pathology Image Classification via Pre-trained Vision-Language Models](http://arxiv.org/abs/2506.15318v1)** | 2025-06-18 | <details><summary>MICCA...</summary><p>MICCAI 2025 early accept</p></details> |
-| **[MEGC2025: Micro-Expression Grand Challenge on Spot Then Recognize and Visual Question Answering](http://arxiv.org/abs/2506.15298v1)** | 2025-06-18 | <details><summary>Micro...</summary><p>Micro-Expression Grand Challenge (MEGC) at ACM MM 2025</p></details> |
-| **[Jailbreak Large Vision-Language Models Through Multi-Modal Linkage](http://arxiv.org/abs/2412.00473v5)** | 2025-06-18 |  |
-| **[ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections](http://arxiv.org/abs/2506.15180v1)** | 2025-06-18 |  |
+| **[VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning](http://arxiv.org/abs/2506.17221v1)** | 2025-06-20 | <details><summary>proje...</summary><p>project page: www.vlnr1.github.io</p></details> |
+| **[Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens](http://arxiv.org/abs/2506.17218v1)** | 2025-06-20 | <details><summary>Proje...</summary><p>Project page: https://vlm-mirage.github.io/</p></details> |
+| **[Do We Need Large VLMs for Spotting Soccer Actions?](http://arxiv.org/abs/2506.17144v1)** | 2025-06-20 | 5 pages, 2 figures |
+| **[Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency](http://arxiv.org/abs/2506.07497v4)** | 2025-06-20 |  |
+| **[Prmpt2Adpt: Prompt-Based Zero-Shot Domain Adaptation for Resource-Constrained Environments](http://arxiv.org/abs/2506.16994v1)** | 2025-06-20 |  |
+| **[When and How Does CLIP Enable Domain and Compositional Generalization?](http://arxiv.org/abs/2502.09507v2)** | 2025-06-20 | <details><summary>ICML ...</summary><p>ICML 2025 (Spotlight)</p></details> |
+| **[FOCUS: Unified Vision-Language Modeling for Interactive Editing Driven by Referential Segmentation](http://arxiv.org/abs/2506.16806v1)** | 2025-06-20 |  |
+| **[Co-VisiON: Co-Visibility ReasONing on Sparse Image Sets of Indoor Scenes](http://arxiv.org/abs/2506.16805v1)** | 2025-06-20 |  |
+| **[Cost-effective Instruction Learning for Pathology Vision and Language Analysis](http://arxiv.org/abs/2407.17734v2)** | 2025-06-20 |  |
+| **[Memory-enhanced Retrieval Augmentation for Long Video Understanding](http://arxiv.org/abs/2503.09149v2)** | 2025-06-20 |  |
+| **[IQE-CLIP: Instance-aware Query Embedding for Zero-/Few-shot Anomaly Detection in Medical Domain](http://arxiv.org/abs/2506.10730v3)** | 2025-06-20 |  |
+| **[Cross-Modal Obfuscation for Jailbreak Attacks on Large Vision-Language Models](http://arxiv.org/abs/2506.16760v1)** | 2025-06-20 | 15 pages, 9 figures |
+| **[TeSG: Textual Semantic Guidance for Infrared and Visible Image Fusion](http://arxiv.org/abs/2506.16730v1)** | 2025-06-20 | 11 pages, 6 figures |
+| **[V-CASS: Vision-context-aware Expressive Speech Synthesis for Enhancing User Understanding of Videos](http://arxiv.org/abs/2506.16716v1)** | 2025-06-20 | <details><summary>Accep...</summary><p>Accepted by IJCNN 2025</p></details> |
+| **[VLM-Empowered Multi-Mode System for Efficient and Safe Planetary Navigation](http://arxiv.org/abs/2506.16703v1)** | 2025-06-20 | <details><summary>accep...</summary><p>accepted by IROS 2025</p></details> |
 
