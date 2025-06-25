@@ -1,5 +1,5 @@
 ---
-title: Papers - June 25, 2025
+title: Papers - June 26, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -53,19 +53,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Kimi-VL Technical Report](http://arxiv.org/abs/2504.07491v3)** | 2025-06-23 | <details><summary>Updat...</summary><p>Updated Kimi-VL-A3B-Thinking-2506 information</p></details> |
-| **[VQ-Insight: Teaching VLMs for AI-Generated Video Quality Understanding via Progressive Visual Reinforcement Learning](http://arxiv.org/abs/2506.18564v1)** | 2025-06-23 | Technical Report |
-| **[Generalizing Vision-Language Models to Novel Domains: A Comprehensive Survey](http://arxiv.org/abs/2506.18504v1)** | 2025-06-23 |  |
-| **[ILIAS: Instance-Level Image retrieval At Scale](http://arxiv.org/abs/2502.11748v3)** | 2025-06-23 | CVPR 2025 |
-| **[InternSpatial: A Comprehensive Dataset for Spatial Reasoning in Vision-Language Models](http://arxiv.org/abs/2506.18385v1)** | 2025-06-23 |  |
-| **[Taming Vision-Language Models for Medical Image Analysis: A Comprehensive Review](http://arxiv.org/abs/2506.18378v1)** | 2025-06-23 | 34 pages |
-| **[HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model](http://arxiv.org/abs/2503.10631v3)** | 2025-06-23 |  |
-| **[Systematic Reward Gap Optimization for Mitigating VLM Hallucinations](http://arxiv.org/abs/2411.17265v3)** | 2025-06-23 |  |
-| **[Escaping the SpuriVerse: Can Large Vision-Language Models Generalize Beyond Seen Spurious Correlations?](http://arxiv.org/abs/2506.18322v1)** | 2025-06-23 |  |
-| **[HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States](http://arxiv.org/abs/2502.14744v4)** | 2025-06-23 | <details><summary>Accep...</summary><p>Accepted by ACL 2025 (Main)</p></details> |
-| **[Sycophancy in Vision-Language Models: A Systematic Analysis and an Inference-Time Mitigation Framework](http://arxiv.org/abs/2408.11261v2)** | 2025-06-23 |  |
-| **[Referring Expression Instance Retrieval and A Strong End-to-End Baseline](http://arxiv.org/abs/2506.18246v1)** | 2025-06-23 |  |
-| **[Drive-R1: Bridging Reasoning and Planning in VLMs for Autonomous Driving with Reinforcement Learning](http://arxiv.org/abs/2506.18234v1)** | 2025-06-23 |  |
-| **[CLIP-HandID: Vision-Language Model for Hand-Based Person Identification](http://arxiv.org/abs/2506.12447v2)** | 2025-06-22 |  |
-| **[Hallucination-Aware Multimodal Benchmark for Gastrointestinal Image Analysis with Large Vision-Language Models](http://arxiv.org/abs/2505.07001v2)** | 2025-06-22 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2025</p></details> |
+| **[Unified Vision-Language-Action Model](http://arxiv.org/abs/2506.19850v1)** | 2025-06-24 | technical report |
+| **[Evaluating Compliance with Visualization Guidelines in Diagrams for Scientific Publications Using Large Vision Language Models](http://arxiv.org/abs/2506.19825v1)** | 2025-06-24 | <details><summary>Accep...</summary><p>Accepted at ICDAR 2025</p></details> |
+| **[CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation](http://arxiv.org/abs/2506.19816v1)** | 2025-06-24 | 36 pages, 21 figures |
+| **[Aligning Anime Video Generation with Human Feedback](http://arxiv.org/abs/2504.10044v2)** | 2025-06-24 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 7 tables</p></details> |
+| **[UltraAD: Fine-Grained Ultrasound Anomaly Classification via Few-Shot CLIP Adaptation](http://arxiv.org/abs/2506.19694v1)** | 2025-06-24 |  |
+| **[FOCoOp: Enhancing Out-of-Distribution Robustness in Federated Prompt Learning for Vision-Language Models](http://arxiv.org/abs/2506.16218v2)** | 2025-06-24 | Accepted by ICML25 |
+| **[PEVLM: Parallel Encoding for Vision-Language Models](http://arxiv.org/abs/2506.19651v1)** | 2025-06-24 |  |
+| **[V2T-CoT: From Vision to Text Chain-of-Thought for Medical Reasoning and Diagnosis](http://arxiv.org/abs/2506.19610v1)** | 2025-06-24 | 12 pages, 4 figures |
+| **[ChordPrompt: Orchestrating Cross-Modal Prompt Synergy for Multi-Domain Incremental Learning in CLIP](http://arxiv.org/abs/2506.19608v1)** | 2025-06-24 | <details><summary>Accep...</summary><p>Accept by ECML-PKDD 2025</p></details> |
+| **[Fake or Real, Can Robots Tell? Evaluating Embodied Vision-Language Models on Real and 3D-Printed Objects](http://arxiv.org/abs/2506.19579v1)** | 2025-06-24 |  |
+| **[Visual hallucination detection in large vision-language models via evidential conflict](http://arxiv.org/abs/2506.19513v1)** | 2025-06-24 |  |
+| **[T-Rex: Task-Adaptive Spatial Representation Extraction for Robotic Manipulation with Vision-Language Models](http://arxiv.org/abs/2506.19498v1)** | 2025-06-24 | <details><summary>submi...</summary><p>submitted to NeurIPS 2025</p></details> |
+| **[AntiGrounding: Lifting Robotic Actions into VLM Representation Space for Decision Making](http://arxiv.org/abs/2506.12374v2)** | 2025-06-24 | <details><summary>submi...</summary><p>submitted to NeurIPS 2025</p></details> |
+| **[Emergence of Text Readability in Vision Language Models](http://arxiv.org/abs/2506.19389v1)** | 2025-06-24 | <details><summary>EVAL-...</summary><p>EVAL-FoMo Workshop @ CVPR 2025</p></details> |
+| **[DeltaSpace: A Semantic-aligned Feature Space for Flexible Text-guided Image Editing](http://arxiv.org/abs/2310.08785v2)** | 2025-06-24 | <details><summary>18 pa...</summary><p>18 pages. arXiv admin note: text overlap with arXiv:2303.06285</p></details> |
 
