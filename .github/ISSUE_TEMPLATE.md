@@ -1,10 +1,11 @@
 ---
-title: Papers - June 27, 2025
+title: Papers - June 30, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation](http://arxiv.org/abs/2506.21233v1)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
 | **[LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation](http://arxiv.org/abs/2503.19777v2)** | 2025-06-25 |  |
 | **[Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation](http://arxiv.org/abs/2506.09881v2)** | 2025-06-18 |  |
 | **[Test-time Contrastive Concepts for Open-world Semantic Segmentation with Vision-Language Models](http://arxiv.org/abs/2407.05061v3)** | 2025-06-16 | TMLR camera-ready |
@@ -19,7 +20,6 @@ labels: documentation
 | **[ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements](http://arxiv.org/abs/2411.12044v2)** | 2025-04-14 |  |
 | **[RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Radiology with Zero-Shot Multi-Task Capability](http://arxiv.org/abs/2504.07416v1)** | 2025-04-10 |  |
 | **[econSG: Efficient and Multi-view Consistent Open-Vocabulary 3D Semantic Gaussians](http://arxiv.org/abs/2504.06003v1)** | 2025-04-08 |  |
-| **[Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2411.17150v3)** | 2025-04-07 |  |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -53,19 +53,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Shape2Animal: Creative Animal Generation from Natural Silhouettes](http://arxiv.org/abs/2506.20616v1)** | 2025-06-25 |  |
-| **[HRIBench: Benchmarking Vision-Language Models for Real-Time Human Perception in Human-Robot Interaction](http://arxiv.org/abs/2506.20566v1)** | 2025-06-25 | <details><summary>Accep...</summary><p>Accepted to the 19th International Symposium on Experimental Robotics (ISER 2025)</p></details> |
-| **[Med-Art: Diffusion Transformer for 2D Medical Text-to-Image Generation](http://arxiv.org/abs/2506.20449v1)** | 2025-06-25 | <details><summary>The p...</summary><p>The project is available at \url{https://medart-ai.github.io}</p></details> |
-| **[CARMA: Context-Aware Situational Grounding of Human-Robot Group Interactions by Combining Vision-Language Models with Object and Action Recognition](http://arxiv.org/abs/2506.20373v1)** | 2025-06-25 |  |
-| **[Mobile-R1: Towards Interactive Reinforcement Learning for VLM-Based Mobile Agent via Task-Level Rewards](http://arxiv.org/abs/2506.20332v1)** | 2025-06-25 | 14 pages, 12 figures |
-| **[LLaVA-CMoE: Towards Continual Mixture of Experts for Large Vision-Language Models](http://arxiv.org/abs/2503.21227v3)** | 2025-06-25 | Preprint |
-| **[TIIF-Bench: How Does Your T2I Model Follow Your Instructions?](http://arxiv.org/abs/2506.02161v2)** | 2025-06-25 | <details><summary>23 pa...</summary><p>23 pages, 12 figures, 11 tables</p></details> |
-| **[VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning](http://arxiv.org/abs/2506.17221v2)** | 2025-06-25 | <details><summary>proje...</summary><p>project page: vlnr1.github.io</p></details> |
-| **[Screen Hijack: Visual Poisoning of VLM Agents in Mobile Environments](http://arxiv.org/abs/2506.13205v3)** | 2025-06-25 | 12 pages |
-| **[MIRAGE: A Benchmark for Multimodal Information-Seeking and Reasoning in Agricultural Expert-Guided Conversations](http://arxiv.org/abs/2506.20100v1)** | 2025-06-25 | <details><summary>66 pa...</summary><p>66 pages, 32 figures, 23 tables</p></details> |
-| **[Shape and Texture Recognition in Large Vision-Language Models](http://arxiv.org/abs/2503.23062v3)** | 2025-06-24 |  |
-| **[GlyphPattern: An Abstract Pattern Recognition Benchmark for Vision-Language Models](http://arxiv.org/abs/2408.05894v2)** | 2025-06-24 |  |
-| **[Unified Vision-Language-Action Model](http://arxiv.org/abs/2506.19850v1)** | 2025-06-24 | technical report |
-| **[Evaluating Compliance with Visualization Guidelines in Diagrams for Scientific Publications Using Large Vision Language Models](http://arxiv.org/abs/2506.19825v1)** | 2025-06-24 | <details><summary>Accep...</summary><p>Accepted at ICDAR 2025</p></details> |
-| **[CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation](http://arxiv.org/abs/2506.19816v1)** | 2025-06-24 | 36 pages, 21 figures |
+| **[Mitigating Hallucination of Large Vision-Language Models via Dynamic Logits Calibration](http://arxiv.org/abs/2506.21509v1)** | 2025-06-26 |  |
+| **[Global and Local Entailment Learning for Natural World Imagery](http://arxiv.org/abs/2506.21476v1)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
+| **[Spatial Mental Modeling from Limited Views](http://arxiv.org/abs/2506.21458v1)** | 2025-06-26 | Preprint version |
+| **[ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models](http://arxiv.org/abs/2506.21356v1)** | 2025-06-26 |  |
+| **[Learning Efficient and Robust Language-conditioned Manipulation using Textual-Visual Relevancy and Equivariant Language Mapping](http://arxiv.org/abs/2406.15677v2)** | 2025-06-26 |  |
+| **[LLaVA-Pose: Enhancing Human Pose and Action Understanding via Keypoint-Integrated Instruction Tuning](http://arxiv.org/abs/2506.21317v1)** | 2025-06-26 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2409.09306</p></details> |
+| **[DrishtiKon: Multi-Granular Visual Grounding for Text-Rich Document Images](http://arxiv.org/abs/2506.21316v1)** | 2025-06-26 | Work in progress |
+| **[World-aware Planning Narratives Enhance Large Vision-Language Model Planner](http://arxiv.org/abs/2506.21230v1)** | 2025-06-26 |  |
+| **[Referring Expression Instance Retrieval and A Strong End-to-End Baseline](http://arxiv.org/abs/2506.18246v3)** | 2025-06-26 |  |
+| **[Personalized Federated Learning via Dual-Prompt Optimization and Cross Fusion](http://arxiv.org/abs/2506.21144v1)** | 2025-06-26 |  |
+| **[V2X-REALM: Vision-Language Model-Based Robust End-to-End Cooperative Autonomous Driving with Adaptive Long-Tail Modeling](http://arxiv.org/abs/2506.21041v1)** | 2025-06-26 |  |
+| **[Multimodal Prompt Alignment for Facial Expression Recognition](http://arxiv.org/abs/2506.21017v1)** | 2025-06-26 | <details><summary>To ap...</summary><p>To appear in ICCV2025</p></details> |
+| **[Style-Aligned Image Composition for Robust Detection of Abnormal Cells in Cytopathology](http://arxiv.org/abs/2506.21001v1)** | 2025-06-26 | MIDL 2025 Oral |
+| **[TSDASeg: A Two-Stage Model with Direct Alignment for Interactive Point Cloud Segmentation](http://arxiv.org/abs/2506.20991v1)** | 2025-06-26 |  |
+| **[SharpZO: Hybrid Sharpness-Aware Vision Language Model Prompt Tuning via Forward-Only Passes](http://arxiv.org/abs/2506.20990v1)** | 2025-06-26 |  |
 
