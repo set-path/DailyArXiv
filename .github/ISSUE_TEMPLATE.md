@@ -1,11 +1,11 @@
 ---
-title: Papers - June 30, 2025
+title: Papers - July 01, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation](http://arxiv.org/abs/2506.21233v1)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
+| **[ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation](http://arxiv.org/abs/2506.21233v2)** | 2025-06-27 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
 | **[LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation](http://arxiv.org/abs/2503.19777v2)** | 2025-06-25 |  |
 | **[Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation](http://arxiv.org/abs/2506.09881v2)** | 2025-06-18 |  |
 | **[Test-time Contrastive Concepts for Open-world Semantic Segmentation with Vision-Language Models](http://arxiv.org/abs/2407.05061v3)** | 2025-06-16 | TMLR camera-ready |
@@ -53,19 +53,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mitigating Hallucination of Large Vision-Language Models via Dynamic Logits Calibration](http://arxiv.org/abs/2506.21509v1)** | 2025-06-26 |  |
-| **[Global and Local Entailment Learning for Natural World Imagery](http://arxiv.org/abs/2506.21476v1)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
-| **[Spatial Mental Modeling from Limited Views](http://arxiv.org/abs/2506.21458v1)** | 2025-06-26 | Preprint version |
-| **[ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models](http://arxiv.org/abs/2506.21356v1)** | 2025-06-26 |  |
-| **[Learning Efficient and Robust Language-conditioned Manipulation using Textual-Visual Relevancy and Equivariant Language Mapping](http://arxiv.org/abs/2406.15677v2)** | 2025-06-26 |  |
-| **[LLaVA-Pose: Enhancing Human Pose and Action Understanding via Keypoint-Integrated Instruction Tuning](http://arxiv.org/abs/2506.21317v1)** | 2025-06-26 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2409.09306</p></details> |
-| **[DrishtiKon: Multi-Granular Visual Grounding for Text-Rich Document Images](http://arxiv.org/abs/2506.21316v1)** | 2025-06-26 | Work in progress |
-| **[World-aware Planning Narratives Enhance Large Vision-Language Model Planner](http://arxiv.org/abs/2506.21230v1)** | 2025-06-26 |  |
-| **[Referring Expression Instance Retrieval and A Strong End-to-End Baseline](http://arxiv.org/abs/2506.18246v3)** | 2025-06-26 |  |
-| **[Personalized Federated Learning via Dual-Prompt Optimization and Cross Fusion](http://arxiv.org/abs/2506.21144v1)** | 2025-06-26 |  |
-| **[V2X-REALM: Vision-Language Model-Based Robust End-to-End Cooperative Autonomous Driving with Adaptive Long-Tail Modeling](http://arxiv.org/abs/2506.21041v1)** | 2025-06-26 |  |
-| **[Multimodal Prompt Alignment for Facial Expression Recognition](http://arxiv.org/abs/2506.21017v1)** | 2025-06-26 | <details><summary>To ap...</summary><p>To appear in ICCV2025</p></details> |
-| **[Style-Aligned Image Composition for Robust Detection of Abnormal Cells in Cytopathology](http://arxiv.org/abs/2506.21001v1)** | 2025-06-26 | MIDL 2025 Oral |
-| **[TSDASeg: A Two-Stage Model with Direct Alignment for Interactive Point Cloud Segmentation](http://arxiv.org/abs/2506.20991v1)** | 2025-06-26 |  |
-| **[SharpZO: Hybrid Sharpness-Aware Vision Language Model Prompt Tuning via Forward-Only Passes](http://arxiv.org/abs/2506.20990v1)** | 2025-06-26 |  |
+| **[MiCo: Multi-image Contrast for Reinforcement Visual Reasoning](http://arxiv.org/abs/2506.22434v1)** | 2025-06-27 |  |
+| **[Vision Transformers Don't Need Trained Registers](http://arxiv.org/abs/2506.08010v4)** | 2025-06-27 | <details><summary>Proje...</summary><p>Project page and code: https://avdravid.github.io/test-time-registers</p></details> |
+| **[Test-Time Consistency in Vision Language Models](http://arxiv.org/abs/2506.22395v1)** | 2025-06-27 |  |
+| **[MM-R$^3$: On (In-)Consistency of Vision-Language Models (VLMs)](http://arxiv.org/abs/2410.04778v2)** | 2025-06-27 |  |
+| **[Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation](http://arxiv.org/abs/2506.22375v1)** | 2025-06-27 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
+| **[Exploring Text-Guided Single Image Editing for Remote Sensing Images](http://arxiv.org/abs/2405.05769v3)** | 2025-06-27 | <details><summary>17 pa...</summary><p>17 pages, 18 figures, Accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</p></details> |
+| **[SENSEI: Semantic Exploration Guided by Foundation Models to Learn Versatile World Models](http://arxiv.org/abs/2503.01584v2)** | 2025-06-27 | <details><summary>ICML ...</summary><p>ICML 2025 camera-ready version. Project webpage at https://sites.google.com/view/sensei-paper</p></details> |
+| **[Rethinking Visual Token Reduction in LVLMs under Cross-modal Misalignment](http://arxiv.org/abs/2506.22283v1)** | 2025-06-27 |  |
+| **[COOCO -- Common Objects Out-of-Context -- Semantic Violation in Scenes: Investigating Multimodal Context in Referential Communication](http://arxiv.org/abs/2506.22274v1)** | 2025-06-27 |  |
+| **[KITAB-Bench: A Comprehensive Multi-Domain Benchmark for Arabic OCR and Document Understanding](http://arxiv.org/abs/2502.14949v2)** | 2025-06-27 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, ACL 2025</p></details> |
+| **[Visual Structures Helps Visual Reasoning: Addressing the Binding Problem in VLMs](http://arxiv.org/abs/2506.22146v1)** | 2025-06-27 |  |
+| **[Self-ReS: Self-Reflection in Large Vision-Language Models for Long Video Understanding](http://arxiv.org/abs/2503.20362v2)** | 2025-06-27 |  |
+| **[Benchmarking Vision Language Models on German Factual Data](http://arxiv.org/abs/2504.11108v2)** | 2025-06-27 | <details><summary>Peinl...</summary><p>Peinl, Ren\'e; Tischler, Vincent (2025): Benchmarking Vision Language Models on German Factual Data. 21st International Conference on Artificial Intelligence Applications and Innovations, 26-29 June, 2025, Limassol, Cyprus (accepted)</p></details> |
+| **[VLM@school -- Evaluation of AI image understanding on German middle school knowledge](http://arxiv.org/abs/2506.11604v2)** | 2025-06-27 | <details><summary>Peinl...</summary><p>Peinl, Ren\'e; Tischler, Vincent (2025): VLM@school - Evaluation of AI image understanding on German middle school knowledge. Future Technologies Conference (FTC) 2025, Munich, Germany 2025 (accepted)</p></details> |
+| **[Universal Retrieval for Multimodal Trajectory Modeling](http://arxiv.org/abs/2506.22056v1)** | 2025-06-27 | <details><summary>18 pa...</summary><p>18 pages, 3 figures, accepted by Workshop on Computer-use Agents @ ICML 2025</p></details> |
 
