@@ -1,10 +1,11 @@
 ---
-title: Papers - July 02, 2025
+title: Papers - July 03, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Radiology with Zero-Shot Multi-Task Capability](http://arxiv.org/abs/2504.07416v2)** | 2025-07-01 |  |
 | **[FastSeg: Efficient Training-Free Open-Vocabulary Segmentation via Hierarchical Attention Refinement Method](http://arxiv.org/abs/2506.23323v1)** | 2025-06-29 |  |
 | **[Unleashing the Multi-View Fusion Potential: Noise Correction in VLM for Open-Vocabulary 3D Scene Understanding](http://arxiv.org/abs/2506.22817v1)** | 2025-06-28 |  |
 | **[ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation](http://arxiv.org/abs/2506.21233v2)** | 2025-06-27 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
@@ -19,7 +20,6 @@ labels: documentation
 | **[DPSeg: Dual-Prompt Cost Volume Learning for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2505.11676v1)** | 2025-05-16 | Accepted by CVPR2025 |
 | **[3D Vision-Language Gaussian Splatting](http://arxiv.org/abs/2410.07577v2)** | 2025-05-05 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025. Main paper + supplementary material</p></details> |
 | **[FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation](http://arxiv.org/abs/2504.10487v1)** | 2025-04-14 | <details><summary>Proje...</summary><p>Project Page: https://yasserben.github.io/FLOSS/</p></details> |
-| **[ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements](http://arxiv.org/abs/2411.12044v2)** | 2025-04-14 |  |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -53,6 +53,14 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Training Free Stylized Abstraction](http://arxiv.org/abs/2505.22663v2)** | 2025-07-01 | <details><summary>Proje...</summary><p>Project Page: https://kartik-3004.github.io/TF-SA/</p></details> |
+| **[The Hidden Life of Tokens: Reducing Hallucination of Large Vision-Language Models via Visual Information Steering](http://arxiv.org/abs/2502.03628v2)** | 2025-07-01 |  |
+| **[SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting](http://arxiv.org/abs/2506.23309v2)** | 2025-07-01 | <details><summary>MICCA...</summary><p>MICCAI 2025. Project Page: https://lastbasket.github.io/MICCAI-2025-SurgTPGS/</p></details> |
+| **[Exploring Text-Guided Single Image Editing for Remote Sensing Images](http://arxiv.org/abs/2405.05769v4)** | 2025-07-01 | <details><summary>17 pa...</summary><p>17 pages, 18 figures, Accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</p></details> |
+| **[Listener-Rewarded Thinking in VLMs for Image Preferences](http://arxiv.org/abs/2506.22832v2)** | 2025-07-01 |  |
+| **[ZonUI-3B: A Lightweight Vision-Language Model for Cross-Resolution GUI Grounding](http://arxiv.org/abs/2506.23491v2)** | 2025-07-01 |  |
+| **[Da Yu: Towards USV-Based Image Captioning for Waterway Surveillance and Scene Understanding](http://arxiv.org/abs/2506.19288v2)** | 2025-07-01 | 14 pages, 13 figures |
+| **[Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension](http://arxiv.org/abs/2412.03704v3)** | 2025-06-30 |  |
 | **[GLIMPSE: Gradient-Layer Importance Mapping for Prompted Visual Saliency Explanation for Generative LVLMs](http://arxiv.org/abs/2506.18985v2)** | 2025-06-30 |  |
 | **[EXPERT: An Explainable Image Captioning Evaluation Metric with Structured Explanations](http://arxiv.org/abs/2506.24016v1)** | 2025-06-30 | <details><summary>Accep...</summary><p>Accepted at ACL 2025 Findings</p></details> |
 | **[The Illusion of Progress? A Critical Look at Test-Time Adaptation for Vision-Language Models](http://arxiv.org/abs/2506.24000v1)** | 2025-06-30 | <details><summary>Githu...</summary><p>Github link: https://github.com/TomSheng21/tta-vlm</p></details> |
@@ -60,12 +68,4 @@ labels: documentation
 | **[Advancing Textual Prompt Learning with Anchored Attributes](http://arxiv.org/abs/2412.09442v2)** | 2025-06-30 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project Page: https://zhengli97.github.io/ATPrompt/</p></details> |
 | **[A Closer Look at Conditional Prompt Tuning for Vision-Language Models](http://arxiv.org/abs/2506.23856v1)** | 2025-06-30 | 18 pages |
 | **[Interpretable Zero-Shot Learning with Locally-Aligned Vision-Language Model](http://arxiv.org/abs/2506.23822v1)** | 2025-06-30 | Accepted to ICCV'25 |
-| **[Visual Textualization for Image Prompted Object Detection](http://arxiv.org/abs/2506.23785v1)** | 2025-06-30 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
-| **[PAC Bench: Do Foundation Models Understand Prerequisites for Executing Manipulation Policies?](http://arxiv.org/abs/2506.23725v1)** | 2025-06-30 |  |
-| **[On the Domain Robustness of Contrastive Vision-Language Models](http://arxiv.org/abs/2506.23663v1)** | 2025-06-30 | <details><summary>Deepb...</summary><p>Deepbench is available at https://github.com/ml-lab-htw/deepbench</p></details> |
-| **[TinyAlign: Boosting Lightweight Vision-Language Models by Mitigating Modal Alignment Bottlenecks](http://arxiv.org/abs/2505.12884v2)** | 2025-06-30 |  |
-| **[CAI: Caption-Sensitive Attention Intervention for Mitigating Object Hallucination in Large Vision-Language Models](http://arxiv.org/abs/2506.23590v1)** | 2025-06-30 |  |
-| **[A Clinically-Grounded Two-Stage Framework for Renal CT Report Generation](http://arxiv.org/abs/2506.23584v1)** | 2025-06-30 |  |
-| **[Generalizing vision-language models to novel domains: A comprehensive survey](http://arxiv.org/abs/2506.18504v2)** | 2025-06-30 |  |
-| **[Qwen-GUI-3B: A Lightweight Vision-Language Model for Cross-Resolution GUI Grounding](http://arxiv.org/abs/2506.23491v1)** | 2025-06-30 |  |
 
