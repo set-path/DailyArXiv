@@ -1,11 +1,13 @@
 ---
-title: Papers - July 03, 2025
+title: Papers - July 04, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models](http://arxiv.org/abs/2501.16769v5)** | 2025-07-02 | <details><summary>Accep...</summary><p>Accepted at the 17th IEEE International Conference on Advanced Computational Intelligence (ICACI 2025)</p></details> |
 | **[RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Radiology with Zero-Shot Multi-Task Capability](http://arxiv.org/abs/2504.07416v2)** | 2025-07-01 |  |
+| **[Diffusion-Based Image Augmentation for Semantic Segmentation in Outdoor Robotics](http://arxiv.org/abs/2507.00153v1)** | 2025-06-30 | <details><summary>Prese...</summary><p>Presented at the 2025 IEEE ICRA Workshop on Field Robotics</p></details> |
 | **[FastSeg: Efficient Training-Free Open-Vocabulary Segmentation via Hierarchical Attention Refinement Method](http://arxiv.org/abs/2506.23323v1)** | 2025-06-29 |  |
 | **[Unleashing the Multi-View Fusion Potential: Noise Correction in VLM for Open-Vocabulary 3D Scene Understanding](http://arxiv.org/abs/2506.22817v1)** | 2025-06-28 |  |
 | **[ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation](http://arxiv.org/abs/2506.21233v2)** | 2025-06-27 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
@@ -18,8 +20,6 @@ labels: documentation
 | **[Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2505.21844v1)** | 2025-05-28 |  |
 | **[OpenSeg-R: Improving Open-Vocabulary Segmentation via Step-by-Step Visual Reasoning](http://arxiv.org/abs/2505.16974v1)** | 2025-05-22 |  |
 | **[DPSeg: Dual-Prompt Cost Volume Learning for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2505.11676v1)** | 2025-05-16 | Accepted by CVPR2025 |
-| **[3D Vision-Language Gaussian Splatting](http://arxiv.org/abs/2410.07577v2)** | 2025-05-05 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025. Main paper + supplementary material</p></details> |
-| **[FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation](http://arxiv.org/abs/2504.10487v1)** | 2025-04-14 | <details><summary>Proje...</summary><p>Project Page: https://yasserben.github.io/FLOSS/</p></details> |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -53,19 +53,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Training Free Stylized Abstraction](http://arxiv.org/abs/2505.22663v2)** | 2025-07-01 | <details><summary>Proje...</summary><p>Project Page: https://kartik-3004.github.io/TF-SA/</p></details> |
-| **[The Hidden Life of Tokens: Reducing Hallucination of Large Vision-Language Models via Visual Information Steering](http://arxiv.org/abs/2502.03628v2)** | 2025-07-01 |  |
-| **[SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting](http://arxiv.org/abs/2506.23309v2)** | 2025-07-01 | <details><summary>MICCA...</summary><p>MICCAI 2025. Project Page: https://lastbasket.github.io/MICCAI-2025-SurgTPGS/</p></details> |
-| **[Exploring Text-Guided Single Image Editing for Remote Sensing Images](http://arxiv.org/abs/2405.05769v4)** | 2025-07-01 | <details><summary>17 pa...</summary><p>17 pages, 18 figures, Accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</p></details> |
-| **[Listener-Rewarded Thinking in VLMs for Image Preferences](http://arxiv.org/abs/2506.22832v2)** | 2025-07-01 |  |
-| **[ZonUI-3B: A Lightweight Vision-Language Model for Cross-Resolution GUI Grounding](http://arxiv.org/abs/2506.23491v2)** | 2025-07-01 |  |
-| **[Da Yu: Towards USV-Based Image Captioning for Waterway Surveillance and Scene Understanding](http://arxiv.org/abs/2506.19288v2)** | 2025-07-01 | 14 pages, 13 figures |
-| **[Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension](http://arxiv.org/abs/2412.03704v3)** | 2025-06-30 |  |
-| **[GLIMPSE: Gradient-Layer Importance Mapping for Prompted Visual Saliency Explanation for Generative LVLMs](http://arxiv.org/abs/2506.18985v2)** | 2025-06-30 |  |
-| **[EXPERT: An Explainable Image Captioning Evaluation Metric with Structured Explanations](http://arxiv.org/abs/2506.24016v1)** | 2025-06-30 | <details><summary>Accep...</summary><p>Accepted at ACL 2025 Findings</p></details> |
-| **[The Illusion of Progress? A Critical Look at Test-Time Adaptation for Vision-Language Models](http://arxiv.org/abs/2506.24000v1)** | 2025-06-30 | <details><summary>Githu...</summary><p>Github link: https://github.com/TomSheng21/tta-vlm</p></details> |
-| **[GroundingDINO-US-SAM: Text-Prompted Multi-Organ Segmentation in Ultrasound with LoRA-Tuned Vision-Language Models](http://arxiv.org/abs/2506.23903v1)** | 2025-06-30 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 6 figures</p></details> |
-| **[Advancing Textual Prompt Learning with Anchored Attributes](http://arxiv.org/abs/2412.09442v2)** | 2025-06-30 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project Page: https://zhengli97.github.io/ATPrompt/</p></details> |
-| **[A Closer Look at Conditional Prompt Tuning for Vision-Language Models](http://arxiv.org/abs/2506.23856v1)** | 2025-06-30 | 18 pages |
-| **[Interpretable Zero-Shot Learning with Locally-Aligned Vision-Language Model](http://arxiv.org/abs/2506.23822v1)** | 2025-06-30 | Accepted to ICCV'25 |
+| **[GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](http://arxiv.org/abs/2507.01006v2)** | 2025-07-02 |  |
+| **[How Do Vision-Language Models Process Conflicting Information Across Modalities?](http://arxiv.org/abs/2507.01790v1)** | 2025-07-02 | <details><summary>All c...</summary><p>All code and resources are available at: https://github.com/ethahtz/vlm_conflicting_info_processing</p></details> |
+| **[World-aware Planning Narratives Enhance Large Vision-Language Model Planner](http://arxiv.org/abs/2506.21230v2)** | 2025-07-02 |  |
+| **[Visual Structures Helps Visual Reasoning: Addressing the Binding Problem in VLMs](http://arxiv.org/abs/2506.22146v2)** | 2025-07-02 |  |
+| **[SURE-VQA: Systematic Understanding of Robustness Evaluation in Medical VQA Tasks](http://arxiv.org/abs/2411.19688v2)** | 2025-07-02 | TMLR 07/2025 |
+| **[Unified Triplet-Level Hallucination Evaluation for Large Vision-Language Models](http://arxiv.org/abs/2410.23114v3)** | 2025-07-02 | <details><summary>Accep...</summary><p>Accepted by TMLR 2025. Project Page: https://kaichen1998.github.io/projects/tri-he/</p></details> |
+| **[Mod-Adapter: Tuning-Free and Versatile Multi-concept Personalization via Modulation Adapter](http://arxiv.org/abs/2505.18612v2)** | 2025-07-02 | <details><summary>Proje...</summary><p>Project page: https://weizhi-zhong.github.io/Mod-Adapter</p></details> |
+| **[Facial Emotion Learning with Text-Guided Multiview Fusion via Vision-Language Model for 3D/4D Facial Expression Recognition](http://arxiv.org/abs/2507.01673v1)** | 2025-07-02 |  |
+| **[MARVIS: Modality Adaptive Reasoning over VISualizations](http://arxiv.org/abs/2507.01544v1)** | 2025-07-02 |  |
+| **[Following the Clues: Experiments on Person Re-ID using Cross-Modal Intelligence](http://arxiv.org/abs/2507.01504v1)** | 2025-07-02 | <details><summary>accep...</summary><p>accepted for publication at the 2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC 2025), taking place during November 18-21, 2025 in Gold Coast, Australia</p></details> |
+| **[BioMARS: A Multi-Agent Robotic System for Autonomous Biological Experiments](http://arxiv.org/abs/2507.01485v1)** | 2025-07-02 |  |
+| **[VLM2-Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues](http://arxiv.org/abs/2502.12084v4)** | 2025-07-02 | <details><summary>Proje...</summary><p>Project Page: https://vlm2-bench.github.io/ Camera Ready version</p></details> |
+| **[Advancing Textual Prompt Learning with Anchored Attributes](http://arxiv.org/abs/2412.09442v3)** | 2025-07-02 | <details><summary>ICCV ...</summary><p>ICCV 2025. Code: https://github.com/zhengli97/ATPrompt. Project Page: https://zhengli97.github.io/ATPrompt/</p></details> |
+| **[TriVLA: A Unified Triple-System-Based Unified Vision-Language-Action Model for General Robot Control](http://arxiv.org/abs/2507.01424v1)** | 2025-07-02 |  |
+| **[CaptionSmiths: Flexibly Controlling Language Pattern in Image Captioning](http://arxiv.org/abs/2507.01409v1)** | 2025-07-02 | Accepted to ICCV2025 |
 
