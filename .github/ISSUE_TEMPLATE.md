@@ -1,5 +1,5 @@
 ---
-title: Papers - July 04, 2025
+title: Papers - July 07, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,6 +24,7 @@ labels: documentation
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ViRefSAM: Visual Reference-Guided Segment Anything Model for Remote Sensing Segmentation](http://arxiv.org/abs/2507.02294v1)** | 2025-07-03 |  |
 | **[Baltimore Atlas: FreqWeaver Adapter for Semi-supervised Ultra-high Spatial Resolution Land Cover Classification](http://arxiv.org/abs/2506.15565v1)** | 2025-06-18 |  |
 | **[RS-MTDF: Multi-Teacher Distillation and Fusion for Remote Sensing Semi-Supervised Semantic Segmentation](http://arxiv.org/abs/2506.08772v2)** | 2025-06-11 |  |
 | **[F2Net: A Frequency-Fused Network for Ultra-High Resolution Remote Sensing Segmentation](http://arxiv.org/abs/2506.07847v1)** | 2025-06-09 |  |
@@ -38,7 +39,6 @@ labels: documentation
 | **[ALPS: An Auto-Labeling and Pre-training Scheme for Remote Sensing Segmentation With Segment Anything Model](http://arxiv.org/abs/2406.10855v1)** | 2024-06-16 |  |
 | **[Embedding Generalized Semantic Knowledge into Few-Shot Remote Sensing Segmentation](http://arxiv.org/abs/2405.13686v1)** | 2024-05-22 |  |
 | **[SFFNet: A Wavelet-Based Spatial and Frequency Domain Fusion Network for Remote Sensing Segmentation](http://arxiv.org/abs/2405.01992v1)** | 2024-05-03 |  |
-| **[RSAM-Seg: A SAM-based Approach with Prior Knowledge Integration for Remote Sensing Image Semantic Segmentation](http://arxiv.org/abs/2402.19004v1)** | 2024-02-29 | 12 pages, 11 figures |
 
 ## Remote Sensing Vision Language Model - Preview 6 papers
 | **Title** | **Date** | **Comment** |
@@ -53,19 +53,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CAD-Editor: A Locate-then-Infill Framework with Automated Training Data Synthesis for Text-Based CAD Editing](http://arxiv.org/abs/2502.03997v2)** | 2025-07-03 |  |
+| **[Code2Logic: Game-Code-Driven Data Synthesis for Enhancing VLMs General Reasoning](http://arxiv.org/abs/2505.13886v2)** | 2025-07-03 | <details><summary>63 pa...</summary><p>63 pages, 23 figures, submitted to NeurIPS 2025</p></details> |
+| **[TriVLA: A Triple-System-Based Unified Vision-Language-Action Model for General Robot Control](http://arxiv.org/abs/2507.01424v2)** | 2025-07-03 |  |
+| **[ArtGS:3D Gaussian Splatting for Interactive Visual-Physical Modeling and Manipulation of Articulated Objects](http://arxiv.org/abs/2507.02600v1)** | 2025-07-03 | <details><summary>Accep...</summary><p>Accepted by IROS 2025</p></details> |
+| **[SURE-VQA: Systematic Understanding of Robustness Evaluation in Medical VQA Tasks](http://arxiv.org/abs/2411.19688v3)** | 2025-07-03 | TMLR 07/2025 |
+| **[DeltaEdit: Exploring Text-free Training for Text-Driven Image Manipulation](http://arxiv.org/abs/2303.06285v2)** | 2025-07-03 | <details><summary>Code ...</summary><p>Code is available at https://github.com/Yueming6568/DeltaEdit</p></details> |
+| **[Skip-Vision: Efficient and Scalable Acceleration of Vision-Language Models via Adaptive Token Skipping](http://arxiv.org/abs/2503.21817v3)** | 2025-07-03 | Accepted by ICCV2025 |
+| **[Assessing the Uncertainty and Robustness of the Laptop Refurbishing Software](http://arxiv.org/abs/2409.03782v2)** | 2025-07-03 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 4 tables</p></details> |
+| **[cVLA: Towards Efficient Camera-Space VLAs](http://arxiv.org/abs/2507.02190v1)** | 2025-07-02 | 20 pages, 10 figures |
+| **[FeatSharp: Your Vision Model Features, Sharper](http://arxiv.org/abs/2502.16025v2)** | 2025-07-02 | ICML 2025 Version |
+| **[Privacy-Preserving in Connected and Autonomous Vehicles Through Vision to Text Transformation](http://arxiv.org/abs/2506.15854v2)** | 2025-07-02 |  |
+| **[Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges](http://arxiv.org/abs/2507.02074v1)** | 2025-07-02 |  |
 | **[GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](http://arxiv.org/abs/2507.01006v2)** | 2025-07-02 |  |
 | **[How Do Vision-Language Models Process Conflicting Information Across Modalities?](http://arxiv.org/abs/2507.01790v1)** | 2025-07-02 | <details><summary>All c...</summary><p>All code and resources are available at: https://github.com/ethahtz/vlm_conflicting_info_processing</p></details> |
 | **[World-aware Planning Narratives Enhance Large Vision-Language Model Planner](http://arxiv.org/abs/2506.21230v2)** | 2025-07-02 |  |
-| **[Visual Structures Helps Visual Reasoning: Addressing the Binding Problem in VLMs](http://arxiv.org/abs/2506.22146v2)** | 2025-07-02 |  |
-| **[SURE-VQA: Systematic Understanding of Robustness Evaluation in Medical VQA Tasks](http://arxiv.org/abs/2411.19688v2)** | 2025-07-02 | TMLR 07/2025 |
-| **[Unified Triplet-Level Hallucination Evaluation for Large Vision-Language Models](http://arxiv.org/abs/2410.23114v3)** | 2025-07-02 | <details><summary>Accep...</summary><p>Accepted by TMLR 2025. Project Page: https://kaichen1998.github.io/projects/tri-he/</p></details> |
-| **[Mod-Adapter: Tuning-Free and Versatile Multi-concept Personalization via Modulation Adapter](http://arxiv.org/abs/2505.18612v2)** | 2025-07-02 | <details><summary>Proje...</summary><p>Project page: https://weizhi-zhong.github.io/Mod-Adapter</p></details> |
-| **[Facial Emotion Learning with Text-Guided Multiview Fusion via Vision-Language Model for 3D/4D Facial Expression Recognition](http://arxiv.org/abs/2507.01673v1)** | 2025-07-02 |  |
-| **[MARVIS: Modality Adaptive Reasoning over VISualizations](http://arxiv.org/abs/2507.01544v1)** | 2025-07-02 |  |
-| **[Following the Clues: Experiments on Person Re-ID using Cross-Modal Intelligence](http://arxiv.org/abs/2507.01504v1)** | 2025-07-02 | <details><summary>accep...</summary><p>accepted for publication at the 2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC 2025), taking place during November 18-21, 2025 in Gold Coast, Australia</p></details> |
-| **[BioMARS: A Multi-Agent Robotic System for Autonomous Biological Experiments](http://arxiv.org/abs/2507.01485v1)** | 2025-07-02 |  |
-| **[VLM2-Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues](http://arxiv.org/abs/2502.12084v4)** | 2025-07-02 | <details><summary>Proje...</summary><p>Project Page: https://vlm2-bench.github.io/ Camera Ready version</p></details> |
-| **[Advancing Textual Prompt Learning with Anchored Attributes](http://arxiv.org/abs/2412.09442v3)** | 2025-07-02 | <details><summary>ICCV ...</summary><p>ICCV 2025. Code: https://github.com/zhengli97/ATPrompt. Project Page: https://zhengli97.github.io/ATPrompt/</p></details> |
-| **[TriVLA: A Unified Triple-System-Based Unified Vision-Language-Action Model for General Robot Control](http://arxiv.org/abs/2507.01424v1)** | 2025-07-02 |  |
-| **[CaptionSmiths: Flexibly Controlling Language Pattern in Image Captioning](http://arxiv.org/abs/2507.01409v1)** | 2025-07-02 | Accepted to ICCV2025 |
 
