@@ -1,14 +1,14 @@
 ---
-title: Papers - July 08, 2025
+title: Papers - July 09, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SwiftSeg: Efficient Training-Free Open-Vocabulary Segmentation via Hierarchical Attention Refinement Method](http://arxiv.org/abs/2506.23323v2)** | 2025-07-07 |  |
 | **[Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models](http://arxiv.org/abs/2501.16769v5)** | 2025-07-02 | <details><summary>Accep...</summary><p>Accepted at the 17th IEEE International Conference on Advanced Computational Intelligence (ICACI 2025)</p></details> |
 | **[RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Radiology with Zero-Shot Multi-Task Capability](http://arxiv.org/abs/2504.07416v2)** | 2025-07-01 |  |
 | **[Diffusion-Based Image Augmentation for Semantic Segmentation in Outdoor Robotics](http://arxiv.org/abs/2507.00153v1)** | 2025-06-30 | <details><summary>Prese...</summary><p>Presented at the 2025 IEEE ICRA Workshop on Field Robotics</p></details> |
-| **[FastSeg: Efficient Training-Free Open-Vocabulary Segmentation via Hierarchical Attention Refinement Method](http://arxiv.org/abs/2506.23323v1)** | 2025-06-29 |  |
 | **[Unleashing the Multi-View Fusion Potential: Noise Correction in VLM for Open-Vocabulary 3D Scene Understanding](http://arxiv.org/abs/2506.22817v1)** | 2025-06-28 |  |
 | **[ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation](http://arxiv.org/abs/2506.21233v2)** | 2025-06-27 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
 | **[LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation](http://arxiv.org/abs/2503.19777v2)** | 2025-06-25 |  |
@@ -53,19 +53,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CAD-Editor: A Locate-then-Infill Framework with Automated Training Data Synthesis for Text-Based CAD Editing](http://arxiv.org/abs/2502.03997v2)** | 2025-07-03 |  |
-| **[Code2Logic: Game-Code-Driven Data Synthesis for Enhancing VLMs General Reasoning](http://arxiv.org/abs/2505.13886v2)** | 2025-07-03 | <details><summary>63 pa...</summary><p>63 pages, 23 figures, submitted to NeurIPS 2025</p></details> |
-| **[TriVLA: A Triple-System-Based Unified Vision-Language-Action Model for General Robot Control](http://arxiv.org/abs/2507.01424v2)** | 2025-07-03 |  |
-| **[ArtGS:3D Gaussian Splatting for Interactive Visual-Physical Modeling and Manipulation of Articulated Objects](http://arxiv.org/abs/2507.02600v1)** | 2025-07-03 | <details><summary>Accep...</summary><p>Accepted by IROS 2025</p></details> |
-| **[SURE-VQA: Systematic Understanding of Robustness Evaluation in Medical VQA Tasks](http://arxiv.org/abs/2411.19688v3)** | 2025-07-03 | TMLR 07/2025 |
-| **[DeltaEdit: Exploring Text-free Training for Text-Driven Image Manipulation](http://arxiv.org/abs/2303.06285v2)** | 2025-07-03 | <details><summary>Code ...</summary><p>Code is available at https://github.com/Yueming6568/DeltaEdit</p></details> |
-| **[Skip-Vision: Efficient and Scalable Acceleration of Vision-Language Models via Adaptive Token Skipping](http://arxiv.org/abs/2503.21817v3)** | 2025-07-03 | Accepted by ICCV2025 |
-| **[Assessing the Uncertainty and Robustness of the Laptop Refurbishing Software](http://arxiv.org/abs/2409.03782v2)** | 2025-07-03 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 4 tables</p></details> |
-| **[cVLA: Towards Efficient Camera-Space VLAs](http://arxiv.org/abs/2507.02190v1)** | 2025-07-02 | 20 pages, 10 figures |
-| **[FeatSharp: Your Vision Model Features, Sharper](http://arxiv.org/abs/2502.16025v2)** | 2025-07-02 | ICML 2025 Version |
-| **[Privacy-Preserving in Connected and Autonomous Vehicles Through Vision to Text Transformation](http://arxiv.org/abs/2506.15854v2)** | 2025-07-02 |  |
-| **[Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges](http://arxiv.org/abs/2507.02074v1)** | 2025-07-02 |  |
-| **[GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](http://arxiv.org/abs/2507.01006v2)** | 2025-07-02 |  |
-| **[How Do Vision-Language Models Process Conflicting Information Across Modalities?](http://arxiv.org/abs/2507.01790v1)** | 2025-07-02 | <details><summary>All c...</summary><p>All code and resources are available at: https://github.com/ethahtz/vlm_conflicting_info_processing</p></details> |
-| **[World-aware Planning Narratives Enhance Large Vision-Language Model Planner](http://arxiv.org/abs/2506.21230v2)** | 2025-07-02 |  |
+| **[Judging the Judges: Can Large Vision-Language Models Fairly Evaluate Chart Comprehension and Reasoning?](http://arxiv.org/abs/2505.08468v2)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted at ACL 2025 Industry Track</p></details> |
+| **[NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving](http://arxiv.org/abs/2507.05227v1)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted by ACM Multimedia 2025</p></details> |
+| **[All in One: Visual-Description-Guided Unified Point Cloud Segmentation](http://arxiv.org/abs/2507.05211v1)** | 2025-07-07 | Accepted by ICCV2025 |
+| **[Differential Attention for Multimodal Crisis Event Analysis](http://arxiv.org/abs/2507.05165v1)** | 2025-07-07 | <details><summary>Prese...</summary><p>Presented at CVPRw 2025, MMFM3</p></details> |
+| **[SVLA: A Unified Speech-Vision-Language Assistant with Multimodal Reasoning and Speech Generation](http://arxiv.org/abs/2503.24164v2)** | 2025-07-07 | 21 pages |
+| **[INTER: Mitigating Hallucination in Large Vision-Language Models by Interaction Guidance Sampling](http://arxiv.org/abs/2507.05056v1)** | 2025-07-07 |  |
+| **[Adaptation of Multi-modal Representation Models for Multi-task Surgical Computer Vision](http://arxiv.org/abs/2507.05020v1)** | 2025-07-07 |  |
+| **[PEVLM: Parallel Encoding for Vision-Language Models](http://arxiv.org/abs/2506.19651v2)** | 2025-07-07 |  |
+| **[BiMa: Towards Biases Mitigation for Text-Video Retrieval via Scene Element Guidance](http://arxiv.org/abs/2506.03589v3)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted at ACM MM 2025</p></details> |
+| **[Training-free Generation of Temporally Consistent Rewards from VLMs](http://arxiv.org/abs/2507.04789v1)** | 2025-07-07 |  |
+| **[Vision-Language Models Can't See the Obvious](http://arxiv.org/abs/2507.04741v1)** | 2025-07-07 |  |
+| **[An analysis of vision-language models for fabric retrieval](http://arxiv.org/abs/2507.04735v1)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted at Ital-IA 2025</p></details> |
+| **[A Visual Leap in CLIP Compositionality Reasoning through Generation of Counterfactual Sets](http://arxiv.org/abs/2507.04699v1)** | 2025-07-07 |  |
+| **[Domain Adaptation of VLM for Soccer Video Understanding](http://arxiv.org/abs/2505.13860v2)** | 2025-07-07 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, accepted to the 11th IEEE International Workshop on Computer Vision in Sports (CVSports) at CVPR 2025; supplementary appendix included</p></details> |
+| **[MOSU: Autonomous Long-range Robot Navigation with Multi-modal Scene Understanding](http://arxiv.org/abs/2507.04686v1)** | 2025-07-07 |  |
 
