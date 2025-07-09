@@ -1,5 +1,5 @@
 ---
-title: Papers - July 09, 2025
+title: Papers - July 10, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -53,19 +53,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Judging the Judges: Can Large Vision-Language Models Fairly Evaluate Chart Comprehension and Reasoning?](http://arxiv.org/abs/2505.08468v2)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted at ACL 2025 Industry Track</p></details> |
-| **[NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving](http://arxiv.org/abs/2507.05227v1)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted by ACM Multimedia 2025</p></details> |
-| **[All in One: Visual-Description-Guided Unified Point Cloud Segmentation](http://arxiv.org/abs/2507.05211v1)** | 2025-07-07 | Accepted by ICCV2025 |
-| **[Differential Attention for Multimodal Crisis Event Analysis](http://arxiv.org/abs/2507.05165v1)** | 2025-07-07 | <details><summary>Prese...</summary><p>Presented at CVPRw 2025, MMFM3</p></details> |
-| **[SVLA: A Unified Speech-Vision-Language Assistant with Multimodal Reasoning and Speech Generation](http://arxiv.org/abs/2503.24164v2)** | 2025-07-07 | 21 pages |
-| **[INTER: Mitigating Hallucination in Large Vision-Language Models by Interaction Guidance Sampling](http://arxiv.org/abs/2507.05056v1)** | 2025-07-07 |  |
-| **[Adaptation of Multi-modal Representation Models for Multi-task Surgical Computer Vision](http://arxiv.org/abs/2507.05020v1)** | 2025-07-07 |  |
-| **[PEVLM: Parallel Encoding for Vision-Language Models](http://arxiv.org/abs/2506.19651v2)** | 2025-07-07 |  |
-| **[BiMa: Towards Biases Mitigation for Text-Video Retrieval via Scene Element Guidance](http://arxiv.org/abs/2506.03589v3)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted at ACM MM 2025</p></details> |
-| **[Training-free Generation of Temporally Consistent Rewards from VLMs](http://arxiv.org/abs/2507.04789v1)** | 2025-07-07 |  |
-| **[Vision-Language Models Can't See the Obvious](http://arxiv.org/abs/2507.04741v1)** | 2025-07-07 |  |
-| **[An analysis of vision-language models for fabric retrieval](http://arxiv.org/abs/2507.04735v1)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted at Ital-IA 2025</p></details> |
-| **[A Visual Leap in CLIP Compositionality Reasoning through Generation of Counterfactual Sets](http://arxiv.org/abs/2507.04699v1)** | 2025-07-07 |  |
-| **[Domain Adaptation of VLM for Soccer Video Understanding](http://arxiv.org/abs/2505.13860v2)** | 2025-07-07 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, accepted to the 11th IEEE International Workshop on Computer Vision in Sports (CVSports) at CVPR 2025; supplementary appendix included</p></details> |
-| **[MOSU: Autonomous Long-range Robot Navigation with Multi-modal Scene Understanding](http://arxiv.org/abs/2507.04686v1)** | 2025-07-07 |  |
+| **[CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions](http://arxiv.org/abs/2507.06210v1)** | 2025-07-08 | 25 pages, COLM 2025 |
+| **[Enhancing Scientific Visual Question Answering through Multimodal Reasoning and Ensemble Modeling](http://arxiv.org/abs/2507.06183v1)** | 2025-07-08 |  |
+| **[Skywork-R1V3 Technical Report](http://arxiv.org/abs/2507.06167v1)** | 2025-07-08 |  |
+| **[LangMamba: A Language-driven Mamba Framework for Low-dose CT Denoising with Vision-language Models](http://arxiv.org/abs/2507.06140v1)** | 2025-07-08 | 11 pages, 8 figures |
+| **[Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation](http://arxiv.org/abs/2506.22827v2)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted at the RSS 2025 Workshop on Robot Planning in the Era of Foundation Models</p></details> |
+| **[FA: Forced Prompt Learning of Vision-Language Models for Out-of-Distribution Detection](http://arxiv.org/abs/2507.04511v2)** | 2025-07-08 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, Accepted by ICCV2025</p></details> |
+| **[GeoMag: A Vision-Language Model for Pixel-level Fine-Grained Remote Sensing Image Parsing](http://arxiv.org/abs/2507.05887v1)** | 2025-07-08 |  |
+| **[Bridging Perception and Language: A Systematic Benchmark for LVLMs' Understanding of Amodal Completion Reports](http://arxiv.org/abs/2507.05799v1)** | 2025-07-08 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the 47th Annual Meeting of the Cognitive Science Society (COGSCI 2025)</p></details> |
+| **[SPADE: Spatial-Aware Denoising Network for Open-vocabulary Panoptic Scene Graph Generation with Long- and Local-range Context Reasoning](http://arxiv.org/abs/2507.05798v1)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
+| **[Challenging Vision-Language Models with Surgical Data: A New Dataset and Broad Benchmarking Study](http://arxiv.org/abs/2506.06232v2)** | 2025-07-08 |  |
+| **[A Satellite-Ground Synergistic Large Vision-Language Model System for Earth Observation](http://arxiv.org/abs/2507.05731v1)** | 2025-07-08 | 11 pages, 12 figures |
+| **[Integrated Structural Prompt Learning for Vision-Language Models](http://arxiv.org/abs/2507.05677v1)** | 2025-07-08 |  |
+| **[R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding](http://arxiv.org/abs/2507.05673v1)** | 2025-07-08 | ACL 2025; 17 pages |
+| **[Dynamic Rank Adaptation for Vision-Language Models](http://arxiv.org/abs/2507.05668v1)** | 2025-07-08 |  |
+| **[AnyAnomaly: Zero-Shot Customizable Video Anomaly Detection with LVLM](http://arxiv.org/abs/2503.04504v2)** | 2025-07-08 |  |
 
