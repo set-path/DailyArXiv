@@ -1,5 +1,5 @@
 ---
-title: Papers - July 10, 2025
+title: Papers - July 11, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -53,19 +53,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions](http://arxiv.org/abs/2507.06210v1)** | 2025-07-08 | 25 pages, COLM 2025 |
-| **[Enhancing Scientific Visual Question Answering through Multimodal Reasoning and Ensemble Modeling](http://arxiv.org/abs/2507.06183v1)** | 2025-07-08 |  |
-| **[Skywork-R1V3 Technical Report](http://arxiv.org/abs/2507.06167v1)** | 2025-07-08 |  |
-| **[LangMamba: A Language-driven Mamba Framework for Low-dose CT Denoising with Vision-language Models](http://arxiv.org/abs/2507.06140v1)** | 2025-07-08 | 11 pages, 8 figures |
-| **[Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation](http://arxiv.org/abs/2506.22827v2)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted at the RSS 2025 Workshop on Robot Planning in the Era of Foundation Models</p></details> |
-| **[FA: Forced Prompt Learning of Vision-Language Models for Out-of-Distribution Detection](http://arxiv.org/abs/2507.04511v2)** | 2025-07-08 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, Accepted by ICCV2025</p></details> |
-| **[GeoMag: A Vision-Language Model for Pixel-level Fine-Grained Remote Sensing Image Parsing](http://arxiv.org/abs/2507.05887v1)** | 2025-07-08 |  |
-| **[Bridging Perception and Language: A Systematic Benchmark for LVLMs' Understanding of Amodal Completion Reports](http://arxiv.org/abs/2507.05799v1)** | 2025-07-08 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the 47th Annual Meeting of the Cognitive Science Society (COGSCI 2025)</p></details> |
-| **[SPADE: Spatial-Aware Denoising Network for Open-vocabulary Panoptic Scene Graph Generation with Long- and Local-range Context Reasoning](http://arxiv.org/abs/2507.05798v1)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
-| **[Challenging Vision-Language Models with Surgical Data: A New Dataset and Broad Benchmarking Study](http://arxiv.org/abs/2506.06232v2)** | 2025-07-08 |  |
-| **[A Satellite-Ground Synergistic Large Vision-Language Model System for Earth Observation](http://arxiv.org/abs/2507.05731v1)** | 2025-07-08 | 11 pages, 12 figures |
-| **[Integrated Structural Prompt Learning for Vision-Language Models](http://arxiv.org/abs/2507.05677v1)** | 2025-07-08 |  |
-| **[R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding](http://arxiv.org/abs/2507.05673v1)** | 2025-07-08 | ACL 2025; 17 pages |
-| **[Dynamic Rank Adaptation for Vision-Language Models](http://arxiv.org/abs/2507.05668v1)** | 2025-07-08 |  |
-| **[AnyAnomaly: Zero-Shot Customizable Video Anomaly Detection with LVLM](http://arxiv.org/abs/2503.04504v2)** | 2025-07-08 |  |
+| **[4KAgent: Agentic Any Image to 4K Super-Resolution](http://arxiv.org/abs/2507.07105v1)** | 2025-07-09 | <details><summary>Proje...</summary><p>Project page: https://4kagent.github.io</p></details> |
+| **[Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models](http://arxiv.org/abs/2507.07104v1)** | 2025-07-09 |  |
+| **[Evaluating Attribute Confusion in Fashion Text-to-Image Generation](http://arxiv.org/abs/2507.07079v1)** | 2025-07-09 | <details><summary>Accep...</summary><p>Accepted to ICIAP25. Project page: site [https://intelligolabs.github.io/L-VQAScore/\</p></details> |
+| **[Free on the Fly: Enhancing Flexibility in Test-Time Adaptation with Online EM](http://arxiv.org/abs/2507.06973v1)** | 2025-07-09 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
+| **[CheXPO: Preference Optimization for Chest X-ray VLMs with Counterfactual Rationale](http://arxiv.org/abs/2507.06959v1)** | 2025-07-09 |  |
+| **[OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning](http://arxiv.org/abs/2505.08617v2)** | 2025-07-09 | Work in progress |
+| **[VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation](http://arxiv.org/abs/2507.06899v1)** | 2025-07-09 |  |
+| **[HVI-CIDNet+: Beyond Extreme Darkness for Low-Light Image Enhancement](http://arxiv.org/abs/2507.06814v1)** | 2025-07-09 | 14 pages |
+| **[Finetuning Vision-Language Models as OCR Systems for Low-Resource Languages: A Case Study of Manchu](http://arxiv.org/abs/2507.06761v1)** | 2025-07-09 |  |
+| **[Text-promptable Object Counting via Quantity Awareness Enhancement](http://arxiv.org/abs/2507.06679v1)** | 2025-07-09 | 13 pages, 5 figures |
+| **[Animation Needs Attention: A Holistic Approach to Slides Animation Comprehension with Visual-Language Models](http://arxiv.org/abs/2507.03916v2)** | 2025-07-09 | <details><summary>Appen...</summary><p>Appendix at: https://github.com/PAMPAS-Lab/ANA-PPT-Anamation/blob/main/Appendix.pdf</p></details> |
+| **[Cross-Modal Dual-Causal Learning for Long-Term Action Recognition](http://arxiv.org/abs/2507.06603v1)** | 2025-07-09 |  |
+| **[DriveMRP: Enhancing Vision-Language Models with Synthetic Motion Data for Motion Risk Prediction](http://arxiv.org/abs/2507.02948v2)** | 2025-07-09 | <details><summary>12 pa...</summary><p>12 pages, 4 figures. Code available at https://github.com/hzy138/DriveMRP</p></details> |
+| **[Integrated Structural Prompt Learning for Vision-Language Models](http://arxiv.org/abs/2507.05677v2)** | 2025-07-09 |  |
+| **[Bilateral Collaboration with Large Vision-Language Models for Open Vocabulary Human-Object Interaction Detection](http://arxiv.org/abs/2507.06510v1)** | 2025-07-09 | ICCV 2025 |
 
