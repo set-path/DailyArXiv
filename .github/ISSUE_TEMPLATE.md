@@ -1,5 +1,5 @@
 ---
-title: Papers - July 14, 2025
+title: Papers - July 15, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -53,19 +53,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ViLU: Learning Vision-Language Uncertainties for Failure Prediction](http://arxiv.org/abs/2507.07620v2)** | 2025-07-11 |  |
+| **[ByDeWay: Boost Your multimodal LLM with DEpth prompting in a Training-Free Way](http://arxiv.org/abs/2507.08679v1)** | 2025-07-11 |  |
+| **[Adaptive Framework for Ambient Intelligence in Rehabilitation Assistance](http://arxiv.org/abs/2507.08624v1)** | 2025-07-11 | <details><summary>The p...</summary><p>The paper has been submitted to a journal and waiting for review</p></details> |
+| **[Emergent Natural Language with Communication Games for Improving Image Captioning Capabilities without Additional Data](http://arxiv.org/abs/2507.08610v1)** | 2025-07-11 |  |
+| **[BayesTTA: Continual-Temporal Test-Time Adaptation for Vision-Language Models via Gaussian Discriminant Analysis](http://arxiv.org/abs/2507.08607v1)** | 2025-07-11 |  |
+| **[Efficient Deployment of Vision-Language Models on Mobile Devices: A Case Study on OnePlus 13R](http://arxiv.org/abs/2507.08505v1)** | 2025-07-11 |  |
+| **[LLaPa: A Vision-Language Model Framework for Counterfactual-Aware Procedural Planning](http://arxiv.org/abs/2507.08496v1)** | 2025-07-11 |  |
+| **[Multi-modal Mutual-Guidance Conditional Prompt Learning for Vision-Language Models](http://arxiv.org/abs/2507.08410v1)** | 2025-07-11 | 21 pages, 8 figures |
+| **[GTR: Guided Thought Reinforcement Prevents Thought Collapse in RL-based VLM Agent Training](http://arxiv.org/abs/2503.08525v2)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
+| **[Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models](http://arxiv.org/abs/2507.07104v2)** | 2025-07-11 | <details><summary>Proje...</summary><p>Project Page: https://lambert-x.github.io/Vision-Language-Vision/</p></details> |
+| **[AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions](http://arxiv.org/abs/2506.14697v2)** | 2025-07-11 | <details><summary>MAS@I...</summary><p>MAS@ICML 2025 camera ready</p></details> |
+| **[Entity Re-identification in Visual Storytelling via Contrastive Reinforcement Learning](http://arxiv.org/abs/2507.07340v2)** | 2025-07-11 | 7 pages |
+| **[Making VLMs More Robot-Friendly: Self-Critical Distillation of Low-Level Procedural Reasoning](http://arxiv.org/abs/2507.08224v1)** | 2025-07-11 | <details><summary>Code ...</summary><p>Code Available: https://github.com/chan0park/SelfReVision</p></details> |
 | **[CLIP Won't Learn Object-Attribute Binding from Natural Data and Here is Why](http://arxiv.org/abs/2507.07985v1)** | 2025-07-10 |  |
 | **[Scaling RL to Long Videos](http://arxiv.org/abs/2507.07966v1)** | 2025-07-10 | <details><summary>Code ...</summary><p>Code and models are available at https://github.com/NVlabs/Long-RL</p></details> |
-| **[SAGE: A Visual Language Model for Anomaly Detection via Fact Enhancement and Entropy-aware Alignment](http://arxiv.org/abs/2507.07939v1)** | 2025-07-10 | <details><summary>Accep...</summary><p>Accepted by ACMMM2025</p></details> |
-| **[Skywork-R1V3 Technical Report](http://arxiv.org/abs/2507.06167v3)** | 2025-07-10 |  |
-| **[MoSE: Skill-by-Skill Mixture-of-Expert Learning for Autonomous Driving](http://arxiv.org/abs/2507.07818v1)** | 2025-07-10 |  |
-| **[Energy-Guided Decoding for Object Hallucination Mitigation](http://arxiv.org/abs/2507.07731v1)** | 2025-07-10 |  |
-| **[One Object, Multiple Lies: A Benchmark for Cross-task Adversarial Attack on Unified Vision-Language Models](http://arxiv.org/abs/2507.07709v1)** | 2025-07-10 |  |
-| **[Adaptation of Multi-modal Representation Models for Multi-task Surgical Computer Vision](http://arxiv.org/abs/2507.05020v2)** | 2025-07-10 |  |
-| **[Rationale-Enhanced Decoding for Multi-modal Chain-of-Thought](http://arxiv.org/abs/2507.07685v1)** | 2025-07-10 | 17 pages, 4 figures |
-| **[ViLU: Learning Vision-Language Uncertainties for Failure Prediction](http://arxiv.org/abs/2507.07620v1)** | 2025-07-10 |  |
-| **[LOSC: LiDAR Open-voc Segmentation Consolidator](http://arxiv.org/abs/2507.07605v1)** | 2025-07-10 |  |
-| **[The Synergy Dilemma of Long-CoT SFT and RL: Investigating Post-Training Techniques for Reasoning VLMs](http://arxiv.org/abs/2507.07562v1)** | 2025-07-10 |  |
-| **[Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation](http://arxiv.org/abs/2506.22827v3)** | 2025-07-10 | <details><summary>Accep...</summary><p>Accepted at the RSS 2025 Workshop on Robot Planning in the Era of Foundation Models</p></details> |
-| **[ArchiveGPT: A human-centered evaluation of using a vision language model for image cataloguing](http://arxiv.org/abs/2507.07551v1)** | 2025-07-10 | 56 pages, 7 figures |
-| **[Entity Re-identification in Visual Storytelling via Contrastive Reinforcement Learning](http://arxiv.org/abs/2507.07340v1)** | 2025-07-09 | 7 pages |
 
