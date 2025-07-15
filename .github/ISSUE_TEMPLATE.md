@@ -1,10 +1,11 @@
 ---
-title: Papers - July 15, 2025
+title: Papers - July 16, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CorrCLIP: Reconstructing Patch Correlations in CLIP for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2411.10086v2)** | 2025-07-13 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
 | **[SwiftSeg: Efficient Training-Free Open-Vocabulary Segmentation via Hierarchical Attention Refinement Method](http://arxiv.org/abs/2506.23323v2)** | 2025-07-07 |  |
 | **[Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models](http://arxiv.org/abs/2501.16769v5)** | 2025-07-02 | <details><summary>Accep...</summary><p>Accepted at the 17th IEEE International Conference on Advanced Computational Intelligence (ICACI 2025)</p></details> |
 | **[RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Radiology with Zero-Shot Multi-Task Capability](http://arxiv.org/abs/2504.07416v2)** | 2025-07-01 |  |
@@ -19,7 +20,6 @@ labels: documentation
 | **[A Survey on Training-free Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2505.22209v1)** | 2025-05-28 |  |
 | **[Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2505.21844v1)** | 2025-05-28 |  |
 | **[OpenSeg-R: Improving Open-Vocabulary Segmentation via Step-by-Step Visual Reasoning](http://arxiv.org/abs/2505.16974v1)** | 2025-05-22 |  |
-| **[DPSeg: Dual-Prompt Cost Volume Learning for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2505.11676v1)** | 2025-05-16 | Accepted by CVPR2025 |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -53,19 +53,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ViLU: Learning Vision-Language Uncertainties for Failure Prediction](http://arxiv.org/abs/2507.07620v2)** | 2025-07-11 |  |
-| **[ByDeWay: Boost Your multimodal LLM with DEpth prompting in a Training-Free Way](http://arxiv.org/abs/2507.08679v1)** | 2025-07-11 |  |
-| **[Adaptive Framework for Ambient Intelligence in Rehabilitation Assistance](http://arxiv.org/abs/2507.08624v1)** | 2025-07-11 | <details><summary>The p...</summary><p>The paper has been submitted to a journal and waiting for review</p></details> |
-| **[Emergent Natural Language with Communication Games for Improving Image Captioning Capabilities without Additional Data](http://arxiv.org/abs/2507.08610v1)** | 2025-07-11 |  |
-| **[BayesTTA: Continual-Temporal Test-Time Adaptation for Vision-Language Models via Gaussian Discriminant Analysis](http://arxiv.org/abs/2507.08607v1)** | 2025-07-11 |  |
-| **[Efficient Deployment of Vision-Language Models on Mobile Devices: A Case Study on OnePlus 13R](http://arxiv.org/abs/2507.08505v1)** | 2025-07-11 |  |
-| **[LLaPa: A Vision-Language Model Framework for Counterfactual-Aware Procedural Planning](http://arxiv.org/abs/2507.08496v1)** | 2025-07-11 |  |
-| **[Multi-modal Mutual-Guidance Conditional Prompt Learning for Vision-Language Models](http://arxiv.org/abs/2507.08410v1)** | 2025-07-11 | 21 pages, 8 figures |
-| **[GTR: Guided Thought Reinforcement Prevents Thought Collapse in RL-based VLM Agent Training](http://arxiv.org/abs/2503.08525v2)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
-| **[Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models](http://arxiv.org/abs/2507.07104v2)** | 2025-07-11 | <details><summary>Proje...</summary><p>Project Page: https://lambert-x.github.io/Vision-Language-Vision/</p></details> |
-| **[AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions](http://arxiv.org/abs/2506.14697v2)** | 2025-07-11 | <details><summary>MAS@I...</summary><p>MAS@ICML 2025 camera ready</p></details> |
-| **[Entity Re-identification in Visual Storytelling via Contrastive Reinforcement Learning](http://arxiv.org/abs/2507.07340v2)** | 2025-07-11 | 7 pages |
-| **[Making VLMs More Robot-Friendly: Self-Critical Distillation of Low-Level Procedural Reasoning](http://arxiv.org/abs/2507.08224v1)** | 2025-07-11 | <details><summary>Code ...</summary><p>Code Available: https://github.com/chan0park/SelfReVision</p></details> |
-| **[CLIP Won't Learn Object-Attribute Binding from Natural Data and Here is Why](http://arxiv.org/abs/2507.07985v1)** | 2025-07-10 |  |
-| **[Scaling RL to Long Videos](http://arxiv.org/abs/2507.07966v1)** | 2025-07-10 | <details><summary>Code ...</summary><p>Code and models are available at https://github.com/NVlabs/Long-RL</p></details> |
+| **[EmbRACE-3K: Embodied Reasoning and Action in Complex Environments](http://arxiv.org/abs/2507.10548v1)** | 2025-07-14 | <details><summary>Proje...</summary><p>Project page: https://mxllc.github.io/EmbRACE-3K/</p></details> |
+| **[Visual Test-time Scaling for GUI Agent Grounding](http://arxiv.org/abs/2505.00684v2)** | 2025-07-14 | <details><summary>ICCV2...</summary><p>ICCV2025, https://github.com/tiangeluo/RegionFocus</p></details> |
+| **[CoralVQA: A Large-Scale Visual Question Answering Dataset for Coral Reef Image Understanding](http://arxiv.org/abs/2507.10449v1)** | 2025-07-14 |  |
+| **[PrefixKV: Adaptive Prefix KV Cache is What Vision Instruction-Following Models Need for Efficient Generation](http://arxiv.org/abs/2412.03409v3)** | 2025-07-14 | 12 pages, 5 figures; |
+| **[Beyond Graph Model: Reliable VLM Fine-Tuning via Random Graph Adapter](http://arxiv.org/abs/2507.10355v1)** | 2025-07-14 |  |
+| **[Synthesizing Near-Boundary OOD Samples for Out-of-Distribution Detection](http://arxiv.org/abs/2507.10225v1)** | 2025-07-14 |  |
+| **[BlueGlass: A Framework for Composite AI Safety](http://arxiv.org/abs/2507.10106v1)** | 2025-07-14 | <details><summary>Accep...</summary><p>Accepted at ICML 2025 [Actionable Interpretability Workshop]</p></details> |
+| **[Following the Clues: Experiments on Person Re-ID using Cross-Modal Intelligence](http://arxiv.org/abs/2507.01504v2)** | 2025-07-14 | <details><summary>accep...</summary><p>accepted for publication at the 2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC 2025), taking place during November 18-21, 2025 in Gold Coast, Australia</p></details> |
+| **[Foundation Model Driven Robotics: A Comprehensive Review](http://arxiv.org/abs/2507.10087v1)** | 2025-07-14 |  |
+| **[LayLens: Improving Deepfake Understanding through Simplified Explanations](http://arxiv.org/abs/2507.10066v1)** | 2025-07-14 |  |
+| **[CoSMo: A Multimodal Transformer for Page Stream Segmentation in Comic Books](http://arxiv.org/abs/2507.10053v1)** | 2025-07-14 |  |
+| **[Efficient Deployment of Vision-Language Models on Mobile Devices: A Case Study on OnePlus 13R](http://arxiv.org/abs/2507.08505v2)** | 2025-07-14 |  |
+| **[Text-Driven Causal Representation Learning for Source-Free Domain Generalization](http://arxiv.org/abs/2507.09961v1)** | 2025-07-14 | Under Review |
+| **[MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks](http://arxiv.org/abs/2410.10563v3)** | 2025-07-13 | <details><summary>ICLR ...</summary><p>ICLR 2025 camera-ready version. Project page: https://tiger-ai-lab.github.io/MEGA-Bench/</p></details> |
+| **[VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information](http://arxiv.org/abs/2412.00947v3)** | 2025-07-13 | <details><summary>COLM ...</summary><p>COLM 2025. VisOnlyQA dataset, code, and model responses are provided at https://github.com/psunlpgroup/VisOnlyQA. Please also refer to our project website at https://visonlyqa.github.io/</p></details> |
 
