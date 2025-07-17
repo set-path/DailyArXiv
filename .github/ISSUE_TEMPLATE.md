@@ -1,5 +1,5 @@
 ---
-title: Papers - July 17, 2025
+title: Papers - July 18, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -50,22 +50,10 @@ labels: documentation
 | **[Mind the Modality Gap: Towards a Remote Sensing Vision-Language Model via Cross-modal Alignment](http://arxiv.org/abs/2402.09816v1)** | 2024-02-15 |  |
 | **[RSGPT: A Remote Sensing Vision Language Model and Benchmark](http://arxiv.org/abs/2307.15266v1)** | 2023-07-28 |  |
 
-## Vision Language Model - Preview 15 papers
+## Vision Language Model - Preview 3 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LongDocURL: a Comprehensive Multimodal Long Document Benchmark Integrating Understanding, Reasoning, and Locating](http://arxiv.org/abs/2412.18424v3)** | 2025-07-15 |  |
-| **[Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models](http://arxiv.org/abs/2502.19417v2)** | 2025-07-15 | ICML 2025 |
-| **[Following the Clues: Experiments on Person Re-ID using Cross-Modal Intelligence](http://arxiv.org/abs/2507.01504v3)** | 2025-07-15 | <details><summary>accep...</summary><p>accepted for publication at the 2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC 2025), taking place during November 18-21, 2025 in Gold Coast, Australia</p></details> |
-| **[How Far Have Medical Vision-Language Models Come? A Comprehensive Benchmarking Study](http://arxiv.org/abs/2507.11200v1)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted by the International Conference on AI in Healthcare 2025</p></details> |
-| **[Bridging the Gap in Vision Language Models in Identifying Unsafe Concepts Across Modalities](http://arxiv.org/abs/2507.11155v1)** | 2025-07-15 | <details><summary>To Ap...</summary><p>To Appear in the 34th USENIX Security Symposium, August 2025</p></details> |
-| **[Assessing Color Vision Test in Large Vision-language Models](http://arxiv.org/abs/2507.11153v1)** | 2025-07-15 |  |
-| **[MSA at ImageCLEF 2025 Multimodal Reasoning: Multilingual Multimodal Reasoning With Ensemble Vision Language Models](http://arxiv.org/abs/2507.11114v1)** | 2025-07-15 |  |
-| **[Tactical Decision for Multi-UGV Confrontation with a Vision-Language Model-Based Commander](http://arxiv.org/abs/2507.11079v1)** | 2025-07-15 |  |
-| **[GroundingSuite: Measuring Complex Multi-Granular Pixel Grounding](http://arxiv.org/abs/2503.10596v3)** | 2025-07-15 | <details><summary>To ap...</summary><p>To appear at ICCV 2025. Code: https://github.com/hustvl/GroundingSuite</p></details> |
-| **[Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging](http://arxiv.org/abs/2505.05464v2)** | 2025-07-15 | <details><summary>ICML ...</summary><p>ICML 2025. Camera-ready version updated. Our code is publicly available at https://github.com/shiqichen17/VLM_Merging</p></details> |
-| **[Bridge Feature Matching and Cross-Modal Alignment with Mutual-filtering for Zero-shot Anomaly Detection](http://arxiv.org/abs/2507.11003v1)** | 2025-07-15 |  |
-| **[LVLM-MPC Collaboration for Autonomous Driving: A Safety-Aware and Task-Scalable Control Architecture](http://arxiv.org/abs/2505.04980v2)** | 2025-07-15 | 8 pages, 8 figures |
-| **[TAB: Transformer Attention Bottlenecks enable User Intervention and Debugging in Vision-Language Models](http://arxiv.org/abs/2412.18675v4)** | 2025-07-14 |  |
-| **[EmbRACE-3K: Embodied Reasoning and Action in Complex Environments](http://arxiv.org/abs/2507.10548v1)** | 2025-07-14 | <details><summary>Proje...</summary><p>Project page: https://mxllc.github.io/EmbRACE-3K/</p></details> |
-| **[Visual Test-time Scaling for GUI Agent Grounding](http://arxiv.org/abs/2505.00684v2)** | 2025-07-14 | <details><summary>ICCV2...</summary><p>ICCV2025, https://github.com/tiangeluo/RegionFocus</p></details> |
+| **[PhysX: Physical-Grounded 3D Asset Generation](http://arxiv.org/abs/2507.12465v1)** | 2025-07-16 | <details><summary>Proje...</summary><p>Project page: https://physx-3d.github.io/</p></details> |
+| **[Describe Anything Model for Visual Question Answering on Text-rich Images](http://arxiv.org/abs/2507.12441v1)** | 2025-07-16 | <details><summary>11 pa...</summary><p>11 pages, 5 figures. Accepted to VisionDocs @ ICCV 2025</p></details> |
+| **[AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models](http://arxiv.org/abs/2507.12414v1)** | 2025-07-16 |  |
 
