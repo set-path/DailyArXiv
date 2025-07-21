@@ -1,5 +1,5 @@
 ---
-title: Papers - July 21, 2025
+title: Papers - July 22, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -43,29 +43,29 @@ labels: documentation
 ## Remote Sensing Vision Language Model - Preview 6 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mind the Modality Gap: Towards a Remote Sensing Vision-Language Model via Cross-modal Alignment](http://arxiv.org/abs/2402.09816v2)** | 2025-07-18 | <details><summary>Accep...</summary><p>Accepted at the ISPRS Journal of Photogrammetry and Remote Sensing. Our code implementation and weights for all experiments are publicly available at https://github.com/Orion-AI-Lab/MindTheModalityGap</p></details> |
 | **[A Survey on Remote Sensing Foundation Models: From Vision to Multimodality](http://arxiv.org/abs/2503.22081v1)** | 2025-03-28 |  |
 | **[Enhancing Remote Sensing Vision-Language Models for Zero-Shot Scene Classification](http://arxiv.org/abs/2409.00698v2)** | 2025-01-07 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2025</p></details> |
 | **[RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts](http://arxiv.org/abs/2412.05679v2)** | 2024-12-10 |  |
 | **[Aquila: A Hierarchically Aligned Visual-Language Model for Enhanced Remote Sensing Image Comprehension](http://arxiv.org/abs/2411.06074v1)** | 2024-11-09 |  |
-| **[Mind the Modality Gap: Towards a Remote Sensing Vision-Language Model via Cross-modal Alignment](http://arxiv.org/abs/2402.09816v1)** | 2024-02-15 |  |
 | **[RSGPT: A Remote Sensing Vision Language Model and Benchmark](http://arxiv.org/abs/2307.15266v1)** | 2023-07-28 |  |
 
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How Far Have Medical Vision-Language Models Come? A Comprehensive Benchmarking Study](http://arxiv.org/abs/2507.11200v2)** | 2025-07-18 | Technical report |
+| **[VLA-Mark: A cross modal watermark for large vision-language alignment model](http://arxiv.org/abs/2507.14067v1)** | 2025-07-18 |  |
+| **[EdgeVLA: Efficient Vision-Language-Action Models](http://arxiv.org/abs/2507.14049v1)** | 2025-07-18 |  |
+| **[Moodifier: MLLM-Enhanced Emotion-Driven Image Editing](http://arxiv.org/abs/2507.14024v1)** | 2025-07-18 |  |
+| **[When Seeing Overrides Knowing: Disentangling Knowledge Conflicts in Vision-Language Models](http://arxiv.org/abs/2507.13868v1)** | 2025-07-18 |  |
+| **[GeoMag: A Vision-Language Model for Pixel-level Fine-Grained Remote Sensing Image Parsing](http://arxiv.org/abs/2507.05887v2)** | 2025-07-18 |  |
+| **[Mind the Modality Gap: Towards a Remote Sensing Vision-Language Model via Cross-modal Alignment](http://arxiv.org/abs/2402.09816v2)** | 2025-07-18 | <details><summary>Accep...</summary><p>Accepted at the ISPRS Journal of Photogrammetry and Remote Sensing. Our code implementation and weights for all experiments are publicly available at https://github.com/Orion-AI-Lab/MindTheModalityGap</p></details> |
+| **[Teaching Vision-Language Models to Ask: Resolving Ambiguity in Visual Questions](http://arxiv.org/abs/2507.13773v1)** | 2025-07-18 | ACL2025 Main |
+| **[ZonUI-3B: A Lightweight Vision-Language Model for Cross-Resolution GUI Grounding](http://arxiv.org/abs/2506.23491v3)** | 2025-07-18 |  |
+| **[LoRA-Loop: Closing the Synthetic Replay Cycle for Continual VLM Learning](http://arxiv.org/abs/2507.13568v1)** | 2025-07-17 |  |
 | **[VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning](http://arxiv.org/abs/2507.13348v1)** | 2025-07-17 | <details><summary>Code ...</summary><p>Code and models are available at https://github.com/dvlab-research/VisionThink</p></details> |
 | **[Prompt-driven Transferable Adversarial Attack on Person Re-Identification with Attribute-aware Textual Inversion](http://arxiv.org/abs/2502.19697v3)** | 2025-07-17 |  |
 | **[Leveraging Language Prior for Infrared Small Target Detection](http://arxiv.org/abs/2507.13113v1)** | 2025-07-17 |  |
 | **[Unified Triplet-Level Hallucination Evaluation for Large Vision-Language Models](http://arxiv.org/abs/2410.23114v4)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted by TMLR 2025. Project Page: https://kaichen1998.github.io/projects/tri-he/</p></details> |
 | **[GLAD: Generalizable Tuning for Vision-Language Models](http://arxiv.org/abs/2507.13089v1)** | 2025-07-17 | ICCV 2025 workshop |
-| **[MedPix 2.0: A Comprehensive Multimodal Biomedical Data set for Advanced AI Applications with Retrieval Augmented Generation and Knowledge Graphs](http://arxiv.org/abs/2407.02994v5)** | 2025-07-17 |  |
-| **[Advancing Complex Wide-Area Scene Understanding with Hierarchical Coresets Selection](http://arxiv.org/abs/2507.13061v1)** | 2025-07-17 |  |
-| **[LaViPlan : Language-Guided Visual Path Planning with RLVR](http://arxiv.org/abs/2507.12911v1)** | 2025-07-17 | 11 pages, 6 figures |
-| **[Code2Logic: Game-Code-Driven Data Synthesis for Enhancing VLMs General Reasoning](http://arxiv.org/abs/2505.13886v3)** | 2025-07-17 | <details><summary>63 pa...</summary><p>63 pages, 23 figures, submitted to NeurIPS 2025</p></details> |
-| **[City-VLM: Towards Multidomain Perception Scene Understanding via Multimodal Incomplete Learning](http://arxiv.org/abs/2507.12795v1)** | 2025-07-17 |  |
-| **[PhysX: Physical-Grounded 3D Asset Generation](http://arxiv.org/abs/2507.12465v2)** | 2025-07-17 | <details><summary>Proje...</summary><p>Project page: https://physx-3d.github.io/</p></details> |
-| **[JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model](http://arxiv.org/abs/2504.03770v3)** | 2025-07-16 |  |
-| **[VLMgineer: Vision Language Models as Robotic Toolsmiths](http://arxiv.org/abs/2507.12644v1)** | 2025-07-16 | <details><summary>Proje...</summary><p>Project Website: https://vlmgineer.github.io/release</p></details> |
-| **[NLI4VolVis: Natural Language Interaction for Volume Visualization via LLM Multi-Agents and Editable 3D Gaussian Splatting](http://arxiv.org/abs/2507.12621v1)** | 2025-07-16 | <details><summary>IEEE ...</summary><p>IEEE VIS 2025. Project Page: https://nli4volvis.github.io/</p></details> |
-| **[MindJourney: Test-Time Scaling with World Models for Spatial Reasoning](http://arxiv.org/abs/2507.12508v1)** | 2025-07-16 | <details><summary>Proje...</summary><p>Project Page: https://umass-embodied-agi.github.io/MindJourney</p></details> |
 
