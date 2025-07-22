@@ -1,5 +1,5 @@
 ---
-title: Papers - July 22, 2025
+title: Papers - July 23, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -20,6 +20,25 @@ labels: documentation
 | **[OV-COAST: Cost Aggregation with Optimal Transport for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2506.03706v1)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025 Workshop on Transformers for Vision (Non-archival track)</p></details> |
 | **[A Survey on Training-free Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2505.22209v1)** | 2025-05-28 |  |
 | **[Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2505.21844v1)** | 2025-05-28 |  |
+
+## SAM - Preview 15 papers
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[SAMST: A Transformer framework based on SAM pseudo label filtering for remote sensing semi-supervised semantic segmentation](http://arxiv.org/abs/2507.11994v1)** | 2025-07-16 | <details><summary>IGARS...</summary><p>IGARSS2025 accepted, Correspondence: fujianhai2024@gmail.com (J.F.), cuichj@mail2.sysu.edu.cn (C.C.)</p></details> |
+| **[CoCre-Sam (Kokkuri-san): Modeling Ouija Board as Collective Langevin Dynamics Sampling from Fused Language Models](http://arxiv.org/abs/2507.11906v1)** | 2025-07-16 |  |
+| **[MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation](http://arxiv.org/abs/2501.13667v4)** | 2025-07-12 | ICCV 2025 |
+| **[Compress Any Segment Anything Model (SAM)](http://arxiv.org/abs/2507.08765v1)** | 2025-07-11 | <details><summary>13 pa...</summary><p>13 pages, 6 tables, 8 figures</p></details> |
+| **[De-LightSAM: Modality-Decoupled Lightweight SAM for Generalizable Medical Segmentation](http://arxiv.org/abs/2407.14153v5)** | 2025-07-01 | Under Review |
+| **[ProSAM: Enhancing the Robustness of SAM-based Visual Reference Segmentation with Probabilistic Prompts](http://arxiv.org/abs/2506.21835v2)** | 2025-06-30 |  |
+| **[Detection of Breast Cancer Lumpectomy Margin with SAM-incorporated Forward-Forward Contrastive Learning](http://arxiv.org/abs/2506.21006v1)** | 2025-06-26 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 3 tables</p></details> |
+| **[VesselSAM: Leveraging SAM for Aortic Vessel Segmentation with AtrousLoRA](http://arxiv.org/abs/2502.18185v4)** | 2025-06-24 | Work in progress |
+| **[SRPL-SFDA: SAM-Guided Reliable Pseudo-Labels for Source-Free Domain Adaptation in Medical Image Segmentation](http://arxiv.org/abs/2506.09403v1)** | 2025-06-11 | <details><summary>18 pa...</summary><p>18 pages, 4 figures. Accepted for publication in Neurocomputing</p></details> |
+| **[SAM-aware Test-time Adaptation for Universal Medical Image Segmentation](http://arxiv.org/abs/2506.05221v1)** | 2025-06-05 | 10 pages, 4 figures |
+| **[Bringing SAM to new heights: Leveraging elevation data for tree crown segmentation from drone imagery](http://arxiv.org/abs/2506.04970v1)** | 2025-06-05 |  |
+| **[Hierarchical Self-Prompting SAM: A Prompt-Free Medical Image Segmentation Framework](http://arxiv.org/abs/2506.02854v1)** | 2025-06-03 |  |
+| **[SAM-I2V: Upgrading SAM to Support Promptable Video Segmentation with Less than 0.2% Training Cost](http://arxiv.org/abs/2506.01304v1)** | 2025-06-02 | CVPR 2025 |
+| **[Zero-Shot Pseudo Labels Generation Using SAM and CLIP for Semi-Supervised Semantic Segmentation](http://arxiv.org/abs/2505.19846v2)** | 2025-05-29 | <details><summary>Accep...</summary><p>Accepted to ICIP 2025</p></details> |
+| **[SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning](http://arxiv.org/abs/2505.22596v1)** | 2025-05-28 |  |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -53,19 +72,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Far Have Medical Vision-Language Models Come? A Comprehensive Benchmarking Study](http://arxiv.org/abs/2507.11200v2)** | 2025-07-18 | Technical report |
-| **[VLA-Mark: A cross modal watermark for large vision-language alignment model](http://arxiv.org/abs/2507.14067v1)** | 2025-07-18 |  |
-| **[EdgeVLA: Efficient Vision-Language-Action Models](http://arxiv.org/abs/2507.14049v1)** | 2025-07-18 |  |
-| **[Moodifier: MLLM-Enhanced Emotion-Driven Image Editing](http://arxiv.org/abs/2507.14024v1)** | 2025-07-18 |  |
-| **[When Seeing Overrides Knowing: Disentangling Knowledge Conflicts in Vision-Language Models](http://arxiv.org/abs/2507.13868v1)** | 2025-07-18 |  |
-| **[GeoMag: A Vision-Language Model for Pixel-level Fine-Grained Remote Sensing Image Parsing](http://arxiv.org/abs/2507.05887v2)** | 2025-07-18 |  |
-| **[Mind the Modality Gap: Towards a Remote Sensing Vision-Language Model via Cross-modal Alignment](http://arxiv.org/abs/2402.09816v2)** | 2025-07-18 | <details><summary>Accep...</summary><p>Accepted at the ISPRS Journal of Photogrammetry and Remote Sensing. Our code implementation and weights for all experiments are publicly available at https://github.com/Orion-AI-Lab/MindTheModalityGap</p></details> |
-| **[Teaching Vision-Language Models to Ask: Resolving Ambiguity in Visual Questions](http://arxiv.org/abs/2507.13773v1)** | 2025-07-18 | ACL2025 Main |
-| **[ZonUI-3B: A Lightweight Vision-Language Model for Cross-Resolution GUI Grounding](http://arxiv.org/abs/2506.23491v3)** | 2025-07-18 |  |
-| **[LoRA-Loop: Closing the Synthetic Replay Cycle for Continual VLM Learning](http://arxiv.org/abs/2507.13568v1)** | 2025-07-17 |  |
-| **[VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning](http://arxiv.org/abs/2507.13348v1)** | 2025-07-17 | <details><summary>Code ...</summary><p>Code and models are available at https://github.com/dvlab-research/VisionThink</p></details> |
-| **[Prompt-driven Transferable Adversarial Attack on Person Re-Identification with Attribute-aware Textual Inversion](http://arxiv.org/abs/2502.19697v3)** | 2025-07-17 |  |
-| **[Leveraging Language Prior for Infrared Small Target Detection](http://arxiv.org/abs/2507.13113v1)** | 2025-07-17 |  |
-| **[Unified Triplet-Level Hallucination Evaluation for Large Vision-Language Models](http://arxiv.org/abs/2410.23114v4)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted by TMLR 2025. Project Page: https://kaichen1998.github.io/projects/tri-he/</p></details> |
-| **[GLAD: Generalizable Tuning for Vision-Language Models](http://arxiv.org/abs/2507.13089v1)** | 2025-07-17 | ICCV 2025 workshop |
+| **[SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction](http://arxiv.org/abs/2507.15852v1)** | 2025-07-21 | <details><summary>proje...</summary><p>project page: https://rookiexiong7.github.io/projects/SeC/; code: https://github.com/OpenIXCLab/SeC; dataset: https://huggingface.co/datasets/OpenIXCLab/SeCVOS</p></details> |
+| **[Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models](http://arxiv.org/abs/2507.15824v1)** | 2025-07-21 |  |
+| **[Visual-Language Model Knowledge Distillation Method for Image Quality Assessment](http://arxiv.org/abs/2507.15680v1)** | 2025-07-21 |  |
+| **[Smart Eyes for Silent Threats: VLMs and In-Context Learning for THz Imaging](http://arxiv.org/abs/2507.15576v1)** | 2025-07-21 |  |
+| **[HOLa: Zero-Shot HOI Detection with Low-Rank Decomposed VLM Feature Adaptation](http://arxiv.org/abs/2507.15542v1)** | 2025-07-21 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
+| **[UPRE: Zero-Shot Domain Adaptation for Object Detection via Unified Prompt and Representation Enhancement](http://arxiv.org/abs/2507.00721v2)** | 2025-07-21 | ICCV2025 |
+| **[Chart-R1: Chain-of-Thought Supervision and Reinforcement for Advanced Chart Reasoner](http://arxiv.org/abs/2507.15509v1)** | 2025-07-21 | technical report |
+| **[One Last Attention for Your Vision-Language Model](http://arxiv.org/abs/2507.15480v1)** | 2025-07-21 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
+| **[DARE: Diverse Visual Question Answering with Robustness Evaluation](http://arxiv.org/abs/2409.18023v2)** | 2025-07-21 |  |
+| **[EgoPrune: Efficient Token Pruning for Egomotion Video Reasoning in Embodied Agent](http://arxiv.org/abs/2507.15428v1)** | 2025-07-21 |  |
+| **[In-context Learning of Vision Language Models for Detection of Physical and Digital Attacks against Face Recognition Systems](http://arxiv.org/abs/2507.15285v1)** | 2025-07-21 | <details><summary>Submi...</summary><p>Submitted to IEEE-TIFS</p></details> |
+| **[VLM-UDMC: VLM-Enhanced Unified Decision-Making and Motion Control for Urban Autonomous Driving](http://arxiv.org/abs/2507.15266v1)** | 2025-07-21 | 14 pages, 12 figures |
+| **[InteractPro: A Unified Framework for Motion-Aware Image Composition](http://arxiv.org/abs/2409.10090v2)** | 2025-07-21 |  |
+| **[LLaVA-CoT: Let Vision Language Models Reason Step-by-Step](http://arxiv.org/abs/2411.10440v6)** | 2025-07-21 | 17 pages, ICCV 2025 |
+| **[LaViPlan : Language-Guided Visual Path Planning with RLVR](http://arxiv.org/abs/2507.12911v2)** | 2025-07-21 | 11 pages, 6 figures |
 
