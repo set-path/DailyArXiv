@@ -5,7 +5,7 @@ import shutil
 from utils import get_daily_papers_by_keyword_with_retries, generate_table, back_up_file, get_daily_date
 
 # keywords
-keywords = ["Open Vocabulary Semantic Segmentation", "Remote Sensing Segmentation", "Remote Sensing Vision Language Model", "Vision Language Model"] # TODO add more keywords
+keywords = ["Open Vocabulary Semantic Segmentation", "SAM", "Remote Sensing Segmentation", "Remote Sensing Vision Language Model", "Vision Language Model"] # TODO add more keywords
 
 max_result = 100 # maximum query results from arXiv API for each keyword
 issues_result = 15 # maximum papers to be included in the issue
