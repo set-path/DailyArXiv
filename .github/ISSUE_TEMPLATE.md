@@ -1,5 +1,5 @@
 ---
-title: Papers - July 24, 2025
+title: Papers - July 25, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,6 +24,7 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fully Automated SAM for Single-source Domain Generalization in Medical Image Segmentation](http://arxiv.org/abs/2507.17281v1)** | 2025-07-23 | <details><summary>This ...</summary><p>This manuscript has been accepted for presentation at the IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC 2025) and is copyrighted by IEEE</p></details> |
 | **[CMP: A Composable Meta Prompt for SAM-Based Cross-Domain Few-Shot Segmentation](http://arxiv.org/abs/2507.16753v1)** | 2025-07-22 | 3 figures |
 | **[One Polyp Identifies All: One-Shot Polyp Segmentation with SAM via Cascaded Priors and Iterative Prompt Evolution](http://arxiv.org/abs/2507.16337v1)** | 2025-07-22 | accepted by ICCV2025 |
 | **[SAMST: A Transformer framework based on SAM pseudo label filtering for remote sensing semi-supervised semantic segmentation](http://arxiv.org/abs/2507.11994v1)** | 2025-07-16 | <details><summary>IGARS...</summary><p>IGARSS2025 accepted, Correspondence: fujianhai2024@gmail.com (J.F.), cuichj@mail2.sysu.edu.cn (C.C.)</p></details> |
@@ -38,7 +39,6 @@ labels: documentation
 | **[SAM-aware Test-time Adaptation for Universal Medical Image Segmentation](http://arxiv.org/abs/2506.05221v1)** | 2025-06-05 | 10 pages, 4 figures |
 | **[Bringing SAM to new heights: Leveraging elevation data for tree crown segmentation from drone imagery](http://arxiv.org/abs/2506.04970v1)** | 2025-06-05 |  |
 | **[Hierarchical Self-Prompting SAM: A Prompt-Free Medical Image Segmentation Framework](http://arxiv.org/abs/2506.02854v1)** | 2025-06-03 |  |
-| **[SAM-I2V: Upgrading SAM to Support Promptable Video Segmentation with Less than 0.2% Training Cost](http://arxiv.org/abs/2506.01304v1)** | 2025-06-02 | CVPR 2025 |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -73,19 +73,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning](http://arxiv.org/abs/2507.16814v1)** | 2025-07-22 |  |
-| **[Cooling Matters: Benchmarking Large Language Models and Vision-Language Models on Liquid-Cooled Versus Air-Cooled H100 GPU Systems](http://arxiv.org/abs/2507.16781v1)** | 2025-07-22 | 11 pages |
-| **[RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment](http://arxiv.org/abs/2501.07525v2)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2025</p></details> |
-| **[Do large language vision models understand 3D shapes?](http://arxiv.org/abs/2412.10908v5)** | 2025-07-22 |  |
-| **[Enhancing Remote Sensing Vision-Language Models Through MLLM and LLM-Based High-Quality Image-Text Dataset Generation](http://arxiv.org/abs/2507.16716v1)** | 2025-07-22 | <details><summary>SUBMI...</summary><p>SUBMIT TO IEEE TRANSACTIONS</p></details> |
-| **[Experience is the Best Teacher: Grounding VLMs for Robotics through Self-Generated Memory](http://arxiv.org/abs/2507.16713v1)** | 2025-07-22 |  |
-| **[DOFA-CLIP: Multimodal Vision-Language Foundation Models for Earth Observation](http://arxiv.org/abs/2503.06312v2)** | 2025-07-22 | <details><summary>code ...</summary><p>code & weights: https://github.com/xiong-zhitong/DOFA-CLIP</p></details> |
-| **[Conformal Predictions for Human Action Recognition with Vision-Language Models](http://arxiv.org/abs/2502.06631v2)** | 2025-07-22 | <details><summary>6 pag...</summary><p>6 pages, 7 figures, Accepted to ICIP 2025 Workshops</p></details> |
-| **[Visual-Language Model Knowledge Distillation Method for Image Quality Assessment](http://arxiv.org/abs/2507.15680v2)** | 2025-07-22 |  |
-| **[Spatial 3D-LLM: Exploring Spatial Awareness in 3D Vision-Language Models](http://arxiv.org/abs/2507.16524v1)** | 2025-07-22 | Accepted by ICME2025 |
-| **[SceneLoom: Communicating Data with Scene Context](http://arxiv.org/abs/2507.16466v1)** | 2025-07-22 |  |
-| **[SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction](http://arxiv.org/abs/2507.15852v2)** | 2025-07-22 | <details><summary>proje...</summary><p>project page: https://rookiexiong7.github.io/projects/SeC/ ; code: https://github.com/OpenIXCLab/SeC ; dataset: https://huggingface.co/datasets/OpenIXCLab/SeCVOS</p></details> |
-| **[Hierarchical Safety Realignment: Lightweight Restoration of Safety in Pruned Large Vision-Language Models](http://arxiv.org/abs/2505.16104v2)** | 2025-07-22 | ACL 2025 Findings |
-| **[V-RoAst: Visual Road Assessment. Can VLM be a Road Safety Assessor Using the iRAP Standard?](http://arxiv.org/abs/2408.10872v4)** | 2025-07-22 |  |
-| **[Multi-modal vision-language model for generalizable annotation-free pathology localization and clinical diagnosis](http://arxiv.org/abs/2401.02044v6)** | 2025-07-22 |  |
+| **[Robot Operation of Home Appliances by Reading User Manuals](http://arxiv.org/abs/2505.20424v2)** | 2025-07-23 |  |
+| **[BetterCheck: Towards Safeguarding VLMs for Automotive Perception Systems](http://arxiv.org/abs/2507.17722v1)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted in The IEEE International Conference on Intelligent Transportation Systems (ITSC)2025</p></details> |
+| **[InstructVLA: Vision-Language-Action Instruction Tuning from Understanding to Manipulation](http://arxiv.org/abs/2507.17520v1)** | 2025-07-23 | 38 pages |
+| **[Dynamic Scoring with Enhanced Semantics for Training-Free Human-Object Interaction Detection](http://arxiv.org/abs/2507.17456v1)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted to ACM Multimedia 2025</p></details> |
+| **[VLM-Guided Visual Place Recognition for Planet-Scale Geo-Localization](http://arxiv.org/abs/2507.17455v1)** | 2025-07-23 |  |
+| **[Dynamic-DINO: Fine-Grained Mixture of Experts Tuning for Real-time Open-Vocabulary Object Detection](http://arxiv.org/abs/2507.17436v1)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
+| **[AirCache: Activating Inter-modal Relevancy KV Cache Compression for Efficient Large Vision-Language Model Inference](http://arxiv.org/abs/2503.23956v3)** | 2025-07-23 |  |
+| **[Language-Conditioned Open-Vocabulary Mobile Manipulation with Pretrained Models](http://arxiv.org/abs/2507.17379v1)** | 2025-07-23 | IJCAI 2025 |
+| **[RoadBench: A Vision-Language Foundation Model and Benchmark for Road Damage Understanding](http://arxiv.org/abs/2507.17353v1)** | 2025-07-23 |  |
+| **[Visual-Language Model Knowledge Distillation Method for Image Quality Assessment](http://arxiv.org/abs/2507.15680v3)** | 2025-07-23 |  |
+| **[RoBridge: A Hierarchical Architecture Bridging Cognition and Execution for General Robotic Manipulation](http://arxiv.org/abs/2505.01709v3)** | 2025-07-23 | <details><summary>proje...</summary><p>project page: https://abliao.github.io/RoBridge/</p></details> |
+| **[LEGO Co-builder: Exploring Fine-Grained Vision-Language Modeling for Multimodal LEGO Assembly Assistants](http://arxiv.org/abs/2507.05515v2)** | 2025-07-23 | <details><summary>This ...</summary><p>This version has been anonymized for double-blind review</p></details> |
+| **[SurgXBench: Explainable Vision-Language Model Benchmark for Surgery](http://arxiv.org/abs/2505.10764v3)** | 2025-07-23 |  |
+| **[MCA-LLaVA: Manhattan Causal Attention for Reducing Hallucination in Large Vision-Language Models](http://arxiv.org/abs/2507.09184v2)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted in ACM MM 2025</p></details> |
+| **[HySafe-AI: Hybrid Safety Architectural Analysis Framework for AI Systems: A Case Study](http://arxiv.org/abs/2507.17118v1)** | 2025-07-23 | 7 pages |
 
