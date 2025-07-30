@@ -1,5 +1,5 @@
 ---
-title: Papers - July 30, 2025
+title: Papers - July 31, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,6 +24,7 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree](http://arxiv.org/abs/2410.16268v3)** | 2025-07-29 | <details><summary>ICCV ...</summary><p>ICCV 2025, Project page: https://mark12ding.github.io/project/SAM2Long/ ; github page: https://github.com/Mark12Ding/SAM2Long/</p></details> |
 | **[TextSAM-EUS: Text Prompt Learning for SAM to Accurately Segment Pancreatic Tumor in Endoscopic Ultrasound](http://arxiv.org/abs/2507.18082v2)** | 2025-07-26 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025 Workshop CVAMD</p></details> |
 | **[Fully Automated SAM for Single-source Domain Generalization in Medical Image Segmentation](http://arxiv.org/abs/2507.17281v1)** | 2025-07-23 | <details><summary>This ...</summary><p>This manuscript has been accepted for presentation at the IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC 2025) and is copyrighted by IEEE</p></details> |
 | **[CMP: A Composable Meta Prompt for SAM-Based Cross-Domain Few-Shot Segmentation](http://arxiv.org/abs/2507.16753v1)** | 2025-07-22 | 3 figures |
@@ -38,7 +39,6 @@ labels: documentation
 | **[VesselSAM: Leveraging SAM for Aortic Vessel Segmentation with AtrousLoRA](http://arxiv.org/abs/2502.18185v4)** | 2025-06-24 | Work in progress |
 | **[SRPL-SFDA: SAM-Guided Reliable Pseudo-Labels for Source-Free Domain Adaptation in Medical Image Segmentation](http://arxiv.org/abs/2506.09403v1)** | 2025-06-11 | <details><summary>18 pa...</summary><p>18 pages, 4 figures. Accepted for publication in Neurocomputing</p></details> |
 | **[SAM-aware Test-time Adaptation for Universal Medical Image Segmentation](http://arxiv.org/abs/2506.05221v1)** | 2025-06-05 | 10 pages, 4 figures |
-| **[Bringing SAM to new heights: Leveraging elevation data for tree crown segmentation from drone imagery](http://arxiv.org/abs/2506.04970v1)** | 2025-06-05 |  |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -73,19 +73,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ADIEE: Automatic Dataset Creation and Scorer for Instruction-Guided Image Editing Evaluation](http://arxiv.org/abs/2507.07317v2)** | 2025-07-28 | <details><summary>Inter...</summary><p>International Conference on Computer Vision (ICCV) 2025</p></details> |
-| **[HAMLET-FFD: Hierarchical Adaptive Multi-modal Learning Embeddings Transformation for Face Forgery Detection](http://arxiv.org/abs/2507.20913v1)** | 2025-07-28 |  |
-| **[$A^2R^2$: Advancing Img2LaTeX Conversion via Visual Reasoning with Attention-Guided Refinement](http://arxiv.org/abs/2507.20890v1)** | 2025-07-28 |  |
-| **[DriveAgent-R1: Advancing VLM-based Autonomous Driving with Hybrid Thinking and Active Perception](http://arxiv.org/abs/2507.20879v1)** | 2025-07-28 |  |
-| **[METEOR: Multi-Encoder Collaborative Token Pruning for Efficient Vision Language Models](http://arxiv.org/abs/2507.20842v1)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
-| **[MUSE-VL: Modeling Unified VLM through Semantic Discrete Encoding](http://arxiv.org/abs/2411.17762v4)** | 2025-07-28 | ICCV 2025 |
-| **[Free-form language-based robotic reasoning and grasping](http://arxiv.org/abs/2503.13082v2)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted to IROS 2025. Project website: https://tev-fbk.github.io/FreeGrasp/</p></details> |
-| **[InstructFLIP: Exploring Unified Vision-Language Model for Face Anti-spoofing](http://arxiv.org/abs/2507.12060v2)** | 2025-07-28 | Accepted by MM'25 |
-| **[TransPrune: Token Transition Pruning for Efficient Large Vision-Language Model](http://arxiv.org/abs/2507.20630v1)** | 2025-07-28 |  |
-| **[Latent Multimodal Reconstruction for Misinformation Detection](http://arxiv.org/abs/2504.06010v2)** | 2025-07-28 |  |
-| **[FMimic: Foundation Models are Fine-grained Action Learners from Human Videos](http://arxiv.org/abs/2507.20622v1)** | 2025-07-28 | <details><summary>accep...</summary><p>accepted to International Journal of Robotics Research(IJRR)</p></details> |
-| **[Enhancing Spatial Reasoning through Visual and Textual Thinking](http://arxiv.org/abs/2507.20529v1)** | 2025-07-28 |  |
-| **[AgroBench: Vision-Language Model Benchmark in Agriculture](http://arxiv.org/abs/2507.20519v1)** | 2025-07-28 | ICCV 2025 |
-| **[One Last Attention for Your Vision-Language Model](http://arxiv.org/abs/2507.15480v2)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
-| **[Eyes Will Shut: A Vision-Based Next GPS Location Prediction Model by Reinforcement Learning from Visual Map Feed Back](http://arxiv.org/abs/2507.18661v2)** | 2025-07-28 |  |
+| **[GLIMPSE: Holistic Cross-Modal Explainability for Large Vision-Language Models](http://arxiv.org/abs/2506.18985v3)** | 2025-07-29 | <details><summary>Keywo...</summary><p>Keywords: Explainable Computer Vision, Large Vision-Language Models, AI Interpretability, Explainable AI, Visual Saliency, Attribution Maps, Cross-Modal Attribution, Human Attention Alignment, AI Transparency</p></details> |
+| **[DataSway: Vivifying Metaphoric Visualization with Animation Clip Generation and Coordination](http://arxiv.org/abs/2507.22051v1)** | 2025-07-29 | 19 pages, 5 figures |
+| **[See Different, Think Better: Visual Variations Mitigating Hallucinations in LVLMs](http://arxiv.org/abs/2507.22003v1)** | 2025-07-29 | Accepted by ACM MM25 |
+| **[Knowledge Regularized Negative Feature Tuning of Vision-Language Models for Out-of-Distribution Detection](http://arxiv.org/abs/2507.19847v2)** | 2025-07-29 | <details><summary>accep...</summary><p>accepted by ACMMM 2025</p></details> |
+| **[Distribution-Based Masked Medical Vision-Language Model Using Structured Reports](http://arxiv.org/abs/2507.21794v1)** | 2025-07-29 | <details><summary>Accep...</summary><p>Accepted in MICCAI-W 2025</p></details> |
+| **[Few-Shot Vision-Language Reasoning for Satellite Imagery via Verifiable Rewards](http://arxiv.org/abs/2507.21745v1)** | 2025-07-29 | <details><summary>ICCV ...</summary><p>ICCV 2025 Workshop on Curated Data for Efficient Learning (CDEL). 10 pages, 3 figures, 6 tables. Our model, training code and dataset will be at https://github.com/aybora/FewShotReasoning</p></details> |
+| **[Self-Aware Safety Augmentation: Leveraging Internal Semantic Understanding to Enhance Safety in Vision-Language Models](http://arxiv.org/abs/2507.21637v1)** | 2025-07-29 | <details><summary>Accep...</summary><p>Accepted by ACM Multimedia 2025</p></details> |
+| **[SafeDriveRAG: Towards Safe Autonomous Driving with Knowledge Graph-based Retrieval-Augmented Generation](http://arxiv.org/abs/2507.21585v1)** | 2025-07-29 |  |
+| **[PEVLM: Parallel Encoding for Vision-Language Models](http://arxiv.org/abs/2506.19651v3)** | 2025-07-29 |  |
+| **[PRISM: Programmatic Reasoning with Image Sequence Manipulation for LVLM Jailbreaking](http://arxiv.org/abs/2507.21540v1)** | 2025-07-29 |  |
+| **[Optimizing Active Learning in Vision-Language Models via Parameter-Efficient Uncertainty Calibration](http://arxiv.org/abs/2507.21521v1)** | 2025-07-29 | <details><summary>Inter...</summary><p>International Joint Conference on Neural Networks 2025 (Accepted)</p></details> |
+| **[Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated Learning](http://arxiv.org/abs/2507.21494v1)** | 2025-07-29 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
+| **[LoRA-Loop: Closing the Synthetic Replay Cycle for Continual VLM Learning](http://arxiv.org/abs/2507.13568v2)** | 2025-07-29 |  |
+| **[SurgiSR4K: A High-Resolution Endoscopic Video Dataset for Robotic-Assisted Minimally Invasive Procedures](http://arxiv.org/abs/2507.00209v3)** | 2025-07-29 |  |
+| **[ManiTaskGen: A Comprehensive Task Generator for Benchmarking and Improving Vision-Language Agents on Embodied Decision-Making](http://arxiv.org/abs/2505.20726v2)** | 2025-07-29 | <details><summary>Proje...</summary><p>Project Website: https://manitaskgen.github.io/</p></details> |
 
