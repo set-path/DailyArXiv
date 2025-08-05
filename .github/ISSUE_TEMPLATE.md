@@ -1,5 +1,5 @@
 ---
-title: Papers - August 05, 2025
+title: Papers - August 06, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,6 +24,8 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Taming SAM for Underwater Instance Segmentation and Beyond](http://arxiv.org/abs/2505.15581v2)** | 2025-08-04 |  |
+| **[ProSAM: Enhancing the Robustness of SAM-based Visual Reference Segmentation with Probabilistic Prompts](http://arxiv.org/abs/2506.21835v3)** | 2025-08-03 | ICCV 2025 |
 | **[SAM-PTx: Text-Guided Fine-Tuning of SAM with Parameter-Efficient, Parallel-Text Adapters](http://arxiv.org/abs/2508.00213v1)** | 2025-07-31 |  |
 | **[SAM: A Stability-Aware Cache Manager for Multi-Tenant Embedded Databases](http://arxiv.org/abs/2507.22701v2)** | 2025-07-31 | <details><summary>17 pa...</summary><p>17 pages, 10 figures. An extended version of a paper under review at the VLDB 2026 conference</p></details> |
 | **[ST-SAM: SAM-Driven Self-Training Framework for Semi-Supervised Camouflaged Object Detection](http://arxiv.org/abs/2507.23307v1)** | 2025-07-31 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, ACM MM 2025</p></details> |
@@ -37,8 +39,6 @@ labels: documentation
 | **[MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation](http://arxiv.org/abs/2501.13667v4)** | 2025-07-12 | ICCV 2025 |
 | **[Compress Any Segment Anything Model (SAM)](http://arxiv.org/abs/2507.08765v1)** | 2025-07-11 | <details><summary>13 pa...</summary><p>13 pages, 6 tables, 8 figures</p></details> |
 | **[De-LightSAM: Modality-Decoupled Lightweight SAM for Generalizable Medical Segmentation](http://arxiv.org/abs/2407.14153v5)** | 2025-07-01 | Under Review |
-| **[ProSAM: Enhancing the Robustness of SAM-based Visual Reference Segmentation with Probabilistic Prompts](http://arxiv.org/abs/2506.21835v2)** | 2025-06-30 |  |
-| **[Detection of Breast Cancer Lumpectomy Margin with SAM-incorporated Forward-Forward Contrastive Learning](http://arxiv.org/abs/2506.21006v1)** | 2025-06-26 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 3 tables</p></details> |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -74,19 +74,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MMRAG-DocQA: A Multi-Modal Retrieval-Augmented Generation Method for Document Question-Answering with Hierarchical Index and Multi-Granularity Retrieval](http://arxiv.org/abs/2508.00579v1)** | 2025-08-01 |  |
-| **[Training-Free Class Purification for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2508.00557v1)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
-| **[HiPrune: Training-Free Visual Token Pruning via Hierarchical Attention in Vision-Language Models](http://arxiv.org/abs/2508.00553v1)** | 2025-08-01 |  |
-| **[Your other Left! Vision-Language Models Fail to Identify Relative Positions in Medical Images](http://arxiv.org/abs/2508.00549v1)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2025</p></details> |
-| **[EFlat-LoRA: Efficiently Seeking Flat Minima for Better Generalization in Fine-Tuning Large Language Models and Beyond](http://arxiv.org/abs/2508.00522v1)** | 2025-08-01 |  |
-| **[CLIPTime: Time-Aware Multimodal Representation Learning from Images and Text](http://arxiv.org/abs/2508.00447v1)** | 2025-08-01 | 11 pages, 8 figures |
-| **[AutoDebias: Automated Framework for Debiasing Text-to-Image Models](http://arxiv.org/abs/2508.00445v1)** | 2025-08-01 |  |
-| **[Cross-Modal Dual-Causal Learning for Long-Term Action Recognition](http://arxiv.org/abs/2507.06603v2)** | 2025-08-01 |  |
-| **[Sari Sandbox: A Virtual Retail Store Environment for Embodied AI Agents](http://arxiv.org/abs/2508.00400v1)** | 2025-08-01 | <details><summary>14 pa...</summary><p>14 pages, accepted in ICCV 2025 Workshop on RetailVision</p></details> |
-| **[iSafetyBench: A video-language benchmark for safety in industrial environment](http://arxiv.org/abs/2508.00399v1)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted to VISION'25 - ICCV 2025 workshop</p></details> |
-| **[Decouple before Align: Visual Disentanglement Enhances Prompt Tuning](http://arxiv.org/abs/2508.00395v1)** | 2025-08-01 | <details><summary>16 pa...</summary><p>16 pages, Accepted at IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</p></details> |
-| **[SA-GCS: Semantic-Aware Gaussian Curriculum Scheduling for UAV Vision-Language Navigation](http://arxiv.org/abs/2508.00390v1)** | 2025-08-01 |  |
-| **[CoRGI: Verified Chain-of-Thought Reasoning with Visual Grounding](http://arxiv.org/abs/2508.00378v1)** | 2025-08-01 | <details><summary>Prepa...</summary><p>Preparing for AAAI 2026, Multimodal Reasoning</p></details> |
-| **[Analyze-Prompt-Reason: A Collaborative Agent-Based Framework for Multi-Image Vision-Language Reasoning](http://arxiv.org/abs/2508.00356v1)** | 2025-08-01 |  |
-| **[Evaluating the Efficacy of Large Language Models for Generating Fine-Grained Visual Privacy Policies in Homes](http://arxiv.org/abs/2508.00321v1)** | 2025-08-01 |  |
+| **[Raw Data Matters: Enhancing Prompt Tuning by Internal Augmentation on Vision-Language Models](http://arxiv.org/abs/2508.02671v1)** | 2025-08-04 | <details><summary>16 pa...</summary><p>16 pages, 6 figures, 15 tables</p></details> |
+| **[What Is Your AI Agent Buying? Evaluation, Implications and Emerging Questions for Agentic E-Commerce](http://arxiv.org/abs/2508.02630v1)** | 2025-08-04 |  |
+| **[HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents](http://arxiv.org/abs/2508.02629v1)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025 Workshop on Multi-Modal Reasoning for Agentic Intelligence</p></details> |
+| **[UrbanSense:A Framework for Quantitative Analysis of Urban Streetscapes leveraging Vision Large Language Models](http://arxiv.org/abs/2506.10342v2)** | 2025-08-04 |  |
+| **[Eyes Will Shut: A Vision-Based Next GPS Location Prediction Model by Reinforcement Learning from Visual Map Feed Back](http://arxiv.org/abs/2507.18661v3)** | 2025-08-04 |  |
+| **[Beyond the Visible: Multispectral Vision-Language Learning for Earth Observation](http://arxiv.org/abs/2503.15969v3)** | 2025-08-04 | <details><summary>Machi...</summary><p>Machine Learning and Knowledge Discovery in Databases. Research Track - European Conference, ECML PKDD 2025</p></details> |
+| **[Modality Bias in LVLMs: Analyzing and Mitigating Object Hallucination via Attention Lens](http://arxiv.org/abs/2508.02419v1)** | 2025-08-04 |  |
+| **[Improving Generalization of Language-Conditioned Robot Manipulation](http://arxiv.org/abs/2508.02405v1)** | 2025-08-04 | <details><summary>7 pag...</summary><p>7 pages,18 figures,2 tables</p></details> |
+| **[Vision Language Model-based Testing of Industrial Autonomous Mobile Robots](http://arxiv.org/abs/2508.02338v1)** | 2025-08-04 |  |
+| **[CLIP-IN: Enhancing Fine-Grained Visual Understanding in CLIP via Instruction Editing Data and Long Captions](http://arxiv.org/abs/2508.02329v1)** | 2025-08-04 |  |
+| **[Patho-AgenticRAG: Towards Multimodal Agentic Retrieval-Augmented Generation for Pathology VLMs via Reinforcement Learning](http://arxiv.org/abs/2508.02258v1)** | 2025-08-04 |  |
+| **[SAGI: Semantically Aligned and Uncertainty Guided AI Image Inpainting](http://arxiv.org/abs/2502.06593v3)** | 2025-08-04 | ICCV2025 |
+| **[KeyMPs: One-Shot Vision-Language Guided Motion Generation by Sequencing DMPs for Occlusion-Rich Tasks](http://arxiv.org/abs/2504.10011v2)** | 2025-08-04 | <details><summary>Publi...</summary><p>Published in IEEE Access, Jul 14 2025</p></details> |
+| **[EchoLadder: Progressive AI-Assisted Design of Immersive VR Scenes](http://arxiv.org/abs/2508.02173v1)** | 2025-08-04 | <details><summary>To ap...</summary><p>To appear at UIST 2025</p></details> |
+| **[AttriCtrl: Fine-Grained Control of Aesthetic Attribute Intensity in Diffusion Models](http://arxiv.org/abs/2508.02151v1)** | 2025-08-04 |  |
 
