@@ -1,5 +1,5 @@
 ---
-title: Papers - August 07, 2025
+title: Papers - August 08, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,6 +24,8 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Segment Any Vehicle: Semantic and Visual Context Driven SAM and A Benchmark](http://arxiv.org/abs/2508.04260v1)** | 2025-08-06 |  |
+| **[BrainSegDMlF: A Dynamic Fusion-enhanced SAM for Brain Lesion Segmentation](http://arxiv.org/abs/2505.06133v2)** | 2025-08-06 |  |
 | **[Taming SAM for Underwater Instance Segmentation and Beyond](http://arxiv.org/abs/2505.15581v2)** | 2025-08-04 |  |
 | **[ProSAM: Enhancing the Robustness of SAM-based Visual Reference Segmentation with Probabilistic Prompts](http://arxiv.org/abs/2506.21835v3)** | 2025-08-03 | ICCV 2025 |
 | **[SAM-PTx: Text-Guided Fine-Tuning of SAM with Parameter-Efficient, Parallel-Text Adapters](http://arxiv.org/abs/2508.00213v1)** | 2025-07-31 |  |
@@ -37,8 +39,6 @@ labels: documentation
 | **[SAMST: A Transformer framework based on SAM pseudo label filtering for remote sensing semi-supervised semantic segmentation](http://arxiv.org/abs/2507.11994v1)** | 2025-07-16 | <details><summary>IGARS...</summary><p>IGARSS2025 accepted, Correspondence: fujianhai2024@gmail.com (J.F.), cuichj@mail2.sysu.edu.cn (C.C.)</p></details> |
 | **[CoCre-Sam (Kokkuri-san): Modeling Ouija Board as Collective Langevin Dynamics Sampling from Fused Language Models](http://arxiv.org/abs/2507.11906v1)** | 2025-07-16 |  |
 | **[MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation](http://arxiv.org/abs/2501.13667v4)** | 2025-07-12 | ICCV 2025 |
-| **[Compress Any Segment Anything Model (SAM)](http://arxiv.org/abs/2507.08765v1)** | 2025-07-11 | <details><summary>13 pa...</summary><p>13 pages, 6 tables, 8 figures</p></details> |
-| **[De-LightSAM: Modality-Decoupled Lightweight SAM for Generalizable Medical Segmentation](http://arxiv.org/abs/2407.14153v5)** | 2025-07-01 | Under Review |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -74,19 +74,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Can Large Vision-Language Models Understand Multimodal Sarcasm?](http://arxiv.org/abs/2508.03654v1)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted by CIKM 2025</p></details> |
-| **[Leveraging Vision-Language Models for Visual Grounding and Analysis of Automotive UI](http://arxiv.org/abs/2505.05895v3)** | 2025-08-05 |  |
-| **[DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping](http://arxiv.org/abs/2502.20900v4)** | 2025-08-05 | 19 pages, 11 figures |
-| **[IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves](http://arxiv.org/abs/2411.00827v4)** | 2025-08-05 |  |
-| **[IKOD: Mitigating Visual Attention Degradation in Large Vision-Language Models](http://arxiv.org/abs/2508.03469v1)** | 2025-08-05 |  |
-| **[CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection](http://arxiv.org/abs/2508.03447v1)** | 2025-08-05 | <details><summary>19 pa...</summary><p>19 pages, 33 figures, 14 tables</p></details> |
-| **[Visual Document Understanding and Question Answering: A Multi-Agent Collaboration Framework with Test-Time Scaling](http://arxiv.org/abs/2508.03404v1)** | 2025-08-05 |  |
-| **[Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation](http://arxiv.org/abs/2411.19331v2)** | 2025-08-05 |  |
-| **[VLMQ: Efficient Post-Training Quantization for Large Vision-Language Models via Hessian Augmentation](http://arxiv.org/abs/2508.03351v1)** | 2025-08-05 | 13 pages, 5 figures |
-| **[Causally Steered Diffusion for Automated Video Counterfactual Generation](http://arxiv.org/abs/2506.14404v2)** | 2025-08-05 |  |
-| **[CookBench: A Long-Horizon Embodied Planning Benchmark for Complex Cooking Scenarios](http://arxiv.org/abs/2508.03232v1)** | 2025-08-05 | 9 pages, 5 figures |
-| **[GeoShield: Safeguarding Geolocation Privacy from Vision-Language Models via Adversarial Perturbations](http://arxiv.org/abs/2508.03209v1)** | 2025-08-05 |  |
-| **[SAVER: Mitigating Hallucinations in Large Vision-Language Models via Style-Aware Visual Early Revision](http://arxiv.org/abs/2508.03177v1)** | 2025-08-05 |  |
-| **[ChartCap: Mitigating Hallucination of Dense Chart Captioning](http://arxiv.org/abs/2508.03164v1)** | 2025-08-05 | <details><summary>ICCV ...</summary><p>ICCV 2025 (Highlight)</p></details> |
-| **[UniEdit-I: Training-free Image Editing for Unified VLM via Iterative Understanding, Editing and Verifying](http://arxiv.org/abs/2508.03142v1)** | 2025-08-05 |  |
+| **[SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience](http://arxiv.org/abs/2508.04700v1)** | 2025-08-06 | <details><summary>Code ...</summary><p>Code at https://github.com/SunzeY/SEAgent</p></details> |
+| **[ANPrompt: Anti-noise Prompt Tuning for Vision-Language Models](http://arxiv.org/abs/2508.04677v1)** | 2025-08-06 |  |
+| **[EncQA: Benchmarking Vision-Language Models on Visual Encodings for Charts](http://arxiv.org/abs/2508.04650v1)** | 2025-08-06 |  |
+| **[Knowledge to Sight: Reasoning over Visual Attributes via Knowledge Decomposition for Abnormality Grounding](http://arxiv.org/abs/2508.04572v1)** | 2025-08-06 |  |
+| **[Do Recommender Systems Really Leverage Multimodal Content? A Comprehensive Analysis on Multimodal Representations for Recommendation](http://arxiv.org/abs/2508.04571v1)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted as Full Research Papers at CIKM 2025</p></details> |
+| **[Analyzing and Mitigating Object Hallucination: A Training Bias Perspective](http://arxiv.org/abs/2508.04567v1)** | 2025-08-06 |  |
+| **[FrEVL: Leveraging Frozen Pretrained Embeddings for Efficient Vision-Language Understanding](http://arxiv.org/abs/2508.04469v1)** | 2025-08-06 | 8 pages, 4 figures |
+| **[Boosting Visual Knowledge-Intensive Training for LVLMs Through Causality-Driven Visual Object Completion](http://arxiv.org/abs/2508.04453v1)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2025</p></details> |
+| **[Through the Magnifying Glass: Adaptive Perception Magnification for Hallucination-Free VLM Decoding](http://arxiv.org/abs/2503.10183v3)** | 2025-08-06 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 9 tables</p></details> |
+| **[Enhancing Zero-Shot Brain Tumor Subtype Classification via Fine-Grained Patch-Text Alignment](http://arxiv.org/abs/2508.01602v2)** | 2025-08-06 |  |
+| **[Real-World Offline Reinforcement Learning from Vision Language Model Feedback](http://arxiv.org/abs/2411.05273v2)** | 2025-08-06 | <details><summary>7 pag...</summary><p>7 pages. Accepted at the LangRob Workshop 2024 @ CoRL, 2024. Accepted at 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)</p></details> |
+| **[Enhancing Vision-Language Model Training with Reinforcement Learning in Synthetic Worlds for Real-World Success](http://arxiv.org/abs/2508.04280v1)** | 2025-08-06 |  |
+| **[Continual Learning for VLMs: A Survey and Taxonomy Beyond Forgetting](http://arxiv.org/abs/2508.04227v1)** | 2025-08-06 |  |
+| **[HiPrune: Training-Free Visual Token Pruning via Hierarchical Attention in Vision-Language Models](http://arxiv.org/abs/2508.00553v2)** | 2025-08-06 |  |
+| **[A Comparative Study of Specialized LLMs as Dense Retrievers](http://arxiv.org/abs/2507.03958v2)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted by CCIR25 and published by Springer LNCS or LNAI</p></details> |
 
