@@ -1,5 +1,5 @@
 ---
-title: Papers - August 12, 2025
+title: Papers - August 13, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -59,9 +59,10 @@ labels: documentation
 | **[Embedding Generalized Semantic Knowledge into Few-Shot Remote Sensing Segmentation](http://arxiv.org/abs/2405.13686v1)** | 2024-05-22 |  |
 | **[SFFNet: A Wavelet-Based Spatial and Frequency Domain Fusion Network for Remote Sensing Segmentation](http://arxiv.org/abs/2405.01992v1)** | 2024-05-03 |  |
 
-## Remote Sensing Vision Language Model - Preview 8 papers
+## Remote Sensing Vision Language Model - Preview 9 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RSVLM-QA: A Benchmark Dataset for Remote Sensing Vision Language Model-based Question Answering](http://arxiv.org/abs/2508.07918v1)** | 2025-08-11 | <details><summary>This ...</summary><p>This paper has been accepted to the proceedings of the 33rd ACM International Multimedia Conference (ACM Multimedia 2025)</p></details> |
 | **[DeltaVLM: Interactive Remote Sensing Image Change Analysis via Instruction-guided Difference Perception](http://arxiv.org/abs/2507.22346v1)** | 2025-07-30 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Submitted to IEEE Transactions on Geoscience and Remote Sensing (TGRS). Code and dataset are available at https://github.com/hanlinwu/DeltaVLM</p></details> |
 | **[Enhancing Remote Sensing Vision-Language Models Through MLLM and LLM-Based High-Quality Image-Text Dataset Generation](http://arxiv.org/abs/2507.16716v1)** | 2025-07-22 | <details><summary>SUBMI...</summary><p>SUBMIT TO IEEE TRANSACTIONS</p></details> |
 | **[Mind the Modality Gap: Towards a Remote Sensing Vision-Language Model via Cross-modal Alignment](http://arxiv.org/abs/2402.09816v2)** | 2025-07-18 | <details><summary>Accep...</summary><p>Accepted at the ISPRS Journal of Photogrammetry and Remote Sensing. Our code implementation and weights for all experiments are publicly available at https://github.com/Orion-AI-Lab/MindTheModalityGap</p></details> |
@@ -74,19 +75,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Vision-Language Model-Based Semantic-Guided Imaging Biomarker for Lung Nodule Malignancy Prediction](http://arxiv.org/abs/2504.21344v2)** | 2025-08-08 |  |
-| **[M$^2$IV: Towards Efficient and Fine-grained Multimodal In-Context Learning via Representation Engineering](http://arxiv.org/abs/2504.04633v2)** | 2025-08-08 | <details><summary>COLM ...</summary><p>COLM 2025, 30 pages, 10 figures, 16 tables</p></details> |
-| **[Uncertainty-quantified Rollout Policy Adaptation for Unlabelled Cross-domain Temporal Grounding](http://arxiv.org/abs/2508.06317v1)** | 2025-08-08 |  |
-| **[ART: Adaptive Relation Tuning for Generalized Relation Prediction](http://arxiv.org/abs/2507.23543v2)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted for publication in ICCV 2025</p></details> |
-| **[Real-Time 3D Vision-Language Embedding Mapping](http://arxiv.org/abs/2508.06291v1)** | 2025-08-08 |  |
-| **[Your other Left! Vision-Language Models Fail to Identify Relative Positions in Medical Images](http://arxiv.org/abs/2508.00549v2)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2025</p></details> |
-| **[InfoCausalQA:Can Models Perform Non-explicit Causal Reasoning Based on Infographic?](http://arxiv.org/abs/2508.06220v1)** | 2025-08-08 | 14 pages, 9 figures |
-| **[VISTAR:A User-Centric and Role-Driven Benchmark for Text-to-Image Evaluation](http://arxiv.org/abs/2508.06152v1)** | 2025-08-08 | 17 pages,8 figures |
-| **[Q-CLIP: Unleashing the Power of Vision-Language Models for Video Quality Assessment through Unified Cross-Modal Adaptation](http://arxiv.org/abs/2508.06092v1)** | 2025-08-08 |  |
-| **[DAVSP: Safety Alignment for Large Vision-Language Models via Deep Aligned Visual Safety Prompt](http://arxiv.org/abs/2506.09353v2)** | 2025-08-08 | 16 pages |
-| **[AdaptInfer: Adaptive Token Pruning for Vision-Language Model Inference with Dynamical Text Guidance](http://arxiv.org/abs/2508.06084v1)** | 2025-08-08 |  |
-| **[Fourier-VLM: Compressing Vision Tokens in the Frequency Domain for Large Vision-Language Models](http://arxiv.org/abs/2508.06038v1)** | 2025-08-08 | 12 pages, 4 figures |
-| **[More Is Better: A MoE-Based Emotion Recognition Framework with Human Preference Alignment](http://arxiv.org/abs/2508.06036v1)** | 2025-08-08 |  |
-| **[Mediator-Guided Multi-Agent Collaboration among Open-Source Models for Medical Decision-Making](http://arxiv.org/abs/2508.05996v1)** | 2025-08-08 | 14 pages, 4 figures |
-| **[PASG: A Closed-Loop Framework for Automated Geometric Primitive Extraction and Semantic Anchoring in Robotic Manipulation](http://arxiv.org/abs/2508.05976v1)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. 8 pages main paper, 8 figures, plus supplementary material</p></details> |
+| **[ODYSSEY: Open-World Quadrupeds Exploration and Manipulation for Long-Horizon Tasks](http://arxiv.org/abs/2508.08240v1)** | 2025-08-11 |  |
+| **[Spatial-ORMLLM: Improve Spatial Relation Understanding in the Operating Room with Multimodal Large Language Model](http://arxiv.org/abs/2508.08199v1)** | 2025-08-11 |  |
+| **[Sparsity Outperforms Low-Rank Projections in Few-Shot Adaptation](http://arxiv.org/abs/2504.12436v2)** | 2025-08-11 | ICCV2025 |
+| **[BadPromptFL: A Novel Backdoor Threat to Prompt-based Federated Learning in Multimodal Models](http://arxiv.org/abs/2508.08040v1)** | 2025-08-11 |  |
+| **[TRIDE: A Text-assisted Radar-Image weather-aware fusion network for Depth Estimation](http://arxiv.org/abs/2508.08038v1)** | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted by TMLR (2025.08)</p></details> |
+| **[SynthVLM: Towards High-Quality and Efficient Synthesis of Image-Caption Datasets for Vision-Language Models](http://arxiv.org/abs/2407.20756v5)** | 2025-08-11 |  |
+| **[CLGRPO: Reasoning Ability Enhancement for Small VLMs](http://arxiv.org/abs/2506.18048v2)** | 2025-08-11 | 11 pages, 5 figures |
+| **[DreamFrame: Enhancing Video Understanding via Automatically Generated QA and Style-Consistent Keyframes](http://arxiv.org/abs/2403.01422v5)** | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted by ACMM'MM 2025</p></details> |
+| **[TAG: A Simple Yet Effective Temporal-Aware Approach for Zero-Shot Video Temporal Grounding](http://arxiv.org/abs/2508.07925v1)** | 2025-08-11 |  |
+| **[RSVLM-QA: A Benchmark Dataset for Remote Sensing Vision Language Model-based Question Answering](http://arxiv.org/abs/2508.07918v1)** | 2025-08-11 | <details><summary>This ...</summary><p>This paper has been accepted to the proceedings of the 33rd ACM International Multimedia Conference (ACM Multimedia 2025)</p></details> |
+| **[Multi-Modal Semantic Parsing for the Interpretation of Tombstone Inscriptions](http://arxiv.org/abs/2507.04377v3)** | 2025-08-11 | ACMMM 2025 |
+| **[CATP: Contextually Adaptive Token Pruning for Efficient and Enhanced Multimodal In-Context Learning](http://arxiv.org/abs/2508.07871v1)** | 2025-08-11 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, 6 tables</p></details> |
+| **[Effortless Vision-Language Model Specialization in Histopathology without Annotation](http://arxiv.org/abs/2508.07835v1)** | 2025-08-11 |  |
+| **[MIMIC: Multimodal Inversion for Model Interpretation and Conceptualization](http://arxiv.org/abs/2508.07833v1)** | 2025-08-11 | <details><summary>Proje...</summary><p>Project page: https://anaekin.github.io/MIMIC</p></details> |
+| **[Architectural Co-Design for Zero-Shot Anomaly Detection: Decoupling Representation and Dynamically Fusing Features in CLIP](http://arxiv.org/abs/2508.07819v1)** | 2025-08-11 | <details><summary>4 pag...</summary><p>4 pages, 1 reference, 3 figures, icassp 2026</p></details> |
 
