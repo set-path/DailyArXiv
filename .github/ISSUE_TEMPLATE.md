@@ -1,5 +1,5 @@
 ---
-title: Papers - August 13, 2025
+title: Papers - August 14, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,6 +24,7 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Think as Cardiac Sonographers: Marrying SAM with Left Ventricular Indicators Measurements According to Clinical Guidelines](http://arxiv.org/abs/2508.08566v1)** | 2025-08-12 |  |
 | **[MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation](http://arxiv.org/abs/2501.13667v5)** | 2025-08-08 | ICCV 2025 |
 | **[SAM Encoder Breach by Adversarial Simplicial Complex Triggers Downstream Model Failures](http://arxiv.org/abs/2508.06127v1)** | 2025-08-08 | <details><summary>8 pag...</summary><p>8 pages,recived by ICCV2025</p></details> |
 | **[SGDFuse: SAM-Guided Diffusion for High-Fidelity Infrared and Visible Image Fusion](http://arxiv.org/abs/2508.05264v1)** | 2025-08-07 | Submitted to TCSVT |
@@ -38,7 +39,6 @@ labels: documentation
 | **[SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree](http://arxiv.org/abs/2410.16268v3)** | 2025-07-29 | <details><summary>ICCV ...</summary><p>ICCV 2025, Project page: https://mark12ding.github.io/project/SAM2Long/ ; github page: https://github.com/Mark12Ding/SAM2Long/</p></details> |
 | **[Fully Automated SAM for Single-source Domain Generalization in Medical Image Segmentation](http://arxiv.org/abs/2507.17281v1)** | 2025-07-23 | <details><summary>This ...</summary><p>This manuscript has been accepted for presentation at the IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC 2025) and is copyrighted by IEEE</p></details> |
 | **[CMP: A Composable Meta Prompt for SAM-Based Cross-Domain Few-Shot Segmentation](http://arxiv.org/abs/2507.16753v1)** | 2025-07-22 | 3 figures |
-| **[One Polyp Identifies All: One-Shot Polyp Segmentation with SAM via Cascaded Priors and Iterative Prompt Evolution](http://arxiv.org/abs/2507.16337v1)** | 2025-07-22 | accepted by ICCV2025 |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -75,19 +75,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ODYSSEY: Open-World Quadrupeds Exploration and Manipulation for Long-Horizon Tasks](http://arxiv.org/abs/2508.08240v1)** | 2025-08-11 |  |
-| **[Spatial-ORMLLM: Improve Spatial Relation Understanding in the Operating Room with Multimodal Large Language Model](http://arxiv.org/abs/2508.08199v1)** | 2025-08-11 |  |
-| **[Sparsity Outperforms Low-Rank Projections in Few-Shot Adaptation](http://arxiv.org/abs/2504.12436v2)** | 2025-08-11 | ICCV2025 |
-| **[BadPromptFL: A Novel Backdoor Threat to Prompt-based Federated Learning in Multimodal Models](http://arxiv.org/abs/2508.08040v1)** | 2025-08-11 |  |
-| **[TRIDE: A Text-assisted Radar-Image weather-aware fusion network for Depth Estimation](http://arxiv.org/abs/2508.08038v1)** | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted by TMLR (2025.08)</p></details> |
-| **[SynthVLM: Towards High-Quality and Efficient Synthesis of Image-Caption Datasets for Vision-Language Models](http://arxiv.org/abs/2407.20756v5)** | 2025-08-11 |  |
-| **[CLGRPO: Reasoning Ability Enhancement for Small VLMs](http://arxiv.org/abs/2506.18048v2)** | 2025-08-11 | 11 pages, 5 figures |
-| **[DreamFrame: Enhancing Video Understanding via Automatically Generated QA and Style-Consistent Keyframes](http://arxiv.org/abs/2403.01422v5)** | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted by ACMM'MM 2025</p></details> |
-| **[TAG: A Simple Yet Effective Temporal-Aware Approach for Zero-Shot Video Temporal Grounding](http://arxiv.org/abs/2508.07925v1)** | 2025-08-11 |  |
-| **[RSVLM-QA: A Benchmark Dataset for Remote Sensing Vision Language Model-based Question Answering](http://arxiv.org/abs/2508.07918v1)** | 2025-08-11 | <details><summary>This ...</summary><p>This paper has been accepted to the proceedings of the 33rd ACM International Multimedia Conference (ACM Multimedia 2025)</p></details> |
-| **[Multi-Modal Semantic Parsing for the Interpretation of Tombstone Inscriptions](http://arxiv.org/abs/2507.04377v3)** | 2025-08-11 | ACMMM 2025 |
-| **[CATP: Contextually Adaptive Token Pruning for Efficient and Enhanced Multimodal In-Context Learning](http://arxiv.org/abs/2508.07871v1)** | 2025-08-11 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, 6 tables</p></details> |
-| **[Effortless Vision-Language Model Specialization in Histopathology without Annotation](http://arxiv.org/abs/2508.07835v1)** | 2025-08-11 |  |
-| **[MIMIC: Multimodal Inversion for Model Interpretation and Conceptualization](http://arxiv.org/abs/2508.07833v1)** | 2025-08-11 | <details><summary>Proje...</summary><p>Project page: https://anaekin.github.io/MIMIC</p></details> |
-| **[Architectural Co-Design for Zero-Shot Anomaly Detection: Decoupling Representation and Dynamically Fusing Features in CLIP](http://arxiv.org/abs/2508.07819v1)** | 2025-08-11 | <details><summary>4 pag...</summary><p>4 pages, 1 reference, 3 figures, icassp 2026</p></details> |
+| **[OpenCUA: Open Foundations for Computer-Use Agents](http://arxiv.org/abs/2508.09123v1)** | 2025-08-12 |  |
+| **[Bridging Formal Language with Chain-of-Thought Reasoning to Geometry Problem Solving](http://arxiv.org/abs/2508.09099v1)** | 2025-08-12 |  |
+| **[Addressing Bias in VLMs for Glaucoma Detection Without Protected Attribute Supervision](http://arxiv.org/abs/2508.09087v1)** | 2025-08-12 | <details><summary>3rd W...</summary><p>3rd Workshop in Data Engineering in Medical Imaging (DEMI), MICCAI-2025 Workshop</p></details> |
+| **[GeoVLA: Empowering 3D Representations in Vision-Language-Action Models](http://arxiv.org/abs/2508.09071v1)** | 2025-08-12 | <details><summary>The p...</summary><p>The project is visible at https://linsun449.github.io/GeoVLA/</p></details> |
+| **[VLM-3D:End-to-End Vision-Language Models for Open-World 3D Perception](http://arxiv.org/abs/2508.09061v1)** | 2025-08-12 |  |
+| **[MVISU-Bench: Benchmarking Mobile Agents for Real-World Tasks by Multi-App, Vague, Interactive, Single-App and Unethical Instructions](http://arxiv.org/abs/2508.09057v1)** | 2025-08-12 | ACM MM 2025 |
+| **[SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience](http://arxiv.org/abs/2508.04700v2)** | 2025-08-12 | <details><summary>Code ...</summary><p>Code at https://github.com/SunzeY/SEAgent</p></details> |
+| **[Rational Inverse Reasoning](http://arxiv.org/abs/2508.08983v1)** | 2025-08-12 |  |
+| **[LayLens: Improving Deepfake Understanding through Simplified Explanations](http://arxiv.org/abs/2507.10066v2)** | 2025-08-12 | <details><summary>Accep...</summary><p>Accepted to ACM ICMI 2025 Demos</p></details> |
+| **[SCB-Dataset: A Dataset for Detecting Student and Teacher Classroom Behavior](http://arxiv.org/abs/2304.02488v7)** | 2025-08-12 |  |
+| **[Multiple Stochastic Prompt Tuning for Few-shot Adaptation under Extreme Domain Shift](http://arxiv.org/abs/2506.03926v2)** | 2025-08-12 |  |
+| **[How Does a Virtual Agent Decide Where to Look? -- Symbolic Cognitive Reasoning for Embodied Head Rotation](http://arxiv.org/abs/2508.08930v1)** | 2025-08-12 |  |
+| **[Safe Semantics, Unsafe Interpretations: Tackling Implicit Reasoning Safety in Large Vision-Language Models](http://arxiv.org/abs/2508.08926v1)** | 2025-08-12 |  |
+| **[Edge-Based Multimodal Sensor Data Fusion with Vision Language Models (VLMs) for Real-time Autonomous Vehicle Accident Avoidance](http://arxiv.org/abs/2508.01057v2)** | 2025-08-12 | <details><summary>24 pa...</summary><p>24 pages, 6 tables, 7 figures</p></details> |
+| **[3DFroMLLM: 3D Prototype Generation only from Pretrained Multimodal LLMs](http://arxiv.org/abs/2508.08821v1)** | 2025-08-12 |  |
 
