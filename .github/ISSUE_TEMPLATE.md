@@ -1,5 +1,5 @@
 ---
-title: Papers - August 15, 2025
+title: Papers - August 18, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,6 +24,7 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adapting SAM via Cross-Entropy Masking for Class Imbalance in Remote Sensing Change Detection](http://arxiv.org/abs/2508.10568v1)** | 2025-08-14 | work in progress |
 | **[Think as Cardiac Sonographers: Marrying SAM with Left Ventricular Indicators Measurements According to Clinical Guidelines](http://arxiv.org/abs/2508.08566v1)** | 2025-08-12 |  |
 | **[MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation](http://arxiv.org/abs/2501.13667v5)** | 2025-08-08 | ICCV 2025 |
 | **[SAM Encoder Breach by Adversarial Simplicial Complex Triggers Downstream Model Failures](http://arxiv.org/abs/2508.06127v1)** | 2025-08-08 | <details><summary>8 pag...</summary><p>8 pages,recived by ICCV2025</p></details> |
@@ -38,7 +39,6 @@ labels: documentation
 | **[TextSAM-EUS: Text Prompt Learning for SAM to Accurately Segment Pancreatic Tumor in Endoscopic Ultrasound](http://arxiv.org/abs/2507.18082v3)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025 Workshop CVAMD</p></details> |
 | **[SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree](http://arxiv.org/abs/2410.16268v3)** | 2025-07-29 | <details><summary>ICCV ...</summary><p>ICCV 2025, Project page: https://mark12ding.github.io/project/SAM2Long/ ; github page: https://github.com/Mark12Ding/SAM2Long/</p></details> |
 | **[Fully Automated SAM for Single-source Domain Generalization in Medical Image Segmentation](http://arxiv.org/abs/2507.17281v1)** | 2025-07-23 | <details><summary>This ...</summary><p>This manuscript has been accepted for presentation at the IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC 2025) and is copyrighted by IEEE</p></details> |
-| **[CMP: A Composable Meta Prompt for SAM-Based Cross-Domain Few-Shot Segmentation](http://arxiv.org/abs/2507.16753v1)** | 2025-07-22 | 3 figures |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -75,19 +75,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LLMC+: Benchmarking Vision-Language Model Compression with a Plug-and-play Toolkit](http://arxiv.org/abs/2508.09981v1)** | 2025-08-13 | 13 pages, 4 figures |
-| **[January Food Benchmark (JFB): A Public Benchmark Dataset and Evaluation Suite for Multimodal Food Analysis](http://arxiv.org/abs/2508.09966v1)** | 2025-08-13 |  |
-| **[GeoVLA: Empowering 3D Representations in Vision-Language-Action Models](http://arxiv.org/abs/2508.09071v2)** | 2025-08-13 | <details><summary>The p...</summary><p>The project is visible at https://linsun449.github.io/GeoVLA/</p></details> |
-| **[CAS-IQA: Teaching Vision-Language Models for Synthetic Angiography Quality Assessment](http://arxiv.org/abs/2505.17619v2)** | 2025-08-13 | <details><summary>Camer...</summary><p>Camera ready version for ICONIP 2025</p></details> |
-| **[Prototype-Guided Diffusion: Visual Conditioning without External Memory](http://arxiv.org/abs/2508.09922v1)** | 2025-08-13 |  |
-| **[Transferable Model-agnostic Vision-Language Model Adaptation for Efficient Weak-to-Strong Generalization](http://arxiv.org/abs/2508.08604v2)** | 2025-08-13 |  |
-| **[GLM-4.1V-Thinking and GLM-4.5V: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](http://arxiv.org/abs/2507.01006v3)** | 2025-08-13 |  |
-| **[Poison Once, Control Anywhere: Clean-Text Visual Backdoors in VLM-based Mobile Agents](http://arxiv.org/abs/2506.13205v5)** | 2025-08-13 | 10 pages |
-| **[Whole-Body Bilateral Teleoperation with Multi-Stage Object Parameter Estimation for Wheeled Humanoid Locomanipulation](http://arxiv.org/abs/2508.09846v1)** | 2025-08-13 |  |
-| **[Debiased Fine-Tuning for Vision-language Models by Prompt Regularization](http://arxiv.org/abs/2301.12429v3)** | 2025-08-13 | AAAI2023 accepted |
-| **[Evolution of Low-Level and Texture Human-CLIP Alignment](http://arxiv.org/abs/2508.09814v1)** | 2025-08-13 |  |
-| **[BigCharts-R1: Enhanced Chart Reasoning with Visual Reinforcement Finetuning](http://arxiv.org/abs/2508.09804v1)** | 2025-08-13 |  |
-| **[MoIIE: Mixture of Intra- and Inter-Modality Experts for Large Vision Language Models](http://arxiv.org/abs/2508.09779v1)** | 2025-08-13 |  |
-| **[The Perils of Chart Deception: How Misleading Visualizations Affect Vision-Language Models](http://arxiv.org/abs/2508.09716v1)** | 2025-08-13 | <details><summary>Accep...</summary><p>Accepted to IEEE VIS 2025</p></details> |
-| **[NEURAL: Attention-Guided Pruning for Unified Multimodal Resource-Constrained Clinical Evaluation](http://arxiv.org/abs/2508.09715v1)** | 2025-08-13 |  |
+| **[OpenCUA: Open Foundations for Computer-Use Agents](http://arxiv.org/abs/2508.09123v2)** | 2025-08-14 | <details><summary>Updat...</summary><p>Updata author list, modify first page format, correct typos</p></details> |
+| **[AEGIS: Authenticity Evaluation Benchmark for AI-Generated Video Sequences](http://arxiv.org/abs/2508.10771v1)** | 2025-08-14 | <details><summary>Proce...</summary><p>Proceedings of the 33rd ACM International Conference on Multimedia</p></details> |
+| **[From Diagnosis to Improvement: Probing Spatio-Physical Reasoning in Vision Language Models](http://arxiv.org/abs/2508.10770v1)** | 2025-08-14 | 9 pages, 6 figures |
+| **[IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection](http://arxiv.org/abs/2508.09178v2)** | 2025-08-14 |  |
+| **[GLM-4.1V-Thinking and GLM-4.5V: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](http://arxiv.org/abs/2507.01006v4)** | 2025-08-14 |  |
+| **[IADGPT: Unified LVLM for Few-Shot Industrial Anomaly Detection, Localization, and Reasoning via In-Context Learning](http://arxiv.org/abs/2508.10681v1)** | 2025-08-14 |  |
+| **[MMRAG-DocQA: A Multi-Modal Retrieval-Augmented Generation Method for Document Question-Answering with Hierarchical Index and Multi-Granularity Retrieval](http://arxiv.org/abs/2508.00579v2)** | 2025-08-14 | <details><summary>Comme...</summary><p>Comments: Removed the footnote in page 1</p></details> |
+| **[AddressVLM: Cross-view Alignment Tuning for Image Address Localization using Large Vision-Language Models](http://arxiv.org/abs/2508.10667v1)** | 2025-08-14 |  |
+| **[Evaluation of Cultural Competence of Vision-Language Models](http://arxiv.org/abs/2505.22793v2)** | 2025-08-14 |  |
+| **[SemPT: Semantic Prompt Tuning for Vision-Language Models](http://arxiv.org/abs/2508.10645v1)** | 2025-08-14 |  |
+| **[ChatENV: An Interactive Vision-Language Model for Sensor-Guided Environmental Monitoring and Scenario Simulation](http://arxiv.org/abs/2508.10635v1)** | 2025-08-14 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 7 tables</p></details> |
+| **[Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction](http://arxiv.org/abs/2508.05294v2)** | 2025-08-14 |  |
+| **[CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting](http://arxiv.org/abs/2505.20469v2)** | 2025-08-14 | ICCV 2025 |
+| **[Improved GUI Grounding via Iterative Narrowing](http://arxiv.org/abs/2411.13591v6)** | 2025-08-14 | <details><summary>Code ...</summary><p>Code available at https://github.com/ant-8/GUI-Grounding-via-Iterative-Narrowing</p></details> |
+| **[SHALE: A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs](http://arxiv.org/abs/2508.09584v2)** | 2025-08-14 |  |
 
