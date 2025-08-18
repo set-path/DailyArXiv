@@ -1,5 +1,5 @@
 ---
-title: Papers - August 18, 2025
+title: Papers - August 19, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -75,19 +75,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OpenCUA: Open Foundations for Computer-Use Agents](http://arxiv.org/abs/2508.09123v2)** | 2025-08-14 | <details><summary>Updat...</summary><p>Updata author list, modify first page format, correct typos</p></details> |
-| **[AEGIS: Authenticity Evaluation Benchmark for AI-Generated Video Sequences](http://arxiv.org/abs/2508.10771v1)** | 2025-08-14 | <details><summary>Proce...</summary><p>Proceedings of the 33rd ACM International Conference on Multimedia</p></details> |
-| **[From Diagnosis to Improvement: Probing Spatio-Physical Reasoning in Vision Language Models](http://arxiv.org/abs/2508.10770v1)** | 2025-08-14 | 9 pages, 6 figures |
-| **[IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection](http://arxiv.org/abs/2508.09178v2)** | 2025-08-14 |  |
-| **[GLM-4.1V-Thinking and GLM-4.5V: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](http://arxiv.org/abs/2507.01006v4)** | 2025-08-14 |  |
-| **[IADGPT: Unified LVLM for Few-Shot Industrial Anomaly Detection, Localization, and Reasoning via In-Context Learning](http://arxiv.org/abs/2508.10681v1)** | 2025-08-14 |  |
-| **[MMRAG-DocQA: A Multi-Modal Retrieval-Augmented Generation Method for Document Question-Answering with Hierarchical Index and Multi-Granularity Retrieval](http://arxiv.org/abs/2508.00579v2)** | 2025-08-14 | <details><summary>Comme...</summary><p>Comments: Removed the footnote in page 1</p></details> |
-| **[AddressVLM: Cross-view Alignment Tuning for Image Address Localization using Large Vision-Language Models](http://arxiv.org/abs/2508.10667v1)** | 2025-08-14 |  |
-| **[Evaluation of Cultural Competence of Vision-Language Models](http://arxiv.org/abs/2505.22793v2)** | 2025-08-14 |  |
-| **[SemPT: Semantic Prompt Tuning for Vision-Language Models](http://arxiv.org/abs/2508.10645v1)** | 2025-08-14 |  |
-| **[ChatENV: An Interactive Vision-Language Model for Sensor-Guided Environmental Monitoring and Scenario Simulation](http://arxiv.org/abs/2508.10635v1)** | 2025-08-14 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 7 tables</p></details> |
-| **[Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction](http://arxiv.org/abs/2508.05294v2)** | 2025-08-14 |  |
-| **[CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting](http://arxiv.org/abs/2505.20469v2)** | 2025-08-14 | ICCV 2025 |
-| **[Improved GUI Grounding via Iterative Narrowing](http://arxiv.org/abs/2411.13591v6)** | 2025-08-14 | <details><summary>Code ...</summary><p>Code available at https://github.com/ant-8/GUI-Grounding-via-Iterative-Narrowing</p></details> |
-| **[SHALE: A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs](http://arxiv.org/abs/2508.09584v2)** | 2025-08-14 |  |
+| **[Reinforcing Video Reasoning Segmentation to Think Before It Segments](http://arxiv.org/abs/2508.11538v1)** | 2025-08-15 | 12 pages |
+| **[OVSegDT: Segmenting Transformer for Open-Vocabulary Object Goal Navigation](http://arxiv.org/abs/2508.11479v1)** | 2025-08-15 |  |
+| **[GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](http://arxiv.org/abs/2507.01006v5)** | 2025-08-15 |  |
+| **[Med3DVLM: An Efficient Vision-Language Model for 3D Medical Image Analysis](http://arxiv.org/abs/2503.20047v2)** | 2025-08-15 |  |
+| **[ImagiDrive: A Unified Imagination-and-Planning Framework for Autonomous Driving](http://arxiv.org/abs/2508.11428v1)** | 2025-08-15 |  |
+| **[MCA-Bench: A Multimodal Benchmark for Evaluating CAPTCHA Robustness Against VLM-based Attacks](http://arxiv.org/abs/2506.05982v4)** | 2025-08-15 | <details><summary>we up...</summary><p>we update the paper, add more experiments, and update the teammates</p></details> |
+| **[Semantically Guided Adversarial Testing of Vision Models Using Language Models](http://arxiv.org/abs/2508.11341v1)** | 2025-08-15 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 3 tables. Submitted for peer review</p></details> |
+| **[Noise Matters: Optimizing Matching Noise for Diffusion Classifiers](http://arxiv.org/abs/2508.11330v1)** | 2025-08-15 |  |
+| **[Logic Unseen: Revealing the Logical Blindspots of Vision-Language Models](http://arxiv.org/abs/2508.11317v1)** | 2025-08-15 |  |
+| **[Vision-Language Models display a strong gender bias](http://arxiv.org/abs/2508.11262v1)** | 2025-08-15 |  |
+| **[Generalized Decoupled Learning for Enhancing Open-Vocabulary Dense Perception](http://arxiv.org/abs/2508.11256v1)** | 2025-08-15 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2505.04410</p></details> |
+| **[Compositional Zero-shot Learning via Progressive Language-based Observations](http://arxiv.org/abs/2311.14749v2)** | 2025-08-15 |  |
+| **[MUNBa: Machine Unlearning via Nash Bargaining](http://arxiv.org/abs/2411.15537v3)** | 2025-08-15 |  |
+| **[UAV-VL-R1: Generalizing Vision-Language Models via Supervised Fine-Tuning and Multi-Stage GRPO for UAV Visual Reasoning](http://arxiv.org/abs/2508.11196v1)** | 2025-08-15 |  |
+| **[Fine-Grained VLM Fine-tuning via Latent Hierarchical Adapter Learning](http://arxiv.org/abs/2508.11176v1)** | 2025-08-15 |  |
 
