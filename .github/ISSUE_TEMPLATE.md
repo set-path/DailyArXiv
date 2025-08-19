@@ -1,5 +1,5 @@
 ---
-title: Papers - August 19, 2025
+title: Papers - August 20, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,6 +24,7 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GeoSAM: Fine-tuning SAM with Multi-Modal Prompts for Mobility Infrastructure Segmentation](http://arxiv.org/abs/2311.11319v4)** | 2025-08-15 | <details><summary>Accep...</summary><p>Accepted by European Conference on Artificial Intelligence (ECAI 2025)</p></details> |
 | **[Adapting SAM via Cross-Entropy Masking for Class Imbalance in Remote Sensing Change Detection](http://arxiv.org/abs/2508.10568v1)** | 2025-08-14 | work in progress |
 | **[Think as Cardiac Sonographers: Marrying SAM with Left Ventricular Indicators Measurements According to Clinical Guidelines](http://arxiv.org/abs/2508.08566v1)** | 2025-08-12 |  |
 | **[MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation](http://arxiv.org/abs/2501.13667v5)** | 2025-08-08 | ICCV 2025 |
@@ -38,7 +39,6 @@ labels: documentation
 | **[ST-SAM: SAM-Driven Self-Training Framework for Semi-Supervised Camouflaged Object Detection](http://arxiv.org/abs/2507.23307v1)** | 2025-07-31 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, ACM MM 2025</p></details> |
 | **[TextSAM-EUS: Text Prompt Learning for SAM to Accurately Segment Pancreatic Tumor in Endoscopic Ultrasound](http://arxiv.org/abs/2507.18082v3)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025 Workshop CVAMD</p></details> |
 | **[SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree](http://arxiv.org/abs/2410.16268v3)** | 2025-07-29 | <details><summary>ICCV ...</summary><p>ICCV 2025, Project page: https://mark12ding.github.io/project/SAM2Long/ ; github page: https://github.com/Mark12Ding/SAM2Long/</p></details> |
-| **[Fully Automated SAM for Single-source Domain Generalization in Medical Image Segmentation](http://arxiv.org/abs/2507.17281v1)** | 2025-07-23 | <details><summary>This ...</summary><p>This manuscript has been accepted for presentation at the IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC 2025) and is copyrighted by IEEE</p></details> |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -75,19 +75,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reinforcing Video Reasoning Segmentation to Think Before It Segments](http://arxiv.org/abs/2508.11538v1)** | 2025-08-15 | 12 pages |
-| **[OVSegDT: Segmenting Transformer for Open-Vocabulary Object Goal Navigation](http://arxiv.org/abs/2508.11479v1)** | 2025-08-15 |  |
-| **[GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](http://arxiv.org/abs/2507.01006v5)** | 2025-08-15 |  |
-| **[Med3DVLM: An Efficient Vision-Language Model for 3D Medical Image Analysis](http://arxiv.org/abs/2503.20047v2)** | 2025-08-15 |  |
-| **[ImagiDrive: A Unified Imagination-and-Planning Framework for Autonomous Driving](http://arxiv.org/abs/2508.11428v1)** | 2025-08-15 |  |
-| **[MCA-Bench: A Multimodal Benchmark for Evaluating CAPTCHA Robustness Against VLM-based Attacks](http://arxiv.org/abs/2506.05982v4)** | 2025-08-15 | <details><summary>we up...</summary><p>we update the paper, add more experiments, and update the teammates</p></details> |
-| **[Semantically Guided Adversarial Testing of Vision Models Using Language Models](http://arxiv.org/abs/2508.11341v1)** | 2025-08-15 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 3 tables. Submitted for peer review</p></details> |
-| **[Noise Matters: Optimizing Matching Noise for Diffusion Classifiers](http://arxiv.org/abs/2508.11330v1)** | 2025-08-15 |  |
-| **[Logic Unseen: Revealing the Logical Blindspots of Vision-Language Models](http://arxiv.org/abs/2508.11317v1)** | 2025-08-15 |  |
-| **[Vision-Language Models display a strong gender bias](http://arxiv.org/abs/2508.11262v1)** | 2025-08-15 |  |
-| **[Generalized Decoupled Learning for Enhancing Open-Vocabulary Dense Perception](http://arxiv.org/abs/2508.11256v1)** | 2025-08-15 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2505.04410</p></details> |
-| **[Compositional Zero-shot Learning via Progressive Language-based Observations](http://arxiv.org/abs/2311.14749v2)** | 2025-08-15 |  |
-| **[MUNBa: Machine Unlearning via Nash Bargaining](http://arxiv.org/abs/2411.15537v3)** | 2025-08-15 |  |
-| **[UAV-VL-R1: Generalizing Vision-Language Models via Supervised Fine-Tuning and Multi-Stage GRPO for UAV Visual Reasoning](http://arxiv.org/abs/2508.11196v1)** | 2025-08-15 |  |
-| **[Fine-Grained VLM Fine-tuning via Latent Hierarchical Adapter Learning](http://arxiv.org/abs/2508.11176v1)** | 2025-08-15 |  |
+| **[Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey](http://arxiv.org/abs/2508.13073v1)** | 2025-08-18 | <details><summary>Proje...</summary><p>Project Page: https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation</p></details> |
+| **[Towards Multimodal Social Conversations with Robots: Using Vision-Language Models](http://arxiv.org/abs/2507.19196v2)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted at the workshop "Human - Foundation Models Interaction: A Focus On Multimodal Information" (FoMo-HRI) at IEEE RO-MAN 2025 (Camera-ready version)</p></details> |
+| **[IntelliCap: Intelligent Guidance for Consistent View Sampling](http://arxiv.org/abs/2508.13043v1)** | 2025-08-18 | <details><summary>This ...</summary><p>This work is a pre-print version of a paper that has been accepted to the IEEE International Symposium on Mixed and Augmented Reality for future publication. Project Page: https://mediated-reality.github.io/projects/yasunaga_ismar25/</p></details> |
+| **[Breaking Reward Collapse: Adaptive Reinforcement for Open-ended Medical Reasoning with Enhanced Semantic Discrimination](http://arxiv.org/abs/2508.12957v1)** | 2025-08-18 |  |
+| **[RoboRetriever: Single-Camera Robot Object Retrieval via Active and Interactive Perception with Dynamic Scene Graph](http://arxiv.org/abs/2508.12916v1)** | 2025-08-18 |  |
+| **[TRIDE: A Text-assisted Radar-Image weather-aware fusion network for Depth Estimation](http://arxiv.org/abs/2508.08038v2)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted by TMLR (2025.08)</p></details> |
+| **[Preserve and Sculpt: Manifold-Aligned Fine-tuning of Vision-Language Models for Few-Shot Learning](http://arxiv.org/abs/2508.12877v1)** | 2025-08-18 |  |
+| **[Cross-Domain Few-Shot Learning via Multi-View Collaborative Optimization with Vision-Language Models](http://arxiv.org/abs/2508.12861v1)** | 2025-08-18 |  |
+| **[Optimization of Prompt Learning via Multi-Knowledge Representation for Vision-Language Models](http://arxiv.org/abs/2404.10357v3)** | 2025-08-18 |  |
+| **[V-RoAst: Visual Road Assessment. Can VLM be a Road Safety Assessor Using the iRAP Standard?](http://arxiv.org/abs/2408.10872v5)** | 2025-08-18 |  |
+| **[HeteroRAG: A Heterogeneous Retrieval-Augmented Generation Framework for Medical Vision Language Tasks](http://arxiv.org/abs/2508.12778v1)** | 2025-08-18 |  |
+| **[Evaluating Contrast Localizer for Identifying Causal Units in Social & Mathematical Tasks in Language Models](http://arxiv.org/abs/2508.08276v2)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted at the Interplay of Model Behavior and Model Internals Workshop co-located with COLM 2025</p></details> |
+| **[Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection](http://arxiv.org/abs/2508.12711v1)** | 2025-08-18 |  |
+| **[Not All Tokens and Heads Are Equally Important: Dual-Level Attention Intervention for Hallucination Mitigation](http://arxiv.org/abs/2506.12609v2)** | 2025-08-18 |  |
+| **[WP-CLIP: Leveraging CLIP to Predict Wölfflin's Principles in Visual Art](http://arxiv.org/abs/2508.12668v1)** | 2025-08-18 | <details><summary>ICCV ...</summary><p>ICCV 2025 AI4VA workshop (oral), Code: https://github.com/abhijay9/wpclip</p></details> |
 
