@@ -1,5 +1,5 @@
 ---
-title: Papers - August 20, 2025
+title: Papers - August 21, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -75,19 +75,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey](http://arxiv.org/abs/2508.13073v1)** | 2025-08-18 | <details><summary>Proje...</summary><p>Project Page: https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation</p></details> |
-| **[Towards Multimodal Social Conversations with Robots: Using Vision-Language Models](http://arxiv.org/abs/2507.19196v2)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted at the workshop "Human - Foundation Models Interaction: A Focus On Multimodal Information" (FoMo-HRI) at IEEE RO-MAN 2025 (Camera-ready version)</p></details> |
-| **[IntelliCap: Intelligent Guidance for Consistent View Sampling](http://arxiv.org/abs/2508.13043v1)** | 2025-08-18 | <details><summary>This ...</summary><p>This work is a pre-print version of a paper that has been accepted to the IEEE International Symposium on Mixed and Augmented Reality for future publication. Project Page: https://mediated-reality.github.io/projects/yasunaga_ismar25/</p></details> |
-| **[Breaking Reward Collapse: Adaptive Reinforcement for Open-ended Medical Reasoning with Enhanced Semantic Discrimination](http://arxiv.org/abs/2508.12957v1)** | 2025-08-18 |  |
-| **[RoboRetriever: Single-Camera Robot Object Retrieval via Active and Interactive Perception with Dynamic Scene Graph](http://arxiv.org/abs/2508.12916v1)** | 2025-08-18 |  |
-| **[TRIDE: A Text-assisted Radar-Image weather-aware fusion network for Depth Estimation](http://arxiv.org/abs/2508.08038v2)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted by TMLR (2025.08)</p></details> |
-| **[Preserve and Sculpt: Manifold-Aligned Fine-tuning of Vision-Language Models for Few-Shot Learning](http://arxiv.org/abs/2508.12877v1)** | 2025-08-18 |  |
-| **[Cross-Domain Few-Shot Learning via Multi-View Collaborative Optimization with Vision-Language Models](http://arxiv.org/abs/2508.12861v1)** | 2025-08-18 |  |
-| **[Optimization of Prompt Learning via Multi-Knowledge Representation for Vision-Language Models](http://arxiv.org/abs/2404.10357v3)** | 2025-08-18 |  |
-| **[V-RoAst: Visual Road Assessment. Can VLM be a Road Safety Assessor Using the iRAP Standard?](http://arxiv.org/abs/2408.10872v5)** | 2025-08-18 |  |
-| **[HeteroRAG: A Heterogeneous Retrieval-Augmented Generation Framework for Medical Vision Language Tasks](http://arxiv.org/abs/2508.12778v1)** | 2025-08-18 |  |
-| **[Evaluating Contrast Localizer for Identifying Causal Units in Social & Mathematical Tasks in Language Models](http://arxiv.org/abs/2508.08276v2)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted at the Interplay of Model Behavior and Model Internals Workshop co-located with COLM 2025</p></details> |
-| **[Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection](http://arxiv.org/abs/2508.12711v1)** | 2025-08-18 |  |
-| **[Not All Tokens and Heads Are Equally Important: Dual-Level Attention Intervention for Hallucination Mitigation](http://arxiv.org/abs/2506.12609v2)** | 2025-08-18 |  |
-| **[WP-CLIP: Leveraging CLIP to Predict Wölfflin's Principles in Visual Art](http://arxiv.org/abs/2508.12668v1)** | 2025-08-18 | <details><summary>ICCV ...</summary><p>ICCV 2025 AI4VA workshop (oral), Code: https://github.com/abhijay9/wpclip</p></details> |
+| **[RadGPT: Constructing 3D Image-Text Tumor Datasets](http://arxiv.org/abs/2501.04678v2)** | 2025-08-19 |  |
+| **[Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation](http://arxiv.org/abs/2508.13998v1)** | 2025-08-19 | <details><summary>Embod...</summary><p>Embodied-R1 technical report</p></details> |
+| **[Mitigating Cross-Image Information Leakage in LVLMs for Multi-Image Tasks](http://arxiv.org/abs/2508.13744v1)** | 2025-08-19 | <details><summary>Sourc...</summary><p>Source code is available at https://github.com/yejipark-m/FOCUS</p></details> |
+| **[Enhancing Targeted Adversarial Attacks on Large Vision-Language Models through Intermediate Projector Guidance](http://arxiv.org/abs/2508.13739v1)** | 2025-08-19 |  |
+| **[Hierarchical Vision-Language Retrieval of Educational Metaverse Content in Agriculture](http://arxiv.org/abs/2508.13713v1)** | 2025-08-19 | <details><summary>Accep...</summary><p>Accepted for publication at the 23rd International Conference on Image Analysis and Processing (ICIAP 2025)</p></details> |
+| **[ViExam: Are Vision Language Models Better than Humans on Vietnamese Multimodal Exam Questions?](http://arxiv.org/abs/2508.13680v1)** | 2025-08-19 |  |
+| **[Identify, Isolate, and Purge: Mitigating Hallucinations in LVLMs via Self-Evolving Distillation](http://arxiv.org/abs/2507.04680v2)** | 2025-08-19 | <details><summary>In Fi...</summary><p>In Figure 2, the correlation coefficient and the scatter plot do not match. I calculated this correlation using two sets of settings. I used the scatter plot from setting A, but accidentally wrote the correlation coefficient, r, from setting B</p></details> |
+| **[Breaking the SFT Plateau: Multimodal Structured Reinforcement Learning for Chart-to-Code Generation](http://arxiv.org/abs/2508.13587v1)** | 2025-08-19 | technical report |
+| **[DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup](http://arxiv.org/abs/2508.13560v1)** | 2025-08-19 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025, Project: https://github.com/xiaozhen228/DictAS</p></details> |
+| **[Evaluating Open-Source Vision Language Models for Facial Emotion Recognition against Traditional Deep Learning Models](http://arxiv.org/abs/2508.13524v1)** | 2025-08-19 |  |
+| **[DISCO: Language-Guided Manipulation with Diffusion Policies and Constrained Inpainting](http://arxiv.org/abs/2406.09767v3)** | 2025-08-19 |  |
+| **[STER-VLM: Spatio-Temporal With Enhanced Reference Vision-Language Models](http://arxiv.org/abs/2508.13470v1)** | 2025-08-19 | ICCV Workshop 2025 |
+| **[Enhancing Visual Reliance in Text Generation: A Bayesian Perspective on Mitigating Hallucination in Large Vision-Language Models](http://arxiv.org/abs/2505.19498v2)** | 2025-08-19 |  |
+| **[CAST: Counterfactual Labels Improve Instruction Following in Vision-Language-Action Models](http://arxiv.org/abs/2508.13446v1)** | 2025-08-19 |  |
+| **[Structured Prompting and Multi-Agent Knowledge Distillation for Traffic Video Interpretation and Risk Inference](http://arxiv.org/abs/2508.13439v1)** | 2025-08-19 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 1 table</p></details> |
 
