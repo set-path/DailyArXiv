@@ -1,5 +1,5 @@
 ---
-title: Papers - August 22, 2025
+title: Papers - August 25, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,6 +24,7 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fine-grained Multi-class Nuclei Segmentation with Molecular-empowered All-in-SAM Model](http://arxiv.org/abs/2508.15751v1)** | 2025-08-21 | <details><summary>25 pa...</summary><p>25 pages, 3 figures, accepted by Journal of Medical Imaging</p></details> |
 | **[GeoSAM: Fine-tuning SAM with Multi-Modal Prompts for Mobility Infrastructure Segmentation](http://arxiv.org/abs/2311.11319v4)** | 2025-08-15 | <details><summary>Accep...</summary><p>Accepted by European Conference on Artificial Intelligence (ECAI 2025)</p></details> |
 | **[Adapting SAM via Cross-Entropy Masking for Class Imbalance in Remote Sensing Change Detection](http://arxiv.org/abs/2508.10568v1)** | 2025-08-14 | work in progress |
 | **[Think as Cardiac Sonographers: Marrying SAM with Left Ventricular Indicators Measurements According to Clinical Guidelines](http://arxiv.org/abs/2508.08566v1)** | 2025-08-12 |  |
@@ -38,7 +39,6 @@ labels: documentation
 | **[SAM: A Stability-Aware Cache Manager for Multi-Tenant Embedded Databases](http://arxiv.org/abs/2507.22701v2)** | 2025-07-31 | <details><summary>17 pa...</summary><p>17 pages, 10 figures. An extended version of a paper under review at the VLDB 2026 conference</p></details> |
 | **[ST-SAM: SAM-Driven Self-Training Framework for Semi-Supervised Camouflaged Object Detection](http://arxiv.org/abs/2507.23307v1)** | 2025-07-31 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, ACM MM 2025</p></details> |
 | **[TextSAM-EUS: Text Prompt Learning for SAM to Accurately Segment Pancreatic Tumor in Endoscopic Ultrasound](http://arxiv.org/abs/2507.18082v3)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025 Workshop CVAMD</p></details> |
-| **[SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree](http://arxiv.org/abs/2410.16268v3)** | 2025-07-29 | <details><summary>ICCV ...</summary><p>ICCV 2025, Project page: https://mark12ding.github.io/project/SAM2Long/ ; github page: https://github.com/Mark12Ding/SAM2Long/</p></details> |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -75,19 +75,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MetaWild: A Multimodal Dataset for Animal Re-Identification with Environmental Metadata](http://arxiv.org/abs/2501.13368v2)** | 2025-08-20 | 7 pages, 6 figures |
-| **[Interpreting the linear structure of vision-language model embedding spaces](http://arxiv.org/abs/2504.11695v4)** | 2025-08-20 | COLM 2025 |
-| **[WISE-FUSE: Efficient Whole Slide Image Encoding via Coarse-to-Fine Patch Selection with VLM and LLM Knowledge Fusion](http://arxiv.org/abs/2508.14537v1)** | 2025-08-20 |  |
-| **[LaViPlan : Language-Guided Visual Path Planning with RLVR](http://arxiv.org/abs/2507.12911v4)** | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted to the 2nd ICCV 2025 Workshop on the Challenge of Out-of-Label Hazards in Autonomous Driving (13 pages, 6 figures)</p></details> |
-| **[JRDB-Reasoning: A Difficulty-Graded Benchmark for Visual Reasoning in Robotics](http://arxiv.org/abs/2508.10287v2)** | 2025-08-20 |  |
-| **[MetAdv: A Unified and Interactive Adversarial Testing Platform for Autonomous Driving](http://arxiv.org/abs/2508.06534v2)** | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025 Demo/Videos track</p></details> |
-| **[Bench2ADVLM: A Closed-Loop Benchmark for Vision-language Models in Autonomous Driving](http://arxiv.org/abs/2508.02028v2)** | 2025-08-20 |  |
-| **[AdaRing: Towards Ultra-Light Vision-Language Adaptation via Cross-Layer Tensor Ring Decomposition](http://arxiv.org/abs/2508.11870v2)** | 2025-08-19 |  |
-| **[Multi-Rationale Explainable Object Recognition via Contrastive Conditional Inference](http://arxiv.org/abs/2508.14280v1)** | 2025-08-19 |  |
-| **[3D-Generalist: Self-Improving Vision-Language-Action Models for Crafting 3D Worlds](http://arxiv.org/abs/2507.06484v2)** | 2025-08-19 | <details><summary>proje...</summary><p>project website: https://ai.stanford.edu/~sunfanyun/3d-generalist/</p></details> |
-| **[CLIPSym: Delving into Symmetry Detection with CLIP](http://arxiv.org/abs/2508.14197v1)** | 2025-08-19 |  |
-| **[LENS: Learning to Segment Anything with Unified Reinforced Reasoning](http://arxiv.org/abs/2508.14153v1)** | 2025-08-19 | <details><summary>Code ...</summary><p>Code is released at https://github.com/hustvl/LENS</p></details> |
-| **[RadGPT: Constructing 3D Image-Text Tumor Datasets](http://arxiv.org/abs/2501.04678v2)** | 2025-08-19 |  |
-| **[Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation](http://arxiv.org/abs/2508.13998v1)** | 2025-08-19 | <details><summary>Embod...</summary><p>Embodied-R1 technical report</p></details> |
-| **[Mitigating Cross-Image Information Leakage in LVLMs for Multi-Image Tasks](http://arxiv.org/abs/2508.13744v1)** | 2025-08-19 | <details><summary>Sourc...</summary><p>Source code is available at https://github.com/yejipark-m/FOCUS</p></details> |
+| **[LLM-empowered Dynamic Prompt Routing for Vision-Language Models Tuning under Long-Tailed Distributions](http://arxiv.org/abs/2508.15688v1)** | 2025-08-21 | <details><summary>accep...</summary><p>accepted by EMNLP 2025</p></details> |
+| **[Mind and Motion Aligned: A Joint Evaluation IsaacSim Benchmark for Task Planning and Low-Level Policies in Mobile Manipulation](http://arxiv.org/abs/2508.15663v1)** | 2025-08-21 |  |
+| **[Architectural Co-Design for Zero-Shot Anomaly Detection: Decoupling Representation and Dynamically Fusing Features in CLIP](http://arxiv.org/abs/2508.07819v2)** | 2025-08-21 | <details><summary>4 pag...</summary><p>4 pages, 1 reference, 3 figures, icassp 2026</p></details> |
+| **[The Devil is in the EOS: Sequence Training for Detailed Image Captioning](http://arxiv.org/abs/2507.20077v2)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted to COLM 2025</p></details> |
+| **[Referring Expression Instance Retrieval and A Strong End-to-End Baseline](http://arxiv.org/abs/2506.18246v4)** | 2025-08-21 | ACMMM2025 |
+| **[Synthesizing Near-Boundary OOD Samples for Out-of-Distribution Detection](http://arxiv.org/abs/2507.10225v3)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025 (Highlight)</p></details> |
+| **[Understanding Co-speech Gestures in-the-wild](http://arxiv.org/abs/2503.22668v2)** | 2025-08-21 | <details><summary>Main ...</summary><p>Main paper - 11 pages, 4 figures, Supplementary - 6 pages, 6 figures</p></details> |
+| **[DesignCLIP: Multimodal Learning with CLIP for Design Patent Understanding](http://arxiv.org/abs/2508.15297v1)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025. 22 pages, 14 figures</p></details> |
+| **[Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images](http://arxiv.org/abs/2508.15256v1)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025. \c{opyright} IEEE 2025. This is the author's accepted version (camera-ready) of the paper. The definitive version is published in the Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV 2025). DOI will be updated when available</p></details> |
+| **[Pathology-Informed Latent Diffusion Model for Anomaly Detection in Lymph Node Metastasis](http://arxiv.org/abs/2508.15236v1)** | 2025-08-21 |  |
+| **[See it. Say it. Sorted: Agentic System for Compositional Diagram Generation](http://arxiv.org/abs/2508.15222v1)** | 2025-08-21 |  |
+| **[ContextualLVLM-Agent: A Holistic Framework for Multi-Turn Visually-Grounded Dialogue and Complex Instruction Following](http://arxiv.org/abs/2508.15164v1)** | 2025-08-21 |  |
+| **[DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup](http://arxiv.org/abs/2508.13560v2)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025, Project: https://github.com/xiaozhen228/DictAS</p></details> |
+| **[MoEcho: Exploiting Side-Channel Attacks to Compromise User Privacy in Mixture-of-Experts LLMs](http://arxiv.org/abs/2508.15036v1)** | 2025-08-20 | <details><summary>This ...</summary><p>This paper will appear in CCS 2025</p></details> |
+| **[ABC: Achieving Better Control of Multimodal Embeddings using VLMs](http://arxiv.org/abs/2503.00329v2)** | 2025-08-20 | TMLR 2025 |
 
