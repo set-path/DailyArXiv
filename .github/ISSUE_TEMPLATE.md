@@ -1,5 +1,5 @@
 ---
-title: Papers - August 27, 2025
+title: Papers - August 28, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,6 +24,7 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes](http://arxiv.org/abs/2412.01240v3)** | 2025-08-26 | <details><summary>Under...</summary><p>Under submission to International Journal of Computer Vision (IJCV)</p></details> |
 | **[E-BayesSAM: Efficient Bayesian Adaptation of SAM with Self-Optimizing KAN-Based Interpretation for Uncertainty-Aware Ultrasonic Segmentation](http://arxiv.org/abs/2508.17408v1)** | 2025-08-24 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2025</p></details> |
 | **[Fine-grained Multi-class Nuclei Segmentation with Molecular-empowered All-in-SAM Model](http://arxiv.org/abs/2508.15751v1)** | 2025-08-21 | <details><summary>25 pa...</summary><p>25 pages, 3 figures, accepted by Journal of Medical Imaging</p></details> |
 | **[GeoSAM: Fine-tuning SAM with Multi-Modal Prompts for Mobility Infrastructure Segmentation](http://arxiv.org/abs/2311.11319v4)** | 2025-08-15 | <details><summary>Accep...</summary><p>Accepted by European Conference on Artificial Intelligence (ECAI 2025)</p></details> |
@@ -38,7 +39,6 @@ labels: documentation
 | **[SAM-PTx: Text-Guided Fine-Tuning of SAM with Parameter-Efficient, Parallel-Text Adapters](http://arxiv.org/abs/2508.00213v1)** | 2025-07-31 |  |
 | **[SAM: A Stability-Aware Cache Manager for Multi-Tenant Embedded Databases](http://arxiv.org/abs/2507.22701v2)** | 2025-07-31 | <details><summary>17 pa...</summary><p>17 pages, 10 figures. An extended version of a paper under review at the VLDB 2026 conference</p></details> |
 | **[ST-SAM: SAM-Driven Self-Training Framework for Semi-Supervised Camouflaged Object Detection](http://arxiv.org/abs/2507.23307v1)** | 2025-07-31 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, ACM MM 2025</p></details> |
-| **[TextSAM-EUS: Text Prompt Learning for SAM to Accurately Segment Pancreatic Tumor in Endoscopic Ultrasound](http://arxiv.org/abs/2507.18082v3)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025 Workshop CVAMD</p></details> |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -75,19 +75,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SafeBimanual: Diffusion-based Trajectory Optimization for Safe Bimanual Manipulation](http://arxiv.org/abs/2508.18268v1)** | 2025-08-25 | <details><summary>Proje...</summary><p>Project website is at: https://denghaoyuan123.github.io/SafeBimanip/</p></details> |
-| **[MMTok: Multimodal Coverage Maximization for Efficient Inference of VLMs](http://arxiv.org/abs/2508.18264v1)** | 2025-08-25 | <details><summary>Proje...</summary><p>Project page: https://project.ironieser.cc/mmtok</p></details> |
-| **[SEAM: Semantically Equivalent Across Modalities Benchmark for Vision-Language Models](http://arxiv.org/abs/2508.18179v1)** | 2025-08-25 | COLM 2025 |
-| **[Scene-Aware Vectorized Memory Multi-Agent Framework with Cross-Modal Differentiated Quantization VLMs for Visually Impaired Assistance](http://arxiv.org/abs/2508.18177v1)** | 2025-08-25 | 28 pages,9 figures |
-| **[Controllable Hybrid Captioner for Improved Long-form Video Understanding](http://arxiv.org/abs/2507.17047v2)** | 2025-08-25 |  |
-| **[Jigsaw-Puzzles: From Seeing to Understanding to Reasoning in Vision-Language Models](http://arxiv.org/abs/2505.20728v3)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025 Main conference</p></details> |
-| **[Architecting Clinical Collaboration: Multi-Agent Reasoning Systems for Multimodal Medical VQA](http://arxiv.org/abs/2507.05520v2)** | 2025-08-25 |  |
-| **[ArgusCogito: Chain-of-Thought for Cross-Modal Synergy and Omnidirectional Reasoning in Camouflaged Object Segmentation](http://arxiv.org/abs/2508.18050v1)** | 2025-08-25 |  |
-| **[Architectural Co-Design for Zero-Shot Anomaly Detection: Decoupling Representation and Dynamically Fusing Features in CLIP](http://arxiv.org/abs/2508.07819v3)** | 2025-08-25 | <details><summary>4 pag...</summary><p>4 pages, 1 reference, 3 figures, icassp 2026</p></details> |
-| **[PerPilot: Personalizing VLM-based Mobile Agents via Memory and Exploration](http://arxiv.org/abs/2508.18040v1)** | 2025-08-25 |  |
-| **[3D Feature Distillation with Object-Centric Priors](http://arxiv.org/abs/2406.18742v5)** | 2025-08-25 |  |
-| **[Alternating Training-based Label Smoothing Enhances Prompt Generalization](http://arxiv.org/abs/2508.17846v1)** | 2025-08-25 |  |
-| **[PoRe: Position-Reweighted Visual Token Pruning for Vision Language Models](http://arxiv.org/abs/2508.17807v1)** | 2025-08-25 |  |
-| **[Scaling Capability in Token Space: An Analysis of Large Vision Language Model](http://arxiv.org/abs/2412.18387v3)** | 2025-08-25 |  |
-| **[DSADF: Thinking Fast and Slow for Decision Making](http://arxiv.org/abs/2505.08189v2)** | 2025-08-25 |  |
+| **[Route-and-Execute: Auditable Model-Card Matching and Specialty-Level Deployment](http://arxiv.org/abs/2508.16839v2)** | 2025-08-26 |  |
+| **[mRAG: Elucidating the Design Space of Multi-modal Retrieval-Augmented Generation](http://arxiv.org/abs/2505.24073v2)** | 2025-08-26 | 16 pages |
+| **[Do LVLMs Know What They Know? A Systematic Study of Knowledge Boundary Perception in LVLMs](http://arxiv.org/abs/2508.19111v1)** | 2025-08-26 | EMNLP2025 Findings |
+| **[Architecting Clinical Collaboration: Multi-Agent Reasoning Systems for Multimodal Medical VQA](http://arxiv.org/abs/2507.05520v3)** | 2025-08-26 |  |
+| **[ProPy: Building Interactive Prompt Pyramids upon CLIP for Partially Relevant Video Retrieval](http://arxiv.org/abs/2508.19024v1)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025 Findings</p></details> |
+| **[Ask Me Again Differently: GRAS for Measuring Bias in Vision Language Models on Gender, Race, Age, and Skin Tone](http://arxiv.org/abs/2508.18989v1)** | 2025-08-26 |  |
+| **[Enhancing Document VQA Models via Retrieval-Augmented Generation](http://arxiv.org/abs/2508.18984v1)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted at Workshop on Machine Learning in Document Analysis and Recognition (ICDAR WML 2025), Wuhan, China</p></details> |
+| **[Mind the (Language) Gap: Towards Probing Numerical and Cross-Lingual Limits of LVLMs](http://arxiv.org/abs/2508.17334v2)** | 2025-08-26 |  |
+| **[Prototype-Guided Diffusion: Visual Conditioning without External Memory](http://arxiv.org/abs/2508.09922v4)** | 2025-08-26 |  |
+| **[M$^2$IV: Towards Efficient and Fine-grained Multimodal In-Context Learning via Representation Engineering](http://arxiv.org/abs/2504.04633v3)** | 2025-08-26 | <details><summary>COLM ...</summary><p>COLM 2025, 30 pages, 10 figures, 16 tables</p></details> |
+| **[Video CLIP Model for Multi-View Echocardiography Interpretation](http://arxiv.org/abs/2504.18800v2)** | 2025-08-26 |  |
+| **[Toward Robust Medical Fairness: Debiased Dual-Modal Alignment via Text-Guided Attribute-Disentangled Prompt Learning for Vision-Language Models](http://arxiv.org/abs/2508.18886v1)** | 2025-08-26 |  |
+| **[Weakly-Supervised 3D Visual Grounding based on Visual Language Alignment](http://arxiv.org/abs/2312.09625v5)** | 2025-08-26 |  |
+| **[Hidden Tail: Adversarial Image Causing Stealthy Resource Consumption in Vision-Language Models](http://arxiv.org/abs/2508.18805v1)** | 2025-08-26 |  |
+| **[Rethinking Human-Object Interaction Evaluation for both Vision-Language Models and HOI-Specific Methods](http://arxiv.org/abs/2508.18753v1)** | 2025-08-26 |  |
 
