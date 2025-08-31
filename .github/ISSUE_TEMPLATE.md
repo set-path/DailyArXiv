@@ -1,5 +1,5 @@
 ---
-title: Papers - August 29, 2025
+title: Papers - September 01, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,6 +24,7 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Olive Tree Satellite Image Segmentation Based On SAM and Multi-Phase Refinement](http://arxiv.org/abs/2508.20954v1)** | 2025-08-28 |  |
 | **[TAGS: 3D Tumor-Adaptive Guidance for SAM](http://arxiv.org/abs/2505.17096v2)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted by ICCV-APAH</p></details> |
 | **[Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes](http://arxiv.org/abs/2412.01240v3)** | 2025-08-26 | <details><summary>Under...</summary><p>Under submission to International Journal of Computer Vision (IJCV)</p></details> |
 | **[E-BayesSAM: Efficient Bayesian Adaptation of SAM with Self-Optimizing KAN-Based Interpretation for Uncertainty-Aware Ultrasonic Segmentation](http://arxiv.org/abs/2508.17408v1)** | 2025-08-24 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2025</p></details> |
@@ -38,7 +39,6 @@ labels: documentation
 | **[BrainSegDMlF: A Dynamic Fusion-enhanced SAM for Brain Lesion Segmentation](http://arxiv.org/abs/2505.06133v2)** | 2025-08-06 |  |
 | **[ProSAM: Enhancing the Robustness of SAM-based Visual Reference Segmentation with Probabilistic Prompts](http://arxiv.org/abs/2506.21835v3)** | 2025-08-03 | ICCV 2025 |
 | **[SAM-PTx: Text-Guided Fine-Tuning of SAM with Parameter-Efficient, Parallel-Text Adapters](http://arxiv.org/abs/2508.00213v1)** | 2025-07-31 |  |
-| **[SAM: A Stability-Aware Cache Manager for Multi-Tenant Embedded Databases](http://arxiv.org/abs/2507.22701v2)** | 2025-07-31 | <details><summary>17 pa...</summary><p>17 pages, 10 figures. An extended version of a paper under review at the VLDB 2026 conference</p></details> |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -75,19 +75,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Segmentation Assisted Incremental Test Time Adaptation in an Open World](http://arxiv.org/abs/2508.20029v1)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted at BMVC 2025</p></details> |
-| **[SWIRL: A Staged Workflow for Interleaved Reinforcement Learning in Mobile GUI Control](http://arxiv.org/abs/2508.20018v1)** | 2025-08-27 | 28 pages, 12 figures |
-| **[GLSim: Detecting Object Hallucinations in LVLMs via Global-Local Similarity](http://arxiv.org/abs/2508.19972v1)** | 2025-08-27 |  |
-| **[Assessing the Geolocation Capabilities, Limitations and Societal Risks of Generative Vision-Language Models](http://arxiv.org/abs/2508.19967v1)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted to AAAI Fall Symposium 2025 on AI Trustworthiness and Risk Assessment for Challenging Contexts (ATRACC)</p></details> |
-| **[KRETA: A Benchmark for Korean Reading and Reasoning in Text-Rich VQA Attuned to Diverse Visual Contexts](http://arxiv.org/abs/2508.19944v1)** | 2025-08-27 |  |
-| **[X-Prompt: Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models](http://arxiv.org/abs/2412.01824v2)** | 2025-08-27 | <details><summary>code:...</summary><p>code: https://github.com/SunzeY/X-Prompt</p></details> |
-| **[Do Vision Encoders Truly Explain Object Hallucination?: Mitigating Object Hallucination via Simple Fine-Grained CLIPScore](http://arxiv.org/abs/2502.20034v3)** | 2025-08-27 |  |
-| **[NLKI: A lightweight Natural Language Knowledge Integration Framework for Improving Small VLMs in Commonsense VQA Tasks](http://arxiv.org/abs/2508.19724v1)** | 2025-08-27 |  |
-| **[Explain Before You Answer: A Survey on Compositional Visual Reasoning](http://arxiv.org/abs/2508.17298v2)** | 2025-08-27 | <details><summary>Proje...</summary><p>Project Page: https://github.com/pokerme7777/Compositional-Visual-Reasoning-Survey</p></details> |
-| **[InquireMobile: Teaching VLM-based Mobile Agent to Request Human Assistance via Reinforcement Fine-Tuning](http://arxiv.org/abs/2508.19679v1)** | 2025-08-27 |  |
-| **[R-TPT: Improving Adversarial Robustness of Vision-Language Models through Test-Time Prompt Tuning](http://arxiv.org/abs/2504.11195v2)** | 2025-08-27 | <details><summary>CVPR ...</summary><p>CVPR 2025 (Corrected the results on the Aircraft dataset)</p></details> |
-| **[Self-Rewarding Vision-Language Model via Reasoning Decomposition](http://arxiv.org/abs/2508.19652v1)** | 2025-08-27 | <details><summary>16 pa...</summary><p>16 pages, two figures</p></details> |
-| **[FakeSV-VLM: Taming VLM for Detecting Fake Short-Video News via Progressive Mixture-Of-Experts Adapter](http://arxiv.org/abs/2508.19639v1)** | 2025-08-27 | EMNLP2025 Findings |
-| **[NPHardEval4V: Dynamic Evaluation of Large Vision-Language Models with Effects of Vision](http://arxiv.org/abs/2403.01777v3)** | 2025-08-27 | <details><summary>25 pa...</summary><p>25 pages, 9 figures, 2 tables</p></details> |
-| **[Exploring Typographic Visual Prompts Injection Threats in Cross-Modality Generation Models](http://arxiv.org/abs/2503.11519v2)** | 2025-08-27 | <details><summary>This ...</summary><p>This paper is accepted by IJCAI2025 Workshop on Deepfake Detection, Localization, and Interpretability</p></details> |
+| **[OneReward: Unified Mask-Guided Image Generation via Multi-Task Human Preference Learning](http://arxiv.org/abs/2508.21066v1)** | 2025-08-28 | <details><summary>proje...</summary><p>project url: https://one-reward.github.io</p></details> |
+| **[CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification](http://arxiv.org/abs/2508.21046v1)** | 2025-08-28 | <details><summary>23 pa...</summary><p>23 pages, 8 figures, Project Page: https://jiutian-vl.github.io/CogVLA-page</p></details> |
+| **[Exploring Typographic Visual Prompts Injection Threats in Cross-Modality Generation Models](http://arxiv.org/abs/2503.11519v3)** | 2025-08-28 | <details><summary>This ...</summary><p>This paper is accepted by IJCAI2025 Workshop on Deepfake Detection, Localization, and Interpretability</p></details> |
+| **[Learning Primitive Embodied World Models: Towards Scalable Robotic Learning](http://arxiv.org/abs/2508.20840v1)** | 2025-08-28 |  |
+| **[Estimating 2D Keypoints of Surgical Tools Using Vision-Language Models with Low-Rank Adaptation](http://arxiv.org/abs/2508.20830v1)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2025</p></details> |
+| **[Evaluating Compositional Generalisation in VLMs and Diffusion Models](http://arxiv.org/abs/2508.20783v1)** | 2025-08-28 | <details><summary>11 pa...</summary><p>11 pages including references, 6 figures. Accepted at IWCS 2025</p></details> |
+| **[Occlusion Robustness of CLIP for Military Vehicle Classification](http://arxiv.org/abs/2508.20760v1)** | 2025-08-28 | <details><summary>To be...</summary><p>To be presented at SPIE: Sensors + Imaging, Artificial Intelligence for Security and Defence Applications II</p></details> |
+| **[NLKI: A lightweight Natural Language Knowledge Integration Framework for Improving Small VLMs in Commonsense VQA Tasks](http://arxiv.org/abs/2508.19724v2)** | 2025-08-28 |  |
+| **["Humor, Art, or Misinformation?": A Multimodal Dataset for Intent-Aware Synthetic Image Detection](http://arxiv.org/abs/2508.20670v1)** | 2025-08-28 |  |
+| **[Enhancing Document VQA Models via Retrieval-Augmented Generation](http://arxiv.org/abs/2508.18984v2)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted at Workshop on Machine Learning in Document Analysis and Recognition (ICDAR WML 2025), Wuhan, China</p></details> |
+| **[VLMEvalKit: An Open-Source Toolkit for Evaluating Large Multi-Modality Models](http://arxiv.org/abs/2407.11691v4)** | 2025-08-28 | <details><summary>Updat...</summary><p>Updated on 2025.08.28, data cut down to 2025.06.30</p></details> |
+| **[Towards Mechanistic Defenses Against Typographic Attacks in CLIP](http://arxiv.org/abs/2508.20570v1)** | 2025-08-28 |  |
+| **[MedGR$^2$: Breaking the Data Barrier for Medical Reasoning via Generative Reward Learning](http://arxiv.org/abs/2508.20549v1)** | 2025-08-28 | 8 pages, 5 figures |
+| **[Relative Drawing Identification Complexity is Invariant to Modality in Vision-Language Models](http://arxiv.org/abs/2505.10583v2)** | 2025-08-28 | <details><summary>54 pa...</summary><p>54 pages (42 pages of appendix). Accepted for publication at the ECAI 2025 conference</p></details> |
+| **[Visual Perturbation and Adaptive Hard Negative Contrastive Learning for Compositional Reasoning in Vision-Language Models](http://arxiv.org/abs/2505.15576v2)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted at the International Joint Conference on Artificial Intelligence (IJCAI 2025)</p></details> |
 
