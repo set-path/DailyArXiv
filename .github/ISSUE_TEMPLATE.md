@@ -1,5 +1,5 @@
 ---
-title: Papers - September 01, 2025
+title: Papers - September 02, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -75,6 +75,12 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VoCap: Video Object Captioning and Segmentation from Any Prompt](http://arxiv.org/abs/2508.21809v1)** | 2025-08-29 |  |
+| **[CAD2DMD-SET: Synthetic Generation Tool of Digital Measurement Device CAD Model Datasets for fine-tuning Large Vision-Language Models](http://arxiv.org/abs/2508.21732v1)** | 2025-08-29 |  |
+| **[CoRI: Communication of Robot Intent for Physical Human-Robot Interaction](http://arxiv.org/abs/2505.20537v2)** | 2025-08-29 | <details><summary>To be...</summary><p>To be published in Proceedings of the 9th Conference on Robot Learning (CoRL). 34 pages, 10 figures</p></details> |
+| **[How Well Do Vision--Language Models Understand Cities? A Comparative Study on Spatial Reasoning from Street-View Images](http://arxiv.org/abs/2508.21565v1)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted to ICCV Workshop 2025</p></details> |
+| **[HCCM: Hierarchical Cross-Granularity Contrastive and Matching Learning for Natural Language-Guided Drones](http://arxiv.org/abs/2508.21539v1)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted by ACM MM'25</p></details> |
+| **[PlantVillageVQA: A Visual Question Answering Dataset for Benchmarking Vision-Language Models in Plant Science](http://arxiv.org/abs/2508.17117v2)** | 2025-08-28 | <details><summary>17 pa...</summary><p>17 pages, 15 figures and Submittd to Nature Scientific Data</p></details> |
 | **[OneReward: Unified Mask-Guided Image Generation via Multi-Task Human Preference Learning](http://arxiv.org/abs/2508.21066v1)** | 2025-08-28 | <details><summary>proje...</summary><p>project url: https://one-reward.github.io</p></details> |
 | **[CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification](http://arxiv.org/abs/2508.21046v1)** | 2025-08-28 | <details><summary>23 pa...</summary><p>23 pages, 8 figures, Project Page: https://jiutian-vl.github.io/CogVLA-page</p></details> |
 | **[Exploring Typographic Visual Prompts Injection Threats in Cross-Modality Generation Models](http://arxiv.org/abs/2503.11519v3)** | 2025-08-28 | <details><summary>This ...</summary><p>This paper is accepted by IJCAI2025 Workshop on Deepfake Detection, Localization, and Interpretability</p></details> |
@@ -84,10 +90,4 @@ labels: documentation
 | **[Occlusion Robustness of CLIP for Military Vehicle Classification](http://arxiv.org/abs/2508.20760v1)** | 2025-08-28 | <details><summary>To be...</summary><p>To be presented at SPIE: Sensors + Imaging, Artificial Intelligence for Security and Defence Applications II</p></details> |
 | **[NLKI: A lightweight Natural Language Knowledge Integration Framework for Improving Small VLMs in Commonsense VQA Tasks](http://arxiv.org/abs/2508.19724v2)** | 2025-08-28 |  |
 | **["Humor, Art, or Misinformation?": A Multimodal Dataset for Intent-Aware Synthetic Image Detection](http://arxiv.org/abs/2508.20670v1)** | 2025-08-28 |  |
-| **[Enhancing Document VQA Models via Retrieval-Augmented Generation](http://arxiv.org/abs/2508.18984v2)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted at Workshop on Machine Learning in Document Analysis and Recognition (ICDAR WML 2025), Wuhan, China</p></details> |
-| **[VLMEvalKit: An Open-Source Toolkit for Evaluating Large Multi-Modality Models](http://arxiv.org/abs/2407.11691v4)** | 2025-08-28 | <details><summary>Updat...</summary><p>Updated on 2025.08.28, data cut down to 2025.06.30</p></details> |
-| **[Towards Mechanistic Defenses Against Typographic Attacks in CLIP](http://arxiv.org/abs/2508.20570v1)** | 2025-08-28 |  |
-| **[MedGR$^2$: Breaking the Data Barrier for Medical Reasoning via Generative Reward Learning](http://arxiv.org/abs/2508.20549v1)** | 2025-08-28 | 8 pages, 5 figures |
-| **[Relative Drawing Identification Complexity is Invariant to Modality in Vision-Language Models](http://arxiv.org/abs/2505.10583v2)** | 2025-08-28 | <details><summary>54 pa...</summary><p>54 pages (42 pages of appendix). Accepted for publication at the ECAI 2025 conference</p></details> |
-| **[Visual Perturbation and Adaptive Hard Negative Contrastive Learning for Compositional Reasoning in Vision-Language Models](http://arxiv.org/abs/2505.15576v2)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted at the International Joint Conference on Artificial Intelligence (IJCAI 2025)</p></details> |
 
