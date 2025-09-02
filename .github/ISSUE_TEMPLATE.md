@@ -1,5 +1,5 @@
 ---
-title: Papers - September 02, 2025
+title: Papers - September 03, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
