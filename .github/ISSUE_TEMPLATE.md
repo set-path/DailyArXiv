@@ -1,5 +1,5 @@
 ---
-title: Papers - September 08, 2025
+title: Papers - September 09, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,6 +24,7 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enhancing Self-Driving Segmentation in Adverse Weather Conditions: A Dual Uncertainty-Aware Training Approach to SAM Optimization](http://arxiv.org/abs/2509.04735v1)** | 2025-09-05 |  |
 | **[Repurposing SAM for User-Defined Semantics Aware Segmentation](http://arxiv.org/abs/2312.02420v3)** | 2025-09-03 |  |
 | **[Olive Tree Satellite Image Segmentation Based On SAM and Multi-Phase Refinement](http://arxiv.org/abs/2508.20954v1)** | 2025-08-28 |  |
 | **[TAGS: 3D Tumor-Adaptive Guidance for SAM](http://arxiv.org/abs/2505.17096v2)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted by ICCV-APAH</p></details> |
@@ -38,7 +39,6 @@ labels: documentation
 | **[SGDFuse: SAM-Guided Diffusion for High-Fidelity Infrared and Visible Image Fusion](http://arxiv.org/abs/2508.05264v1)** | 2025-08-07 | Submitted to TCSVT |
 | **[Segment Any Vehicle: Semantic and Visual Context Driven SAM and A Benchmark](http://arxiv.org/abs/2508.04260v1)** | 2025-08-06 |  |
 | **[BrainSegDMlF: A Dynamic Fusion-enhanced SAM for Brain Lesion Segmentation](http://arxiv.org/abs/2505.06133v2)** | 2025-08-06 |  |
-| **[ProSAM: Enhancing the Robustness of SAM-based Visual Reference Segmentation with Probabilistic Prompts](http://arxiv.org/abs/2506.21835v3)** | 2025-08-03 | ICCV 2025 |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -75,19 +75,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning](http://arxiv.org/abs/2507.00008v2)** | 2025-09-05 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main Conference</p></details> |
+| **[GeoArena: An Open Platform for Benchmarking Large Vision-language Models on WorldWide Image Geolocalization](http://arxiv.org/abs/2509.04334v2)** | 2025-09-05 |  |
+| **[VLSM-Ensemble: Ensembling CLIP-based Vision-Language Models for Enhanced Medical Image Segmentation](http://arxiv.org/abs/2509.05154v1)** | 2025-09-05 | <details><summary>Medic...</summary><p>Medical Imaging with Deep Learning (MIDL 2025) short paper</p></details> |
+| **[Poison Once, Control Anywhere: Clean-Text Visual Backdoors in VLM-based Mobile Agents](http://arxiv.org/abs/2506.13205v6)** | 2025-09-05 | 10 pages |
+| **[GenAI-based test case generation and execution in SDV platform](http://arxiv.org/abs/2509.05112v1)** | 2025-09-05 |  |
+| **[Dual-Domain Perspective on Degradation-Aware Fusion: A VLM-Guided Robust Infrared and Visible Image Fusion Framework](http://arxiv.org/abs/2509.05000v1)** | 2025-09-05 |  |
+| **[SynGen-Vision: Synthetic Data Generation for training industrial vision models](http://arxiv.org/abs/2509.04894v1)** | 2025-09-05 |  |
+| **[Unveiling the Response of Large Vision-Language Models to Visually Absent Tokens](http://arxiv.org/abs/2509.03025v2)** | 2025-09-05 | <details><summary>accep...</summary><p>accepted to EMNLP 2025</p></details> |
+| **[TemporalFlowViz: Parameter-Aware Visual Analytics for Interpreting Scramjet Combustion Evolution](http://arxiv.org/abs/2509.04834v1)** | 2025-09-05 |  |
+| **[FloodVision: Urban Flood Depth Estimation Using Foundation Vision-Language Models and Domain Knowledge Graph](http://arxiv.org/abs/2509.04772v1)** | 2025-09-05 |  |
+| **[Find Everything: A General Vision Language Model Approach to Multi-Object Search](http://arxiv.org/abs/2410.00388v3)** | 2025-09-05 | 8 pages, 5 figures |
+| **[Dynamic Group Detection using VLM-augmented Temporal Groupness Graph](http://arxiv.org/abs/2509.04758v1)** | 2025-09-05 | <details><summary>10 pa...</summary><p>10 pages, Accepted to ICCV2025</p></details> |
+| **[Guideline-Consistent Segmentation via Multi-Agent Refinement](http://arxiv.org/abs/2509.04687v1)** | 2025-09-04 |  |
 | **[TRUST-VL: An Explainable News Assistant for General Multimodal Misinformation Detection](http://arxiv.org/abs/2509.04448v1)** | 2025-09-04 | <details><summary>EMNLP...</summary><p>EMNLP 2025; Project Homepage: https://yanzehong.github.io/trust-vl/</p></details> |
-| **[GeoArena: An Open Platform for Benchmarking Large Vision-language Models on WorldWide Image Geolocalization](http://arxiv.org/abs/2509.04334v1)** | 2025-09-04 |  |
 | **[Learning Active Perception via Self-Evolving Preference Optimization for GUI Grounding](http://arxiv.org/abs/2509.04243v1)** | 2025-09-04 |  |
-| **[An Automated, Scalable Machine Learning Model Inversion Assessment Pipeline](http://arxiv.org/abs/2509.04214v1)** | 2025-09-04 |  |
-| **[Real Time FPGA Based Transformers & VLMs for Vision Tasks: SOTA Designs and Optimizations](http://arxiv.org/abs/2509.04162v1)** | 2025-09-04 |  |
-| **[MUNBa: Machine Unlearning via Nash Bargaining](http://arxiv.org/abs/2411.15537v4)** | 2025-09-04 |  |
-| **[DianJin-OCR-R1: Enhancing OCR Capabilities via a Reasoning-and-Tool Interleaved Vision-Language Model](http://arxiv.org/abs/2508.13238v2)** | 2025-09-04 |  |
-| **[Multimodal Feature Fusion Network with Text Difference Enhancement for Remote Sensing Change Detection](http://arxiv.org/abs/2509.03961v1)** | 2025-09-04 |  |
-| **[Defending LVLMs Against Vision Attacks through Partial-Perception Supervision](http://arxiv.org/abs/2412.12722v2)** | 2025-09-04 | <details><summary>Accep...</summary><p>Accepted to ICML 2025</p></details> |
-| **[Attn-Adapter: Attention Is All You Need for Online Few-shot Learner of Vision-Language Model](http://arxiv.org/abs/2509.03895v1)** | 2025-09-04 | <details><summary>ICCV ...</summary><p>ICCV 2025 - LIMIT Workshop</p></details> |
-| **[Weakly-Supervised Learning of Dense Functional Correspondences](http://arxiv.org/abs/2509.03893v1)** | 2025-09-04 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025. Project website: https://dense-functional-correspondence.github.io/</p></details> |
-| **[Expedition & Expansion: Leveraging Semantic Representations for Goal-Directed Exploration in Continuous Cellular Automata](http://arxiv.org/abs/2509.03863v1)** | 2025-09-04 |  |
-| **[Measuring How (Not Just Whether) VLMs Build Common Ground](http://arxiv.org/abs/2509.03805v1)** | 2025-09-04 |  |
-| **[Causality-guided Prompt Learning for Vision-language Models via Visual Granulation](http://arxiv.org/abs/2509.03803v1)** | 2025-09-04 | ICCV 2025 Accepted |
-| **[MedVista3D: Vision-Language Modeling for Reducing Diagnostic Errors in 3D CT Disease Detection, Understanding and Reporting](http://arxiv.org/abs/2509.03800v1)** | 2025-09-04 |  |
 
