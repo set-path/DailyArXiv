@@ -1,5 +1,5 @@
 ---
-title: Papers - September 09, 2025
+title: Papers - September 10, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,6 +24,8 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SGDFuse: SAM-Guided Diffusion for High-Fidelity Infrared and Visible Image Fusion](http://arxiv.org/abs/2508.05264v2)** | 2025-09-08 | <details><summary>Submi...</summary><p>Submitted to Information Fusion</p></details> |
+| **[EdgeSAM: Prompt-In-the-Loop Distillation for SAM](http://arxiv.org/abs/2312.06660v3)** | 2025-09-07 | <details><summary>IJCV ...</summary><p>IJCV 2025. Project page: https://www.mmlab-ntu.com/project/edgesam</p></details> |
 | **[Enhancing Self-Driving Segmentation in Adverse Weather Conditions: A Dual Uncertainty-Aware Training Approach to SAM Optimization](http://arxiv.org/abs/2509.04735v1)** | 2025-09-05 |  |
 | **[Repurposing SAM for User-Defined Semantics Aware Segmentation](http://arxiv.org/abs/2312.02420v3)** | 2025-09-03 |  |
 | **[Olive Tree Satellite Image Segmentation Based On SAM and Multi-Phase Refinement](http://arxiv.org/abs/2508.20954v1)** | 2025-08-28 |  |
@@ -36,9 +38,7 @@ labels: documentation
 | **[Think as Cardiac Sonographers: Marrying SAM with Left Ventricular Indicators Measurements According to Clinical Guidelines](http://arxiv.org/abs/2508.08566v1)** | 2025-08-12 |  |
 | **[MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation](http://arxiv.org/abs/2501.13667v5)** | 2025-08-08 | ICCV 2025 |
 | **[SAM Encoder Breach by Adversarial Simplicial Complex Triggers Downstream Model Failures](http://arxiv.org/abs/2508.06127v1)** | 2025-08-08 | <details><summary>8 pag...</summary><p>8 pages,recived by ICCV2025</p></details> |
-| **[SGDFuse: SAM-Guided Diffusion for High-Fidelity Infrared and Visible Image Fusion](http://arxiv.org/abs/2508.05264v1)** | 2025-08-07 | Submitted to TCSVT |
 | **[Segment Any Vehicle: Semantic and Visual Context Driven SAM and A Benchmark](http://arxiv.org/abs/2508.04260v1)** | 2025-08-06 |  |
-| **[BrainSegDMlF: A Dynamic Fusion-enhanced SAM for Brain Lesion Segmentation](http://arxiv.org/abs/2505.06133v2)** | 2025-08-06 |  |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -75,19 +75,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning](http://arxiv.org/abs/2507.00008v2)** | 2025-09-05 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main Conference</p></details> |
-| **[GeoArena: An Open Platform for Benchmarking Large Vision-language Models on WorldWide Image Geolocalization](http://arxiv.org/abs/2509.04334v2)** | 2025-09-05 |  |
-| **[VLSM-Ensemble: Ensembling CLIP-based Vision-Language Models for Enhanced Medical Image Segmentation](http://arxiv.org/abs/2509.05154v1)** | 2025-09-05 | <details><summary>Medic...</summary><p>Medical Imaging with Deep Learning (MIDL 2025) short paper</p></details> |
-| **[Poison Once, Control Anywhere: Clean-Text Visual Backdoors in VLM-based Mobile Agents](http://arxiv.org/abs/2506.13205v6)** | 2025-09-05 | 10 pages |
-| **[GenAI-based test case generation and execution in SDV platform](http://arxiv.org/abs/2509.05112v1)** | 2025-09-05 |  |
-| **[Dual-Domain Perspective on Degradation-Aware Fusion: A VLM-Guided Robust Infrared and Visible Image Fusion Framework](http://arxiv.org/abs/2509.05000v1)** | 2025-09-05 |  |
-| **[SynGen-Vision: Synthetic Data Generation for training industrial vision models](http://arxiv.org/abs/2509.04894v1)** | 2025-09-05 |  |
-| **[Unveiling the Response of Large Vision-Language Models to Visually Absent Tokens](http://arxiv.org/abs/2509.03025v2)** | 2025-09-05 | <details><summary>accep...</summary><p>accepted to EMNLP 2025</p></details> |
-| **[TemporalFlowViz: Parameter-Aware Visual Analytics for Interpreting Scramjet Combustion Evolution](http://arxiv.org/abs/2509.04834v1)** | 2025-09-05 |  |
-| **[FloodVision: Urban Flood Depth Estimation Using Foundation Vision-Language Models and Domain Knowledge Graph](http://arxiv.org/abs/2509.04772v1)** | 2025-09-05 |  |
-| **[Find Everything: A General Vision Language Model Approach to Multi-Object Search](http://arxiv.org/abs/2410.00388v3)** | 2025-09-05 | 8 pages, 5 figures |
-| **[Dynamic Group Detection using VLM-augmented Temporal Groupness Graph](http://arxiv.org/abs/2509.04758v1)** | 2025-09-05 | <details><summary>10 pa...</summary><p>10 pages, Accepted to ICCV2025</p></details> |
-| **[Guideline-Consistent Segmentation via Multi-Agent Refinement](http://arxiv.org/abs/2509.04687v1)** | 2025-09-04 |  |
-| **[TRUST-VL: An Explainable News Assistant for General Multimodal Misinformation Detection](http://arxiv.org/abs/2509.04448v1)** | 2025-09-04 | <details><summary>EMNLP...</summary><p>EMNLP 2025; Project Homepage: https://yanzehong.github.io/trust-vl/</p></details> |
-| **[Learning Active Perception via Self-Evolving Preference Optimization for GUI Grounding](http://arxiv.org/abs/2509.04243v1)** | 2025-09-04 |  |
+| **[LLaDA-VLA: Vision Language Diffusion Action Models](http://arxiv.org/abs/2509.06932v1)** | 2025-09-08 |  |
+| **[D-HUMOR: Dark Humor Understanding via Multimodal Open-ended Reasoning](http://arxiv.org/abs/2509.06771v1)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted at IEEE International Conference on Data Mining (ICDM) 2025</p></details> |
+| **[Embodied Hazard Mitigation using Vision-Language Models for Autonomous Mobile Robots](http://arxiv.org/abs/2509.06768v1)** | 2025-09-08 |  |
+| **[Aligning Large Vision-Language Models by Deep Reinforcement Learning and Direct Preference Optimization](http://arxiv.org/abs/2509.06759v1)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of the 8th International Conference on Algorithms, Computing and Artificial Intelligence (ACAI 2025)</p></details> |
+| **[Visual Structures Helps Visual Reasoning: Addressing the Binding Problem in VLMs](http://arxiv.org/abs/2506.22146v3)** | 2025-09-08 |  |
+| **[Focusing by Contrastive Attention: Enhancing VLMs' Visual Reasoning](http://arxiv.org/abs/2509.06461v1)** | 2025-09-08 |  |
+| **[E-THER: A Multimodal Dataset for Empathic AI -- Towards Emotional Mismatch Awareness](http://arxiv.org/abs/2509.02100v2)** | 2025-09-08 | <details><summary>15 pa...</summary><p>15 pages, 4 figures. Preprint</p></details> |
+| **[When Language Model Guides Vision: Grounding DINO for Cattle Muzzle Detection](http://arxiv.org/abs/2509.06427v1)** | 2025-09-08 |  |
+| **[Content Generation Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges](http://arxiv.org/abs/2505.10993v2)** | 2025-09-08 | 20 pages, 8 figures |
+| **[Index-Preserving Lightweight Token Pruning for Efficient Document Understanding in Vision-Language Models](http://arxiv.org/abs/2509.06415v1)** | 2025-09-08 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
+| **[Teaching AI Stepwise Diagnostic Reasoning with Report-Guided Chain-of-Thought Learning](http://arxiv.org/abs/2509.06409v1)** | 2025-09-08 |  |
+| **[REVEAL -- Reasoning and Evaluation of Visual Evidence through Aligned Language](http://arxiv.org/abs/2508.12543v2)** | 2025-09-08 | <details><summary>4 pag...</summary><p>4 pages, 6 figures, International Conference on Computer Vision, ICCV 2025</p></details> |
+| **[VIPER: Visual Perception and Explainable Reasoning for Sequential Decision-Making](http://arxiv.org/abs/2503.15108v2)** | 2025-09-08 |  |
+| **[Multi View Slot Attention Using Paraphrased Texts For Face Anti-Spoofing](http://arxiv.org/abs/2509.06336v1)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
+| **[Error Notebook-Guided, Training-Free Part Retrieval in 3D CAD Assemblies via Vision-Language Models](http://arxiv.org/abs/2509.01350v2)** | 2025-09-08 |  |
 
