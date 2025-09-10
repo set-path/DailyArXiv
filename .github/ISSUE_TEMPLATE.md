@@ -1,5 +1,5 @@
 ---
-title: Papers - September 10, 2025
+title: Papers - September 11, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,6 +24,7 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAM$^{*}$: Task-Adaptive SAM with Physics-Guided Rewards](http://arxiv.org/abs/2509.07047v1)** | 2025-09-08 | 19 pages, 8 figures |
 | **[SGDFuse: SAM-Guided Diffusion for High-Fidelity Infrared and Visible Image Fusion](http://arxiv.org/abs/2508.05264v2)** | 2025-09-08 | <details><summary>Submi...</summary><p>Submitted to Information Fusion</p></details> |
 | **[EdgeSAM: Prompt-In-the-Loop Distillation for SAM](http://arxiv.org/abs/2312.06660v3)** | 2025-09-07 | <details><summary>IJCV ...</summary><p>IJCV 2025. Project page: https://www.mmlab-ntu.com/project/edgesam</p></details> |
 | **[Enhancing Self-Driving Segmentation in Adverse Weather Conditions: A Dual Uncertainty-Aware Training Approach to SAM Optimization](http://arxiv.org/abs/2509.04735v1)** | 2025-09-05 |  |
@@ -38,7 +39,6 @@ labels: documentation
 | **[Think as Cardiac Sonographers: Marrying SAM with Left Ventricular Indicators Measurements According to Clinical Guidelines](http://arxiv.org/abs/2508.08566v1)** | 2025-08-12 |  |
 | **[MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation](http://arxiv.org/abs/2501.13667v5)** | 2025-08-08 | ICCV 2025 |
 | **[SAM Encoder Breach by Adversarial Simplicial Complex Triggers Downstream Model Failures](http://arxiv.org/abs/2508.06127v1)** | 2025-08-08 | <details><summary>8 pag...</summary><p>8 pages,recived by ICCV2025</p></details> |
-| **[Segment Any Vehicle: Semantic and Visual Context Driven SAM and A Benchmark](http://arxiv.org/abs/2508.04260v1)** | 2025-08-06 |  |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -51,13 +51,13 @@ labels: documentation
 | **[AerOSeg: Harnessing SAM for Open-Vocabulary Segmentation in Remote Sensing Images](http://arxiv.org/abs/2504.09203v1)** | 2025-04-12 | <details><summary>Accep...</summary><p>Accepted at EarthVision workshop, CVPR 2025</p></details> |
 | **[Center-guided Classifier for Semantic Segmentation of Remote Sensing Images](http://arxiv.org/abs/2503.16963v1)** | 2025-03-21 |  |
 | **[SAM2-ELNet: Label Enhancement and Automatic Annotation for Remote Sensing Segmentation](http://arxiv.org/abs/2503.12404v1)** | 2025-03-16 |  |
-| **[Detect Changes like Humans: Incorporating Semantic Priors for Improved Change Detection](http://arxiv.org/abs/2412.16918v1)** | 2024-12-22 |  |
 | **[Joint-Optimized Unsupervised Adversarial Domain Adaptation in Remote Sensing Segmentation with Prompted Foundation Model](http://arxiv.org/abs/2411.05878v2)** | 2024-11-18 | <details><summary>12 pa...</summary><p>12 pages,6 figures, 6 tables</p></details> |
 | **[Graph Information Bottleneck for Remote Sensing Segmentation](http://arxiv.org/abs/2312.02545v2)** | 2024-08-31 | 13 pages, 6 figures |
 | **[Hi-ResNet: Edge Detail Enhancement for High-Resolution Remote Sensing Segmentation](http://arxiv.org/abs/2305.12691v3)** | 2024-08-15 |  |
 | **[ALPS: An Auto-Labeling and Pre-training Scheme for Remote Sensing Segmentation With Segment Anything Model](http://arxiv.org/abs/2406.10855v1)** | 2024-06-16 |  |
 | **[Embedding Generalized Semantic Knowledge into Few-Shot Remote Sensing Segmentation](http://arxiv.org/abs/2405.13686v1)** | 2024-05-22 |  |
 | **[SFFNet: A Wavelet-Based Spatial and Frequency Domain Fusion Network for Remote Sensing Segmentation](http://arxiv.org/abs/2405.01992v1)** | 2024-05-03 |  |
+| **[RSAM-Seg: A SAM-based Approach with Prior Knowledge Integration for Remote Sensing Image Semantic Segmentation](http://arxiv.org/abs/2402.19004v1)** | 2024-02-29 | 12 pages, 11 figures |
 
 ## Remote Sensing Vision Language Model - Preview 9 papers
 | **Title** | **Date** | **Comment** |
@@ -75,19 +75,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Visual-TableQA: Open-Domain Benchmark for Reasoning over Table Images](http://arxiv.org/abs/2509.07966v1)** | 2025-09-09 | Work in Progress |
+| **[MSCPT: Few-shot Whole Slide Image Classification with Multi-scale and Context-focused Prompt Tuning](http://arxiv.org/abs/2408.11505v3)** | 2025-09-09 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE TMI for possible publication</p></details> |
+| **[Data-Efficient Fine-Tuning of Vision-Language Models for Diagnosis of Alzheimer's Disease](http://arxiv.org/abs/2509.07613v1)** | 2025-09-09 |  |
+| **[Visuospatial Cognitive Assistant](http://arxiv.org/abs/2505.12312v4)** | 2025-09-09 | <details><summary>31 pa...</summary><p>31 pages, 10 figures, 6 tables</p></details> |
+| **[InteractPro: A Unified Framework for Motion-Aware Image Composition](http://arxiv.org/abs/2409.10090v3)** | 2025-09-09 |  |
+| **[Fine-Tuning Vision-Language Models for Visual Navigation Assistance](http://arxiv.org/abs/2509.07488v1)** | 2025-09-09 |  |
+| **[DepthVision: Robust Vision-Language Understanding through GAN-Based LiDAR-to-RGB Synthesis](http://arxiv.org/abs/2509.07463v1)** | 2025-09-09 |  |
+| **["Humor, Art, or Misinformation?": A Multimodal Dataset for Intent-Aware Synthetic Image Detection](http://arxiv.org/abs/2508.20670v2)** | 2025-09-09 |  |
+| **[Prompt the Unseen: Evaluating Visual-Language Alignment Beyond Supervision](http://arxiv.org/abs/2509.00700v2)** | 2025-09-09 | <details><summary>Link ...</summary><p>Link to publicly available codes is added</p></details> |
+| **[SpecifyUI: Supporting Iterative UI Design Intent Expression through Structured Specifications and Generative AI](http://arxiv.org/abs/2509.07334v1)** | 2025-09-09 | 27 pages, 12 figures |
+| **[RSCC: A Large-Scale Remote Sensing Change Caption Dataset for Disaster Events](http://arxiv.org/abs/2509.01907v2)** | 2025-09-09 | under review |
+| **[Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges](http://arxiv.org/abs/2507.02074v2)** | 2025-09-08 |  |
+| **[Grounding DINO-US-SAM: Text-Prompted Multi-Organ Segmentation in Ultrasound with LoRA-Tuned Vision-Language Models](http://arxiv.org/abs/2506.23903v3)** | 2025-09-08 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 7 tables</p></details> |
+| **[Understanding Museum Exhibits using Vision-Language Reasoning](http://arxiv.org/abs/2412.01370v2)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
 | **[LLaDA-VLA: Vision Language Diffusion Action Models](http://arxiv.org/abs/2509.06932v1)** | 2025-09-08 |  |
-| **[D-HUMOR: Dark Humor Understanding via Multimodal Open-ended Reasoning](http://arxiv.org/abs/2509.06771v1)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted at IEEE International Conference on Data Mining (ICDM) 2025</p></details> |
-| **[Embodied Hazard Mitigation using Vision-Language Models for Autonomous Mobile Robots](http://arxiv.org/abs/2509.06768v1)** | 2025-09-08 |  |
-| **[Aligning Large Vision-Language Models by Deep Reinforcement Learning and Direct Preference Optimization](http://arxiv.org/abs/2509.06759v1)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of the 8th International Conference on Algorithms, Computing and Artificial Intelligence (ACAI 2025)</p></details> |
-| **[Visual Structures Helps Visual Reasoning: Addressing the Binding Problem in VLMs](http://arxiv.org/abs/2506.22146v3)** | 2025-09-08 |  |
-| **[Focusing by Contrastive Attention: Enhancing VLMs' Visual Reasoning](http://arxiv.org/abs/2509.06461v1)** | 2025-09-08 |  |
-| **[E-THER: A Multimodal Dataset for Empathic AI -- Towards Emotional Mismatch Awareness](http://arxiv.org/abs/2509.02100v2)** | 2025-09-08 | <details><summary>15 pa...</summary><p>15 pages, 4 figures. Preprint</p></details> |
-| **[When Language Model Guides Vision: Grounding DINO for Cattle Muzzle Detection](http://arxiv.org/abs/2509.06427v1)** | 2025-09-08 |  |
-| **[Content Generation Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges](http://arxiv.org/abs/2505.10993v2)** | 2025-09-08 | 20 pages, 8 figures |
-| **[Index-Preserving Lightweight Token Pruning for Efficient Document Understanding in Vision-Language Models](http://arxiv.org/abs/2509.06415v1)** | 2025-09-08 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
-| **[Teaching AI Stepwise Diagnostic Reasoning with Report-Guided Chain-of-Thought Learning](http://arxiv.org/abs/2509.06409v1)** | 2025-09-08 |  |
-| **[REVEAL -- Reasoning and Evaluation of Visual Evidence through Aligned Language](http://arxiv.org/abs/2508.12543v2)** | 2025-09-08 | <details><summary>4 pag...</summary><p>4 pages, 6 figures, International Conference on Computer Vision, ICCV 2025</p></details> |
-| **[VIPER: Visual Perception and Explainable Reasoning for Sequential Decision-Making](http://arxiv.org/abs/2503.15108v2)** | 2025-09-08 |  |
-| **[Multi View Slot Attention Using Paraphrased Texts For Face Anti-Spoofing](http://arxiv.org/abs/2509.06336v1)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
-| **[Error Notebook-Guided, Training-Free Part Retrieval in 3D CAD Assemblies via Vision-Language Models](http://arxiv.org/abs/2509.01350v2)** | 2025-09-08 |  |
 
