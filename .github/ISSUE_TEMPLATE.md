@@ -1,5 +1,5 @@
 ---
-title: Papers - September 11, 2025
+title: Papers - September 12, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,8 +24,8 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SGDFuse: SAM-Guided Diffusion for High-Fidelity Infrared and Visible Image Fusion](http://arxiv.org/abs/2508.05264v3)** | 2025-09-10 | <details><summary>Submi...</summary><p>Submitted to Information Fusion</p></details> |
 | **[SAM$^{*}$: Task-Adaptive SAM with Physics-Guided Rewards](http://arxiv.org/abs/2509.07047v1)** | 2025-09-08 | 19 pages, 8 figures |
-| **[SGDFuse: SAM-Guided Diffusion for High-Fidelity Infrared and Visible Image Fusion](http://arxiv.org/abs/2508.05264v2)** | 2025-09-08 | <details><summary>Submi...</summary><p>Submitted to Information Fusion</p></details> |
 | **[EdgeSAM: Prompt-In-the-Loop Distillation for SAM](http://arxiv.org/abs/2312.06660v3)** | 2025-09-07 | <details><summary>IJCV ...</summary><p>IJCV 2025. Project page: https://www.mmlab-ntu.com/project/edgesam</p></details> |
 | **[Enhancing Self-Driving Segmentation in Adverse Weather Conditions: A Dual Uncertainty-Aware Training Approach to SAM Optimization](http://arxiv.org/abs/2509.04735v1)** | 2025-09-05 |  |
 | **[Repurposing SAM for User-Defined Semantics Aware Segmentation](http://arxiv.org/abs/2312.02420v3)** | 2025-09-03 |  |
@@ -75,19 +75,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Visual-TableQA: Open-Domain Benchmark for Reasoning over Table Images](http://arxiv.org/abs/2509.07966v1)** | 2025-09-09 | Work in Progress |
-| **[MSCPT: Few-shot Whole Slide Image Classification with Multi-scale and Context-focused Prompt Tuning](http://arxiv.org/abs/2408.11505v3)** | 2025-09-09 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE TMI for possible publication</p></details> |
-| **[Data-Efficient Fine-Tuning of Vision-Language Models for Diagnosis of Alzheimer's Disease](http://arxiv.org/abs/2509.07613v1)** | 2025-09-09 |  |
-| **[Visuospatial Cognitive Assistant](http://arxiv.org/abs/2505.12312v4)** | 2025-09-09 | <details><summary>31 pa...</summary><p>31 pages, 10 figures, 6 tables</p></details> |
-| **[InteractPro: A Unified Framework for Motion-Aware Image Composition](http://arxiv.org/abs/2409.10090v3)** | 2025-09-09 |  |
-| **[Fine-Tuning Vision-Language Models for Visual Navigation Assistance](http://arxiv.org/abs/2509.07488v1)** | 2025-09-09 |  |
-| **[DepthVision: Robust Vision-Language Understanding through GAN-Based LiDAR-to-RGB Synthesis](http://arxiv.org/abs/2509.07463v1)** | 2025-09-09 |  |
-| **["Humor, Art, or Misinformation?": A Multimodal Dataset for Intent-Aware Synthetic Image Detection](http://arxiv.org/abs/2508.20670v2)** | 2025-09-09 |  |
-| **[Prompt the Unseen: Evaluating Visual-Language Alignment Beyond Supervision](http://arxiv.org/abs/2509.00700v2)** | 2025-09-09 | <details><summary>Link ...</summary><p>Link to publicly available codes is added</p></details> |
-| **[SpecifyUI: Supporting Iterative UI Design Intent Expression through Structured Specifications and Generative AI](http://arxiv.org/abs/2509.07334v1)** | 2025-09-09 | 27 pages, 12 figures |
-| **[RSCC: A Large-Scale Remote Sensing Change Caption Dataset for Disaster Events](http://arxiv.org/abs/2509.01907v2)** | 2025-09-09 | under review |
-| **[Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges](http://arxiv.org/abs/2507.02074v2)** | 2025-09-08 |  |
-| **[Grounding DINO-US-SAM: Text-Prompted Multi-Organ Segmentation in Ultrasound with LoRA-Tuned Vision-Language Models](http://arxiv.org/abs/2506.23903v3)** | 2025-09-08 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 7 tables</p></details> |
-| **[Understanding Museum Exhibits using Vision-Language Reasoning](http://arxiv.org/abs/2412.01370v2)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
-| **[LLaDA-VLA: Vision Language Diffusion Action Models](http://arxiv.org/abs/2509.06932v1)** | 2025-09-08 |  |
+| **[RewardDance: Reward Scaling in Visual Generation](http://arxiv.org/abs/2509.08826v1)** | 2025-09-10 | <details><summary>Byted...</summary><p>Bytedance Seed Technical Report</p></details> |
+| **[RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation](http://arxiv.org/abs/2509.08820v1)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to CoRL 2025, Project Page: https://zzongzheng0918.github.io/RoboChemist.github.io/</p></details> |
+| **[SocialNav-SUB: Benchmarking VLMs for Scene Understanding in Social Robot Navigation](http://arxiv.org/abs/2509.08757v1)** | 2025-09-10 | <details><summary>Confe...</summary><p>Conference on Robot Learning (CoRL) 2025 Project site: https://larg.github.io/socialnav-sub</p></details> |
+| **[LLaDA-VLA: Vision Language Diffusion Action Models](http://arxiv.org/abs/2509.06932v2)** | 2025-09-10 |  |
+| **[Have Large Vision-Language Models Mastered Art History?](http://arxiv.org/abs/2409.03521v2)** | 2025-09-10 |  |
+| **[TCPO: Thought-Centric Preference Optimization for Effective Embodied Decision-making](http://arxiv.org/abs/2509.08500v1)** | 2025-09-10 |  |
+| **[A Structured Review of Underwater Object Detection Challenges and Solutions: From Traditional to Large Vision Language Models](http://arxiv.org/abs/2509.08490v1)** | 2025-09-10 | 72 Pages, 11 Figures |
+| **[Adapting Vision-Language Models for Neutrino Event Classification in High-Energy Physics](http://arxiv.org/abs/2509.08461v1)** | 2025-09-10 |  |
+| **[VIPER: Visual Perception and Explainable Reasoning for Sequential Decision-Making](http://arxiv.org/abs/2503.15108v3)** | 2025-09-10 |  |
+| **[Retrieval-Augmented VLMs for Multimodal Melanoma Diagnosis](http://arxiv.org/abs/2509.08338v1)** | 2025-09-10 | <details><summary>Medic...</summary><p>Medical Image Computing and Computer-Assisted Intervention (MICCAI) ISIC Skin Image Analysis Workshop (MICCAI ISIC) 2025; 10 pages</p></details> |
+| **[Scaling Video-Language Models to 10K Frames via Hierarchical Differential Distillation](http://arxiv.org/abs/2504.02438v5)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
+| **[Interpretable Physics Reasoning and Performance Taxonomy in Vision-Language Models](http://arxiv.org/abs/2509.08270v1)** | 2025-09-10 |  |
+| **[Examining Vision Language Models through Multi-dimensional Experiments with Vision and Text Features](http://arxiv.org/abs/2509.08266v1)** | 2025-09-10 |  |
+| **[Vector embedding of multi-modal texts: a tool for discovery?](http://arxiv.org/abs/2509.08216v1)** | 2025-09-10 |  |
+| **[RSCC: A Large-Scale Remote Sensing Change Caption Dataset for Disaster Events](http://arxiv.org/abs/2509.01907v3)** | 2025-09-10 | under review |
 
