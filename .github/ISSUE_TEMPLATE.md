@@ -1,5 +1,5 @@
 ---
-title: Papers - September 12, 2025
+title: Papers - September 15, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -75,19 +75,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RewardDance: Reward Scaling in Visual Generation](http://arxiv.org/abs/2509.08826v1)** | 2025-09-10 | <details><summary>Byted...</summary><p>Bytedance Seed Technical Report</p></details> |
-| **[RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation](http://arxiv.org/abs/2509.08820v1)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to CoRL 2025, Project Page: https://zzongzheng0918.github.io/RoboChemist.github.io/</p></details> |
-| **[SocialNav-SUB: Benchmarking VLMs for Scene Understanding in Social Robot Navigation](http://arxiv.org/abs/2509.08757v1)** | 2025-09-10 | <details><summary>Confe...</summary><p>Conference on Robot Learning (CoRL) 2025 Project site: https://larg.github.io/socialnav-sub</p></details> |
-| **[LLaDA-VLA: Vision Language Diffusion Action Models](http://arxiv.org/abs/2509.06932v2)** | 2025-09-10 |  |
-| **[Have Large Vision-Language Models Mastered Art History?](http://arxiv.org/abs/2409.03521v2)** | 2025-09-10 |  |
-| **[TCPO: Thought-Centric Preference Optimization for Effective Embodied Decision-making](http://arxiv.org/abs/2509.08500v1)** | 2025-09-10 |  |
-| **[A Structured Review of Underwater Object Detection Challenges and Solutions: From Traditional to Large Vision Language Models](http://arxiv.org/abs/2509.08490v1)** | 2025-09-10 | 72 Pages, 11 Figures |
-| **[Adapting Vision-Language Models for Neutrino Event Classification in High-Energy Physics](http://arxiv.org/abs/2509.08461v1)** | 2025-09-10 |  |
-| **[VIPER: Visual Perception and Explainable Reasoning for Sequential Decision-Making](http://arxiv.org/abs/2503.15108v3)** | 2025-09-10 |  |
-| **[Retrieval-Augmented VLMs for Multimodal Melanoma Diagnosis](http://arxiv.org/abs/2509.08338v1)** | 2025-09-10 | <details><summary>Medic...</summary><p>Medical Image Computing and Computer-Assisted Intervention (MICCAI) ISIC Skin Image Analysis Workshop (MICCAI ISIC) 2025; 10 pages</p></details> |
-| **[Scaling Video-Language Models to 10K Frames via Hierarchical Differential Distillation](http://arxiv.org/abs/2504.02438v5)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
-| **[Interpretable Physics Reasoning and Performance Taxonomy in Vision-Language Models](http://arxiv.org/abs/2509.08270v1)** | 2025-09-10 |  |
-| **[Examining Vision Language Models through Multi-dimensional Experiments with Vision and Text Features](http://arxiv.org/abs/2509.08266v1)** | 2025-09-10 |  |
-| **[Vector embedding of multi-modal texts: a tool for discovery?](http://arxiv.org/abs/2509.08216v1)** | 2025-09-10 |  |
-| **[RSCC: A Large-Scale Remote Sensing Change Caption Dataset for Disaster Events](http://arxiv.org/abs/2509.01907v3)** | 2025-09-10 | under review |
+| **[FLUX-Reason-6M & PRISM-Bench: A Million-Scale Text-to-Image Reasoning Dataset and Comprehensive Benchmark](http://arxiv.org/abs/2509.09680v1)** | 2025-09-11 | <details><summary>Proje...</summary><p>Project page: https://flux-reason-6m.github.io/</p></details> |
+| **[Improved GUI Grounding via Iterative Narrowing](http://arxiv.org/abs/2411.13591v7)** | 2025-09-11 | <details><summary>Code ...</summary><p>Code available at https://github.com/ant-8/GUI-Grounding-via-Iterative-Narrowing</p></details> |
+| **[Compositional Concept Generalization with Variational Quantum Circuits](http://arxiv.org/abs/2509.09541v1)** | 2025-09-11 | <details><summary>Accep...</summary><p>Accepted to: 2025 IEEE International Conference on Quantum Artificial Intelligence (QAI), Naples, Italy, Nov 2-5, 2025. This is the authors' accepted manuscript (AAM). An IEEE copyright notice appears on page 1. The final published version will appear in IEEE Xplore; DOI to be added when available</p></details> |
+| **[Focusing by Contrastive Attention: Enhancing VLMs' Visual Reasoning](http://arxiv.org/abs/2509.06461v2)** | 2025-09-11 |  |
+| **[Adapting Vision-Language Models for Neutrino Event Classification in High-Energy Physics](http://arxiv.org/abs/2509.08461v2)** | 2025-09-11 |  |
+| **[Decoupling Clinical and Class-Agnostic Features for Reliable Few-Shot Adaptation under Shift](http://arxiv.org/abs/2509.09397v1)** | 2025-09-11 |  |
+| **[VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model](http://arxiv.org/abs/2509.09372v1)** | 2025-09-11 |  |
+| **[Curriculum-Based Multi-Tier Semantic Exploration via Deep Reinforcement Learning](http://arxiv.org/abs/2509.09356v1)** | 2025-09-11 | <details><summary>The 1...</summary><p>The 19th International Conference on Intelligent Autonomous Systems (IAS 19), 2025, Genoa</p></details> |
+| **[Image Recognition with Vision and Language Embeddings of VLMs](http://arxiv.org/abs/2509.09311v1)** | 2025-09-11 |  |
+| **[Visual Programmability: A Guide for Code-as-Thought in Chart Understanding](http://arxiv.org/abs/2509.09286v1)** | 2025-09-11 |  |
+| **[Towards Better Dental AI: A Multimodal Benchmark and Instruction Dataset for Panoramic X-ray Analysis](http://arxiv.org/abs/2509.09254v1)** | 2025-09-11 | <details><summary>40 pa...</summary><p>40 pages, 26 figures, 9 tables</p></details> |
+| **[IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves](http://arxiv.org/abs/2411.00827v5)** | 2025-09-11 |  |
+| **[Bridging the Gap Between Ideal and Real-world Evaluation: Benchmarking AI-Generated Image Detection in Challenging Scenarios](http://arxiv.org/abs/2509.09172v1)** | 2025-09-11 | ICCV2025 |
+| **[Early Exit and Multi Stage Knowledge Distillation in VLMs for Video Summarization](http://arxiv.org/abs/2504.21831v2)** | 2025-09-11 |  |
+| **[Imagine, Verify, Execute: Memory-guided Agentic Exploration with Vision-Language Models](http://arxiv.org/abs/2505.07815v3)** | 2025-09-11 | <details><summary>Proje...</summary><p>Project webpage: https://ive-robot.github.io/</p></details> |
 
