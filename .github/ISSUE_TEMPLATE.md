@@ -1,10 +1,11 @@
 ---
-title: Papers - September 16, 2025
+title: Papers - September 17, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OpenUrban3D: Annotation-Free Open-Vocabulary Semantic Segmentation of Large-Scale Urban Point Clouds](http://arxiv.org/abs/2509.10842v1)** | 2025-09-13 |  |
 | **[Novel Category Discovery with X-Agent Attention for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2509.01275v2)** | 2025-09-03 | <details><summary>Accep...</summary><p>Accepted by ACMMM2025</p></details> |
 | **[DGL-RSIS: Decoupling Global Spatial Context and Local Class Semantics for Training-Free Remote Sensing Image Segmentation](http://arxiv.org/abs/2509.00598v1)** | 2025-08-30 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Geoscience and Remote Sensing (TGRS), under review</p></details> |
 | **[Annotation-Free Open-Vocabulary Segmentation for Remote-Sensing Images](http://arxiv.org/abs/2508.18067v1)** | 2025-08-25 | <details><summary>All c...</summary><p>All codes and models will be released at https://github.com/earth-insights/SegEarth-OV-2</p></details> |
@@ -19,7 +20,6 @@ labels: documentation
 | **[Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models](http://arxiv.org/abs/2501.16769v5)** | 2025-07-02 | <details><summary>Accep...</summary><p>Accepted at the 17th IEEE International Conference on Advanced Computational Intelligence (ICACI 2025)</p></details> |
 | **[RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Radiology with Zero-Shot Multi-Task Capability](http://arxiv.org/abs/2504.07416v2)** | 2025-07-01 |  |
 | **[Diffusion-Based Image Augmentation for Semantic Segmentation in Outdoor Robotics](http://arxiv.org/abs/2507.00153v1)** | 2025-06-30 | <details><summary>Prese...</summary><p>Presented at the 2025 IEEE ICRA Workshop on Field Robotics</p></details> |
-| **[Unleashing the Multi-View Fusion Potential: Noise Correction in VLM for Open-Vocabulary 3D Scene Understanding](http://arxiv.org/abs/2506.22817v1)** | 2025-06-28 |  |
 
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -75,19 +75,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse](http://arxiv.org/abs/2503.16365v2)** | 2025-09-12 | Accepted by ACL 2025 |
-| **[TASC: Task-Aware Shared Control for Teleoperated Manipulation](http://arxiv.org/abs/2509.10416v1)** | 2025-09-12 |  |
-| **[Towards Understanding Visual Grounding in Visual Language Models](http://arxiv.org/abs/2509.10345v1)** | 2025-09-12 |  |
-| **[Talk2PC: Enhancing 3D Visual Grounding through LiDAR and Radar Point Clouds Fusion for Autonomous Driving](http://arxiv.org/abs/2503.08336v2)** | 2025-09-12 | 13 pages, 12 figures |
-| **[Detecting Text Manipulation in Images using Vision Language Models](http://arxiv.org/abs/2509.10278v1)** | 2025-09-12 | <details><summary>Accep...</summary><p>Accepted in Synthetic Realities and Biometric Security Workshop BMVC-2025. For paper page see https://www.idiap.ch/paper/textvlmdet/</p></details> |
-| **[MagicMirror: A Large-Scale Dataset and Benchmark for Fine-Grained Artifacts Assessment in Text-to-Image Generation](http://arxiv.org/abs/2509.10260v1)** | 2025-09-12 |  |
-| **[Towards Reliable and Interpretable Document Question Answering via VLMs](http://arxiv.org/abs/2509.10129v1)** | 2025-09-12 |  |
-| **[VARCO-VISION-2.0 Technical Report](http://arxiv.org/abs/2509.10105v1)** | 2025-09-12 | <details><summary>19 pa...</summary><p>19 pages, 1 figure, 14 tables. Technical report for VARCO-VISION-2.0, a Korean-English bilingual VLM in 14B and 1.7B variants. Key features: multi-image understanding, OCR with text localization, improved Korean capabilities</p></details> |
-| **[GROVE: A Generalized Reward for Learning Open-Vocabulary Physical Skill](http://arxiv.org/abs/2504.04191v2)** | 2025-09-12 |  |
-| **[MedM-VL: What Makes a Good Medical LVLM?](http://arxiv.org/abs/2504.04323v3)** | 2025-09-12 |  |
-| **[When and How Does CLIP Enable Domain and Compositional Generalization?](http://arxiv.org/abs/2502.09507v3)** | 2025-09-12 | <details><summary>ICML ...</summary><p>ICML 2025 (Spotlight)</p></details> |
-| **[Multimodal Mathematical Reasoning Embedded in Aerial Vehicle Imagery: Benchmarking, Analysis, and Exploration](http://arxiv.org/abs/2509.10059v1)** | 2025-09-12 | 17 pages, 16 figures |
-| **[LaV-CoT: Language-Aware Visual CoT with Multi-Aspect Reward Optimization for Real-World Multilingual VQA](http://arxiv.org/abs/2509.10026v1)** | 2025-09-12 | <details><summary>12 Pa...</summary><p>12 Pages, 12 Figures, 2 Tables</p></details> |
-| **[MoPD: Mixture-of-Prompts Distillation for Vision-Language Models](http://arxiv.org/abs/2412.19087v2)** | 2025-09-12 |  |
-| **[Self-Rewarding Large Vision-Language Models for Optimizing Prompts in Text-to-Image Generation](http://arxiv.org/abs/2505.16763v2)** | 2025-09-12 | <details><summary>Accep...</summary><p>Accepted by ACL2025 Findings</p></details> |
+| **[Open-ended Hierarchical Streaming Video Understanding with Vision Language Models](http://arxiv.org/abs/2509.12145v1)** | 2025-09-15 | 17 pages |
+| **[Look Again, Think Slowly: Enhancing Visual Reflection in Vision-Language Models](http://arxiv.org/abs/2509.12132v1)** | 2025-09-15 | EMNLP2025 Main |
+| **[Embodied Navigation Foundation Model](http://arxiv.org/abs/2509.12129v1)** | 2025-09-15 | <details><summary>Proje...</summary><p>Project Page: https://pku-epic.github.io/NavFoM-Web/</p></details> |
+| **[Social Perception of Faces in a Vision-Language Model](http://arxiv.org/abs/2408.14435v2)** | 2025-09-15 |  |
+| **[RISE: Enhancing VLM Image Annotation with Self-Supervised Reasoning](http://arxiv.org/abs/2508.13229v3)** | 2025-09-15 |  |
+| **[Lost in Embeddings: Information Loss in Vision-Language Models](http://arxiv.org/abs/2509.11986v1)** | 2025-09-15 |  |
+| **[Spec-LLaVA: Accelerating Vision-Language Models with Dynamic Tree-Based Speculative Decoding](http://arxiv.org/abs/2509.11961v1)** | 2025-09-15 | <details><summary>7page...</summary><p>7pages, accepted by ICML TTODLer-FM workshop</p></details> |
+| **[Bridging Vision Language Models and Symbolic Grounding for Video Question Answering](http://arxiv.org/abs/2509.11862v1)** | 2025-09-15 |  |
+| **[Synthetic Captions for Open-Vocabulary Zero-Shot Segmentation](http://arxiv.org/abs/2509.11840v1)** | 2025-09-15 | <details><summary>ICCV ...</summary><p>ICCV 2025 CDEL Workshop</p></details> |
+| **[Transformer-Based Multimodal Knowledge Graph Completion with Link-Aware Contexts](http://arxiv.org/abs/2501.15688v2)** | 2025-09-15 |  |
+| **[SpecVLM: Fast Speculative Decoding in Vision-Language Models](http://arxiv.org/abs/2509.11815v1)** | 2025-09-15 |  |
+| **[Igniting VLMs toward the Embodied Space](http://arxiv.org/abs/2509.11766v1)** | 2025-09-15 |  |
+| **[EMeRALDS: Electronic Medical Record Driven Automated Lung Nodule Detection and Classification in Thoracic CT Images](http://arxiv.org/abs/2509.11714v1)** | 2025-09-15 |  |
+| **[Towards Understanding Visual Grounding in Visual Language Models](http://arxiv.org/abs/2509.10345v2)** | 2025-09-15 |  |
+| **[Remote Sensing SpatioTemporal Vision-Language Models: A Comprehensive Survey](http://arxiv.org/abs/2412.02573v3)** | 2025-09-15 | <details><summary>Publi...</summary><p>Published in IEEE Geoscience and Remote Sensing Magazine</p></details> |
 
