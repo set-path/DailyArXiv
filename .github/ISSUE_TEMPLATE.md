@@ -1,5 +1,5 @@
 ---
-title: Papers - September 17, 2025
+title: Papers - September 18, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -75,19 +75,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Open-ended Hierarchical Streaming Video Understanding with Vision Language Models](http://arxiv.org/abs/2509.12145v1)** | 2025-09-15 | 17 pages |
-| **[Look Again, Think Slowly: Enhancing Visual Reflection in Vision-Language Models](http://arxiv.org/abs/2509.12132v1)** | 2025-09-15 | EMNLP2025 Main |
-| **[Embodied Navigation Foundation Model](http://arxiv.org/abs/2509.12129v1)** | 2025-09-15 | <details><summary>Proje...</summary><p>Project Page: https://pku-epic.github.io/NavFoM-Web/</p></details> |
-| **[Social Perception of Faces in a Vision-Language Model](http://arxiv.org/abs/2408.14435v2)** | 2025-09-15 |  |
-| **[RISE: Enhancing VLM Image Annotation with Self-Supervised Reasoning](http://arxiv.org/abs/2508.13229v3)** | 2025-09-15 |  |
-| **[Lost in Embeddings: Information Loss in Vision-Language Models](http://arxiv.org/abs/2509.11986v1)** | 2025-09-15 |  |
-| **[Spec-LLaVA: Accelerating Vision-Language Models with Dynamic Tree-Based Speculative Decoding](http://arxiv.org/abs/2509.11961v1)** | 2025-09-15 | <details><summary>7page...</summary><p>7pages, accepted by ICML TTODLer-FM workshop</p></details> |
-| **[Bridging Vision Language Models and Symbolic Grounding for Video Question Answering](http://arxiv.org/abs/2509.11862v1)** | 2025-09-15 |  |
-| **[Synthetic Captions for Open-Vocabulary Zero-Shot Segmentation](http://arxiv.org/abs/2509.11840v1)** | 2025-09-15 | <details><summary>ICCV ...</summary><p>ICCV 2025 CDEL Workshop</p></details> |
-| **[Transformer-Based Multimodal Knowledge Graph Completion with Link-Aware Contexts](http://arxiv.org/abs/2501.15688v2)** | 2025-09-15 |  |
-| **[SpecVLM: Fast Speculative Decoding in Vision-Language Models](http://arxiv.org/abs/2509.11815v1)** | 2025-09-15 |  |
-| **[Igniting VLMs toward the Embodied Space](http://arxiv.org/abs/2509.11766v1)** | 2025-09-15 |  |
-| **[EMeRALDS: Electronic Medical Record Driven Automated Lung Nodule Detection and Classification in Thoracic CT Images](http://arxiv.org/abs/2509.11714v1)** | 2025-09-15 |  |
-| **[Towards Understanding Visual Grounding in Visual Language Models](http://arxiv.org/abs/2509.10345v2)** | 2025-09-15 |  |
-| **[Remote Sensing SpatioTemporal Vision-Language Models: A Comprehensive Survey](http://arxiv.org/abs/2412.02573v3)** | 2025-09-15 | <details><summary>Publi...</summary><p>Published in IEEE Geoscience and Remote Sensing Magazine</p></details> |
+| **[3D Aware Region Prompted Vision Language Model](http://arxiv.org/abs/2509.13317v1)** | 2025-09-16 | <details><summary>Proje...</summary><p>Project Website: https://www.anjiecheng.me/sr3d</p></details> |
+| **[Image Realness Assessment and Localization with Multimodal Features](http://arxiv.org/abs/2509.13289v1)** | 2025-09-16 |  |
+| **[ChartGaze: Enhancing Chart Understanding in LVLMs with Eye-Tracking Guided Attention Refinement](http://arxiv.org/abs/2509.13282v1)** | 2025-09-16 | EMNLP 2025 |
+| **[RadGame: An AI-Powered Platform for Radiology Education](http://arxiv.org/abs/2509.13270v1)** | 2025-09-16 |  |
+| **[Game-RL: Synthesizing Verifiable Game Tasks at Scale to Boost VLMs General Reasoning](http://arxiv.org/abs/2505.13886v4)** | 2025-09-16 | <details><summary>63 pa...</summary><p>63 pages, 23 figures, submitted to NeurIPS 2025</p></details> |
+| **[Evaluating the Robustness of Open-Source Vision-Language Models to Domain Shift in Object Captioning](http://arxiv.org/abs/2506.19579v2)** | 2025-09-16 |  |
+| **[HERO: Rethinking Visual Token Early Dropping in High-Resolution Large Vision-Language Models](http://arxiv.org/abs/2509.13067v1)** | 2025-09-16 |  |
+| **[Perception Before Reasoning: Two-Stage Reinforcement Learning for Visual Reasoning in Vision-Language Models](http://arxiv.org/abs/2509.13031v1)** | 2025-09-16 |  |
+| **[Search-TTA: A Multimodal Test-Time Adaptation Framework for Visual Search in the Wild](http://arxiv.org/abs/2505.11350v3)** | 2025-09-16 | <details><summary>Accep...</summary><p>Accepted for presentation at CORL 2025. [Link to Paper Website](https://search-tta.github.io/)</p></details> |
+| **[ByDeWay: Boost Your multimodal LLM with DEpth prompting in a Training-Free Way](http://arxiv.org/abs/2507.08679v2)** | 2025-09-16 |  |
+| **[Zero-shot Hierarchical Plant Segmentation via Foundation Segmentation Models and Text-to-image Attention](http://arxiv.org/abs/2509.09116v2)** | 2025-09-16 | WACV 2026 Accepted |
+| **[Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation](http://arxiv.org/abs/2411.19331v3)** | 2025-09-16 | ICCV 2025 |
+| **[FastDriveVLA: Efficient End-to-End Driving via Plug-and-Play Reconstruction-based Token Pruning](http://arxiv.org/abs/2507.23318v3)** | 2025-09-16 | 9 pages, 5 figures |
+| **[Cross-Layer Vision Smoothing: Enhancing Visual Understanding via Sustained Focus on Key Objects in Large Vision-Language Models](http://arxiv.org/abs/2509.12897v1)** | 2025-09-16 |  |
+| **[Cross-Image Contrastive Decoding: Precise, Lossless Suppression of Language Priors in Large Vision-Language Models](http://arxiv.org/abs/2505.10634v5)** | 2025-09-16 | Under Review |
 
