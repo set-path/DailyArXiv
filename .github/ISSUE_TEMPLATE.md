@@ -1,5 +1,5 @@
 ---
-title: Papers - September 22, 2025
+title: Papers - September 23, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,6 +24,7 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FloorSAM: SAM-Guided Floorplan Reconstruction with Semantic-Geometric Fusion](http://arxiv.org/abs/2509.15750v1)** | 2025-09-19 | <details><summary>12 pa...</summary><p>12 pages, 15 figures,</p></details> |
 | **[Re-purposing SAM into Efficient Visual Projectors for MLLM-Based Referring Image Segmentation](http://arxiv.org/abs/2509.13676v1)** | 2025-09-17 |  |
 | **[SAMIR, an efficient registration framework via robust feature learning from SAM](http://arxiv.org/abs/2509.13629v1)** | 2025-09-17 |  |
 | **[Multimodal SAM-adapter for Semantic Segmentation](http://arxiv.org/abs/2509.10408v1)** | 2025-09-12 |  |
@@ -38,11 +39,11 @@ labels: documentation
 | **[E-BayesSAM: Efficient Bayesian Adaptation of SAM with Self-Optimizing KAN-Based Interpretation for Uncertainty-Aware Ultrasonic Segmentation](http://arxiv.org/abs/2508.17408v1)** | 2025-08-24 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2025</p></details> |
 | **[Fine-grained Multi-class Nuclei Segmentation with Molecular-empowered All-in-SAM Model](http://arxiv.org/abs/2508.15751v1)** | 2025-08-21 | <details><summary>25 pa...</summary><p>25 pages, 3 figures, accepted by Journal of Medical Imaging</p></details> |
 | **[GeoSAM: Fine-tuning SAM with Multi-Modal Prompts for Mobility Infrastructure Segmentation](http://arxiv.org/abs/2311.11319v4)** | 2025-08-15 | <details><summary>Accep...</summary><p>Accepted by European Conference on Artificial Intelligence (ECAI 2025)</p></details> |
-| **[Adapting SAM via Cross-Entropy Masking for Class Imbalance in Remote Sensing Change Detection](http://arxiv.org/abs/2508.10568v1)** | 2025-08-14 | work in progress |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TASAM: Terrain-and-Aware Segment Anything Model for Temporal-Scale Remote Sensing Segmentation](http://arxiv.org/abs/2509.15795v1)** | 2025-09-19 |  |
 | **[Baltimore Atlas: FreqWeaver Adapter for Semi-supervised Ultra-high Spatial Resolution Land Cover Classification](http://arxiv.org/abs/2506.15565v2)** | 2025-08-23 |  |
 | **[ViRefSAM: Visual Reference-Guided Segment Anything Model for Remote Sensing Segmentation](http://arxiv.org/abs/2507.02294v1)** | 2025-07-03 |  |
 | **[RS-MTDF: Multi-Teacher Distillation and Fusion for Remote Sensing Semi-Supervised Semantic Segmentation](http://arxiv.org/abs/2506.08772v2)** | 2025-06-11 |  |
@@ -57,7 +58,6 @@ labels: documentation
 | **[ALPS: An Auto-Labeling and Pre-training Scheme for Remote Sensing Segmentation With Segment Anything Model](http://arxiv.org/abs/2406.10855v1)** | 2024-06-16 |  |
 | **[Embedding Generalized Semantic Knowledge into Few-Shot Remote Sensing Segmentation](http://arxiv.org/abs/2405.13686v1)** | 2024-05-22 |  |
 | **[SFFNet: A Wavelet-Based Spatial and Frequency Domain Fusion Network for Remote Sensing Segmentation](http://arxiv.org/abs/2405.01992v1)** | 2024-05-03 |  |
-| **[RSAM-Seg: A SAM-based Approach with Prior Knowledge Integration for Remote Sensing Image Semantic Segmentation](http://arxiv.org/abs/2402.19004v1)** | 2024-02-29 | 12 pages, 11 figures |
 
 ## Remote Sensing Vision Language Model - Preview 9 papers
 | **Title** | **Date** | **Comment** |
@@ -75,19 +75,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Calibration-Aware Prompt Learning for Medical Vision-Language Models](http://arxiv.org/abs/2509.15226v1)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted in BMVC 2025</p></details> |
-| **[ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data](http://arxiv.org/abs/2509.15221v1)** | 2025-09-18 |  |
-| **[What's the Best Way to Retrieve Slides? A Comparative Study of Multimodal, Caption-Based, and Hybrid Retrieval Techniques](http://arxiv.org/abs/2509.15211v1)** | 2025-09-18 |  |
-| **[MedFact-R1: Towards Factual Medical Reasoning via Pseudo-Label Augmentation](http://arxiv.org/abs/2509.15154v1)** | 2025-09-18 | Tech report |
-| **[Forecasting and Visualizing Air Quality from Sky Images with Vision-Language Models](http://arxiv.org/abs/2509.15076v1)** | 2025-09-18 | <details><summary>Publi...</summary><p>Published at ICCVW 2025</p></details> |
-| **[Handle Object Navigation as Weighted Traveling Repairman Problem](http://arxiv.org/abs/2503.06937v2)** | 2025-09-18 |  |
-| **[QuizRank: Picking Images by Quizzing VLMs](http://arxiv.org/abs/2509.15059v1)** | 2025-09-18 |  |
-| **[PRISM: Product Retrieval In Shopping Carts using Hybrid Matching](http://arxiv.org/abs/2509.14985v1)** | 2025-09-18 |  |
-| **[EchoVLM: Dynamic Mixture-of-Experts Vision-Language Model for Universal Ultrasound Intelligence](http://arxiv.org/abs/2509.14977v1)** | 2025-09-18 |  |
-| **[Affordance-Based Disambiguation of Surgical Instructions for Collaborative Robot-Assisted Surgery](http://arxiv.org/abs/2509.14967v1)** | 2025-09-18 | <details><summary>To be...</summary><p>To be presented at the 1st Workshop on Intelligent Cobodied Assistance and Robotic Empowerment (iCARE). 2025 Conference on Robot Learning (CoRL)</p></details> |
-| **[VLM-E2E: Enhancing End-to-End Autonomous Driving with Multimodal Driver Attention Fusion](http://arxiv.org/abs/2502.18042v2)** | 2025-09-18 |  |
-| **[MARIC: Multi-Agent Reasoning for Image Classification](http://arxiv.org/abs/2509.14860v1)** | 2025-09-18 | Preprint |
-| **[V-SEAM: Visual Semantic Editing and Attention Modulating for Causal Interpretability of Vision-Language Models](http://arxiv.org/abs/2509.14837v1)** | 2025-09-18 | EMNLP 2025 Main |
-| **[The Art of Saying "Maybe": A Conformal Lens for Uncertainty Benchmarking in VLMs](http://arxiv.org/abs/2509.13379v2)** | 2025-09-18 |  |
-| **[Frame Sampling Strategies Matter: A Benchmark for small vision language models](http://arxiv.org/abs/2509.14769v1)** | 2025-09-18 |  |
+| **[Cache-of-Thought: Master-Apprentice Framework for Cost-Effective Vision Language Model Reasoning](http://arxiv.org/abs/2502.20587v2)** | 2025-09-19 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main Conference. Mingyuan, Jize, and Haozhen contributed equally, while Minjia, Chengxiang, and Klara advised equally</p></details> |
+| **[Robust Vision-Language Models via Tensor Decomposition: A Defense Against Adversarial Attacks](http://arxiv.org/abs/2509.16163v1)** | 2025-09-19 | <details><summary>To be...</summary><p>To be presented as a poster at the Workshop on Safe and Trustworthy Multimodal AI Systems (SafeMM-AI), 2025</p></details> |
+| **[LLMs Can Compensate for Deficiencies in Visual Representations](http://arxiv.org/abs/2506.05439v2)** | 2025-09-19 | EMNLP 2025 Findings |
+| **[Randomized Smoothing Meets Vision-Language Models](http://arxiv.org/abs/2509.16088v1)** | 2025-09-19 | <details><summary>EMNLP...</summary><p>EMNLP'25 full version, including appendix (proofs, additional experiments)</p></details> |
+| **[I-FailSense: Towards General Robotic Failure Detection with Vision-Language Models](http://arxiv.org/abs/2509.16072v1)** | 2025-09-19 |  |
+| **[Compose by Focus: Scene Graph-based Atomic Skills](http://arxiv.org/abs/2509.16053v1)** | 2025-09-19 |  |
+| **[Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study](http://arxiv.org/abs/2505.15389v2)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025</p></details> |
+| **[CLIPTTA: Robust Contrastive Vision-Language Test-Time Adaptation](http://arxiv.org/abs/2507.14312v2)** | 2025-09-19 |  |
+| **[ViLU: Learning Vision-Language Uncertainties for Failure Prediction](http://arxiv.org/abs/2507.07620v4)** | 2025-09-19 |  |
+| **[cadrille: Multi-modal CAD Reconstruction with Online Reinforcement Learning](http://arxiv.org/abs/2505.22914v2)** | 2025-09-19 |  |
+| **[RegionMed-CLIP: A Region-Aware Multimodal Contrastive Learning Pre-trained Model for Medical Image Understanding](http://arxiv.org/abs/2508.05244v2)** | 2025-09-19 | <details><summary>Upon ...</summary><p>Upon further review, we identified that our dataset requires optimization to ensure research reliability and accuracy. Additionally, considering the target journal's latest submission policies, we believe comprehensive manuscript revisions are necessary</p></details> |
+| **[CIDER: A Causal Cure for Brand-Obsessed Text-to-Image Models](http://arxiv.org/abs/2509.15803v1)** | 2025-09-19 | <details><summary>5 pag...</summary><p>5 pages, 7 figures, submitted to ICASSP2026</p></details> |
+| **[Vision-Language Models as Differentiable Semantic and Spatial Rewards for Text-to-3D Generation](http://arxiv.org/abs/2509.15772v1)** | 2025-09-19 |  |
+| **[GUI-ReWalk: Massive Data Generation for GUI Agent via Stochastic Exploration and Intent-Aware Reasoning](http://arxiv.org/abs/2509.15738v1)** | 2025-09-19 |  |
+| **[Quality-Driven Curation of Remote Sensing Vision-Language Data via Learned Scoring Models](http://arxiv.org/abs/2503.00743v2)** | 2025-09-19 | <details><summary>39 pa...</summary><p>39 pages, 13 figures. Accept for NeruIPS2025</p></details> |
 
