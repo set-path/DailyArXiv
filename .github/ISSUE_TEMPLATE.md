@@ -1,5 +1,5 @@
 ---
-title: Papers - September 23, 2025
+title: Papers - September 24, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -43,6 +43,7 @@ labels: documentation
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAM2-ELNet: Label Enhancement and Automatic Annotation for Remote Sensing Segmentation](http://arxiv.org/abs/2503.12404v2)** | 2025-09-21 | <details><summary>publi...</summary><p>published in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</p></details> |
 | **[TASAM: Terrain-and-Aware Segment Anything Model for Temporal-Scale Remote Sensing Segmentation](http://arxiv.org/abs/2509.15795v1)** | 2025-09-19 |  |
 | **[Baltimore Atlas: FreqWeaver Adapter for Semi-supervised Ultra-high Spatial Resolution Land Cover Classification](http://arxiv.org/abs/2506.15565v2)** | 2025-08-23 |  |
 | **[ViRefSAM: Visual Reference-Guided Segment Anything Model for Remote Sensing Segmentation](http://arxiv.org/abs/2507.02294v1)** | 2025-07-03 |  |
@@ -51,7 +52,6 @@ labels: documentation
 | **[Cross-Modal Urban Sensing: Evaluating Sound-Vision Alignment Across Street-Level and Aerial Imagery](http://arxiv.org/abs/2506.03388v1)** | 2025-06-03 |  |
 | **[AerOSeg: Harnessing SAM for Open-Vocabulary Segmentation in Remote Sensing Images](http://arxiv.org/abs/2504.09203v1)** | 2025-04-12 | <details><summary>Accep...</summary><p>Accepted at EarthVision workshop, CVPR 2025</p></details> |
 | **[Center-guided Classifier for Semantic Segmentation of Remote Sensing Images](http://arxiv.org/abs/2503.16963v1)** | 2025-03-21 |  |
-| **[SAM2-ELNet: Label Enhancement and Automatic Annotation for Remote Sensing Segmentation](http://arxiv.org/abs/2503.12404v1)** | 2025-03-16 |  |
 | **[Joint-Optimized Unsupervised Adversarial Domain Adaptation in Remote Sensing Segmentation with Prompted Foundation Model](http://arxiv.org/abs/2411.05878v2)** | 2024-11-18 | <details><summary>12 pa...</summary><p>12 pages,6 figures, 6 tables</p></details> |
 | **[Graph Information Bottleneck for Remote Sensing Segmentation](http://arxiv.org/abs/2312.02545v2)** | 2024-08-31 | 13 pages, 6 figures |
 | **[Hi-ResNet: Edge Detail Enhancement for High-Resolution Remote Sensing Segmentation](http://arxiv.org/abs/2305.12691v3)** | 2024-08-15 |  |
@@ -75,19 +75,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Cache-of-Thought: Master-Apprentice Framework for Cost-Effective Vision Language Model Reasoning](http://arxiv.org/abs/2502.20587v2)** | 2025-09-19 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main Conference. Mingyuan, Jize, and Haozhen contributed equally, while Minjia, Chengxiang, and Klara advised equally</p></details> |
-| **[Robust Vision-Language Models via Tensor Decomposition: A Defense Against Adversarial Attacks](http://arxiv.org/abs/2509.16163v1)** | 2025-09-19 | <details><summary>To be...</summary><p>To be presented as a poster at the Workshop on Safe and Trustworthy Multimodal AI Systems (SafeMM-AI), 2025</p></details> |
-| **[LLMs Can Compensate for Deficiencies in Visual Representations](http://arxiv.org/abs/2506.05439v2)** | 2025-09-19 | EMNLP 2025 Findings |
-| **[Randomized Smoothing Meets Vision-Language Models](http://arxiv.org/abs/2509.16088v1)** | 2025-09-19 | <details><summary>EMNLP...</summary><p>EMNLP'25 full version, including appendix (proofs, additional experiments)</p></details> |
-| **[I-FailSense: Towards General Robotic Failure Detection with Vision-Language Models](http://arxiv.org/abs/2509.16072v1)** | 2025-09-19 |  |
-| **[Compose by Focus: Scene Graph-based Atomic Skills](http://arxiv.org/abs/2509.16053v1)** | 2025-09-19 |  |
-| **[Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study](http://arxiv.org/abs/2505.15389v2)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025</p></details> |
-| **[CLIPTTA: Robust Contrastive Vision-Language Test-Time Adaptation](http://arxiv.org/abs/2507.14312v2)** | 2025-09-19 |  |
-| **[ViLU: Learning Vision-Language Uncertainties for Failure Prediction](http://arxiv.org/abs/2507.07620v4)** | 2025-09-19 |  |
-| **[cadrille: Multi-modal CAD Reconstruction with Online Reinforcement Learning](http://arxiv.org/abs/2505.22914v2)** | 2025-09-19 |  |
-| **[RegionMed-CLIP: A Region-Aware Multimodal Contrastive Learning Pre-trained Model for Medical Image Understanding](http://arxiv.org/abs/2508.05244v2)** | 2025-09-19 | <details><summary>Upon ...</summary><p>Upon further review, we identified that our dataset requires optimization to ensure research reliability and accuracy. Additionally, considering the target journal's latest submission policies, we believe comprehensive manuscript revisions are necessary</p></details> |
-| **[CIDER: A Causal Cure for Brand-Obsessed Text-to-Image Models](http://arxiv.org/abs/2509.15803v1)** | 2025-09-19 | <details><summary>5 pag...</summary><p>5 pages, 7 figures, submitted to ICASSP2026</p></details> |
-| **[Vision-Language Models as Differentiable Semantic and Spatial Rewards for Text-to-3D Generation](http://arxiv.org/abs/2509.15772v1)** | 2025-09-19 |  |
-| **[GUI-ReWalk: Massive Data Generation for GUI Agent via Stochastic Exploration and Intent-Aware Reasoning](http://arxiv.org/abs/2509.15738v1)** | 2025-09-19 |  |
-| **[Quality-Driven Curation of Remote Sensing Vision-Language Data via Learned Scoring Models](http://arxiv.org/abs/2503.00743v2)** | 2025-09-19 | <details><summary>39 pa...</summary><p>39 pages, 13 figures. Accept for NeruIPS2025</p></details> |
+| **[Co-STAR: Collaborative Curriculum Self-Training with Adaptive Regularization for Source-Free Video Domain Adaptation](http://arxiv.org/abs/2504.11669v2)** | 2025-09-22 |  |
+| **[VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model](http://arxiv.org/abs/2509.09372v2)** | 2025-09-22 | <details><summary>28 pa...</summary><p>28 pages; Project page: https://vla-adapter.github.io/; Github: https://github.com/OpenHelix-Team/VLA-Adapter; HuggingFace: https://huggingface.co/VLA-Adapter</p></details> |
+| **[NeuS-QA: Grounding Long-Form Video Understanding in Temporal Logic and Neuro-Symbolic Reasoning](http://arxiv.org/abs/2509.18041v1)** | 2025-09-22 |  |
+| **[I-FailSense: Towards General Robotic Failure Detection with Vision-Language Models](http://arxiv.org/abs/2509.16072v2)** | 2025-09-22 |  |
+| **[Robust and Resilient Soft Robotic Object Insertion with Compliance-Enabled Contact Formation and Failure Recovery](http://arxiv.org/abs/2509.17666v1)** | 2025-09-22 |  |
+| **[SD-VLM: Spatial Measuring and Understanding with Depth-Encoded Vision-Language Models](http://arxiv.org/abs/2509.17664v1)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[From Benchmarks to Reality: Advancing Visual Anomaly Detection by the VAND 3.0 Challenge](http://arxiv.org/abs/2509.17615v1)** | 2025-09-22 |  |
+| **[COLA: Context-aware Language-driven Test-time Adaptation](http://arxiv.org/abs/2509.17598v1)** | 2025-09-22 |  |
+| **[Interpreting Attention Heads for Image-to-Text Information Flow in Large Vision-Language Models](http://arxiv.org/abs/2509.17588v1)** | 2025-09-22 |  |
+| **[Visual Instruction Pretraining for Domain-Specific Foundation Models](http://arxiv.org/abs/2509.17562v1)** | 2025-09-22 |  |
+| **[Mitigating Hallucinations in Large Vision-Language Models via Entity-Centric Multimodal Preference Optimization](http://arxiv.org/abs/2506.04039v2)** | 2025-09-22 | <details><summary>This ...</summary><p>This paper is accepted by EMNLP2025</p></details> |
+| **[All-in-one: Understanding and Generation in Multimodal Reasoning with the MAIA Benchmark](http://arxiv.org/abs/2502.16989v3)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted at Findings of EMNLP 2025</p></details> |
+| **[ChartHal: A Fine-grained Framework Evaluating Hallucination of Large Vision Language Models in Chart Understanding](http://arxiv.org/abs/2509.17481v1)** | 2025-09-22 |  |
+| **[StockGenChaR: A Study on the Evaluation of Large Vision-Language Models on Stock Chart Captioning](http://arxiv.org/abs/2412.04041v2)** | 2025-09-22 |  |
+| **[Training-Free Label Space Alignment for Universal Domain Adaptation](http://arxiv.org/abs/2509.17452v1)** | 2025-09-22 | 22 pages, 12 figures |
 
