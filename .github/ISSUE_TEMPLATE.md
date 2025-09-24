@@ -1,5 +1,5 @@
 ---
-title: Papers - September 24, 2025
+title: Papers - September 25, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -75,19 +75,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Co-STAR: Collaborative Curriculum Self-Training with Adaptive Regularization for Source-Free Video Domain Adaptation](http://arxiv.org/abs/2504.11669v2)** | 2025-09-22 |  |
-| **[VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model](http://arxiv.org/abs/2509.09372v2)** | 2025-09-22 | <details><summary>28 pa...</summary><p>28 pages; Project page: https://vla-adapter.github.io/; Github: https://github.com/OpenHelix-Team/VLA-Adapter; HuggingFace: https://huggingface.co/VLA-Adapter</p></details> |
-| **[NeuS-QA: Grounding Long-Form Video Understanding in Temporal Logic and Neuro-Symbolic Reasoning](http://arxiv.org/abs/2509.18041v1)** | 2025-09-22 |  |
-| **[I-FailSense: Towards General Robotic Failure Detection with Vision-Language Models](http://arxiv.org/abs/2509.16072v2)** | 2025-09-22 |  |
-| **[Robust and Resilient Soft Robotic Object Insertion with Compliance-Enabled Contact Formation and Failure Recovery](http://arxiv.org/abs/2509.17666v1)** | 2025-09-22 |  |
-| **[SD-VLM: Spatial Measuring and Understanding with Depth-Encoded Vision-Language Models](http://arxiv.org/abs/2509.17664v1)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[From Benchmarks to Reality: Advancing Visual Anomaly Detection by the VAND 3.0 Challenge](http://arxiv.org/abs/2509.17615v1)** | 2025-09-22 |  |
-| **[COLA: Context-aware Language-driven Test-time Adaptation](http://arxiv.org/abs/2509.17598v1)** | 2025-09-22 |  |
-| **[Interpreting Attention Heads for Image-to-Text Information Flow in Large Vision-Language Models](http://arxiv.org/abs/2509.17588v1)** | 2025-09-22 |  |
-| **[Visual Instruction Pretraining for Domain-Specific Foundation Models](http://arxiv.org/abs/2509.17562v1)** | 2025-09-22 |  |
-| **[Mitigating Hallucinations in Large Vision-Language Models via Entity-Centric Multimodal Preference Optimization](http://arxiv.org/abs/2506.04039v2)** | 2025-09-22 | <details><summary>This ...</summary><p>This paper is accepted by EMNLP2025</p></details> |
-| **[All-in-one: Understanding and Generation in Multimodal Reasoning with the MAIA Benchmark](http://arxiv.org/abs/2502.16989v3)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted at Findings of EMNLP 2025</p></details> |
-| **[ChartHal: A Fine-grained Framework Evaluating Hallucination of Large Vision Language Models in Chart Understanding](http://arxiv.org/abs/2509.17481v1)** | 2025-09-22 |  |
-| **[StockGenChaR: A Study on the Evaluation of Large Vision-Language Models on Stock Chart Captioning](http://arxiv.org/abs/2412.04041v2)** | 2025-09-22 |  |
-| **[Training-Free Label Space Alignment for Universal Domain Adaptation](http://arxiv.org/abs/2509.17452v1)** | 2025-09-22 | 22 pages, 12 figures |
+| **[DRISHTIKON: A Multimodal Multilingual Benchmark for Testing Language Models' Understanding on Indian Culture](http://arxiv.org/abs/2509.19274v1)** | 2025-09-23 | EMNLP MAINS 2025 |
+| **[Leveraging Large Models to Evaluate Novel Content: A Case Study on Advertisement Creativity](http://arxiv.org/abs/2503.00046v2)** | 2025-09-23 | <details><summary>To Ap...</summary><p>To Appear in EMNLP2025</p></details> |
+| **[Token Preference Optimization with Self-Calibrated Visual-Anchored Rewards for Hallucination Mitigation](http://arxiv.org/abs/2412.14487v4)** | 2025-09-23 |  |
+| **[Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability](http://arxiv.org/abs/2501.01346v3)** | 2025-09-23 | EMNLP 2025 Findings |
+| **[Long Story Short: Disentangling Compositionality and Long-Caption Understanding in VLMs](http://arxiv.org/abs/2509.19207v1)** | 2025-09-23 |  |
+| **[Vision-Free Retrieval: Rethinking Multimodal Search with Textual Scene Descriptions](http://arxiv.org/abs/2509.19203v1)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
+| **[Reading Images Like Texts: Sequential Image Understanding in Vision-Language Models](http://arxiv.org/abs/2509.19191v1)** | 2025-09-23 |  |
+| **[Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study](http://arxiv.org/abs/2505.15389v3)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025</p></details> |
+| **[VLDBench Evaluating Multimodal Disinformation with Regulatory Alignment](http://arxiv.org/abs/2502.11361v4)** | 2025-09-23 | under review |
+| **[FUNCanon: Learning Pose-Aware Action Primitives via Functional Object Canonicalization for Generalizable Robotic Manipulation](http://arxiv.org/abs/2509.19102v1)** | 2025-09-23 | <details><summary>proje...</summary><p>project website: https://sites.google.com/view/funcanon, 11 pages</p></details> |
+| **[ColorBlindnessEval: Can Vision-Language Models Pass Color Blindness Tests?](http://arxiv.org/abs/2509.19070v1)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted at the Open Science for Foundation Models (SCI-FM) Workshop at ICLR 2025</p></details> |
+| **[CalFuse: Feature Calibration Enhanced Parameter Fusion for Class-Continual Learning](http://arxiv.org/abs/2503.18672v7)** | 2025-09-23 |  |
+| **[Pure Vision Language Action (VLA) Models: A Comprehensive Survey](http://arxiv.org/abs/2509.19012v1)** | 2025-09-23 |  |
+| **[Unveiling Chain of Step Reasoning for Vision-Language Models with Fine-grained Rewards](http://arxiv.org/abs/2509.19003v1)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[No Labels Needed: Zero-Shot Image Classification with Collaborative Self-Learning](http://arxiv.org/abs/2509.18938v1)** | 2025-09-23 | <details><summary>This ...</summary><p>This paper was accepted at International Conference on Tools with Artificial Intelligence (ICTAI) 2025</p></details> |
 
