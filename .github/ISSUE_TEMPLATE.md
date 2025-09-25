@@ -1,11 +1,11 @@
 ---
-title: Papers - September 25, 2025
+title: Papers - September 26, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Lost in Translation? Vocabulary Alignment for Source-Free Domain Adaptation in Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2509.15225v1)** | 2025-09-18 | <details><summary>BMVC ...</summary><p>BMVC 2025 - Project Page: https://thegoodailab.org/blog/vocalign - Code: https://github.com/Sisso16/VocAlign</p></details> |
+| **[Lost in Translation? Vocabulary Alignment for Source-Free Domain Adaptation in Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2509.15225v2)** | 2025-09-24 | <details><summary>BMVC ...</summary><p>BMVC 2025 - Project Page: https://thegoodailab.org/blog/vocalign - Code: https://github.com/Sisso16/VocAlign</p></details> |
 | **[OpenUrban3D: Annotation-Free Open-Vocabulary Semantic Segmentation of Large-Scale Urban Point Clouds](http://arxiv.org/abs/2509.10842v1)** | 2025-09-13 |  |
 | **[Novel Category Discovery with X-Agent Attention for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2509.01275v2)** | 2025-09-03 | <details><summary>Accep...</summary><p>Accepted by ACMMM2025</p></details> |
 | **[DGL-RSIS: Decoupling Global Spatial Context and Local Class Semantics for Training-Free Remote Sensing Image Segmentation](http://arxiv.org/abs/2509.00598v1)** | 2025-08-30 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Geoscience and Remote Sensing (TGRS), under review</p></details> |
@@ -75,19 +75,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DRISHTIKON: A Multimodal Multilingual Benchmark for Testing Language Models' Understanding on Indian Culture](http://arxiv.org/abs/2509.19274v1)** | 2025-09-23 | EMNLP MAINS 2025 |
-| **[Leveraging Large Models to Evaluate Novel Content: A Case Study on Advertisement Creativity](http://arxiv.org/abs/2503.00046v2)** | 2025-09-23 | <details><summary>To Ap...</summary><p>To Appear in EMNLP2025</p></details> |
-| **[Token Preference Optimization with Self-Calibrated Visual-Anchored Rewards for Hallucination Mitigation](http://arxiv.org/abs/2412.14487v4)** | 2025-09-23 |  |
-| **[Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability](http://arxiv.org/abs/2501.01346v3)** | 2025-09-23 | EMNLP 2025 Findings |
-| **[Long Story Short: Disentangling Compositionality and Long-Caption Understanding in VLMs](http://arxiv.org/abs/2509.19207v1)** | 2025-09-23 |  |
-| **[Vision-Free Retrieval: Rethinking Multimodal Search with Textual Scene Descriptions](http://arxiv.org/abs/2509.19203v1)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
-| **[Reading Images Like Texts: Sequential Image Understanding in Vision-Language Models](http://arxiv.org/abs/2509.19191v1)** | 2025-09-23 |  |
-| **[Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study](http://arxiv.org/abs/2505.15389v3)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025</p></details> |
-| **[VLDBench Evaluating Multimodal Disinformation with Regulatory Alignment](http://arxiv.org/abs/2502.11361v4)** | 2025-09-23 | under review |
-| **[FUNCanon: Learning Pose-Aware Action Primitives via Functional Object Canonicalization for Generalizable Robotic Manipulation](http://arxiv.org/abs/2509.19102v1)** | 2025-09-23 | <details><summary>proje...</summary><p>project website: https://sites.google.com/view/funcanon, 11 pages</p></details> |
-| **[ColorBlindnessEval: Can Vision-Language Models Pass Color Blindness Tests?](http://arxiv.org/abs/2509.19070v1)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted at the Open Science for Foundation Models (SCI-FM) Workshop at ICLR 2025</p></details> |
-| **[CalFuse: Feature Calibration Enhanced Parameter Fusion for Class-Continual Learning](http://arxiv.org/abs/2503.18672v7)** | 2025-09-23 |  |
-| **[Pure Vision Language Action (VLA) Models: A Comprehensive Survey](http://arxiv.org/abs/2509.19012v1)** | 2025-09-23 |  |
-| **[Unveiling Chain of Step Reasoning for Vision-Language Models with Fine-grained Rewards](http://arxiv.org/abs/2509.19003v1)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[No Labels Needed: Zero-Shot Image Classification with Collaborative Self-Learning](http://arxiv.org/abs/2509.18938v1)** | 2025-09-23 | <details><summary>This ...</summary><p>This paper was accepted at International Conference on Tools with Artificial Intelligence (ICTAI) 2025</p></details> |
+| **[Multimodal Reference Visual Grounding](http://arxiv.org/abs/2504.02876v2)** | 2025-09-24 | <details><summary>Proje...</summary><p>Project page with our code and dataset: https://irvlutd.github.io/MultiGrounding</p></details> |
+| **[Enhancing Targeted Adversarial Attacks on Large Vision-Language Models via Intermediate Projector](http://arxiv.org/abs/2508.13739v2)** | 2025-09-24 |  |
+| **[A co-evolving agentic AI system for medical imaging analysis](http://arxiv.org/abs/2509.20279v1)** | 2025-09-24 |  |
+| **[Deciphering Functions of Neurons in Vision-Language Models](http://arxiv.org/abs/2502.18485v4)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted by the 31st ACM International Conference on Multimedia (ACM MM 2025)</p></details> |
+| **[Universal Camouflage Attack on Vision-Language Models for Autonomous Driving](http://arxiv.org/abs/2509.20196v1)** | 2025-09-24 |  |
+| **[VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation](http://arxiv.org/abs/2507.06899v2)** | 2025-09-24 | Accepted in COLM2025 |
+| **[EchoBench: Benchmarking Sycophancy in Medical Large Vision-Language Models](http://arxiv.org/abs/2509.20146v1)** | 2025-09-24 | 29 pages, 6 figures |
+| **[GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering](http://arxiv.org/abs/2412.14480v2)** | 2025-09-24 | <details><summary>Proje...</summary><p>Project website: https://saumyasaxena.github.io/grapheqa</p></details> |
+| **[A Simple Data Augmentation Strategy for Text-in-Image Scientific VQA](http://arxiv.org/abs/2509.20119v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted at WiNLP, 2025</p></details> |
+| **[Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving](http://arxiv.org/abs/2509.20109v1)** | 2025-09-24 |  |
+| **[Queryable 3D Scene Representation: A Multi-Modal Framework for Semantic Reasoning and Robotic Task Planning](http://arxiv.org/abs/2509.20077v1)** | 2025-09-24 |  |
+| **[To Trust Or Not To Trust Your Vision-Language Model's Prediction](http://arxiv.org/abs/2505.23745v2)** | 2025-09-24 |  |
+| **[OmniScene: Attention-Augmented Multimodal 4D Scene Understanding for Autonomous Driving](http://arxiv.org/abs/2509.19973v1)** | 2025-09-24 |  |
+| **[Generalist Robot Manipulation beyond Action Labeled Data](http://arxiv.org/abs/2509.19958v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted at Conference on Robot Learning 2025</p></details> |
+| **[Benchmarking Gaslighting Attacks Against Speech Large Language Models](http://arxiv.org/abs/2509.19858v1)** | 2025-09-24 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables</p></details> |
 
