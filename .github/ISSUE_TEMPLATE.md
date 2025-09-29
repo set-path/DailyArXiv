@@ -1,5 +1,5 @@
 ---
-title: Papers - September 29, 2025
+title: Papers - September 30, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -72,17 +72,22 @@ labels: documentation
 | **[Aquila: A Hierarchically Aligned Visual-Language Model for Enhanced Remote Sensing Image Comprehension](http://arxiv.org/abs/2411.06074v1)** | 2024-11-09 |  |
 | **[RSGPT: A Remote Sensing Vision Language Model and Benchmark](http://arxiv.org/abs/2307.15266v1)** | 2023-07-28 |  |
 
-## Vision Language Model - Preview 10 papers
+## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Nova: Real-Time Agentic Vision-Language Model Serving with Adaptive Cross-Stage Parallelization](http://arxiv.org/abs/2509.21301v1)** | 2025-09-25 |  |
-| **[MoCLIP-Lite: Efficient Video Recognition by Fusing CLIP with Motion Vectors](http://arxiv.org/abs/2509.17084v2)** | 2025-09-25 | 6 pages, 3 figures |
-| **[DisCoCLIP: A Distributional Compositional Tensor Network Encoder for Vision-Language Understanding](http://arxiv.org/abs/2509.21287v1)** | 2025-09-25 |  |
-| **[IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves](http://arxiv.org/abs/2411.00827v6)** | 2025-09-25 |  |
-| **[Un-Doubling Diffusion: LLM-guided Disambiguation of Homonym Duplication](http://arxiv.org/abs/2509.21262v1)** | 2025-09-25 |  |
-| **[Hallucination as an Upper Bound: A New Perspective on Text-to-Image Evaluation](http://arxiv.org/abs/2509.21257v1)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted at GenProCC NeurIPS 2025 Workshop</p></details> |
-| **[Learning to Look: Cognitive Attention Alignment with Vision-Language Models](http://arxiv.org/abs/2509.21247v1)** | 2025-09-25 | <details><summary>7 pag...</summary><p>7 pages, neurips workshop</p></details> |
-| **[TABLET: A Large-Scale Dataset for Robust Visual Table Understanding](http://arxiv.org/abs/2509.21205v1)** | 2025-09-25 |  |
-| **[Human-like Navigation in a World Built for Humans](http://arxiv.org/abs/2509.21189v1)** | 2025-09-25 | <details><summary>CoRL ...</summary><p>CoRL 2025. Project website: https://reasonnav.github.io/</p></details> |
-| **[Pure Vision Language Action (VLA) Models: A Comprehensive Survey](http://arxiv.org/abs/2509.19012v2)** | 2025-09-25 |  |
+| **[See, Point, Fly: A Learning-Free VLM Framework for Universal Unmanned Aerial Navigation](http://arxiv.org/abs/2509.22653v1)** | 2025-09-26 | <details><summary>CoRL ...</summary><p>CoRL 2025. Project page: https://spf-web.pages.dev</p></details> |
+| **[CapRL: Stimulating Dense Image Caption Capabilities via Reinforcement Learning](http://arxiv.org/abs/2509.22647v1)** | 2025-09-26 | <details><summary>Code ...</summary><p>Code is available at https://github.com/InternLM/CapRL</p></details> |
+| **[Hierarchical Representation Matching for CLIP-based Class-Incremental Learning](http://arxiv.org/abs/2509.22645v1)** | 2025-09-26 |  |
+| **[WoW: Towards a World omniscient World model Through Embodied Interaction](http://arxiv.org/abs/2509.22642v1)** | 2025-09-26 |  |
+| **[SPARK: Synergistic Policy And Reward Co-Evolving Framework](http://arxiv.org/abs/2509.22624v1)** | 2025-09-26 | <details><summary>Proje...</summary><p>Project:https://github.com/InternLM/Spark</p></details> |
+| **[GamerAstra: Supporting 2D Non-Twitch Video Games for Blind and Low-Vision Players through a Multi-Agent Framework](http://arxiv.org/abs/2506.22937v2)** | 2025-09-26 | <details><summary>17 pa...</summary><p>17 pages, 11 figures, 2 tables</p></details> |
+| **[Color Names in Vision-Language Models](http://arxiv.org/abs/2509.22524v1)** | 2025-09-26 |  |
+| **[OS-W2S: An Automatic Labeling Engine for Language-Guided Open-Set Aerial Object Detection](http://arxiv.org/abs/2505.03334v2)** | 2025-09-26 |  |
+| **[Guiding Evolution of Artificial Life Using Vision-Language Models](http://arxiv.org/abs/2509.22447v1)** | 2025-09-26 | <details><summary>9 pag...</summary><p>9 pages, 6 figures. Accepted for publication in the Proceedings of the Artificial Life Conference 2025 (MIT Press)</p></details> |
+| **[Chimera: Diagnosing Shortcut Learning in Visual-Language Understanding](http://arxiv.org/abs/2509.22437v1)** | 2025-09-26 | <details><summary>Our c...</summary><p>Our code (https://github.com/CHIzhP/Chimera) and data (https://huggingface.co/datasets/CHIzhP/Chimera) are publicly available</p></details> |
+| **[TEXT2AFFORD: Probing Object Affordance Prediction abilities of Language Models solely from Text](http://arxiv.org/abs/2402.12881v3)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted at Conference on Computational Natural Language Learning 2024</p></details> |
+| **[RAU: Reference-based Anatomical Understanding with Vision Language Models](http://arxiv.org/abs/2509.22404v1)** | 2025-09-26 |  |
+| **[Zero-Effort Image-to-Music Generation: An Interpretable RAG-based VLM Approach](http://arxiv.org/abs/2509.22378v1)** | 2025-09-26 |  |
+| **[SCAM: A Real-World Typographic Robustness Evaluation for Multimodal Foundation Models](http://arxiv.org/abs/2504.04893v6)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025 Workshop EVAL-FoMo-2</p></details> |
+| **[LEO-VL: Efficient Scene Representation for Scalable 3D Vision-Language Learning](http://arxiv.org/abs/2506.09935v2)** | 2025-09-26 | <details><summary>Proje...</summary><p>Project page: https://leo-vl.github.io</p></details> |
 
