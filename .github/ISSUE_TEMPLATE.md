@@ -1,11 +1,11 @@
 ---
-title: Papers - September 30, 2025
+title: Papers - October 01, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Lost in Translation? Vocabulary Alignment for Source-Free Domain Adaptation in Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2509.15225v2)** | 2025-09-24 | <details><summary>BMVC ...</summary><p>BMVC 2025 - Project Page: https://thegoodailab.org/blog/vocalign - Code: https://github.com/Sisso16/VocAlign</p></details> |
+| **[Lost in Translation? Vocabulary Alignment for Source-Free Adaptation in Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2509.15225v3)** | 2025-09-29 | <details><summary>BMVC ...</summary><p>BMVC 2025 - Project Page: https://thegoodailab.org/blog/vocalign - Code: https://github.com/Sisso16/VocAlign</p></details> |
 | **[OpenUrban3D: Annotation-Free Open-Vocabulary Semantic Segmentation of Large-Scale Urban Point Clouds](http://arxiv.org/abs/2509.10842v1)** | 2025-09-13 |  |
 | **[Novel Category Discovery with X-Agent Attention for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2509.01275v2)** | 2025-09-03 | <details><summary>Accep...</summary><p>Accepted by ACMMM2025</p></details> |
 | **[DGL-RSIS: Decoupling Global Spatial Context and Local Class Semantics for Training-Free Remote Sensing Image Segmentation](http://arxiv.org/abs/2509.00598v1)** | 2025-08-30 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Geoscience and Remote Sensing (TGRS), under review</p></details> |
@@ -24,6 +24,7 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BALR-SAM: Boundary-Aware Low-Rank Adaptation of SAM for Resource-Efficient Medical Image Segmentation](http://arxiv.org/abs/2509.24204v1)** | 2025-09-29 |  |
 | **[FloorSAM: SAM-Guided Floorplan Reconstruction with Semantic-Geometric Fusion](http://arxiv.org/abs/2509.15750v1)** | 2025-09-19 | <details><summary>12 pa...</summary><p>12 pages, 15 figures,</p></details> |
 | **[Re-purposing SAM into Efficient Visual Projectors for MLLM-Based Referring Image Segmentation](http://arxiv.org/abs/2509.13676v1)** | 2025-09-17 |  |
 | **[SAMIR, an efficient registration framework via robust feature learning from SAM](http://arxiv.org/abs/2509.13629v1)** | 2025-09-17 |  |
@@ -38,7 +39,6 @@ labels: documentation
 | **[Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes](http://arxiv.org/abs/2412.01240v3)** | 2025-08-26 | <details><summary>Under...</summary><p>Under submission to International Journal of Computer Vision (IJCV)</p></details> |
 | **[E-BayesSAM: Efficient Bayesian Adaptation of SAM with Self-Optimizing KAN-Based Interpretation for Uncertainty-Aware Ultrasonic Segmentation](http://arxiv.org/abs/2508.17408v1)** | 2025-08-24 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2025</p></details> |
 | **[Fine-grained Multi-class Nuclei Segmentation with Molecular-empowered All-in-SAM Model](http://arxiv.org/abs/2508.15751v1)** | 2025-08-21 | <details><summary>25 pa...</summary><p>25 pages, 3 figures, accepted by Journal of Medical Imaging</p></details> |
-| **[GeoSAM: Fine-tuning SAM with Multi-Modal Prompts for Mobility Infrastructure Segmentation](http://arxiv.org/abs/2311.11319v4)** | 2025-08-15 | <details><summary>Accep...</summary><p>Accepted by European Conference on Artificial Intelligence (ECAI 2025)</p></details> |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -75,19 +75,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[See, Point, Fly: A Learning-Free VLM Framework for Universal Unmanned Aerial Navigation](http://arxiv.org/abs/2509.22653v1)** | 2025-09-26 | <details><summary>CoRL ...</summary><p>CoRL 2025. Project page: https://spf-web.pages.dev</p></details> |
-| **[CapRL: Stimulating Dense Image Caption Capabilities via Reinforcement Learning](http://arxiv.org/abs/2509.22647v1)** | 2025-09-26 | <details><summary>Code ...</summary><p>Code is available at https://github.com/InternLM/CapRL</p></details> |
-| **[Hierarchical Representation Matching for CLIP-based Class-Incremental Learning](http://arxiv.org/abs/2509.22645v1)** | 2025-09-26 |  |
-| **[WoW: Towards a World omniscient World model Through Embodied Interaction](http://arxiv.org/abs/2509.22642v1)** | 2025-09-26 |  |
-| **[SPARK: Synergistic Policy And Reward Co-Evolving Framework](http://arxiv.org/abs/2509.22624v1)** | 2025-09-26 | <details><summary>Proje...</summary><p>Project:https://github.com/InternLM/Spark</p></details> |
-| **[GamerAstra: Supporting 2D Non-Twitch Video Games for Blind and Low-Vision Players through a Multi-Agent Framework](http://arxiv.org/abs/2506.22937v2)** | 2025-09-26 | <details><summary>17 pa...</summary><p>17 pages, 11 figures, 2 tables</p></details> |
-| **[Color Names in Vision-Language Models](http://arxiv.org/abs/2509.22524v1)** | 2025-09-26 |  |
-| **[OS-W2S: An Automatic Labeling Engine for Language-Guided Open-Set Aerial Object Detection](http://arxiv.org/abs/2505.03334v2)** | 2025-09-26 |  |
-| **[Guiding Evolution of Artificial Life Using Vision-Language Models](http://arxiv.org/abs/2509.22447v1)** | 2025-09-26 | <details><summary>9 pag...</summary><p>9 pages, 6 figures. Accepted for publication in the Proceedings of the Artificial Life Conference 2025 (MIT Press)</p></details> |
-| **[Chimera: Diagnosing Shortcut Learning in Visual-Language Understanding](http://arxiv.org/abs/2509.22437v1)** | 2025-09-26 | <details><summary>Our c...</summary><p>Our code (https://github.com/CHIzhP/Chimera) and data (https://huggingface.co/datasets/CHIzhP/Chimera) are publicly available</p></details> |
-| **[TEXT2AFFORD: Probing Object Affordance Prediction abilities of Language Models solely from Text](http://arxiv.org/abs/2402.12881v3)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted at Conference on Computational Natural Language Learning 2024</p></details> |
-| **[RAU: Reference-based Anatomical Understanding with Vision Language Models](http://arxiv.org/abs/2509.22404v1)** | 2025-09-26 |  |
-| **[Zero-Effort Image-to-Music Generation: An Interpretable RAG-based VLM Approach](http://arxiv.org/abs/2509.22378v1)** | 2025-09-26 |  |
-| **[SCAM: A Real-World Typographic Robustness Evaluation for Multimodal Foundation Models](http://arxiv.org/abs/2504.04893v6)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025 Workshop EVAL-FoMo-2</p></details> |
-| **[LEO-VL: Efficient Scene Representation for Scalable 3D Vision-Language Learning](http://arxiv.org/abs/2506.09935v2)** | 2025-09-26 | <details><summary>Proje...</summary><p>Project page: https://leo-vl.github.io</p></details> |
+| **[TemMed-Bench: Evaluating Temporal Medical Image Reasoning in Vision-Language Models](http://arxiv.org/abs/2509.25143v1)** | 2025-09-29 |  |
+| **[Visual serial processing deficits explain divergences in human and VLM reasoning](http://arxiv.org/abs/2509.25142v1)** | 2025-09-29 |  |
+| **[GeoVLM-R1: Reinforcement Fine-Tuning for Improved Remote Sensing Reasoning](http://arxiv.org/abs/2509.25026v1)** | 2025-09-29 | <details><summary>Table...</summary><p>Tables 6 and Figures 9. https://mustansarfiaz.github.io/GeoVLM-R1/</p></details> |
+| **[MinerU2.5: A Decoupled Vision-Language Model for Efficient High-Resolution Document Parsing](http://arxiv.org/abs/2509.22186v2)** | 2025-09-29 | <details><summary>Techn...</summary><p>Technical Report; GitHub Repo: https://github.com/opendatalab/MinerU Hugging Face Model: https://huggingface.co/opendatalab/MinerU2.5-2509-1.2B Hugging Face Demo: https://huggingface.co/spaces/opendatalab/MinerU</p></details> |
+| **[World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training](http://arxiv.org/abs/2509.24948v1)** | 2025-09-29 |  |
+| **[LaVA-Man: Learning Visual Action Representations for Robot Manipulation](http://arxiv.org/abs/2508.19391v2)** | 2025-09-29 |  |
+| **[From Code to Action: Hierarchical Learning of Diffusion-VLM Policies](http://arxiv.org/abs/2509.24917v1)** | 2025-09-29 | <details><summary>19 pa...</summary><p>19 pages including references, 6 figures. Accepted to CoRL LEAP 2025</p></details> |
+| **[Can Less Precise Be More Reliable? A Systematic Evaluation of Quantization's Impact on CLIP Beyond Accuracy](http://arxiv.org/abs/2509.21173v2)** | 2025-09-29 | Still unpolished |
+| **[Pixels Versus Priors: Controlling Knowledge Priors in Vision-Language Models through Visual Counterfacts](http://arxiv.org/abs/2505.17127v2)** | 2025-09-29 |  |
+| **[Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models](http://arxiv.org/abs/2509.24837v1)** | 2025-09-29 |  |
+| **[IA-VLA: Input Augmentation for Vision-Language-Action models in settings with semantically complex tasks](http://arxiv.org/abs/2509.24768v1)** | 2025-09-29 | <details><summary>Under...</summary><p>Under review for ICRA 2026</p></details> |
+| **[IWR-Bench: Can LVLMs reconstruct interactive webpage from a user interaction video?](http://arxiv.org/abs/2509.24709v1)** | 2025-09-29 |  |
+| **[One Patient, Many Contexts: Scaling Medical AI with Contextual Intelligence](http://arxiv.org/abs/2506.10157v2)** | 2025-09-29 |  |
+| **[Can you SPLICE it together? A Human Curated Benchmark for Probing Visual Reasoning in VLMs](http://arxiv.org/abs/2509.24640v1)** | 2025-09-29 |  |
+| **[InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning](http://arxiv.org/abs/2505.13888v3)** | 2025-09-29 |  |
 
