@@ -1,5 +1,5 @@
 ---
-title: Papers - October 06, 2025
+title: Papers - October 07, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -76,19 +76,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Behavioral Performance to Internal Competence: Interpreting Vision-Language Models with VLM-Lens](http://arxiv.org/abs/2510.02292v1)** | 2025-10-02 | <details><summary>EMNLP...</summary><p>EMNLP 2025 System Demonstration | Code: https://github.com/compling-wat/vlm-lens</p></details> |
-| **[microCLIP: Unsupervised CLIP Adaptation via Coarse-Fine Token Fusion for Fine-Grained Image Classification](http://arxiv.org/abs/2510.02270v1)** | 2025-10-02 |  |
-| **[Say One Thing, Do Another? Diagnosing Reasoning-Execution Gaps in VLM-Powered Mobile-Use Agents](http://arxiv.org/abs/2510.02204v1)** | 2025-10-02 |  |
-| **[GeoPurify: A Data-Efficient Geometric Distillation Framework for Open-Vocabulary 3D Segmentation](http://arxiv.org/abs/2510.02186v1)** | 2025-10-02 |  |
-| **[Unlocking Vision-Language Models for Video Anomaly Detection via Fine-Grained Prompting](http://arxiv.org/abs/2510.02155v1)** | 2025-10-02 | <details><summary>14 pa...</summary><p>14 pages, video anomaly detection</p></details> |
-| **[Post-hoc Probabilistic Vision-Language Models](http://arxiv.org/abs/2412.06014v4)** | 2025-10-02 | <details><summary>Proje...</summary><p>Project page: https://aaltoml.github.io/BayesVLM/</p></details> |
-| **[Robust Prompt Tuning for Vision-Language Models with Mild Semantic Noise](http://arxiv.org/abs/2508.04677v3)** | 2025-10-02 |  |
-| **[Physics-Constrained Robot Grasp Planning for Dynamic Tool Use](http://arxiv.org/abs/2505.01399v2)** | 2025-10-02 | <details><summary>In su...</summary><p>In submission and under review</p></details> |
-| **[More Thought, Less Accuracy? On the Dual Nature of Reasoning in Vision-Language Models](http://arxiv.org/abs/2509.25848v2)** | 2025-10-02 |  |
-| **[Foundation Models for Software Engineering of Cyber-Physical Systems: the Road Ahead](http://arxiv.org/abs/2504.04630v2)** | 2025-10-02 | 2 figures, 37 pages |
-| **[Nav-EE: Navigation-Guided Early Exiting for Efficient Vision-Language Models in Autonomous Driving](http://arxiv.org/abs/2510.01795v1)** | 2025-10-02 |  |
-| **[Accelerating Attention with Basis Decomposition](http://arxiv.org/abs/2510.01718v1)** | 2025-10-02 |  |
-| **[Contrastive Representation Regularization for Vision-Language-Action Models](http://arxiv.org/abs/2510.01711v1)** | 2025-10-02 | 20 pages, 12 figures |
-| **[Audio-Enhanced Vision-Language Modeling with Latent Space Broadening for High Quality Data Expansion](http://arxiv.org/abs/2503.17551v2)** | 2025-10-02 |  |
-| **[VaPR -- Vision-language Preference alignment for Reasoning](http://arxiv.org/abs/2510.01700v1)** | 2025-10-02 |  |
+| **[Simulation to Rules: A Dual-VLM Framework for Formal Visual Planning](http://arxiv.org/abs/2510.03182v1)** | 2025-10-03 | <details><summary>30 pa...</summary><p>30 pages, 5 figures, 5 tables</p></details> |
+| **[SpineBench: A Clinically Salient, Level-Aware Benchmark Powered by the SpineMed-450k Corpus](http://arxiv.org/abs/2510.03160v1)** | 2025-10-03 |  |
+| **[Less is More: Lean yet Powerful Vision-Language Model for Autonomous Driving](http://arxiv.org/abs/2510.00060v2)** | 2025-10-03 |  |
+| **[Toward a Holistic Evaluation of Robustness in CLIP Models](http://arxiv.org/abs/2410.01534v2)** | 2025-10-03 | <details><summary>Accep...</summary><p>Accepted to IEEE TPAMI, extension of NeurIPS'23 work: A Closer Look at the Robustness of Contrastive Language-Image Pre-Training (CLIP)</p></details> |
+| **[Multimodal Carotid Risk Stratification with Large Vision-Language Models: Benchmarking, Fine-Tuning, and Clinical Insights](http://arxiv.org/abs/2510.02922v1)** | 2025-10-03 |  |
+| **[Zero-Shot Robustness of Vision Language Models Via Confidence-Aware Weighting](http://arxiv.org/abs/2510.02913v1)** | 2025-10-03 | <details><summary>Accep...</summary><p>Accepted to the NeurIPS 2025 Workshop on Reliable ML from Unreliable Data</p></details> |
+| **[Understanding Adversarial Transfer: Why Representation-Space Attacks Fail Where Data-Space Attacks Succeed](http://arxiv.org/abs/2510.01494v2)** | 2025-10-03 |  |
+| **[ViLBias: Detecting and Reasoning about Bias in Multimodal Content](http://arxiv.org/abs/2412.17052v5)** | 2025-10-03 | Under review |
+| **[Same Task, Different Circuits: Disentangling Modality-Specific Mechanisms in VLMs](http://arxiv.org/abs/2506.09047v3)** | 2025-10-03 |  |
+| **[Med-K2N: Flexible K-to-N Modality Translation for Medical Image Synthesis](http://arxiv.org/abs/2510.02815v1)** | 2025-10-03 | <details><summary>ICLR2...</summary><p>ICLR2026 under review</p></details> |
+| **[MaskCD: Mitigating LVLM Hallucinations by Image Head Masked Contrastive Decoding](http://arxiv.org/abs/2510.02790v1)** | 2025-10-03 | <details><summary>accep...</summary><p>accepted to emnlp2025 findings</p></details> |
+| **[OTR: Synthesizing Overlay Text Dataset for Text Removal](http://arxiv.org/abs/2510.02787v1)** | 2025-10-03 | <details><summary>This ...</summary><p>This is the author's version of the work. It is posted here for your personal use. Not for redistribution. The definitive Version of Record was published in Proceedings of the 33rd ACM International Conference on Multimedia (MM '25), October 27-31, 2025, Dublin, Ireland, https://doi.org/10.1145/3746027.3758297</p></details> |
+| **[Reasoning Riddles: How Explainability Reveals Cognitive Limits in Vision-Language Models](http://arxiv.org/abs/2510.02780v1)** | 2025-10-03 |  |
+| **[AdaRD-key: Adaptive Relevance-Diversity Keyframe Sampling for Long-form Video understanding](http://arxiv.org/abs/2510.02778v1)** | 2025-10-03 |  |
+| **[Bayesian Test-time Adaptation for Object Recognition and Detection with Vision-language Models](http://arxiv.org/abs/2510.02750v1)** | 2025-10-03 | Under Review |
 
