@@ -1,5 +1,5 @@
 ---
-title: Papers - October 07, 2025
+title: Papers - October 08, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -76,19 +76,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Simulation to Rules: A Dual-VLM Framework for Formal Visual Planning](http://arxiv.org/abs/2510.03182v1)** | 2025-10-03 | <details><summary>30 pa...</summary><p>30 pages, 5 figures, 5 tables</p></details> |
-| **[SpineBench: A Clinically Salient, Level-Aware Benchmark Powered by the SpineMed-450k Corpus](http://arxiv.org/abs/2510.03160v1)** | 2025-10-03 |  |
-| **[Less is More: Lean yet Powerful Vision-Language Model for Autonomous Driving](http://arxiv.org/abs/2510.00060v2)** | 2025-10-03 |  |
-| **[Toward a Holistic Evaluation of Robustness in CLIP Models](http://arxiv.org/abs/2410.01534v2)** | 2025-10-03 | <details><summary>Accep...</summary><p>Accepted to IEEE TPAMI, extension of NeurIPS'23 work: A Closer Look at the Robustness of Contrastive Language-Image Pre-Training (CLIP)</p></details> |
-| **[Multimodal Carotid Risk Stratification with Large Vision-Language Models: Benchmarking, Fine-Tuning, and Clinical Insights](http://arxiv.org/abs/2510.02922v1)** | 2025-10-03 |  |
-| **[Zero-Shot Robustness of Vision Language Models Via Confidence-Aware Weighting](http://arxiv.org/abs/2510.02913v1)** | 2025-10-03 | <details><summary>Accep...</summary><p>Accepted to the NeurIPS 2025 Workshop on Reliable ML from Unreliable Data</p></details> |
-| **[Understanding Adversarial Transfer: Why Representation-Space Attacks Fail Where Data-Space Attacks Succeed](http://arxiv.org/abs/2510.01494v2)** | 2025-10-03 |  |
-| **[ViLBias: Detecting and Reasoning about Bias in Multimodal Content](http://arxiv.org/abs/2412.17052v5)** | 2025-10-03 | Under review |
-| **[Same Task, Different Circuits: Disentangling Modality-Specific Mechanisms in VLMs](http://arxiv.org/abs/2506.09047v3)** | 2025-10-03 |  |
-| **[Med-K2N: Flexible K-to-N Modality Translation for Medical Image Synthesis](http://arxiv.org/abs/2510.02815v1)** | 2025-10-03 | <details><summary>ICLR2...</summary><p>ICLR2026 under review</p></details> |
-| **[MaskCD: Mitigating LVLM Hallucinations by Image Head Masked Contrastive Decoding](http://arxiv.org/abs/2510.02790v1)** | 2025-10-03 | <details><summary>accep...</summary><p>accepted to emnlp2025 findings</p></details> |
-| **[OTR: Synthesizing Overlay Text Dataset for Text Removal](http://arxiv.org/abs/2510.02787v1)** | 2025-10-03 | <details><summary>This ...</summary><p>This is the author's version of the work. It is posted here for your personal use. Not for redistribution. The definitive Version of Record was published in Proceedings of the 33rd ACM International Conference on Multimedia (MM '25), October 27-31, 2025, Dublin, Ireland, https://doi.org/10.1145/3746027.3758297</p></details> |
-| **[Reasoning Riddles: How Explainability Reveals Cognitive Limits in Vision-Language Models](http://arxiv.org/abs/2510.02780v1)** | 2025-10-03 |  |
-| **[AdaRD-key: Adaptive Relevance-Diversity Keyframe Sampling for Long-form Video understanding](http://arxiv.org/abs/2510.02778v1)** | 2025-10-03 |  |
-| **[Bayesian Test-time Adaptation for Object Recognition and Detection with Vision-language Models](http://arxiv.org/abs/2510.02750v1)** | 2025-10-03 | Under Review |
+| **[Guided Query Refinement: Multimodal Hybrid Retrieval with Test-Time Optimization](http://arxiv.org/abs/2510.05038v1)** | 2025-10-06 |  |
+| **[Efficient Navigation in Unknown Indoor Environments with Vision-Language Models](http://arxiv.org/abs/2510.04991v1)** | 2025-10-06 | 8 pages, 4 figures |
+| **[Pragmatic Embodied Spoken Instruction Following in Human-Robot Collaboration with Theory of Mind](http://arxiv.org/abs/2409.10849v2)** | 2025-10-06 | 8 pages, 7 figures |
+| **[A Tale of Two Experts: Cooperative Learning for Source-Free Unsupervised Domain Adaptation](http://arxiv.org/abs/2509.22229v2)** | 2025-10-06 |  |
+| **[MMLongBench: Benchmarking Long-Context Vision-Language Models Effectively and Thoroughly](http://arxiv.org/abs/2505.10610v3)** | 2025-10-06 | <details><summary>Accep...</summary><p>Accepted as a spotlight at NeurIPS 2025</p></details> |
+| **[TACO: Enhancing Multimodal In-context Learning via Task Mapping-Guided Sequence Configuration](http://arxiv.org/abs/2505.17098v3)** | 2025-10-06 | <details><summary>EMNLP...</summary><p>EMNLP2025 Main, 28 pages, 11 figures, 19 tables</p></details> |
+| **[CBVLM: Training-free Explainable Concept-based Large Vision Language Models for Medical Image Classification](http://arxiv.org/abs/2501.12266v3)** | 2025-10-06 | <details><summary>Accep...</summary><p>Accepted for publication in Computers in Biology and Medicine</p></details> |
+| **[ViTs: Teaching Machines to See Time Series Anomalies Like Human Experts](http://arxiv.org/abs/2510.04710v1)** | 2025-10-06 | 13 pages |
+| **[SIA: Enhancing Safety via Intent Awareness for Vision-Language Models](http://arxiv.org/abs/2507.16856v2)** | 2025-10-06 | <details><summary>Accep...</summary><p>Accepted to Safe and Trustworthy Multimodal AI Systems(SafeMM-AI) Workshop at ICCV2025, Non-archival track</p></details> |
+| **[Praxis-VLM: Vision-Grounded Decision Making via Text-Driven Reinforcement Learning](http://arxiv.org/abs/2503.16965v3)** | 2025-10-06 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[Conditional Representation Learning for Customized Tasks](http://arxiv.org/abs/2510.04564v1)** | 2025-10-06 |  |
+| **[More Than Meets the Eye? Uncovering the Reasoning-Planning Disconnect in Training Vision-Language Driving Models](http://arxiv.org/abs/2510.04532v1)** | 2025-10-06 | <details><summary>The d...</summary><p>The dataset will be released publicly once the paper is accepted for publication</p></details> |
+| **[Towards Cross-modal Backward-compatible Representation Learning for Vision-Language Models](http://arxiv.org/abs/2405.14715v3)** | 2025-10-06 |  |
+| **[SIRI-Bench: Challenging VLMs' Spatial Intelligence through Complex Reasoning Tasks](http://arxiv.org/abs/2506.14512v2)** | 2025-10-06 | 14 pages |
+| **[VaseVQA-3D: Benchmarking 3D VLMs on Ancient Greek Pottery](http://arxiv.org/abs/2510.04479v1)** | 2025-10-06 |  |
 
