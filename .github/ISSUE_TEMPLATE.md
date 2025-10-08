@@ -1,5 +1,5 @@
 ---
-title: Papers - October 08, 2025
+title: Papers - October 09, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -76,19 +76,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reasoning under Vision: Understanding Visual-Spatial Cognition in Vision-Language Models for CAPTCHA](http://arxiv.org/abs/2510.06067v1)** | 2025-10-07 | 14pages, 11figures |
+| **[Medical Vision Language Models as Policies for Robotic Surgery](http://arxiv.org/abs/2510.06064v1)** | 2025-10-07 | IEEE CAI 2025 |
+| **[Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search](http://arxiv.org/abs/2501.19252v3)** | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted to NeurIPS2025. Website: https://sites.google.com/view/t2v-dlbs and Code: https://github.com/shim0114/T2V-Diffusion-Search</p></details> |
+| **[AgriGPT-VL: Agricultural Vision-Language Understanding Suite](http://arxiv.org/abs/2510.04002v2)** | 2025-10-07 |  |
+| **[Data Factory with Minimal Human Effort Using VLMs](http://arxiv.org/abs/2510.05722v1)** | 2025-10-07 | Tech report |
+| **[Adapting Large Language Models to Mitigate Skin Tone Biases in Clinical Dermatology Tasks: A Mixed-Methods Study](http://arxiv.org/abs/2510.00055v2)** | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted to EADV (European Academy of Dermatology) and SID (Society for Investigative Dermatology)</p></details> |
+| **[Applications of Large Models in Medicine](http://arxiv.org/abs/2502.17132v2)** | 2025-10-07 |  |
+| **[Activation-Informed Pareto-Guided Low-Rank Compression for Efficient LLM/VLM](http://arxiv.org/abs/2510.05544v1)** | 2025-10-07 |  |
+| **[Self-Evolving Vision-Language Models for Image Quality Assessment via Voting and Ranking](http://arxiv.org/abs/2509.25787v3)** | 2025-10-07 | Technical Report |
+| **[Training Vision-Language Process Reward Models for Test-Time Scaling in Multimodal Reasoning: Key Insights and Lessons Learned](http://arxiv.org/abs/2509.23250v3)** | 2025-10-07 |  |
+| **[IMPACT: Intelligent Motion Planning with Acceptable Contact Trajectories via Vision-Language Models](http://arxiv.org/abs/2503.10110v2)** | 2025-10-06 |  |
 | **[Guided Query Refinement: Multimodal Hybrid Retrieval with Test-Time Optimization](http://arxiv.org/abs/2510.05038v1)** | 2025-10-06 |  |
 | **[Efficient Navigation in Unknown Indoor Environments with Vision-Language Models](http://arxiv.org/abs/2510.04991v1)** | 2025-10-06 | 8 pages, 4 figures |
 | **[Pragmatic Embodied Spoken Instruction Following in Human-Robot Collaboration with Theory of Mind](http://arxiv.org/abs/2409.10849v2)** | 2025-10-06 | 8 pages, 7 figures |
 | **[A Tale of Two Experts: Cooperative Learning for Source-Free Unsupervised Domain Adaptation](http://arxiv.org/abs/2509.22229v2)** | 2025-10-06 |  |
-| **[MMLongBench: Benchmarking Long-Context Vision-Language Models Effectively and Thoroughly](http://arxiv.org/abs/2505.10610v3)** | 2025-10-06 | <details><summary>Accep...</summary><p>Accepted as a spotlight at NeurIPS 2025</p></details> |
-| **[TACO: Enhancing Multimodal In-context Learning via Task Mapping-Guided Sequence Configuration](http://arxiv.org/abs/2505.17098v3)** | 2025-10-06 | <details><summary>EMNLP...</summary><p>EMNLP2025 Main, 28 pages, 11 figures, 19 tables</p></details> |
-| **[CBVLM: Training-free Explainable Concept-based Large Vision Language Models for Medical Image Classification](http://arxiv.org/abs/2501.12266v3)** | 2025-10-06 | <details><summary>Accep...</summary><p>Accepted for publication in Computers in Biology and Medicine</p></details> |
-| **[ViTs: Teaching Machines to See Time Series Anomalies Like Human Experts](http://arxiv.org/abs/2510.04710v1)** | 2025-10-06 | 13 pages |
-| **[SIA: Enhancing Safety via Intent Awareness for Vision-Language Models](http://arxiv.org/abs/2507.16856v2)** | 2025-10-06 | <details><summary>Accep...</summary><p>Accepted to Safe and Trustworthy Multimodal AI Systems(SafeMM-AI) Workshop at ICCV2025, Non-archival track</p></details> |
-| **[Praxis-VLM: Vision-Grounded Decision Making via Text-Driven Reinforcement Learning](http://arxiv.org/abs/2503.16965v3)** | 2025-10-06 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[Conditional Representation Learning for Customized Tasks](http://arxiv.org/abs/2510.04564v1)** | 2025-10-06 |  |
-| **[More Than Meets the Eye? Uncovering the Reasoning-Planning Disconnect in Training Vision-Language Driving Models](http://arxiv.org/abs/2510.04532v1)** | 2025-10-06 | <details><summary>The d...</summary><p>The dataset will be released publicly once the paper is accepted for publication</p></details> |
-| **[Towards Cross-modal Backward-compatible Representation Learning for Vision-Language Models](http://arxiv.org/abs/2405.14715v3)** | 2025-10-06 |  |
-| **[SIRI-Bench: Challenging VLMs' Spatial Intelligence through Complex Reasoning Tasks](http://arxiv.org/abs/2506.14512v2)** | 2025-10-06 | 14 pages |
-| **[VaseVQA-3D: Benchmarking 3D VLMs on Ancient Greek Pottery](http://arxiv.org/abs/2510.04479v1)** | 2025-10-06 |  |
 
