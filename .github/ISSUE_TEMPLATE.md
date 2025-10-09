@@ -1,5 +1,5 @@
 ---
-title: Papers - October 09, 2025
+title: Papers - October 10, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -62,6 +62,7 @@ labels: documentation
 ## Remote Sensing Vision Language Model - Preview 10 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Few-Shot Adaptation Benchmark for Remote Sensing Vision-Language Models](http://arxiv.org/abs/2510.07135v1)** | 2025-10-08 |  |
 | **[DescribeEarth: Describe Anything for Remote Sensing Images](http://arxiv.org/abs/2509.25654v1)** | 2025-09-30 |  |
 | **[RSVLM-QA: A Benchmark Dataset for Remote Sensing Vision Language Model-based Question Answering](http://arxiv.org/abs/2508.07918v1)** | 2025-08-11 | <details><summary>This ...</summary><p>This paper has been accepted to the proceedings of the 33rd ACM International Multimedia Conference (ACM Multimedia 2025)</p></details> |
 | **[DeltaVLM: Interactive Remote Sensing Image Change Analysis via Instruction-guided Difference Perception](http://arxiv.org/abs/2507.22346v1)** | 2025-07-30 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Submitted to IEEE Transactions on Geoscience and Remote Sensing (TGRS). Code and dataset are available at https://github.com/hanlinwu/DeltaVLM</p></details> |
@@ -71,24 +72,23 @@ labels: documentation
 | **[Enhancing Remote Sensing Vision-Language Models for Zero-Shot Scene Classification](http://arxiv.org/abs/2409.00698v2)** | 2025-01-07 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2025</p></details> |
 | **[RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts](http://arxiv.org/abs/2412.05679v2)** | 2024-12-10 |  |
 | **[Aquila: A Hierarchically Aligned Visual-Language Model for Enhanced Remote Sensing Image Comprehension](http://arxiv.org/abs/2411.06074v1)** | 2024-11-09 |  |
-| **[RSGPT: A Remote Sensing Vision Language Model and Benchmark](http://arxiv.org/abs/2307.15266v1)** | 2023-07-28 |  |
 
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reasoning under Vision: Understanding Visual-Spatial Cognition in Vision-Language Models for CAPTCHA](http://arxiv.org/abs/2510.06067v1)** | 2025-10-07 | 14pages, 11figures |
-| **[Medical Vision Language Models as Policies for Robotic Surgery](http://arxiv.org/abs/2510.06064v1)** | 2025-10-07 | IEEE CAI 2025 |
-| **[Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search](http://arxiv.org/abs/2501.19252v3)** | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted to NeurIPS2025. Website: https://sites.google.com/view/t2v-dlbs and Code: https://github.com/shim0114/T2V-Diffusion-Search</p></details> |
-| **[AgriGPT-VL: Agricultural Vision-Language Understanding Suite](http://arxiv.org/abs/2510.04002v2)** | 2025-10-07 |  |
-| **[Data Factory with Minimal Human Effort Using VLMs](http://arxiv.org/abs/2510.05722v1)** | 2025-10-07 | Tech report |
-| **[Adapting Large Language Models to Mitigate Skin Tone Biases in Clinical Dermatology Tasks: A Mixed-Methods Study](http://arxiv.org/abs/2510.00055v2)** | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted to EADV (European Academy of Dermatology) and SID (Society for Investigative Dermatology)</p></details> |
-| **[Applications of Large Models in Medicine](http://arxiv.org/abs/2502.17132v2)** | 2025-10-07 |  |
-| **[Activation-Informed Pareto-Guided Low-Rank Compression for Efficient LLM/VLM](http://arxiv.org/abs/2510.05544v1)** | 2025-10-07 |  |
-| **[Self-Evolving Vision-Language Models for Image Quality Assessment via Voting and Ranking](http://arxiv.org/abs/2509.25787v3)** | 2025-10-07 | Technical Report |
-| **[Training Vision-Language Process Reward Models for Test-Time Scaling in Multimodal Reasoning: Key Insights and Lessons Learned](http://arxiv.org/abs/2509.23250v3)** | 2025-10-07 |  |
-| **[IMPACT: Intelligent Motion Planning with Acceptable Contact Trajectories via Vision-Language Models](http://arxiv.org/abs/2503.10110v2)** | 2025-10-06 |  |
-| **[Guided Query Refinement: Multimodal Hybrid Retrieval with Test-Time Optimization](http://arxiv.org/abs/2510.05038v1)** | 2025-10-06 |  |
-| **[Efficient Navigation in Unknown Indoor Environments with Vision-Language Models](http://arxiv.org/abs/2510.04991v1)** | 2025-10-06 | 8 pages, 4 figures |
-| **[Pragmatic Embodied Spoken Instruction Following in Human-Robot Collaboration with Theory of Mind](http://arxiv.org/abs/2409.10849v2)** | 2025-10-06 | 8 pages, 7 figures |
-| **[A Tale of Two Experts: Cooperative Learning for Source-Free Unsupervised Domain Adaptation](http://arxiv.org/abs/2509.22229v2)** | 2025-10-06 |  |
+| **[V2Xum-LLM: Cross-Modal Video Summarization with Temporal Prompt Instruction Tuning](http://arxiv.org/abs/2404.12353v3)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted to AAAI 2025</p></details> |
+| **[Prefilled responses enhance zero-shot detection of AI-generated images](http://arxiv.org/abs/2506.11031v3)** | 2025-10-08 |  |
+| **[TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics](http://arxiv.org/abs/2510.07181v1)** | 2025-10-08 | 9 pages, 6 figures |
+| **[Few-Shot Adaptation Benchmark for Remote Sensing Vision-Language Models](http://arxiv.org/abs/2510.07135v1)** | 2025-10-08 |  |
+| **[TALENT: Table VQA via Augmented Language-Enhanced Natural-text Transcription](http://arxiv.org/abs/2510.07098v1)** | 2025-10-08 |  |
+| **[Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications](http://arxiv.org/abs/2510.07077v1)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted to IEEE Access, website: https://vla-survey.github.io</p></details> |
+| **[Diffusion Trajectory-guided Policy for Long-horizon Robot Manipulation](http://arxiv.org/abs/2502.10040v2)** | 2025-10-08 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, accepted to IEEE Robotics and Automation Letters (RAL)</p></details> |
+| **[Unified Molecule Pre-training with Flexible 2D and 3D Modalities: Single and Paired Modality Integration](http://arxiv.org/abs/2510.07035v1)** | 2025-10-08 | CIKM 2025 |
+| **[Roboflow100-VL: A Multi-Domain Object Detection Benchmark for Vision-Language Models](http://arxiv.org/abs/2505.20612v3)** | 2025-10-08 | <details><summary>The f...</summary><p>The first two authors contributed equally. This work has been accepted to the Neural Information Processing Systems (NeurIPS) 2025 Datasets & Benchmark Track. Project Page: https://rf100-vl.org/</p></details> |
+| **[Unified Unsupervised Anomaly Detection via Matching Cost Filtering](http://arxiv.org/abs/2510.03363v2)** | 2025-10-08 | <details><summary>63 pa...</summary><p>63 pages (main paper and supplementary material), 39 figures, 58 tables</p></details> |
+| **[Intelligent Healthcare Imaging Platform: A VLM-Based Framework for Automated Medical Image Analysis and Clinical Report Generation](http://arxiv.org/abs/2509.13590v2)** | 2025-10-08 | <details><summary>32 pa...</summary><p>32 pages, 14 figures, 6 tables</p></details> |
+| **[Get RICH or Die Scaling: Profitably Trading Inference Compute for Robustness](http://arxiv.org/abs/2510.06790v1)** | 2025-10-08 | 17 pages |
+| **[TTRV: Test-Time Reinforcement Learning for Vision Language Models](http://arxiv.org/abs/2510.06783v1)** | 2025-10-08 |  |
+| **[Adaptive Rank, Reduced Forgetting: Knowledge Retention in Continual Learning Vision-Language Models with Dynamic Rank-Selective LoRA](http://arxiv.org/abs/2412.01004v6)** | 2025-10-08 | Preprint |
+| **[ToolMem: Enhancing Multimodal Agents with Learnable Tool Capability Memory](http://arxiv.org/abs/2510.06664v1)** | 2025-10-08 |  |
 
