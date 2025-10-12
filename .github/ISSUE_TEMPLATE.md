@@ -1,5 +1,5 @@
 ---
-title: Papers - October 10, 2025
+title: Papers - October 13, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -59,7 +59,7 @@ labels: documentation
 | **[Embedding Generalized Semantic Knowledge into Few-Shot Remote Sensing Segmentation](http://arxiv.org/abs/2405.13686v1)** | 2024-05-22 |  |
 | **[SFFNet: A Wavelet-Based Spatial and Frequency Domain Fusion Network for Remote Sensing Segmentation](http://arxiv.org/abs/2405.01992v1)** | 2024-05-03 |  |
 
-## Remote Sensing Vision Language Model - Preview 10 papers
+## Remote Sensing Vision Language Model - Preview 11 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Few-Shot Adaptation Benchmark for Remote Sensing Vision-Language Models](http://arxiv.org/abs/2510.07135v1)** | 2025-10-08 |  |
@@ -72,23 +72,24 @@ labels: documentation
 | **[Enhancing Remote Sensing Vision-Language Models for Zero-Shot Scene Classification](http://arxiv.org/abs/2409.00698v2)** | 2025-01-07 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2025</p></details> |
 | **[RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts](http://arxiv.org/abs/2412.05679v2)** | 2024-12-10 |  |
 | **[Aquila: A Hierarchically Aligned Visual-Language Model for Enhanced Remote Sensing Image Comprehension](http://arxiv.org/abs/2411.06074v1)** | 2024-11-09 |  |
+| **[RSGPT: A Remote Sensing Vision Language Model and Benchmark](http://arxiv.org/abs/2307.15266v1)** | 2023-07-28 |  |
 
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[V2Xum-LLM: Cross-Modal Video Summarization with Temporal Prompt Instruction Tuning](http://arxiv.org/abs/2404.12353v3)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted to AAAI 2025</p></details> |
-| **[Prefilled responses enhance zero-shot detection of AI-generated images](http://arxiv.org/abs/2506.11031v3)** | 2025-10-08 |  |
-| **[TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics](http://arxiv.org/abs/2510.07181v1)** | 2025-10-08 | 9 pages, 6 figures |
-| **[Few-Shot Adaptation Benchmark for Remote Sensing Vision-Language Models](http://arxiv.org/abs/2510.07135v1)** | 2025-10-08 |  |
-| **[TALENT: Table VQA via Augmented Language-Enhanced Natural-text Transcription](http://arxiv.org/abs/2510.07098v1)** | 2025-10-08 |  |
-| **[Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications](http://arxiv.org/abs/2510.07077v1)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted to IEEE Access, website: https://vla-survey.github.io</p></details> |
-| **[Diffusion Trajectory-guided Policy for Long-horizon Robot Manipulation](http://arxiv.org/abs/2502.10040v2)** | 2025-10-08 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, accepted to IEEE Robotics and Automation Letters (RAL)</p></details> |
-| **[Unified Molecule Pre-training with Flexible 2D and 3D Modalities: Single and Paired Modality Integration](http://arxiv.org/abs/2510.07035v1)** | 2025-10-08 | CIKM 2025 |
-| **[Roboflow100-VL: A Multi-Domain Object Detection Benchmark for Vision-Language Models](http://arxiv.org/abs/2505.20612v3)** | 2025-10-08 | <details><summary>The f...</summary><p>The first two authors contributed equally. This work has been accepted to the Neural Information Processing Systems (NeurIPS) 2025 Datasets & Benchmark Track. Project Page: https://rf100-vl.org/</p></details> |
-| **[Unified Unsupervised Anomaly Detection via Matching Cost Filtering](http://arxiv.org/abs/2510.03363v2)** | 2025-10-08 | <details><summary>63 pa...</summary><p>63 pages (main paper and supplementary material), 39 figures, 58 tables</p></details> |
-| **[Intelligent Healthcare Imaging Platform: A VLM-Based Framework for Automated Medical Image Analysis and Clinical Report Generation](http://arxiv.org/abs/2509.13590v2)** | 2025-10-08 | <details><summary>32 pa...</summary><p>32 pages, 14 figures, 6 tables</p></details> |
-| **[Get RICH or Die Scaling: Profitably Trading Inference Compute for Robustness](http://arxiv.org/abs/2510.06790v1)** | 2025-10-08 | 17 pages |
-| **[TTRV: Test-Time Reinforcement Learning for Vision Language Models](http://arxiv.org/abs/2510.06783v1)** | 2025-10-08 |  |
-| **[Adaptive Rank, Reduced Forgetting: Knowledge Retention in Continual Learning Vision-Language Models with Dynamic Rank-Selective LoRA](http://arxiv.org/abs/2412.01004v6)** | 2025-10-08 | Preprint |
-| **[ToolMem: Enhancing Multimodal Agents with Learnable Tool Capability Memory](http://arxiv.org/abs/2510.06664v1)** | 2025-10-08 |  |
+| **[MATRIX: Multimodal Agent Tuning for Robust Tool-Use Reasoning](http://arxiv.org/abs/2510.08567v1)** | 2025-10-09 |  |
+| **[SpatialLadder: Progressive Training for Spatial Reasoning in Vision-Language Models](http://arxiv.org/abs/2510.08531v1)** | 2025-10-09 | <details><summary>Proje...</summary><p>Project Page: https://zju-real.github.io/SpatialLadder/ Code: https://github.com/ZJU-REAL/SpatialLadder</p></details> |
+| **[To Sink or Not to Sink: Visual Information Pathways in Large Vision-Language Models](http://arxiv.org/abs/2510.08510v1)** | 2025-10-09 | <details><summary>Prepr...</summary><p>Preprint. Project page: https://davidhalladay.github.io/diysink_demo</p></details> |
+| **[MoA-VR: A Mixture-of-Agents System Towards All-in-One Video Restoration](http://arxiv.org/abs/2510.08508v1)** | 2025-10-09 |  |
+| **[The Visual Iconicity Challenge: Evaluating Vision-Language Models on Sign Language Form-Meaning Mapping](http://arxiv.org/abs/2510.08482v1)** | 2025-10-09 |  |
+| **[Looking to Learn: Token-wise Dynamic Gating for Low-Resource Vision-Language Modelling](http://arxiv.org/abs/2510.08470v1)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accepted to the EMNLP 2025 BabyLM Workshop</p></details> |
+| **[VideoVerse: How Far is Your T2V Generator from a World Model?](http://arxiv.org/abs/2510.08398v1)** | 2025-10-09 | <details><summary>24 Pa...</summary><p>24 Pages, 8 Figures, 11 Tables</p></details> |
+| **[Evaluating Small Vision-Language Models on Distance-Dependent Traffic Perception](http://arxiv.org/abs/2510.08352v1)** | 2025-10-09 |  |
+| **[Chain-of-Trigger: An Agentic Backdoor that Paradoxically Enhances Agentic Robustness](http://arxiv.org/abs/2510.08238v1)** | 2025-10-09 |  |
+| **[TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics](http://arxiv.org/abs/2510.07181v2)** | 2025-10-09 | 9 pages, 6 figures |
+| **[Approximate Domain Unlearning for Vision-Language Models](http://arxiv.org/abs/2510.08132v1)** | 2025-10-09 | <details><summary>NeurI...</summary><p>NeurIPS 2025 (Spotlight)</p></details> |
+| **[Language learning shapes visual category-selectivity in deep neural networks](http://arxiv.org/abs/2502.16456v2)** | 2025-10-09 |  |
+| **[Q-CLIP: Unleashing the Power of Vision-Language Models for Video Quality Assessment through Unified Cross-Modal Adaptation](http://arxiv.org/abs/2508.06092v2)** | 2025-10-09 |  |
+| **[LLaVA-OneVision-1.5: Fully Open Framework for Democratized Multimodal Training](http://arxiv.org/abs/2509.23661v2)** | 2025-10-09 | <details><summary>LLaVA...</summary><p>LLaVA-OneVision-1.5 Technical Report</p></details> |
+| **[EFSA: Episodic Few-Shot Adaptation for Text-to-Image Retrieval](http://arxiv.org/abs/2412.00139v3)** | 2025-10-09 |  |
 
