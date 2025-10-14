@@ -1,5 +1,5 @@
 ---
-title: Papers - October 14, 2025
+title: Papers - October 15, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,6 +24,7 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enhancing Zero-Shot Anomaly Detection: CLIP-SAM Collaboration with Cascaded Prompts](http://arxiv.org/abs/2510.11028v1)** | 2025-10-13 | Accepted by PRCV |
 | **[Adapting SAM with Dynamic Similarity Graphs for Few-Shot Parameter-Efficient Small Dense Object Detection: A Case Study of Chickpea Pods in Field Conditions](http://arxiv.org/abs/2509.25805v1)** | 2025-09-30 | <details><summary>23 pa...</summary><p>23 pages, 11 figures, 4 tables</p></details> |
 | **[BALR-SAM: Boundary-Aware Low-Rank Adaptation of SAM for Resource-Efficient Medical Image Segmentation](http://arxiv.org/abs/2509.24204v1)** | 2025-09-29 |  |
 | **[FloorSAM: SAM-Guided Floorplan Reconstruction with Semantic-Geometric Fusion](http://arxiv.org/abs/2509.15750v1)** | 2025-09-19 | <details><summary>12 pa...</summary><p>12 pages, 15 figures,</p></details> |
@@ -38,7 +39,6 @@ labels: documentation
 | **[Olive Tree Satellite Image Segmentation Based On SAM and Multi-Phase Refinement](http://arxiv.org/abs/2508.20954v1)** | 2025-08-28 |  |
 | **[TAGS: 3D Tumor-Adaptive Guidance for SAM](http://arxiv.org/abs/2505.17096v2)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted by ICCV-APAH</p></details> |
 | **[Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes](http://arxiv.org/abs/2412.01240v3)** | 2025-08-26 | <details><summary>Under...</summary><p>Under submission to International Journal of Computer Vision (IJCV)</p></details> |
-| **[E-BayesSAM: Efficient Bayesian Adaptation of SAM with Self-Optimizing KAN-Based Interpretation for Uncertainty-Aware Ultrasonic Segmentation](http://arxiv.org/abs/2508.17408v1)** | 2025-08-24 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2025</p></details> |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -77,19 +77,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[StreamingVLM: Real-Time Understanding for Infinite Video Streams](http://arxiv.org/abs/2510.09608v1)** | 2025-10-10 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work</p></details> |
-| **[VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation](http://arxiv.org/abs/2510.09607v1)** | 2025-10-10 | <details><summary>Homep...</summary><p>Homepage: https://ltbai.github.io/VITA-VLA/</p></details> |
-| **[Vision Language Models: A Survey of 26K Papers](http://arxiv.org/abs/2510.09586v1)** | 2025-10-10 | <details><summary>VLM/L...</summary><p>VLM/LLM Learning Notes</p></details> |
-| **[ProbRes: Probabilistic Jump Diffusion for Open-World Egocentric Activity Recognition](http://arxiv.org/abs/2504.03948v2)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. 17 pages, 6 figures, 3 tables</p></details> |
-| **[CausalVLBench: Benchmarking Visual Causal Reasoning in Large Vision-Language Models](http://arxiv.org/abs/2506.11034v2)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted to the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Main)</p></details> |
-| **[D-TPT: Dimensional Entropy Maximization for Calibrating Test-Time Prompt Tuning in Vision-Language Models](http://arxiv.org/abs/2510.09473v1)** | 2025-10-10 |  |
-| **[Boosting Multi-modal Keyphrase Prediction with Dynamic Chain-of-Thought in Vision-Language Models](http://arxiv.org/abs/2510.09358v1)** | 2025-10-10 | <details><summary>EMNLP...</summary><p>EMNLP2025. Code is avaible at https://github.com/bytedance/DynamicCoT</p></details> |
-| **[Benchmarking and Mitigate Sycophancy in Medical Vision-Language Models](http://arxiv.org/abs/2509.21979v2)** | 2025-10-10 | 19figures, 37pages |
-| **[Deploying Tiny LVLM Judges for Real-World Evaluation of Chart Models: Lessons Learned and Best Practices](http://arxiv.org/abs/2510.07545v2)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted to the EMNLP 2025 Industry Track</p></details> |
-| **[Spotlight on Token Perception for Multimodal Reinforcement Learning](http://arxiv.org/abs/2510.09285v1)** | 2025-10-10 | <details><summary>31 pa...</summary><p>31 pages, 10 figures, project page: https://github.com/huaixuheqing/VPPO-RL</p></details> |
-| **[Robustness in Both Domains: CLIP Needs a Robust Text Encoder](http://arxiv.org/abs/2506.03355v2)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025</p></details> |
-| **[Hallucination Filtering in Radiology Vision-Language Models Using Discrete Semantic Entropy](http://arxiv.org/abs/2510.09256v1)** | 2025-10-10 | <details><summary>Code ...</summary><p>Code is available: https://github.com/TruhnLab/VisionSemanticEntropy</p></details> |
-| **[Zero-shot image privacy classification with Vision-Language Models](http://arxiv.org/abs/2510.09253v1)** | 2025-10-10 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, 3 tables. This work has been submitted to the ICASSP 2026</p></details> |
-| **[GTR-Bench: Evaluating Geo-Temporal Reasoning in Vision-Language Models](http://arxiv.org/abs/2510.07791v2)** | 2025-10-10 | 20 pages, 13 figures |
-| **[Clear Roads, Clear Vision: Advancements in Multi-Weather Restoration for Smart Transportation](http://arxiv.org/abs/2510.09228v1)** | 2025-10-10 | <details><summary>This ...</summary><p>This work has been submitted to IEEE for possible publication</p></details> |
+| **[CodePlot-CoT: Mathematical Visual Reasoning by Thinking with Code-Driven Images](http://arxiv.org/abs/2510.11718v1)** | 2025-10-13 |  |
+| **[Phys2Real: Fusing VLM Priors with Interactive Online Adaptation for Uncertainty-Aware Sim-to-Real Manipulation](http://arxiv.org/abs/2510.11689v1)** | 2025-10-13 |  |
+| **[EvoCAD: Evolutionary CAD Code Generation with Vision Language Models](http://arxiv.org/abs/2510.11631v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted to IEEE ICTAI 2025</p></details> |
+| **[InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition](http://arxiv.org/abs/2505.15818v2)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
+| **[Q-Router: Agentic Video Quality Assessment with Expert Model Routing and Artifact Localization](http://arxiv.org/abs/2510.08789v2)** | 2025-10-13 |  |
+| **[mmWalk: Towards Multi-modal Multi-view Walking Assistance](http://arxiv.org/abs/2510.11520v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 Datasets and Benchmarks Track. Data and Code: https://github.com/KediYing/mmWalk</p></details> |
+| **[Coupled Degradation Modeling and Fusion: A VLM-Guided Degradation-Coupled Network for Degradation-Aware Infrared and Visible Image Fusion](http://arxiv.org/abs/2510.11456v1)** | 2025-10-13 |  |
+| **[The Illusion of Progress? A Critical Look at Test-Time Adaptation for Vision-Language Models](http://arxiv.org/abs/2506.24000v2)** | 2025-10-13 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Datasets and Benchmarks Track. Github link: https://github.com/TomSheng21/tta-vlm</p></details> |
+| **[Template-Based Text-to-Image Alignment for Language Accessibility: A Study on Visualizing Text Simplifications](http://arxiv.org/abs/2510.11314v1)** | 2025-10-13 |  |
+| **[When Does Supervised Training Pay Off? The Hidden Economics of Object Detection in the Era of Vision-Language Models](http://arxiv.org/abs/2510.11302v1)** | 2025-10-13 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, 4 tables</p></details> |
+| **[$Δ\mathrm{Energy}$: Optimizing Energy Change During Vision-Language Alignment Improves both OOD Detection and OOD Generalization](http://arxiv.org/abs/2510.11296v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted by NeruIPS2025</p></details> |
+| **[Human Uncertainty-Aware Data Selection and Automatic Labeling in Visual Question Answering](http://arxiv.org/abs/2510.11295v1)** | 2025-10-13 |  |
+| **[MRFD: Multi-Region Fusion Decoding with Self-Consistency for Mitigating Hallucinations in LVLMs](http://arxiv.org/abs/2508.10264v2)** | 2025-10-13 | EMNLP 2025 |
+| **[Evaluating Reasoning Faithfulness in Medical Vision-Language Models using Multimodal Perturbations](http://arxiv.org/abs/2510.11196v1)** | 2025-10-13 |  |
+| **[When Language Model Guides Vision: Grounding DINO for Cattle Muzzle Detection](http://arxiv.org/abs/2509.06427v2)** | 2025-10-13 |  |
 
