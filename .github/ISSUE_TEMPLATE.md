@@ -1,5 +1,5 @@
 ---
-title: Papers - October 15, 2025
+title: Papers - October 16, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -77,19 +77,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CodePlot-CoT: Mathematical Visual Reasoning by Thinking with Code-Driven Images](http://arxiv.org/abs/2510.11718v1)** | 2025-10-13 |  |
-| **[Phys2Real: Fusing VLM Priors with Interactive Online Adaptation for Uncertainty-Aware Sim-to-Real Manipulation](http://arxiv.org/abs/2510.11689v1)** | 2025-10-13 |  |
-| **[EvoCAD: Evolutionary CAD Code Generation with Vision Language Models](http://arxiv.org/abs/2510.11631v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted to IEEE ICTAI 2025</p></details> |
-| **[InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition](http://arxiv.org/abs/2505.15818v2)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
-| **[Q-Router: Agentic Video Quality Assessment with Expert Model Routing and Artifact Localization](http://arxiv.org/abs/2510.08789v2)** | 2025-10-13 |  |
-| **[mmWalk: Towards Multi-modal Multi-view Walking Assistance](http://arxiv.org/abs/2510.11520v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 Datasets and Benchmarks Track. Data and Code: https://github.com/KediYing/mmWalk</p></details> |
-| **[Coupled Degradation Modeling and Fusion: A VLM-Guided Degradation-Coupled Network for Degradation-Aware Infrared and Visible Image Fusion](http://arxiv.org/abs/2510.11456v1)** | 2025-10-13 |  |
-| **[The Illusion of Progress? A Critical Look at Test-Time Adaptation for Vision-Language Models](http://arxiv.org/abs/2506.24000v2)** | 2025-10-13 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Datasets and Benchmarks Track. Github link: https://github.com/TomSheng21/tta-vlm</p></details> |
-| **[Template-Based Text-to-Image Alignment for Language Accessibility: A Study on Visualizing Text Simplifications](http://arxiv.org/abs/2510.11314v1)** | 2025-10-13 |  |
-| **[When Does Supervised Training Pay Off? The Hidden Economics of Object Detection in the Era of Vision-Language Models](http://arxiv.org/abs/2510.11302v1)** | 2025-10-13 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, 4 tables</p></details> |
-| **[$Δ\mathrm{Energy}$: Optimizing Energy Change During Vision-Language Alignment Improves both OOD Detection and OOD Generalization](http://arxiv.org/abs/2510.11296v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted by NeruIPS2025</p></details> |
-| **[Human Uncertainty-Aware Data Selection and Automatic Labeling in Visual Question Answering](http://arxiv.org/abs/2510.11295v1)** | 2025-10-13 |  |
-| **[MRFD: Multi-Region Fusion Decoding with Self-Consistency for Mitigating Hallucinations in LVLMs](http://arxiv.org/abs/2508.10264v2)** | 2025-10-13 | EMNLP 2025 |
-| **[Evaluating Reasoning Faithfulness in Medical Vision-Language Models using Multimodal Perturbations](http://arxiv.org/abs/2510.11196v1)** | 2025-10-13 |  |
-| **[When Language Model Guides Vision: Grounding DINO for Cattle Muzzle Detection](http://arxiv.org/abs/2509.06427v2)** | 2025-10-13 |  |
+| **[UniFusion: Vision-Language Model as Unified Encoder in Image Generation](http://arxiv.org/abs/2510.12789v1)** | 2025-10-14 | <details><summary>Proje...</summary><p>Project page at https://thekevinli.github.io/unifusion/</p></details> |
+| **[Modular Embedding Recomposition for Incremental Learning](http://arxiv.org/abs/2508.16463v2)** | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted to the 36th British Machine Vision Conference (BMVC 2025), Sheffield, UK</p></details> |
+| **[SAIL-Embedding Technical Report: Omni-modal Embedding Foundation Model](http://arxiv.org/abs/2510.12709v1)** | 2025-10-14 | Technical Report |
+| **[ERA: Transforming VLMs into Embodied Agents via Embodied Prior Learning and Online Reinforcement Learning](http://arxiv.org/abs/2510.12693v1)** | 2025-10-14 |  |
+| **[Image Quality Assessment for Embodied AI](http://arxiv.org/abs/2505.16815v2)** | 2025-10-14 |  |
+| **[FlagEval Findings Report: A Preliminary Evaluation of Large Reasoning Models on Automatically Verifiable Textual and Visual Questions](http://arxiv.org/abs/2509.17177v2)** | 2025-10-14 | <details><summary>Proje...</summary><p>Project homepage: https://flageval-baai.github.io/LRM-Eval/ This work will also be presented at NeurIPS 2025 Workshop on Foundations of Reasoning in Language Models (FoRLM)</p></details> |
+| **[VISaGE: Understanding Visual Generics and Exceptions](http://arxiv.org/abs/2510.12548v1)** | 2025-10-14 | EMNLP 2025 |
+| **[Understanding Language Prior of LVLMs by Contrasting Chain-of-Embedding](http://arxiv.org/abs/2509.23050v2)** | 2025-10-14 |  |
+| **[A Review of Longitudinal Radiology Report Generation: Dataset Composition, Methods, and Performance Evaluation](http://arxiv.org/abs/2510.12444v1)** | 2025-10-14 |  |
+| **[BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models](http://arxiv.org/abs/2506.07961v2)** | 2025-10-14 | NeurIPS 2025 |
+| **[Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and Future Directions](http://arxiv.org/abs/2404.07214v4)** | 2025-10-14 | <details><summary>One o...</summary><p>One of the first survey on Visual Language Models</p></details> |
+| **[Towards General Urban Monitoring with Vision-Language Models: A Review, Evaluation, and a Research Agenda](http://arxiv.org/abs/2510.12400v1)** | 2025-10-14 | 44 pages |
+| **[NinA: Normalizing Flows in Action. Training VLA Models with Normalizing Flows](http://arxiv.org/abs/2508.16845v2)** | 2025-10-14 | <details><summary>https...</summary><p>https://github.com/dunnolab/NinA/</p></details> |
+| **[CoRGI: Verified Chain-of-Thought Reasoning with Post-hoc Visual Grounding](http://arxiv.org/abs/2508.00378v3)** | 2025-10-14 | <details><summary>The p...</summary><p>The paper is not yet mature and needs further improvement</p></details> |
+| **[Vision Language Models Map Logos to Text via Semantic Entanglement in the Visual Projector](http://arxiv.org/abs/2510.12287v1)** | 2025-10-14 |  |
 
