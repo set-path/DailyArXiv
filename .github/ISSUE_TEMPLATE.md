@@ -1,5 +1,5 @@
 ---
-title: Papers - October 16, 2025
+title: Papers - October 17, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -77,19 +77,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UniFusion: Vision-Language Model as Unified Encoder in Image Generation](http://arxiv.org/abs/2510.12789v1)** | 2025-10-14 | <details><summary>Proje...</summary><p>Project page at https://thekevinli.github.io/unifusion/</p></details> |
-| **[Modular Embedding Recomposition for Incremental Learning](http://arxiv.org/abs/2508.16463v2)** | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted to the 36th British Machine Vision Conference (BMVC 2025), Sheffield, UK</p></details> |
-| **[SAIL-Embedding Technical Report: Omni-modal Embedding Foundation Model](http://arxiv.org/abs/2510.12709v1)** | 2025-10-14 | Technical Report |
-| **[ERA: Transforming VLMs into Embodied Agents via Embodied Prior Learning and Online Reinforcement Learning](http://arxiv.org/abs/2510.12693v1)** | 2025-10-14 |  |
-| **[Image Quality Assessment for Embodied AI](http://arxiv.org/abs/2505.16815v2)** | 2025-10-14 |  |
-| **[FlagEval Findings Report: A Preliminary Evaluation of Large Reasoning Models on Automatically Verifiable Textual and Visual Questions](http://arxiv.org/abs/2509.17177v2)** | 2025-10-14 | <details><summary>Proje...</summary><p>Project homepage: https://flageval-baai.github.io/LRM-Eval/ This work will also be presented at NeurIPS 2025 Workshop on Foundations of Reasoning in Language Models (FoRLM)</p></details> |
-| **[VISaGE: Understanding Visual Generics and Exceptions](http://arxiv.org/abs/2510.12548v1)** | 2025-10-14 | EMNLP 2025 |
-| **[Understanding Language Prior of LVLMs by Contrasting Chain-of-Embedding](http://arxiv.org/abs/2509.23050v2)** | 2025-10-14 |  |
-| **[A Review of Longitudinal Radiology Report Generation: Dataset Composition, Methods, and Performance Evaluation](http://arxiv.org/abs/2510.12444v1)** | 2025-10-14 |  |
-| **[BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models](http://arxiv.org/abs/2506.07961v2)** | 2025-10-14 | NeurIPS 2025 |
-| **[Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and Future Directions](http://arxiv.org/abs/2404.07214v4)** | 2025-10-14 | <details><summary>One o...</summary><p>One of the first survey on Visual Language Models</p></details> |
-| **[Towards General Urban Monitoring with Vision-Language Models: A Review, Evaluation, and a Research Agenda](http://arxiv.org/abs/2510.12400v1)** | 2025-10-14 | 44 pages |
-| **[NinA: Normalizing Flows in Action. Training VLA Models with Normalizing Flows](http://arxiv.org/abs/2508.16845v2)** | 2025-10-14 | <details><summary>https...</summary><p>https://github.com/dunnolab/NinA/</p></details> |
-| **[CoRGI: Verified Chain-of-Thought Reasoning with Post-hoc Visual Grounding](http://arxiv.org/abs/2508.00378v3)** | 2025-10-14 | <details><summary>The p...</summary><p>The paper is not yet mature and needs further improvement</p></details> |
-| **[Vision Language Models Map Logos to Text via Semantic Entanglement in the Visual Projector](http://arxiv.org/abs/2510.12287v1)** | 2025-10-14 |  |
+| **[VisCoP: Visual Probing for Video Domain Adaptation of Vision Language Models](http://arxiv.org/abs/2510.13808v1)** | 2025-10-15 |  |
+| **[Generative Universal Verifier as Multimodal Meta-Reasoner](http://arxiv.org/abs/2510.13804v1)** | 2025-10-15 |  |
+| **[MEGC2025: Micro-Expression Grand Challenge on Spot Then Recognize and Visual Question Answering](http://arxiv.org/abs/2506.15298v2)** | 2025-10-15 | <details><summary>Micro...</summary><p>Micro-Expression Grand Challenge (MEGC) at ACM MM 2025</p></details> |
+| **[Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision](http://arxiv.org/abs/2504.02477v3)** | 2025-10-15 | <details><summary>27 pa...</summary><p>27 pages, 11 figures. Accepted to Information Fusion. Final journal version: volume 126 (Part B), February 2026</p></details> |
+| **[ProReason: Multi-Modal Proactive Reasoning with Decoupled Eyesight and Wisdom](http://arxiv.org/abs/2410.14138v5)** | 2025-10-15 |  |
+| **[Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline](http://arxiv.org/abs/2509.25991v2)** | 2025-10-15 |  |
+| **[Spatial-DISE: A Unified Benchmark for Evaluating Spatial Reasoning in Vision-Language Models](http://arxiv.org/abs/2510.13394v1)** | 2025-10-15 |  |
+| **[DepthVLA: Enhancing Vision-Language-Action Models with Depth-Aware Spatial Reasoning](http://arxiv.org/abs/2510.13375v1)** | 2025-10-15 |  |
+| **[Language as a Label: Zero-Shot Multimodal Classification of Everyday Postures under Data Scarcity](http://arxiv.org/abs/2510.13364v1)** | 2025-10-15 |  |
+| **[Improving Visual Recommendation on E-commerce Platforms Using Vision-Language Models](http://arxiv.org/abs/2510.13359v1)** | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted to ACM RecSys 2025 (Spotlight)</p></details> |
+| **[Self-Augmented Visual Contrastive Decoding](http://arxiv.org/abs/2510.13315v1)** | 2025-10-15 |  |
+| **[MMLongCite: A Benchmark for Evaluating Fidelity of Long-Context Vision-Language Models](http://arxiv.org/abs/2510.13276v1)** | 2025-10-15 |  |
+| **[Map the Flow: Revealing Hidden Pathways of Information in VideoLLMs](http://arxiv.org/abs/2510.13251v1)** | 2025-10-15 | <details><summary>23 pa...</summary><p>23 pages, 28 figures, 8 tables</p></details> |
+| **[Visible Yet Unreadable: A Systematic Blind Spot of Vision Language Models Across Writing Systems](http://arxiv.org/abs/2509.06996v3)** | 2025-10-15 |  |
+| **[What "Not" to Detect: Negation-Aware VLMs via Structured Reasoning and Token Merging](http://arxiv.org/abs/2510.13232v1)** | 2025-10-15 | 38 pages |
 
