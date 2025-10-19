@@ -1,5 +1,5 @@
 ---
-title: Papers - October 17, 2025
+title: Papers - October 20, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -77,19 +77,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VisCoP: Visual Probing for Video Domain Adaptation of Vision Language Models](http://arxiv.org/abs/2510.13808v1)** | 2025-10-15 |  |
-| **[Generative Universal Verifier as Multimodal Meta-Reasoner](http://arxiv.org/abs/2510.13804v1)** | 2025-10-15 |  |
-| **[MEGC2025: Micro-Expression Grand Challenge on Spot Then Recognize and Visual Question Answering](http://arxiv.org/abs/2506.15298v2)** | 2025-10-15 | <details><summary>Micro...</summary><p>Micro-Expression Grand Challenge (MEGC) at ACM MM 2025</p></details> |
-| **[Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision](http://arxiv.org/abs/2504.02477v3)** | 2025-10-15 | <details><summary>27 pa...</summary><p>27 pages, 11 figures. Accepted to Information Fusion. Final journal version: volume 126 (Part B), February 2026</p></details> |
-| **[ProReason: Multi-Modal Proactive Reasoning with Decoupled Eyesight and Wisdom](http://arxiv.org/abs/2410.14138v5)** | 2025-10-15 |  |
-| **[Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline](http://arxiv.org/abs/2509.25991v2)** | 2025-10-15 |  |
-| **[Spatial-DISE: A Unified Benchmark for Evaluating Spatial Reasoning in Vision-Language Models](http://arxiv.org/abs/2510.13394v1)** | 2025-10-15 |  |
-| **[DepthVLA: Enhancing Vision-Language-Action Models with Depth-Aware Spatial Reasoning](http://arxiv.org/abs/2510.13375v1)** | 2025-10-15 |  |
-| **[Language as a Label: Zero-Shot Multimodal Classification of Everyday Postures under Data Scarcity](http://arxiv.org/abs/2510.13364v1)** | 2025-10-15 |  |
-| **[Improving Visual Recommendation on E-commerce Platforms Using Vision-Language Models](http://arxiv.org/abs/2510.13359v1)** | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted to ACM RecSys 2025 (Spotlight)</p></details> |
-| **[Self-Augmented Visual Contrastive Decoding](http://arxiv.org/abs/2510.13315v1)** | 2025-10-15 |  |
-| **[MMLongCite: A Benchmark for Evaluating Fidelity of Long-Context Vision-Language Models](http://arxiv.org/abs/2510.13276v1)** | 2025-10-15 |  |
-| **[Map the Flow: Revealing Hidden Pathways of Information in VideoLLMs](http://arxiv.org/abs/2510.13251v1)** | 2025-10-15 | <details><summary>23 pa...</summary><p>23 pages, 28 figures, 8 tables</p></details> |
-| **[Visible Yet Unreadable: A Systematic Blind Spot of Vision Language Models Across Writing Systems](http://arxiv.org/abs/2509.06996v3)** | 2025-10-15 |  |
-| **[What "Not" to Detect: Negation-Aware VLMs via Structured Reasoning and Token Merging](http://arxiv.org/abs/2510.13232v1)** | 2025-10-15 | 38 pages |
+| **[From Pixels to Words -- Towards Native Vision-Language Primitives at Scale](http://arxiv.org/abs/2510.14979v1)** | 2025-10-16 | 21 pages, 7 figures |
+| **[Learning an Image Editing Model without Image Editing Pairs](http://arxiv.org/abs/2510.14978v1)** | 2025-10-16 | <details><summary>proje...</summary><p>project page: https://nupurkmr9.github.io/npedit/</p></details> |
+| **[RDD: Retrieval-Based Demonstration Decomposer for Planner Alignment in Long-Horizon Tasks](http://arxiv.org/abs/2510.14968v1)** | 2025-10-16 | <details><summary>39th ...</summary><p>39th Conference on Neural Information Processing Systems (NeurIPS 2025); Project Website: rdd-neurips.github.io</p></details> |
+| **[RoboGPT-R1: Enhancing Robot Planning with Reinforcement Learning](http://arxiv.org/abs/2510.14828v1)** | 2025-10-16 |  |
+| **[CoT-PL: Visual Chain-of-Thought Reasoning Meets Pseudo-Labeling for Open-Vocabulary Object Detection](http://arxiv.org/abs/2510.14792v1)** | 2025-10-16 | <details><summary>28 pa...</summary><p>28 pages, 13 Figures, 12 Tables</p></details> |
+| **[SVAG-Bench: A Large-Scale Benchmark for Multi-Instance Spatio-temporal Video Action Grounding](http://arxiv.org/abs/2510.13016v2)** | 2025-10-16 |  |
+| **[Free-Grained Hierarchical Recognition](http://arxiv.org/abs/2510.14737v1)** | 2025-10-16 | 26 pages |
+| **[Efficient Video Sampling: Pruning Temporally Redundant Tokens for Faster VLM Inference](http://arxiv.org/abs/2510.14624v1)** | 2025-10-16 |  |
+| **[Talking Points: Describing and Localizing Pixels](http://arxiv.org/abs/2510.14583v1)** | 2025-10-16 |  |
+| **[Exploring Cross-Modal Flows for Few-Shot Learning](http://arxiv.org/abs/2510.14543v1)** | 2025-10-16 | 13 pages, 6 figures |
+| **[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](http://arxiv.org/abs/2510.14528v1)** | 2025-10-16 |  |
+| **[Noise Projection: Closing the Prompt-Agnostic Gap Behind Text-to-Image Misalignment in Diffusion Models](http://arxiv.org/abs/2510.14526v1)** | 2025-10-16 | <details><summary>Appen...</summary><p>Appendix will be appended soon</p></details> |
+| **[Internet of Agents: Fundamentals, Applications, and Challenges](http://arxiv.org/abs/2505.07176v2)** | 2025-10-16 | <details><summary>25 pa...</summary><p>25 pages,10 figures, 10 tables. Accepted by IEEE TCCN in Oct. 2025</p></details> |
+| **[ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation](http://arxiv.org/abs/2505.18668v5)** | 2025-10-16 | 58 pages |
+| **[InfoDet: A Dataset for Infographic Element Detection](http://arxiv.org/abs/2505.17473v5)** | 2025-10-16 | <details><summary>Submi...</summary><p>Submitted to ICLR 2026</p></details> |
 
