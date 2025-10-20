@@ -1,10 +1,11 @@
 ---
-title: Papers - October 20, 2025
+title: Papers - October 21, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Neuro-Symbolic Spatial Reasoning in Segmentation](http://arxiv.org/abs/2510.15841v1)** | 2025-10-17 |  |
 | **[Lost in Translation? Vocabulary Alignment for Source-Free Adaptation in Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2509.15225v3)** | 2025-09-29 | <details><summary>BMVC ...</summary><p>BMVC 2025 - Project Page: https://thegoodailab.org/blog/vocalign - Code: https://github.com/Sisso16/VocAlign</p></details> |
 | **[OpenUrban3D: Annotation-Free Open-Vocabulary Semantic Segmentation of Large-Scale Urban Point Clouds](http://arxiv.org/abs/2509.10842v1)** | 2025-09-13 |  |
 | **[Novel Category Discovery with X-Agent Attention for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2509.01275v2)** | 2025-09-03 | <details><summary>Accep...</summary><p>Accepted by ACMMM2025</p></details> |
@@ -19,11 +20,11 @@ labels: documentation
 | **[FA-Seg: A Fast and Accurate Diffusion-Based Method for Open-Vocabulary Segmentation](http://arxiv.org/abs/2506.23323v3)** | 2025-07-15 |  |
 | **[Personalized OVSS: Understanding Personal Concept in Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2507.11030v1)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025; 15 pages</p></details> |
 | **[Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models](http://arxiv.org/abs/2501.16769v5)** | 2025-07-02 | <details><summary>Accep...</summary><p>Accepted at the 17th IEEE International Conference on Advanced Computational Intelligence (ICACI 2025)</p></details> |
-| **[RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Radiology with Zero-Shot Multi-Task Capability](http://arxiv.org/abs/2504.07416v2)** | 2025-07-01 |  |
 
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CMaP-SAM: Contraction Mapping Prior for SAM-driven Few-shot Segmentation](http://arxiv.org/abs/2504.05049v2)** | 2025-10-17 | 7 figures |
 | **[Enhancing Zero-Shot Anomaly Detection: CLIP-SAM Collaboration with Cascaded Prompts](http://arxiv.org/abs/2510.11028v1)** | 2025-10-13 | Accepted by PRCV |
 | **[Adapting SAM with Dynamic Similarity Graphs for Few-Shot Parameter-Efficient Small Dense Object Detection: A Case Study of Chickpea Pods in Field Conditions](http://arxiv.org/abs/2509.25805v1)** | 2025-09-30 | <details><summary>23 pa...</summary><p>23 pages, 11 figures, 4 tables</p></details> |
 | **[BALR-SAM: Boundary-Aware Low-Rank Adaptation of SAM for Resource-Efficient Medical Image Segmentation](http://arxiv.org/abs/2509.24204v1)** | 2025-09-29 |  |
@@ -38,7 +39,6 @@ labels: documentation
 | **[Repurposing SAM for User-Defined Semantics Aware Segmentation](http://arxiv.org/abs/2312.02420v3)** | 2025-09-03 |  |
 | **[Olive Tree Satellite Image Segmentation Based On SAM and Multi-Phase Refinement](http://arxiv.org/abs/2508.20954v1)** | 2025-08-28 |  |
 | **[TAGS: 3D Tumor-Adaptive Guidance for SAM](http://arxiv.org/abs/2505.17096v2)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted by ICCV-APAH</p></details> |
-| **[Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes](http://arxiv.org/abs/2412.01240v3)** | 2025-08-26 | <details><summary>Under...</summary><p>Under submission to International Journal of Computer Vision (IJCV)</p></details> |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -77,19 +77,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Pixels to Words -- Towards Native Vision-Language Primitives at Scale](http://arxiv.org/abs/2510.14979v1)** | 2025-10-16 | 21 pages, 7 figures |
-| **[Learning an Image Editing Model without Image Editing Pairs](http://arxiv.org/abs/2510.14978v1)** | 2025-10-16 | <details><summary>proje...</summary><p>project page: https://nupurkmr9.github.io/npedit/</p></details> |
-| **[RDD: Retrieval-Based Demonstration Decomposer for Planner Alignment in Long-Horizon Tasks](http://arxiv.org/abs/2510.14968v1)** | 2025-10-16 | <details><summary>39th ...</summary><p>39th Conference on Neural Information Processing Systems (NeurIPS 2025); Project Website: rdd-neurips.github.io</p></details> |
-| **[RoboGPT-R1: Enhancing Robot Planning with Reinforcement Learning](http://arxiv.org/abs/2510.14828v1)** | 2025-10-16 |  |
-| **[CoT-PL: Visual Chain-of-Thought Reasoning Meets Pseudo-Labeling for Open-Vocabulary Object Detection](http://arxiv.org/abs/2510.14792v1)** | 2025-10-16 | <details><summary>28 pa...</summary><p>28 pages, 13 Figures, 12 Tables</p></details> |
-| **[SVAG-Bench: A Large-Scale Benchmark for Multi-Instance Spatio-temporal Video Action Grounding](http://arxiv.org/abs/2510.13016v2)** | 2025-10-16 |  |
-| **[Free-Grained Hierarchical Recognition](http://arxiv.org/abs/2510.14737v1)** | 2025-10-16 | 26 pages |
-| **[Efficient Video Sampling: Pruning Temporally Redundant Tokens for Faster VLM Inference](http://arxiv.org/abs/2510.14624v1)** | 2025-10-16 |  |
-| **[Talking Points: Describing and Localizing Pixels](http://arxiv.org/abs/2510.14583v1)** | 2025-10-16 |  |
-| **[Exploring Cross-Modal Flows for Few-Shot Learning](http://arxiv.org/abs/2510.14543v1)** | 2025-10-16 | 13 pages, 6 figures |
-| **[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](http://arxiv.org/abs/2510.14528v1)** | 2025-10-16 |  |
-| **[Noise Projection: Closing the Prompt-Agnostic Gap Behind Text-to-Image Misalignment in Diffusion Models](http://arxiv.org/abs/2510.14526v1)** | 2025-10-16 | <details><summary>Appen...</summary><p>Appendix will be appended soon</p></details> |
-| **[Internet of Agents: Fundamentals, Applications, and Challenges](http://arxiv.org/abs/2505.07176v2)** | 2025-10-16 | <details><summary>25 pa...</summary><p>25 pages,10 figures, 10 tables. Accepted by IEEE TCCN in Oct. 2025</p></details> |
-| **[ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation](http://arxiv.org/abs/2505.18668v5)** | 2025-10-16 | 58 pages |
-| **[InfoDet: A Dataset for Infographic Element Detection](http://arxiv.org/abs/2505.17473v5)** | 2025-10-16 | <details><summary>Submi...</summary><p>Submitted to ICLR 2026</p></details> |
+| **[BiomedXPro: Prompt Optimization for Explainable Diagnosis with Biomedical Vision Language Models](http://arxiv.org/abs/2510.15866v1)** | 2025-10-17 | <details><summary>10 Pa...</summary><p>10 Pages + 15 Supplementary Material Pages, 5 figures</p></details> |
+| **[Neuro-Symbolic Spatial Reasoning in Segmentation](http://arxiv.org/abs/2510.15841v1)** | 2025-10-17 |  |
+| **[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](http://arxiv.org/abs/2510.14528v2)** | 2025-10-17 | <details><summary>Githu...</summary><p>Github Repo: https://github.com/PaddlePaddle/PaddleOCR</p></details> |
+| **[CLASP: General-Purpose Clothes Manipulation with Semantic Keypoints](http://arxiv.org/abs/2507.19983v2)** | 2025-10-17 |  |
+| **[DocMMIR: A Framework for Document Multi-modal Information Retrieval](http://arxiv.org/abs/2505.19312v3)** | 2025-10-17 | <details><summary>Accep...</summary><p>Accepted for publication at EMNLP 2025 Findings. Code and data publicly available at https://github.com/J1mL1/DocMMIR</p></details> |
+| **[Perception Before Reasoning: Two-Stage Reinforcement Learning for Visual Reasoning in Vision-Language Models](http://arxiv.org/abs/2509.13031v2)** | 2025-10-17 |  |
+| **[FG-CLIP 2: A Bilingual Fine-grained Vision-Language Alignment Model](http://arxiv.org/abs/2510.10921v2)** | 2025-10-17 |  |
+| **[Learning to Detect Unknown Jailbreak Attacks in Large Vision-Language Models](http://arxiv.org/abs/2510.15430v1)** | 2025-10-17 |  |
+| **[HumorDB: Can AI understand graphical humor?](http://arxiv.org/abs/2406.13564v3)** | 2025-10-17 | <details><summary>10 ma...</summary><p>10 main figures, 4 additional appendix figures</p></details> |
+| **[Fine-Tuning MedGemma for Clinical Captioning to Enhance Multimodal RAG over Malaysia CPGs](http://arxiv.org/abs/2510.15418v1)** | 2025-10-17 |  |
+| **[PrefixKV: Adaptive Prefix KV Cache is What Vision Instruction-Following Models Need for Efficient Generation](http://arxiv.org/abs/2412.03409v4)** | 2025-10-17 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Camera-ready Version</p></details> |
+| **[Infinity Parser: Layout Aware Reinforcement Learning for Scanned Document Parsing](http://arxiv.org/abs/2510.15349v1)** | 2025-10-17 | <details><summary>22 pa...</summary><p>22 pages, 14 figures,</p></details> |
+| **[VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation](http://arxiv.org/abs/2510.09607v2)** | 2025-10-17 | <details><summary>Homep...</summary><p>Homepage: https://ltbai.github.io/VITA-VLA/</p></details> |
+| **[Scope: Selective Cross-modal Orchestration of Visual Perception Experts](http://arxiv.org/abs/2510.12974v2)** | 2025-10-17 | 14 pages, 2 figures |
+| **[FLEX: A Largescale Multimodal, Multiview Dataset for Learning Structured Representations for Fitness Action Quality Assessment](http://arxiv.org/abs/2506.03198v3)** | 2025-10-17 | <details><summary>Datas...</summary><p>Dataset and code are available at https://github.com/HaoYin116/FLEX . Link to Project page https://haoyin116.github.io/FLEX_Dataset</p></details> |
 
