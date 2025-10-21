@@ -1,5 +1,5 @@
 ---
-title: Papers - October 21, 2025
+title: Papers - October 22, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -77,19 +77,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BiomedXPro: Prompt Optimization for Explainable Diagnosis with Biomedical Vision Language Models](http://arxiv.org/abs/2510.15866v1)** | 2025-10-17 | <details><summary>10 Pa...</summary><p>10 Pages + 15 Supplementary Material Pages, 5 figures</p></details> |
-| **[Neuro-Symbolic Spatial Reasoning in Segmentation](http://arxiv.org/abs/2510.15841v1)** | 2025-10-17 |  |
-| **[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](http://arxiv.org/abs/2510.14528v2)** | 2025-10-17 | <details><summary>Githu...</summary><p>Github Repo: https://github.com/PaddlePaddle/PaddleOCR</p></details> |
-| **[CLASP: General-Purpose Clothes Manipulation with Semantic Keypoints](http://arxiv.org/abs/2507.19983v2)** | 2025-10-17 |  |
-| **[DocMMIR: A Framework for Document Multi-modal Information Retrieval](http://arxiv.org/abs/2505.19312v3)** | 2025-10-17 | <details><summary>Accep...</summary><p>Accepted for publication at EMNLP 2025 Findings. Code and data publicly available at https://github.com/J1mL1/DocMMIR</p></details> |
-| **[Perception Before Reasoning: Two-Stage Reinforcement Learning for Visual Reasoning in Vision-Language Models](http://arxiv.org/abs/2509.13031v2)** | 2025-10-17 |  |
-| **[FG-CLIP 2: A Bilingual Fine-grained Vision-Language Alignment Model](http://arxiv.org/abs/2510.10921v2)** | 2025-10-17 |  |
-| **[Learning to Detect Unknown Jailbreak Attacks in Large Vision-Language Models](http://arxiv.org/abs/2510.15430v1)** | 2025-10-17 |  |
-| **[HumorDB: Can AI understand graphical humor?](http://arxiv.org/abs/2406.13564v3)** | 2025-10-17 | <details><summary>10 ma...</summary><p>10 main figures, 4 additional appendix figures</p></details> |
-| **[Fine-Tuning MedGemma for Clinical Captioning to Enhance Multimodal RAG over Malaysia CPGs](http://arxiv.org/abs/2510.15418v1)** | 2025-10-17 |  |
-| **[PrefixKV: Adaptive Prefix KV Cache is What Vision Instruction-Following Models Need for Efficient Generation](http://arxiv.org/abs/2412.03409v4)** | 2025-10-17 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Camera-ready Version</p></details> |
-| **[Infinity Parser: Layout Aware Reinforcement Learning for Scanned Document Parsing](http://arxiv.org/abs/2510.15349v1)** | 2025-10-17 | <details><summary>22 pa...</summary><p>22 pages, 14 figures,</p></details> |
-| **[VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation](http://arxiv.org/abs/2510.09607v2)** | 2025-10-17 | <details><summary>Homep...</summary><p>Homepage: https://ltbai.github.io/VITA-VLA/</p></details> |
-| **[Scope: Selective Cross-modal Orchestration of Visual Perception Experts](http://arxiv.org/abs/2510.12974v2)** | 2025-10-17 | 14 pages, 2 figures |
-| **[FLEX: A Largescale Multimodal, Multiview Dataset for Learning Structured Representations for Fitness Action Quality Assessment](http://arxiv.org/abs/2506.03198v3)** | 2025-10-17 | <details><summary>Datas...</summary><p>Dataset and code are available at https://github.com/HaoYin116/FLEX . Link to Project page https://haoyin116.github.io/FLEX_Dataset</p></details> |
+| **[Glyph: Scaling Context Windows via Visual-Text Compression](http://arxiv.org/abs/2510.17800v1)** | 2025-10-20 |  |
+| **[SparseVILA: Decoupling Visual Sparsity for Efficient VLM Inference](http://arxiv.org/abs/2510.17777v1)** | 2025-10-20 |  |
+| **[Seeing but Not Believing: Probing the Disconnect Between Visual Attention and Answer Correctness in VLMs](http://arxiv.org/abs/2510.17771v1)** | 2025-10-20 | <details><summary>21 pa...</summary><p>21 pages, 10 figures, 6 tables</p></details> |
+| **[VERA-V: Variational Inference Framework for Jailbreaking Vision-Language Models](http://arxiv.org/abs/2510.17759v1)** | 2025-10-20 | 18 pages, 7 Figures, |
+| **[UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens](http://arxiv.org/abs/2505.14671v3)** | 2025-10-20 |  |
+| **[Frugal Federated Learning for Violence Detection: A Comparison of LoRA-Tuned VLMs and Personalized CNNs](http://arxiv.org/abs/2510.17651v1)** | 2025-10-20 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, FLTA 2025</p></details> |
+| **[SARSteer: Safeguarding Large Audio Language Models via Safe-Ablated Refusal Steering](http://arxiv.org/abs/2510.17633v1)** | 2025-10-20 |  |
+| **[When Does Supervised Training Pay Off? The Hidden Economics of Object Detection in the Era of Vision-Language Models](http://arxiv.org/abs/2510.11302v2)** | 2025-10-20 | <details><summary>30 pa...</summary><p>30 pages, 12 figures, 4 tables</p></details> |
+| **[Grounded Reinforcement Learning for Visual Reasoning](http://arxiv.org/abs/2505.23678v2)** | 2025-10-20 | <details><summary>Proje...</summary><p>Project website: https://visually-grounded-rl.github.io/</p></details> |
+| **[MIRAGE: Agentic Framework for Multimodal Misinformation Detection with Web-Grounded Reasoning](http://arxiv.org/abs/2510.17590v1)** | 2025-10-20 | <details><summary>16 pa...</summary><p>16 pages, 3 tables, 1 figure</p></details> |
+| **[SketchMind: A Multi-Agent Cognitive Framework for Assessing Student-Drawn Scientific Sketches](http://arxiv.org/abs/2507.22904v2)** | 2025-10-20 | <details><summary>Submi...</summary><p>Submitted to NeurIPS2025</p></details> |
+| **[Nexus: An Omni-Perceptive And -Interactive Model for Language, Audio, And Vision](http://arxiv.org/abs/2503.01879v4)** | 2025-10-20 | <details><summary>Proje...</summary><p>Project: https://github.com/HiThink-Research/NEXUS-O</p></details> |
+| **[Learning to Detect Unknown Jailbreak Attacks in Large Vision-Language Models](http://arxiv.org/abs/2510.15430v2)** | 2025-10-20 | <details><summary>Withd...</summary><p>Withdrawn due to an accidental duplicate submission. This paper (arXiv:2510.15430) was unintentionally submitted as a new entry instead of a new version of our previous work (arXiv:2508.09201)</p></details> |
+| **[Infinity Parser: Layout Aware Reinforcement Learning for Scanned Document Parsing](http://arxiv.org/abs/2506.03197v2)** | 2025-10-20 | 16 pages, 12 figures |
+| **[Leveraging Vision-Language Models for Open-Vocabulary Instance Segmentation and Tracking](http://arxiv.org/abs/2503.16538v2)** | 2025-10-20 | <details><summary>IEEE ...</summary><p>IEEE Robotics and Automation Letters (RA-L), November 2025</p></details> |
 
