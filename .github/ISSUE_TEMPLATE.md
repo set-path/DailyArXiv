@@ -1,5 +1,5 @@
 ---
-title: Papers - October 22, 2025
+title: Papers - October 23, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,6 +24,8 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAM 2++: Tracking Anything at Any Granularity](http://arxiv.org/abs/2510.18822v1)** | 2025-10-21 | <details><summary>8 pag...</summary><p>8 pages, and 10 pages in Supplementary Material</p></details> |
+| **[EMA-SAM: Exponential Moving-average for SAM-based PTMC Segmentation](http://arxiv.org/abs/2510.18213v1)** | 2025-10-21 |  |
 | **[CMaP-SAM: Contraction Mapping Prior for SAM-driven Few-shot Segmentation](http://arxiv.org/abs/2504.05049v2)** | 2025-10-17 | 7 figures |
 | **[Enhancing Zero-Shot Anomaly Detection: CLIP-SAM Collaboration with Cascaded Prompts](http://arxiv.org/abs/2510.11028v1)** | 2025-10-13 | Accepted by PRCV |
 | **[Adapting SAM with Dynamic Similarity Graphs for Few-Shot Parameter-Efficient Small Dense Object Detection: A Case Study of Chickpea Pods in Field Conditions](http://arxiv.org/abs/2509.25805v1)** | 2025-09-30 | <details><summary>23 pa...</summary><p>23 pages, 11 figures, 4 tables</p></details> |
@@ -37,8 +39,6 @@ labels: documentation
 | **[EdgeSAM: Prompt-In-the-Loop Distillation for SAM](http://arxiv.org/abs/2312.06660v3)** | 2025-09-07 | <details><summary>IJCV ...</summary><p>IJCV 2025. Project page: https://www.mmlab-ntu.com/project/edgesam</p></details> |
 | **[Enhancing Self-Driving Segmentation in Adverse Weather Conditions: A Dual Uncertainty-Aware Training Approach to SAM Optimization](http://arxiv.org/abs/2509.04735v1)** | 2025-09-05 |  |
 | **[Repurposing SAM for User-Defined Semantics Aware Segmentation](http://arxiv.org/abs/2312.02420v3)** | 2025-09-03 |  |
-| **[Olive Tree Satellite Image Segmentation Based On SAM and Multi-Phase Refinement](http://arxiv.org/abs/2508.20954v1)** | 2025-08-28 |  |
-| **[TAGS: 3D Tumor-Adaptive Guidance for SAM](http://arxiv.org/abs/2505.17096v2)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted by ICCV-APAH</p></details> |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -77,19 +77,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Glyph: Scaling Context Windows via Visual-Text Compression](http://arxiv.org/abs/2510.17800v1)** | 2025-10-20 |  |
-| **[SparseVILA: Decoupling Visual Sparsity for Efficient VLM Inference](http://arxiv.org/abs/2510.17777v1)** | 2025-10-20 |  |
-| **[Seeing but Not Believing: Probing the Disconnect Between Visual Attention and Answer Correctness in VLMs](http://arxiv.org/abs/2510.17771v1)** | 2025-10-20 | <details><summary>21 pa...</summary><p>21 pages, 10 figures, 6 tables</p></details> |
-| **[VERA-V: Variational Inference Framework for Jailbreaking Vision-Language Models](http://arxiv.org/abs/2510.17759v1)** | 2025-10-20 | 18 pages, 7 Figures, |
-| **[UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens](http://arxiv.org/abs/2505.14671v3)** | 2025-10-20 |  |
-| **[Frugal Federated Learning for Violence Detection: A Comparison of LoRA-Tuned VLMs and Personalized CNNs](http://arxiv.org/abs/2510.17651v1)** | 2025-10-20 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, FLTA 2025</p></details> |
-| **[SARSteer: Safeguarding Large Audio Language Models via Safe-Ablated Refusal Steering](http://arxiv.org/abs/2510.17633v1)** | 2025-10-20 |  |
-| **[When Does Supervised Training Pay Off? The Hidden Economics of Object Detection in the Era of Vision-Language Models](http://arxiv.org/abs/2510.11302v2)** | 2025-10-20 | <details><summary>30 pa...</summary><p>30 pages, 12 figures, 4 tables</p></details> |
-| **[Grounded Reinforcement Learning for Visual Reasoning](http://arxiv.org/abs/2505.23678v2)** | 2025-10-20 | <details><summary>Proje...</summary><p>Project website: https://visually-grounded-rl.github.io/</p></details> |
-| **[MIRAGE: Agentic Framework for Multimodal Misinformation Detection with Web-Grounded Reasoning](http://arxiv.org/abs/2510.17590v1)** | 2025-10-20 | <details><summary>16 pa...</summary><p>16 pages, 3 tables, 1 figure</p></details> |
-| **[SketchMind: A Multi-Agent Cognitive Framework for Assessing Student-Drawn Scientific Sketches](http://arxiv.org/abs/2507.22904v2)** | 2025-10-20 | <details><summary>Submi...</summary><p>Submitted to NeurIPS2025</p></details> |
-| **[Nexus: An Omni-Perceptive And -Interactive Model for Language, Audio, And Vision](http://arxiv.org/abs/2503.01879v4)** | 2025-10-20 | <details><summary>Proje...</summary><p>Project: https://github.com/HiThink-Research/NEXUS-O</p></details> |
-| **[Learning to Detect Unknown Jailbreak Attacks in Large Vision-Language Models](http://arxiv.org/abs/2510.15430v2)** | 2025-10-20 | <details><summary>Withd...</summary><p>Withdrawn due to an accidental duplicate submission. This paper (arXiv:2510.15430) was unintentionally submitted as a new entry instead of a new version of our previous work (arXiv:2508.09201)</p></details> |
-| **[Infinity Parser: Layout Aware Reinforcement Learning for Scanned Document Parsing](http://arxiv.org/abs/2506.03197v2)** | 2025-10-20 | 16 pages, 12 figures |
-| **[Leveraging Vision-Language Models for Open-Vocabulary Instance Segmentation and Tracking](http://arxiv.org/abs/2503.16538v2)** | 2025-10-20 | <details><summary>IEEE ...</summary><p>IEEE Robotics and Automation Letters (RA-L), November 2025</p></details> |
+| **[DSI-Bench: A Benchmark for Dynamic Spatial Intelligence](http://arxiv.org/abs/2510.18873v1)** | 2025-10-21 |  |
+| **[FedDEAP: Adaptive Dual-Prompt Tuning for Multi-Domain Federated Learning](http://arxiv.org/abs/2510.18837v1)** | 2025-10-21 | Accepted at MM 2025 |
+| **[Glyph: Scaling Context Windows via Visual-Text Compression](http://arxiv.org/abs/2510.17800v2)** | 2025-10-21 |  |
+| **[VideoVerse: How Far is Your T2V Generator from a World Model?](http://arxiv.org/abs/2510.08398v2)** | 2025-10-21 | <details><summary>24 Pa...</summary><p>24 Pages, 8 Figures, 11 Tables</p></details> |
+| **[Seg the HAB: Language-Guided Geospatial Algae Bloom Reasoning and Segmentation](http://arxiv.org/abs/2510.18751v1)** | 2025-10-21 |  |
+| **[A Statistical Theory of Contrastive Pre-training and Multimodal Generative AI](http://arxiv.org/abs/2501.04641v2)** | 2025-10-21 |  |
+| **[Exploring a Unified Vision-Centric Contrastive Alternatives on Multi-Modal Web Documents](http://arxiv.org/abs/2510.18703v1)** | 2025-10-21 | <details><summary>Proje...</summary><p>Project page: this https://linyq17.github.io/VC2L/</p></details> |
+| **[VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning](http://arxiv.org/abs/2506.09049v2)** | 2025-10-21 | <details><summary>Proje...</summary><p>Project page: https://faceong.github.io/VIKI-R/</p></details> |
+| **[Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views](http://arxiv.org/abs/2510.18632v1)** | 2025-10-21 | 12 pages, 4 figures |
+| **[CUARewardBench: A Benchmark for Evaluating Reward Models on Computer-using Agent](http://arxiv.org/abs/2510.18596v1)** | 2025-10-21 | 24 pages, 6 figures |
+| **[CovMatch: Cross-Covariance Guided Multimodal Dataset Distillation with Trainable Text Encoder](http://arxiv.org/abs/2510.18583v1)** | 2025-10-21 | NeurIPS 2025 |
+| **[Zero-Shot Vehicle Model Recognition via Text-Based Retrieval-Augmented Generation](http://arxiv.org/abs/2510.18502v1)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted by The 38th Conference of Open Innovations Association FRUCT, 2025</p></details> |
+| **[MATRIX: Multimodal Agent Tuning for Robust Tool-Use Reasoning](http://arxiv.org/abs/2510.08567v3)** | 2025-10-21 | <details><summary>We ha...</summary><p>We have come across a recent approach that has not been properly attributed at the time of submission and compared in a fair setting. Therefore, we would like to withdraw the paper to address these concerns</p></details> |
+| **[StarBench: A Turn-Based RPG Benchmark for Agentic Multimodal Decision-Making and Information Seeking](http://arxiv.org/abs/2510.18483v1)** | 2025-10-21 |  |
+| **[Grounding or Guessing? Visual Signals for Detecting Hallucinations in Sign Language Translation](http://arxiv.org/abs/2510.18439v1)** | 2025-10-21 |  |
 
