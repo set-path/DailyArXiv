@@ -1,5 +1,5 @@
 ---
-title: Papers - October 23, 2025
+title: Papers - October 24, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,7 +24,7 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SAM 2++: Tracking Anything at Any Granularity](http://arxiv.org/abs/2510.18822v1)** | 2025-10-21 | <details><summary>8 pag...</summary><p>8 pages, and 10 pages in Supplementary Material</p></details> |
+| **[SAM 2++: Tracking Anything at Any Granularity](http://arxiv.org/abs/2510.18822v2)** | 2025-10-22 | update results |
 | **[EMA-SAM: Exponential Moving-average for SAM-based PTMC Segmentation](http://arxiv.org/abs/2510.18213v1)** | 2025-10-21 |  |
 | **[CMaP-SAM: Contraction Mapping Prior for SAM-driven Few-shot Segmentation](http://arxiv.org/abs/2504.05049v2)** | 2025-10-17 | 7 figures |
 | **[Enhancing Zero-Shot Anomaly Detection: CLIP-SAM Collaboration with Cascaded Prompts](http://arxiv.org/abs/2510.11028v1)** | 2025-10-13 | Accepted by PRCV |
@@ -77,19 +77,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DSI-Bench: A Benchmark for Dynamic Spatial Intelligence](http://arxiv.org/abs/2510.18873v1)** | 2025-10-21 |  |
-| **[FedDEAP: Adaptive Dual-Prompt Tuning for Multi-Domain Federated Learning](http://arxiv.org/abs/2510.18837v1)** | 2025-10-21 | Accepted at MM 2025 |
-| **[Glyph: Scaling Context Windows via Visual-Text Compression](http://arxiv.org/abs/2510.17800v2)** | 2025-10-21 |  |
-| **[VideoVerse: How Far is Your T2V Generator from a World Model?](http://arxiv.org/abs/2510.08398v2)** | 2025-10-21 | <details><summary>24 Pa...</summary><p>24 Pages, 8 Figures, 11 Tables</p></details> |
-| **[Seg the HAB: Language-Guided Geospatial Algae Bloom Reasoning and Segmentation](http://arxiv.org/abs/2510.18751v1)** | 2025-10-21 |  |
-| **[A Statistical Theory of Contrastive Pre-training and Multimodal Generative AI](http://arxiv.org/abs/2501.04641v2)** | 2025-10-21 |  |
-| **[Exploring a Unified Vision-Centric Contrastive Alternatives on Multi-Modal Web Documents](http://arxiv.org/abs/2510.18703v1)** | 2025-10-21 | <details><summary>Proje...</summary><p>Project page: this https://linyq17.github.io/VC2L/</p></details> |
-| **[VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning](http://arxiv.org/abs/2506.09049v2)** | 2025-10-21 | <details><summary>Proje...</summary><p>Project page: https://faceong.github.io/VIKI-R/</p></details> |
-| **[Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views](http://arxiv.org/abs/2510.18632v1)** | 2025-10-21 | 12 pages, 4 figures |
-| **[CUARewardBench: A Benchmark for Evaluating Reward Models on Computer-using Agent](http://arxiv.org/abs/2510.18596v1)** | 2025-10-21 | 24 pages, 6 figures |
-| **[CovMatch: Cross-Covariance Guided Multimodal Dataset Distillation with Trainable Text Encoder](http://arxiv.org/abs/2510.18583v1)** | 2025-10-21 | NeurIPS 2025 |
-| **[Zero-Shot Vehicle Model Recognition via Text-Based Retrieval-Augmented Generation](http://arxiv.org/abs/2510.18502v1)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted by The 38th Conference of Open Innovations Association FRUCT, 2025</p></details> |
-| **[MATRIX: Multimodal Agent Tuning for Robust Tool-Use Reasoning](http://arxiv.org/abs/2510.08567v3)** | 2025-10-21 | <details><summary>We ha...</summary><p>We have come across a recent approach that has not been properly attributed at the time of submission and compared in a fair setting. Therefore, we would like to withdraw the paper to address these concerns</p></details> |
-| **[StarBench: A Turn-Based RPG Benchmark for Agentic Multimodal Decision-Making and Information Seeking](http://arxiv.org/abs/2510.18483v1)** | 2025-10-21 |  |
-| **[Grounding or Guessing? Visual Signals for Detecting Hallucinations in Sign Language Translation](http://arxiv.org/abs/2510.18439v1)** | 2025-10-21 |  |
+| **[Semantic World Models](http://arxiv.org/abs/2510.19818v1)** | 2025-10-22 |  |
+| **[olmOCR 2: Unit Test Rewards for Document OCR](http://arxiv.org/abs/2510.19817v1)** | 2025-10-22 | <details><summary>https...</summary><p>https://olmocr.allen.ai/</p></details> |
+| **[Class-Aware Prototype Learning with Negative Contrast for Test-Time Adaptation of Vision-Language Models](http://arxiv.org/abs/2510.19802v1)** | 2025-10-22 |  |
+| **[3D Visual Illusion Depth Estimation](http://arxiv.org/abs/2505.13061v4)** | 2025-10-22 | <details><summary>NeurI...</summary><p>NeurIPS 2025, Project: https://github.com/YaoChengTang/3D-Visual-Illusion-Depth-Estimation</p></details> |
+| **[MedReason-R1: Learning to Reason for CT Diagnosis with Reinforcement Learning and Local Zoom](http://arxiv.org/abs/2510.19626v1)** | 2025-10-22 | <details><summary>The c...</summary><p>The code, checkpoints, and dataset are available at: https://github.com/Leevan001/MedReason-R1</p></details> |
+| **[XBench: A Comprehensive Benchmark for Visual-Language Explanations in Chest Radiography](http://arxiv.org/abs/2510.19599v1)** | 2025-10-22 |  |
+| **[Can You Trust What You See? Alpha Channel No-Box Attacks on Video Object Detection](http://arxiv.org/abs/2510.19574v1)** | 2025-10-22 |  |
+| **[A Matter of Time: Revealing the Structure of Time in Vision-Language Models](http://arxiv.org/abs/2510.19559v1)** | 2025-10-22 |  |
+| **[[De|Re]constructing VLMs' Reasoning in Counting](http://arxiv.org/abs/2510.19555v1)** | 2025-10-22 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[RoboGPT-R1: Enhancing Robot Planning with Reinforcement Learning](http://arxiv.org/abs/2510.14828v2)** | 2025-10-22 |  |
+| **[Uni-MuMER: Unified Multi-Task Fine-Tuning of Vision-Language Model for Handwritten Mathematical Expression Recognition](http://arxiv.org/abs/2505.23566v3)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 as a spotlight</p></details> |
+| **[CARES: Context-Aware Resolution Selector for VLMs](http://arxiv.org/abs/2510.19496v1)** | 2025-10-22 |  |
+| **[Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes](http://arxiv.org/abs/2510.19400v1)** | 2025-10-22 | <details><summary>The p...</summary><p>The project and benchmark are publicly available at https://github.com/microsoft/MV-RoboBench</p></details> |
+| **[Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey](http://arxiv.org/abs/2510.17111v2)** | 2025-10-22 |  |
+| **[Training-Free Label Space Alignment for Universal Domain Adaptation](http://arxiv.org/abs/2509.17452v2)** | 2025-10-22 | 22 pages, 12 figures |
 
