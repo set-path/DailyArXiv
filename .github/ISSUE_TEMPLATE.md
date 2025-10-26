@@ -1,5 +1,5 @@
 ---
-title: Papers - October 24, 2025
+title: Papers - October 27, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -40,7 +40,7 @@ labels: documentation
 | **[Enhancing Self-Driving Segmentation in Adverse Weather Conditions: A Dual Uncertainty-Aware Training Approach to SAM Optimization](http://arxiv.org/abs/2509.04735v1)** | 2025-09-05 |  |
 | **[Repurposing SAM for User-Defined Semantics Aware Segmentation](http://arxiv.org/abs/2312.02420v3)** | 2025-09-03 |  |
 
-## Remote Sensing Segmentation - Preview 15 papers
+## Remote Sensing Segmentation - Preview 10 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[SAM2-ELNet: Label Enhancement and Automatic Annotation for Remote Sensing Segmentation](http://arxiv.org/abs/2503.12404v2)** | 2025-09-21 | <details><summary>publi...</summary><p>published in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</p></details> |
@@ -53,11 +53,6 @@ labels: documentation
 | **[AerOSeg: Harnessing SAM for Open-Vocabulary Segmentation in Remote Sensing Images](http://arxiv.org/abs/2504.09203v1)** | 2025-04-12 | <details><summary>Accep...</summary><p>Accepted at EarthVision workshop, CVPR 2025</p></details> |
 | **[Center-guided Classifier for Semantic Segmentation of Remote Sensing Images](http://arxiv.org/abs/2503.16963v1)** | 2025-03-21 |  |
 | **[Joint-Optimized Unsupervised Adversarial Domain Adaptation in Remote Sensing Segmentation with Prompted Foundation Model](http://arxiv.org/abs/2411.05878v2)** | 2024-11-18 | <details><summary>12 pa...</summary><p>12 pages,6 figures, 6 tables</p></details> |
-| **[Graph Information Bottleneck for Remote Sensing Segmentation](http://arxiv.org/abs/2312.02545v2)** | 2024-08-31 | 13 pages, 6 figures |
-| **[Hi-ResNet: Edge Detail Enhancement for High-Resolution Remote Sensing Segmentation](http://arxiv.org/abs/2305.12691v3)** | 2024-08-15 |  |
-| **[ALPS: An Auto-Labeling and Pre-training Scheme for Remote Sensing Segmentation With Segment Anything Model](http://arxiv.org/abs/2406.10855v1)** | 2024-06-16 |  |
-| **[Embedding Generalized Semantic Knowledge into Few-Shot Remote Sensing Segmentation](http://arxiv.org/abs/2405.13686v1)** | 2024-05-22 |  |
-| **[SFFNet: A Wavelet-Based Spatial and Frequency Domain Fusion Network for Remote Sensing Segmentation](http://arxiv.org/abs/2405.01992v1)** | 2024-05-03 |  |
 
 ## Remote Sensing Vision Language Model - Preview 11 papers
 | **Title** | **Date** | **Comment** |
@@ -77,19 +72,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Semantic World Models](http://arxiv.org/abs/2510.19818v1)** | 2025-10-22 |  |
-| **[olmOCR 2: Unit Test Rewards for Document OCR](http://arxiv.org/abs/2510.19817v1)** | 2025-10-22 | <details><summary>https...</summary><p>https://olmocr.allen.ai/</p></details> |
-| **[Class-Aware Prototype Learning with Negative Contrast for Test-Time Adaptation of Vision-Language Models](http://arxiv.org/abs/2510.19802v1)** | 2025-10-22 |  |
-| **[3D Visual Illusion Depth Estimation](http://arxiv.org/abs/2505.13061v4)** | 2025-10-22 | <details><summary>NeurI...</summary><p>NeurIPS 2025, Project: https://github.com/YaoChengTang/3D-Visual-Illusion-Depth-Estimation</p></details> |
-| **[MedReason-R1: Learning to Reason for CT Diagnosis with Reinforcement Learning and Local Zoom](http://arxiv.org/abs/2510.19626v1)** | 2025-10-22 | <details><summary>The c...</summary><p>The code, checkpoints, and dataset are available at: https://github.com/Leevan001/MedReason-R1</p></details> |
-| **[XBench: A Comprehensive Benchmark for Visual-Language Explanations in Chest Radiography](http://arxiv.org/abs/2510.19599v1)** | 2025-10-22 |  |
-| **[Can You Trust What You See? Alpha Channel No-Box Attacks on Video Object Detection](http://arxiv.org/abs/2510.19574v1)** | 2025-10-22 |  |
-| **[A Matter of Time: Revealing the Structure of Time in Vision-Language Models](http://arxiv.org/abs/2510.19559v1)** | 2025-10-22 |  |
-| **[[De|Re]constructing VLMs' Reasoning in Counting](http://arxiv.org/abs/2510.19555v1)** | 2025-10-22 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[RoboGPT-R1: Enhancing Robot Planning with Reinforcement Learning](http://arxiv.org/abs/2510.14828v2)** | 2025-10-22 |  |
-| **[Uni-MuMER: Unified Multi-Task Fine-Tuning of Vision-Language Model for Handwritten Mathematical Expression Recognition](http://arxiv.org/abs/2505.23566v3)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 as a spotlight</p></details> |
-| **[CARES: Context-Aware Resolution Selector for VLMs](http://arxiv.org/abs/2510.19496v1)** | 2025-10-22 |  |
-| **[Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes](http://arxiv.org/abs/2510.19400v1)** | 2025-10-22 | <details><summary>The p...</summary><p>The project and benchmark are publicly available at https://github.com/microsoft/MV-RoboBench</p></details> |
-| **[Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey](http://arxiv.org/abs/2510.17111v2)** | 2025-10-22 |  |
-| **[Training-Free Label Space Alignment for Universal Domain Adaptation](http://arxiv.org/abs/2509.17452v2)** | 2025-10-22 | 22 pages, 12 figures |
+| **[Small Drafts, Big Verdict: Information-Intensive Visual Reasoning via Speculation](http://arxiv.org/abs/2510.20812v1)** | 2025-10-23 |  |
+| **[mmWalk: Towards Multi-modal Multi-view Walking Assistance](http://arxiv.org/abs/2510.11520v2)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 Datasets and Benchmarks Track. Data and Code: https://github.com/KediYing/mmWalk</p></details> |
+| **[Fast-Slow Thinking GRPO for Large Vision-Language Model Reasoning](http://arxiv.org/abs/2504.18458v2)** | 2025-10-23 |  |
+| **[Mixing Importance with Diversity: Joint Optimization for KV Cache Compression in Large Vision-Language Models](http://arxiv.org/abs/2510.20707v1)** | 2025-10-23 | <details><summary>Our c...</summary><p>Our code is available at https://github.com/xuyang-liu16/MixKV</p></details> |
+| **[Diagnosing Visual Reasoning: Challenges, Insights, and a Path Forward](http://arxiv.org/abs/2510.20696v1)** | 2025-10-23 | 5 pages |
+| **[REOBench: Benchmarking Robustness of Earth Observation Foundation Models](http://arxiv.org/abs/2505.16793v2)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted to NeruIPS 2025 D&B Track</p></details> |
+| **[Better Tokens for Better 3D: Advancing Vision-Language Modeling in 3D Medical Imaging](http://arxiv.org/abs/2510.20639v1)** | 2025-10-23 | NeurIPS 2025 |
+| **[Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey](http://arxiv.org/abs/2510.17111v3)** | 2025-10-23 |  |
+| **[Spatial-DISE: A Unified Benchmark for Evaluating Spatial Reasoning in Vision-Language Models](http://arxiv.org/abs/2510.13394v2)** | 2025-10-23 | <details><summary>Proje...</summary><p>Project Page: https://shinmohuang.github.io/spatialdise_page/</p></details> |
+| **[Grounding Language with Vision: A Conditional Mutual Information Calibrated Decoding Strategy for Reducing Hallucinations in LVLMs](http://arxiv.org/abs/2505.19678v3)** | 2025-10-23 |  |
+| **[Balanced Token Pruning: Accelerating Vision Language Models Beyond Local Optimization](http://arxiv.org/abs/2505.22038v2)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted by Neurips 2025</p></details> |
+| **[Bi-CoG: Bi-Consistency-Guided Self-Training for Vision-Language Models](http://arxiv.org/abs/2510.20477v1)** | 2025-10-23 |  |
+| **[ViSpec: Accelerating Vision-Language Models with Vision-Aware Speculative Decoding](http://arxiv.org/abs/2509.15235v5)** | 2025-10-23 | NeurIPS 2025 |
+| **[GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?](http://arxiv.org/abs/2510.20333v1)** | 2025-10-23 |  |
+| **[VITRIX-CLIPIN: Enhancing Fine-Grained Visual Understanding in CLIP via Instruction Editing Data and Long Captions](http://arxiv.org/abs/2508.02329v4)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
 
