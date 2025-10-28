@@ -1,5 +1,5 @@
 ---
-title: Papers - October 28, 2025
+title: Papers - October 29, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -77,19 +77,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Multimodal Benchmark for Framing of Oil & Gas Advertising and Potential Greenwashing Detection](http://arxiv.org/abs/2510.21679v1)** | 2025-10-24 | <details><summary>Forth...</summary><p>Forthcoming in NeurIPS 2025 Datasets and Benchmarks Track</p></details> |
-| **[MobileRL: Online Agentic Reinforcement Learning for Mobile GUI Agents](http://arxiv.org/abs/2509.18119v2)** | 2025-10-24 |  |
-| **[The Narrow Gate: Localized Image-Text Communication in Native Multimodal Models](http://arxiv.org/abs/2412.06646v3)** | 2025-10-24 |  |
-| **[Modest-Align: Data-Efficient Alignment for Vision-Language Models](http://arxiv.org/abs/2510.21606v1)** | 2025-10-24 |  |
-| **[Head Pursuit: Probing Attention Specialization in Multimodal Transformers](http://arxiv.org/abs/2510.21518v1)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 (spotlight)</p></details> |
-| **[MoniTor: Exploiting Large Language Models with Instruction for Online Video Anomaly Detection](http://arxiv.org/abs/2510.21449v1)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025. The first two authors hold equal contributions</p></details> |
-| **[Vision Language Models for Dynamic Human Activity Recognition in Healthcare Settings](http://arxiv.org/abs/2510.21424v1)** | 2025-10-24 |  |
-| **[Recognition through Reasoning: Reinforcing Image Geo-localization with Large Vision-Language Models](http://arxiv.org/abs/2506.14674v2)** | 2025-10-24 | NeurIPS 2025 |
-| **[Bridging the gap to real-world language-grounded visual concept learning](http://arxiv.org/abs/2510.21412v1)** | 2025-10-24 |  |
-| **[BEAST: Efficient Tokenization of B-Splines Encoded Action Sequences for Imitation Learning](http://arxiv.org/abs/2506.06072v3)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling](http://arxiv.org/abs/2505.17982v4)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[Surfer 2: The Next Generation of Cross-Platform Computer Use Agents](http://arxiv.org/abs/2510.19949v2)** | 2025-10-24 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, 2 tables</p></details> |
-| **[VL-SAE: Interpreting and Enhancing Vision-Language Alignment with a Unified Concept Set](http://arxiv.org/abs/2510.21323v1)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning](http://arxiv.org/abs/2505.15966v3)** | 2025-10-24 | <details><summary>Proje...</summary><p>Project Page: https://tiger-ai-lab.github.io/Pixel-Reasoner/, Hands-on Demo: https://huggingface.co/spaces/TIGER-Lab/Pixel-Reasoner</p></details> |
-| **[Towards Comprehensive Scene Understanding: Integrating First and Third-Person Views for LVLMs](http://arxiv.org/abs/2505.21955v2)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 (Spotlight)</p></details> |
+| **[RobotArena $\infty$: Scalable Robot Benchmarking via Real-to-Sim Translation](http://arxiv.org/abs/2510.23571v1)** | 2025-10-27 | <details><summary>Websi...</summary><p>Website: https://robotarenainf.github.io</p></details> |
+| **[Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis](http://arxiv.org/abs/2411.16503v2)** | 2025-10-27 | <details><summary>Updat...</summary><p>Updated author formatting; no substantive changes</p></details> |
+| **[VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation](http://arxiv.org/abs/2510.23497v1)** | 2025-10-27 | <details><summary>www.w...</summary><p>www.walidbousselham.com/VOLD/</p></details> |
+| **[On the Faithfulness of Visual Thinking: Measurement and Enhancement](http://arxiv.org/abs/2510.23482v1)** | 2025-10-27 |  |
+| **[Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models](http://arxiv.org/abs/2503.13939v5)** | 2025-10-27 |  |
+| **[World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training](http://arxiv.org/abs/2509.24948v2)** | 2025-10-27 |  |
+| **[GRE Suite: Geo-localization Inference via Fine-Tuned Vision-Language Models and Enhanced Reasoning Chains](http://arxiv.org/abs/2505.18700v4)** | 2025-10-27 |  |
+| **[A Video Is Not Worth a Thousand Words](http://arxiv.org/abs/2510.23253v1)** | 2025-10-27 |  |
+| **[Process Reward Models for Sentence-Level Verification of LVLM Radiology Reports](http://arxiv.org/abs/2510.23217v1)** | 2025-10-27 |  |
+| **[DecoDINO: 3D Human-Scene Contact Prediction with Semantic Classification](http://arxiv.org/abs/2510.23203v1)** | 2025-10-27 |  |
+| **[Evaluation of Vision-LLMs in Surveillance Video](http://arxiv.org/abs/2510.23190v1)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted as poster in the NeurIPS 2025 Workshop on Space in Vision, Language, and Embodied AI</p></details> |
+| **[Finding 3D Scene Analogies with Multimodal Foundation Models](http://arxiv.org/abs/2510.23184v1)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted to FM4RoboPlan workshop at RSS 2025</p></details> |
+| **[Attention! Your Vision Language Model Could Be Maliciously Manipulated](http://arxiv.org/abs/2505.19911v2)** | 2025-10-27 | NeurIPS 2025 |
+| **[Can Less Precise Be More Reliable? A Systematic Evaluation of Quantization's Impact on CLIP Beyond Accuracy](http://arxiv.org/abs/2509.21173v3)** | 2025-10-27 | <details><summary>Prepr...</summary><p>Preprint, under peer review</p></details> |
+| **[Revisiting Multimodal Positional Encoding in Vision-Language Models](http://arxiv.org/abs/2510.23095v1)** | 2025-10-27 | 16 pages |
 
