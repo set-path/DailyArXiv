@@ -1,10 +1,11 @@
 ---
-title: Papers - October 29, 2025
+title: Papers - October 30, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Improving Visual Discriminability of CLIP for Training-Free Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2510.23894v1)** | 2025-10-27 | <details><summary>23 pa...</summary><p>23 pages, 10 figures, 14 tables</p></details> |
 | **[Neuro-Symbolic Spatial Reasoning in Segmentation](http://arxiv.org/abs/2510.15841v1)** | 2025-10-17 |  |
 | **[Lost in Translation? Vocabulary Alignment for Source-Free Adaptation in Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2509.15225v3)** | 2025-09-29 | <details><summary>BMVC ...</summary><p>BMVC 2025 - Project Page: https://thegoodailab.org/blog/vocalign - Code: https://github.com/Sisso16/VocAlign</p></details> |
 | **[OpenUrban3D: Annotation-Free Open-Vocabulary Semantic Segmentation of Large-Scale Urban Point Clouds](http://arxiv.org/abs/2509.10842v1)** | 2025-09-13 |  |
@@ -19,7 +20,6 @@ labels: documentation
 | **[FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation](http://arxiv.org/abs/2504.10487v2)** | 2025-07-30 | <details><summary>ICCV ...</summary><p>ICCV 2025; Project Page: https://yasserben.github.io/FLOSS/</p></details> |
 | **[FA-Seg: A Fast and Accurate Diffusion-Based Method for Open-Vocabulary Segmentation](http://arxiv.org/abs/2506.23323v3)** | 2025-07-15 |  |
 | **[Personalized OVSS: Understanding Personal Concept in Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2507.11030v1)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025; 15 pages</p></details> |
-| **[Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models](http://arxiv.org/abs/2501.16769v5)** | 2025-07-02 | <details><summary>Accep...</summary><p>Accepted at the 17th IEEE International Conference on Advanced Computational Intelligence (ICACI 2025)</p></details> |
 
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -77,19 +77,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RobotArena $\infty$: Scalable Robot Benchmarking via Real-to-Sim Translation](http://arxiv.org/abs/2510.23571v1)** | 2025-10-27 | <details><summary>Websi...</summary><p>Website: https://robotarenainf.github.io</p></details> |
-| **[Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis](http://arxiv.org/abs/2411.16503v2)** | 2025-10-27 | <details><summary>Updat...</summary><p>Updated author formatting; no substantive changes</p></details> |
-| **[VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation](http://arxiv.org/abs/2510.23497v1)** | 2025-10-27 | <details><summary>www.w...</summary><p>www.walidbousselham.com/VOLD/</p></details> |
-| **[On the Faithfulness of Visual Thinking: Measurement and Enhancement](http://arxiv.org/abs/2510.23482v1)** | 2025-10-27 |  |
-| **[Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models](http://arxiv.org/abs/2503.13939v5)** | 2025-10-27 |  |
-| **[World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training](http://arxiv.org/abs/2509.24948v2)** | 2025-10-27 |  |
-| **[GRE Suite: Geo-localization Inference via Fine-Tuned Vision-Language Models and Enhanced Reasoning Chains](http://arxiv.org/abs/2505.18700v4)** | 2025-10-27 |  |
-| **[A Video Is Not Worth a Thousand Words](http://arxiv.org/abs/2510.23253v1)** | 2025-10-27 |  |
-| **[Process Reward Models for Sentence-Level Verification of LVLM Radiology Reports](http://arxiv.org/abs/2510.23217v1)** | 2025-10-27 |  |
-| **[DecoDINO: 3D Human-Scene Contact Prediction with Semantic Classification](http://arxiv.org/abs/2510.23203v1)** | 2025-10-27 |  |
-| **[Evaluation of Vision-LLMs in Surveillance Video](http://arxiv.org/abs/2510.23190v1)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted as poster in the NeurIPS 2025 Workshop on Space in Vision, Language, and Embodied AI</p></details> |
-| **[Finding 3D Scene Analogies with Multimodal Foundation Models](http://arxiv.org/abs/2510.23184v1)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted to FM4RoboPlan workshop at RSS 2025</p></details> |
-| **[Attention! Your Vision Language Model Could Be Maliciously Manipulated](http://arxiv.org/abs/2505.19911v2)** | 2025-10-27 | NeurIPS 2025 |
-| **[Can Less Precise Be More Reliable? A Systematic Evaluation of Quantization's Impact on CLIP Beyond Accuracy](http://arxiv.org/abs/2509.21173v3)** | 2025-10-27 | <details><summary>Prepr...</summary><p>Preprint, under peer review</p></details> |
-| **[Revisiting Multimodal Positional Encoding in Vision-Language Models](http://arxiv.org/abs/2510.23095v1)** | 2025-10-27 | 16 pages |
+| **[Advancing site-specific disease and pest management in precision agriculture: From reasoning-driven foundation models to adaptive, feedback-based learning](http://arxiv.org/abs/2510.24650v1)** | 2025-10-28 | <details><summary>26 pa...</summary><p>26 pages, 8 figures, and 2 tables</p></details> |
+| **[Mano Technical Report](http://arxiv.org/abs/2509.17336v2)** | 2025-10-28 |  |
+| **[OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows](http://arxiv.org/abs/2510.24411v1)** | 2025-10-28 | work in progress |
+| **[Video-SafetyBench: A Benchmark for Safety Evaluation of Video LVLMs](http://arxiv.org/abs/2505.11842v3)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 Dataset and Benchmark Track, Project page: https://liuxuannan.github.io/Video-SafetyBench.github.io/</p></details> |
+| **[Advancing Compositional Awareness in CLIP with Efficient Fine-Tuning](http://arxiv.org/abs/2505.24424v2)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[What do vision-language models see in the context? Investigating multimodal in-context learning](http://arxiv.org/abs/2510.24331v1)** | 2025-10-28 |  |
+| **[Few-Shot Remote Sensing Image Scene Classification with CLIP and Prompt Learning](http://arxiv.org/abs/2510.24321v1)** | 2025-10-28 |  |
+| **[VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation](http://arxiv.org/abs/2510.23497v2)** | 2025-10-28 | <details><summary>www.w...</summary><p>www.walidbousselham.com/VOLD/</p></details> |
+| **[ViPER: Empowering the Self-Evolution of Visual Perception Abilities in Vision-Language Model](http://arxiv.org/abs/2510.24285v1)** | 2025-10-28 |  |
+| **[Enabling Near-realtime Remote Sensing via Satellite-Ground Collaboration of Large Vision-Language Models](http://arxiv.org/abs/2510.24242v1)** | 2025-10-28 | 15 pages, 11 figures |
+| **[V-SAT: Video Subtitle Annotation Tool](http://arxiv.org/abs/2510.24180v1)** | 2025-10-28 |  |
+| **[Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images](http://arxiv.org/abs/2508.15256v2)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. Code is available at: https://github.com/QuIIL/ICCV2025_Ano-NAViLa</p></details> |
+| **[Enhancing Vision-Language Models for Autonomous Driving through Task-Specific Prompting and Spatial Reasoning](http://arxiv.org/abs/2510.24152v1)** | 2025-10-28 | <details><summary>RoboS...</summary><p>RoboSense Challenge with IROS 2025</p></details> |
+| **[GRPO-MA: Multi-Answer Generation in GRPO for Stable and Efficient Chain-of-Thought Training](http://arxiv.org/abs/2509.24494v2)** | 2025-10-28 | Under review |
+| **[Compositional Image Synthesis with Inference-Time Scaling](http://arxiv.org/abs/2510.24133v1)** | 2025-10-28 | <details><summary>projc...</summary><p>projcet page: https://github.com/gcl-inha/ReFocus</p></details> |
 
