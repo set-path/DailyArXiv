@@ -1,5 +1,5 @@
 ---
-title: Papers - October 31, 2025
+title: Papers - November 03, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -77,19 +77,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PairUni: Pairwise Training for Unified Multimodal Language Models](http://arxiv.org/abs/2510.25682v1)** | 2025-10-29 |  |
-| **[ALDEN: Reinforcement Learning for Active Navigation and Evidence Gathering in Long Documents](http://arxiv.org/abs/2510.25668v1)** | 2025-10-29 |  |
-| **[Don't Blind Your VLA: Aligning Visual Representations for OOD Generalization](http://arxiv.org/abs/2510.25616v1)** | 2025-10-29 | 13 pages, 6 figures |
-| **[Using VLM Reasoning to Constrain Task and Motion Planning](http://arxiv.org/abs/2510.25548v1)** | 2025-10-29 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 1 table. Submitted to ICRA 2026</p></details> |
-| **[Seeing, Signing, and Saying: A Vision-Language Model-Assisted Pipeline for Sign Language Data Acquisition and Curation from Social Media](http://arxiv.org/abs/2510.25413v1)** | 2025-10-29 | <details><summary>Accep...</summary><p>Accepted by RANLP 2025</p></details> |
-| **[Think Twice Before You Judge: Mixture of Dual Reasoning Experts for Multimodal Sarcasm Detection](http://arxiv.org/abs/2507.04458v2)** | 2025-10-29 |  |
-| **[SoraNav: Adaptive UAV Task-Centric Navigation via Zeroshot VLM Reasoning](http://arxiv.org/abs/2510.25191v1)** | 2025-10-29 |  |
-| **[Agentic Moderation: Multi-Agent Design for Safer Vision-Language Models](http://arxiv.org/abs/2510.25179v1)** | 2025-10-29 |  |
-| **[Evaluation of Safety Cognition Capability in Vision-Language Models for Autonomous Driving](http://arxiv.org/abs/2503.06497v3)** | 2025-10-29 |  |
-| **[RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation](http://arxiv.org/abs/2506.06677v2)** | 2025-10-29 | <details><summary>25 pa...</summary><p>25 pages, 18 figures, Accepted by NeurIPS 2025</p></details> |
-| **[Learning Spatial-Aware Manipulation Ordering](http://arxiv.org/abs/2510.25138v1)** | 2025-10-29 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
-| **[NanoVLA: Routing Decoupled Vision-Language Understanding for Nano-sized Generalist Robotic Policies](http://arxiv.org/abs/2510.25122v1)** | 2025-10-29 |  |
-| **[Visual Diversity and Region-aware Prompt Learning for Zero-shot HOI Detection](http://arxiv.org/abs/2510.25094v1)** | 2025-10-29 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models](http://arxiv.org/abs/2505.16854v3)** | 2025-10-29 | <details><summary>camer...</summary><p>camera ready revision</p></details> |
-| **[DRIP: Dynamic patch Reduction via Interpretable Pooling](http://arxiv.org/abs/2510.25067v1)** | 2025-10-29 |  |
+| **[ChartAB: A Benchmark for Chart Grounding & Dense Alignment](http://arxiv.org/abs/2510.26781v1)** | 2025-10-30 |  |
+| **[SteerVLM: Robust Model Control through Lightweight Activation Steering for Vision Language Models](http://arxiv.org/abs/2510.26769v1)** | 2025-10-30 |  |
+| **[CronusVLA: Towards Efficient and Robust Manipulation via Multi-Frame Vision-Language-Action Modeling](http://arxiv.org/abs/2506.19816v2)** | 2025-10-30 | 39 pages, 24 figures |
+| **[All You Need for Object Detection: From Pixels, Points, and Prompts to Next-Gen Fusion and Multimodal LLMs/VLMs in Autonomous Vehicles](http://arxiv.org/abs/2510.26641v1)** | 2025-10-30 |  |
+| **[PairUni: Pairwise Training for Unified Multimodal Language Models](http://arxiv.org/abs/2510.25682v2)** | 2025-10-30 | <details><summary>21 pa...</summary><p>21 pages, 11 figures, and 8 tables</p></details> |
+| **[Counteracting Matthew Effect in Self-Improvement of LVLMs through Head-Tail Re-balancing](http://arxiv.org/abs/2510.26474v1)** | 2025-10-30 | Preprint |
+| **[Representation-Level Counterfactual Calibration for Debiased Zero-Shot Recognition](http://arxiv.org/abs/2510.26466v1)** | 2025-10-30 |  |
+| **[Towards Fine-Grained Vision-Language Alignment for Few-Shot Anomaly Detection](http://arxiv.org/abs/2510.26464v1)** | 2025-10-30 | 12 pages, 7 figures |
+| **[A-TPT: Angular Diversity Calibration Properties for Test-Time Prompt Tuning of Vision-Language Models](http://arxiv.org/abs/2510.26441v1)** | 2025-10-30 | 23 pages, 14 figures |
+| **[MedSAE: Dissecting MedCLIP Representations with Sparse Autoencoders](http://arxiv.org/abs/2510.26411v1)** | 2025-10-30 |  |
+| **[TRUST-VL: An Explainable News Assistant for General Multimodal Misinformation Detection](http://arxiv.org/abs/2509.04448v2)** | 2025-10-30 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Oral; Project Homepage: https://yanzehong.github.io/trust-vl/</p></details> |
+| **[D-HUMOR: Dark Humor Understanding via Multimodal Open-ended Reasoning -- A Benchmark Dataset and Method](http://arxiv.org/abs/2509.06771v2)** | 2025-10-30 | <details><summary>Accep...</summary><p>Accepted at IEEE International Conference on Data Mining (ICDM) 2025</p></details> |
+| **[Distilling Multilingual Vision-Language Models: When Smaller Models Stay Multilingual](http://arxiv.org/abs/2510.26271v1)** | 2025-10-30 | Work in progress |
+| **[Which Way Does Time Flow? A Psychophysics-Grounded Evaluation for Vision-Language Models](http://arxiv.org/abs/2510.26241v1)** | 2025-10-30 | 10 pages |
+| **[MV-MLM: Bridging Multi-View Mammography and Language for Breast Cancer Diagnosis and Risk Prediction](http://arxiv.org/abs/2510.26151v1)** | 2025-10-30 | <details><summary>Accep...</summary><p>Accepted to Computer Vision for Automated Medical Diagnosis (CVAMD) Workshop at ICCV 2025</p></details> |
 
