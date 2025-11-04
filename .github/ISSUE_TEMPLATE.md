@@ -1,5 +1,5 @@
 ---
-title: Papers - November 04, 2025
+title: Papers - November 05, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,6 +24,8 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Accelerating Volumetric Medical Image Annotation via Short-Long Memory SAM 2](http://arxiv.org/abs/2505.01854v2)** | 2025-11-03 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Medical Imaging (IEEE TMI)</p></details> |
+| **[VRP-SAM: SAM with Visual Reference Prompt](http://arxiv.org/abs/2402.17726v4)** | 2025-11-01 | <details><summary>Accep...</summary><p>Accepted by CVPR 2024; The camera-ready version</p></details> |
 | **[BALR-SAM: Boundary-Aware Low-Rank Adaptation of SAM for Resource-Efficient Medical Image Segmentation](http://arxiv.org/abs/2509.24204v2)** | 2025-10-31 |  |
 | **[SAM 2++: Tracking Anything at Any Granularity](http://arxiv.org/abs/2510.18822v2)** | 2025-10-22 | update results |
 | **[EMA-SAM: Exponential Moving-average for SAM-based PTMC Segmentation](http://arxiv.org/abs/2510.18213v1)** | 2025-10-21 |  |
@@ -37,8 +39,6 @@ labels: documentation
 | **[SGDFuse: SAM-Guided Diffusion for High-Fidelity Infrared and Visible Image Fusion](http://arxiv.org/abs/2508.05264v3)** | 2025-09-10 | <details><summary>Submi...</summary><p>Submitted to Information Fusion</p></details> |
 | **[SAM$^{*}$: Task-Adaptive SAM with Physics-Guided Rewards](http://arxiv.org/abs/2509.07047v1)** | 2025-09-08 | 19 pages, 8 figures |
 | **[EdgeSAM: Prompt-In-the-Loop Distillation for SAM](http://arxiv.org/abs/2312.06660v3)** | 2025-09-07 | <details><summary>IJCV ...</summary><p>IJCV 2025. Project page: https://www.mmlab-ntu.com/project/edgesam</p></details> |
-| **[Enhancing Self-Driving Segmentation in Adverse Weather Conditions: A Dual Uncertainty-Aware Training Approach to SAM Optimization](http://arxiv.org/abs/2509.04735v1)** | 2025-09-05 |  |
-| **[Repurposing SAM for User-Defined Semantics Aware Segmentation](http://arxiv.org/abs/2312.02420v3)** | 2025-09-03 |  |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -77,19 +77,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PETAR: Localized Findings Generation with Mask-Aware Vision-Language Modeling for PET Automated Reporting](http://arxiv.org/abs/2510.27680v1)** | 2025-10-31 |  |
-| **[Spatial-SSRL: Enhancing Spatial Understanding via Self-Supervised Reinforcement Learning](http://arxiv.org/abs/2510.27606v1)** | 2025-10-31 | preprint |
-| **[NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation](http://arxiv.org/abs/2504.13055v4)** | 2025-10-31 | NeurIPS 2025 |
-| **[From Pixels to Paths: A Multi-Agent Framework for Editable Scientific Illustration](http://arxiv.org/abs/2510.27452v1)** | 2025-10-31 |  |
-| **[Modality Alignment across Trees on Heterogeneous Hyperbolic Manifolds](http://arxiv.org/abs/2510.27391v1)** | 2025-10-31 |  |
-| **[Mano Technical Report](http://arxiv.org/abs/2509.17336v3)** | 2025-10-31 |  |
-| **[FOCUS: Efficient Keyframe Selection for Long Video Understanding](http://arxiv.org/abs/2510.27280v1)** | 2025-10-31 |  |
-| **[T3: Test-Time Model Merging in VLMs for Zero-Shot Medical Imaging Analysis](http://arxiv.org/abs/2510.27265v1)** | 2025-10-31 | <details><summary>Main:...</summary><p>Main: 11 pages, Supplementary: 9 pages 10 tables, 10 figures</p></details> |
-| **[ECVL-ROUTER: Scenario-Aware Routing for Vision-Language Models](http://arxiv.org/abs/2510.27256v1)** | 2025-10-31 | <details><summary>23 pa...</summary><p>23 pages, 13 figures, 7 tables</p></details> |
-| **[Enhancing Spatio-Temporal Zero-shot Action Recognition with Language-driven Description Attributes](http://arxiv.org/abs/2510.27255v1)** | 2025-10-31 |  |
-| **[Generating Accurate and Detailed Captions for High-Resolution Images](http://arxiv.org/abs/2510.27164v1)** | 2025-10-31 | <details><summary>Work ...</summary><p>Work conducted in 2024; released for archival purposes</p></details> |
-| **[Integrating Video and Text: A Balanced Approach to Multimodal Summary Generation and Evaluation](http://arxiv.org/abs/2505.06594v2)** | 2025-10-31 |  |
-| **[Sim2Real Diffusion: Leveraging Foundation Vision Language Models for Adaptive Automated Driving](http://arxiv.org/abs/2507.00236v3)** | 2025-10-31 | <details><summary>Accep...</summary><p>Accepted in IEEE Robotics and Automation Letters (RA-L)</p></details> |
-| **[Variational Visual Question Answering for Uncertainty-Aware Selective Prediction](http://arxiv.org/abs/2505.09591v2)** | 2025-10-31 | under review at TMLR |
-| **[AVA: Towards Agentic Video Analytics with Vision Language Models](http://arxiv.org/abs/2505.00254v5)** | 2025-10-31 | <details><summary>Accep...</summary><p>Accepted to NDSI 2026, 19pages, 12 figures, complementary evaluations and appendix</p></details> |
+| **[Enhancing Spatio-Temporal Zero-shot Action Recognition with Language-driven Description Attributes](http://arxiv.org/abs/2510.27255v2)** | 2025-11-03 |  |
+| **[ChartAB: A Benchmark for Chart Grounding & Dense Alignment](http://arxiv.org/abs/2510.26781v2)** | 2025-11-03 |  |
+| **[MGPATH: Vision-Language Model with Multi-Granular Prompt Learning for Few-Shot WSI Classification](http://arxiv.org/abs/2502.07409v5)** | 2025-11-03 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (09/2025)</p></details> |
+| **[Representation-Level Counterfactual Calibration for Debiased Zero-Shot Recognition](http://arxiv.org/abs/2510.26466v2)** | 2025-11-03 |  |
+| **[From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems](http://arxiv.org/abs/2505.15685v2)** | 2025-11-03 | <details><summary>EMNLP...</summary><p>EMNLP 2025 camera ready</p></details> |
+| **[CrowdVLM-R1: Expanding R1 Ability to Vision Language Model for Crowd Counting using Fuzzy Group Relative Policy Reward](http://arxiv.org/abs/2504.03724v2)** | 2025-11-02 | <details><summary>10 pa...</summary><p>10 pages, 6 figures and 4 tables</p></details> |
+| **[AlignVLM: Bridging Vision and Language Latent Spaces for Multimodal Document Understanding](http://arxiv.org/abs/2502.01341v2)** | 2025-11-02 |  |
+| **[SAIL-Embedding Technical Report: Omni-modal Embedding Foundation Model](http://arxiv.org/abs/2510.12709v3)** | 2025-11-02 | Technical Report |
+| **[CoralVQA: A Large-Scale Visual Question Answering Dataset for Coral Reef Image Understanding](http://arxiv.org/abs/2507.10449v2)** | 2025-11-02 |  |
+| **[Federated Vision-Language-Recommendation with Personalized Fusion](http://arxiv.org/abs/2410.08478v4)** | 2025-11-02 | <details><summary>15 pa...</summary><p>15 pages, 10 figures, 7 tables, conference</p></details> |
+| **[Vision-Language Model-Based Semantic-Guided Imaging Biomarker for Lung Nodule Malignancy Prediction](http://arxiv.org/abs/2504.21344v3)** | 2025-11-01 |  |
+| **[A Closer Look at Bias and Chain-of-Thought Faithfulness of Large (Vision) Language Models](http://arxiv.org/abs/2505.23945v2)** | 2025-11-01 | <details><summary>Accep...</summary><p>Accepted in EMNLP 2025, 34 pages, 25 figures</p></details> |
+| **[OpenFACADES: An Open Framework for Architectural Caption and Attribute Data Enrichment via Street View Imagery](http://arxiv.org/abs/2504.02866v2)** | 2025-11-01 |  |
+| **[3MDBench: Medical Multimodal Multi-agent Dialogue Benchmark](http://arxiv.org/abs/2504.13861v3)** | 2025-11-01 | EMNLP 25 (main) |
+| **[Jarvis: Towards Personalized AI Assistant via Personal KV-Cache Retrieval](http://arxiv.org/abs/2510.22765v2)** | 2025-11-01 | 19 pages, 7 figures |
 
