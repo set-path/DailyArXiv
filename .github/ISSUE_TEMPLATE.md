@@ -1,5 +1,5 @@
 ---
-title: Papers - November 05, 2025
+title: Papers - November 06, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -77,19 +77,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enhancing Spatio-Temporal Zero-shot Action Recognition with Language-driven Description Attributes](http://arxiv.org/abs/2510.27255v2)** | 2025-11-03 |  |
-| **[ChartAB: A Benchmark for Chart Grounding & Dense Alignment](http://arxiv.org/abs/2510.26781v2)** | 2025-11-03 |  |
-| **[MGPATH: Vision-Language Model with Multi-Granular Prompt Learning for Few-Shot WSI Classification](http://arxiv.org/abs/2502.07409v5)** | 2025-11-03 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (09/2025)</p></details> |
-| **[Representation-Level Counterfactual Calibration for Debiased Zero-Shot Recognition](http://arxiv.org/abs/2510.26466v2)** | 2025-11-03 |  |
-| **[From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems](http://arxiv.org/abs/2505.15685v2)** | 2025-11-03 | <details><summary>EMNLP...</summary><p>EMNLP 2025 camera ready</p></details> |
-| **[CrowdVLM-R1: Expanding R1 Ability to Vision Language Model for Crowd Counting using Fuzzy Group Relative Policy Reward](http://arxiv.org/abs/2504.03724v2)** | 2025-11-02 | <details><summary>10 pa...</summary><p>10 pages, 6 figures and 4 tables</p></details> |
-| **[AlignVLM: Bridging Vision and Language Latent Spaces for Multimodal Document Understanding](http://arxiv.org/abs/2502.01341v2)** | 2025-11-02 |  |
-| **[SAIL-Embedding Technical Report: Omni-modal Embedding Foundation Model](http://arxiv.org/abs/2510.12709v3)** | 2025-11-02 | Technical Report |
-| **[CoralVQA: A Large-Scale Visual Question Answering Dataset for Coral Reef Image Understanding](http://arxiv.org/abs/2507.10449v2)** | 2025-11-02 |  |
-| **[Federated Vision-Language-Recommendation with Personalized Fusion](http://arxiv.org/abs/2410.08478v4)** | 2025-11-02 | <details><summary>15 pa...</summary><p>15 pages, 10 figures, 7 tables, conference</p></details> |
-| **[Vision-Language Model-Based Semantic-Guided Imaging Biomarker for Lung Nodule Malignancy Prediction](http://arxiv.org/abs/2504.21344v3)** | 2025-11-01 |  |
-| **[A Closer Look at Bias and Chain-of-Thought Faithfulness of Large (Vision) Language Models](http://arxiv.org/abs/2505.23945v2)** | 2025-11-01 | <details><summary>Accep...</summary><p>Accepted in EMNLP 2025, 34 pages, 25 figures</p></details> |
-| **[OpenFACADES: An Open Framework for Architectural Caption and Attribute Data Enrichment via Street View Imagery](http://arxiv.org/abs/2504.02866v2)** | 2025-11-01 |  |
-| **[3MDBench: Medical Multimodal Multi-agent Dialogue Benchmark](http://arxiv.org/abs/2504.13861v3)** | 2025-11-01 | EMNLP 25 (main) |
-| **[Jarvis: Towards Personalized AI Assistant via Personal KV-Cache Retrieval](http://arxiv.org/abs/2510.22765v2)** | 2025-11-01 | 19 pages, 7 figures |
+| **[XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](http://arxiv.org/abs/2511.02776v1)** | 2025-11-04 |  |
+| **[Prompt to Restore, Restore to Prompt: Cyclic Prompting for Universal Adverse Weather Removal](http://arxiv.org/abs/2503.09013v2)** | 2025-11-04 |  |
+| **[Adapting General-Purpose Foundation Models for X-ray Ptychography in Low-Data Regimes](http://arxiv.org/abs/2511.02503v1)** | 2025-11-04 |  |
+| **[MIP against Agent: Malicious Image Patches Hijacking Multimodal OS Agents](http://arxiv.org/abs/2503.10809v2)** | 2025-11-04 | NeurIPS 2025 |
+| **[RxnCaption: Reformulating Reaction Diagram Parsing as Visual Prompt Guided Captioning](http://arxiv.org/abs/2511.02384v1)** | 2025-11-04 |  |
+| **[From Flat to Hierarchical: Extracting Sparse Representations with Matching Pursuit](http://arxiv.org/abs/2506.03093v2)** | 2025-11-04 | <details><summary>39th ...</summary><p>39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[The Pervasive Blind Spot: Benchmarking VLM Inference Risks on Everyday Personal Videos](http://arxiv.org/abs/2511.02367v1)** | 2025-11-04 |  |
+| **[Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation](http://arxiv.org/abs/2503.18065v3)** | 2025-11-04 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Neural Networks and Learning Systems</p></details> |
+| **[CoCoVa: Chain of Continuous Vision-Language Thought for Latent Space Reasoning](http://arxiv.org/abs/2511.02360v1)** | 2025-11-04 |  |
+| **[Grounded Vision-Language Interpreter for Integrated Task and Motion Planning](http://arxiv.org/abs/2506.03270v2)** | 2025-11-04 | <details><summary>Proje...</summary><p>Project website: https://omron-sinicx.github.io/ViLaIn-TAMP/</p></details> |
+| **[LACY: A Vision-Language Model-based Language-Action Cycle for Self-Improving Robotic Manipulation](http://arxiv.org/abs/2511.02239v1)** | 2025-11-04 | <details><summary>Prepr...</summary><p>Preprint. Project page: https://vla2026.github.io/LACY/</p></details> |
+| **[Dynamic Routing Between Experts: A Data-Efficient Approach to Continual Learning in Vision-Language Models](http://arxiv.org/abs/2511.01831v2)** | 2025-11-04 |  |
+| **[ID-Composer: Multi-Subject Video Synthesis with Hierarchical Identity Preservation](http://arxiv.org/abs/2511.00511v2)** | 2025-11-04 |  |
+| **[MetAdv: A Unified and Interactive Adversarial Testing Platform for Autonomous Driving](http://arxiv.org/abs/2508.06534v3)** | 2025-11-04 | <details><summary>ACM M...</summary><p>ACM MM 2025 Most Popular Demo Award</p></details> |
+| **[DRIP: Dynamic patch Reduction via Interpretable Pooling](http://arxiv.org/abs/2510.25067v2)** | 2025-11-04 | Need more refinement |
 
