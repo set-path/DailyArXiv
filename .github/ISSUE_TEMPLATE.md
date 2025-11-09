@@ -1,10 +1,11 @@
 ---
-title: Papers - November 07, 2025
+title: Papers - November 10, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Chest X-ray with Zero-Shot Multi-Task Capability](http://arxiv.org/abs/2504.07416v3)** | 2025-11-06 | NeurIPS 2025 |
 | **[Improving Visual Discriminability of CLIP for Training-Free Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2510.23894v1)** | 2025-10-27 | <details><summary>23 pa...</summary><p>23 pages, 10 figures, 14 tables</p></details> |
 | **[Neuro-Symbolic Spatial Reasoning in Segmentation](http://arxiv.org/abs/2510.15841v1)** | 2025-10-17 |  |
 | **[Lost in Translation? Vocabulary Alignment for Source-Free Adaptation in Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2509.15225v3)** | 2025-09-29 | <details><summary>BMVC ...</summary><p>BMVC 2025 - Project Page: https://thegoodailab.org/blog/vocalign - Code: https://github.com/Sisso16/VocAlign</p></details> |
@@ -19,7 +20,6 @@ labels: documentation
 | **[CorrCLIP: Reconstructing Patch Correlations in CLIP for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2411.10086v3)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025 Oral</p></details> |
 | **[FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation](http://arxiv.org/abs/2504.10487v2)** | 2025-07-30 | <details><summary>ICCV ...</summary><p>ICCV 2025; Project Page: https://yasserben.github.io/FLOSS/</p></details> |
 | **[FA-Seg: A Fast and Accurate Diffusion-Based Method for Open-Vocabulary Segmentation](http://arxiv.org/abs/2506.23323v3)** | 2025-07-15 |  |
-| **[Personalized OVSS: Understanding Personal Concept in Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2507.11030v1)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025; 15 pages</p></details> |
 
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -40,7 +40,7 @@ labels: documentation
 | **[SGDFuse: SAM-Guided Diffusion for High-Fidelity Infrared and Visible Image Fusion](http://arxiv.org/abs/2508.05264v3)** | 2025-09-10 | <details><summary>Submi...</summary><p>Submitted to Information Fusion</p></details> |
 | **[SAM$^{*}$: Task-Adaptive SAM with Physics-Guided Rewards](http://arxiv.org/abs/2509.07047v1)** | 2025-09-08 | 19 pages, 8 figures |
 
-## Remote Sensing Segmentation - Preview 10 papers
+## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[SAM2-ELNet: Label Enhancement and Automatic Annotation for Remote Sensing Segmentation](http://arxiv.org/abs/2503.12404v2)** | 2025-09-21 | <details><summary>publi...</summary><p>published in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</p></details> |
@@ -53,6 +53,11 @@ labels: documentation
 | **[AerOSeg: Harnessing SAM for Open-Vocabulary Segmentation in Remote Sensing Images](http://arxiv.org/abs/2504.09203v1)** | 2025-04-12 | <details><summary>Accep...</summary><p>Accepted at EarthVision workshop, CVPR 2025</p></details> |
 | **[Center-guided Classifier for Semantic Segmentation of Remote Sensing Images](http://arxiv.org/abs/2503.16963v1)** | 2025-03-21 |  |
 | **[Joint-Optimized Unsupervised Adversarial Domain Adaptation in Remote Sensing Segmentation with Prompted Foundation Model](http://arxiv.org/abs/2411.05878v2)** | 2024-11-18 | <details><summary>12 pa...</summary><p>12 pages,6 figures, 6 tables</p></details> |
+| **[Graph Information Bottleneck for Remote Sensing Segmentation](http://arxiv.org/abs/2312.02545v2)** | 2024-08-31 | 13 pages, 6 figures |
+| **[Hi-ResNet: Edge Detail Enhancement for High-Resolution Remote Sensing Segmentation](http://arxiv.org/abs/2305.12691v3)** | 2024-08-15 |  |
+| **[ALPS: An Auto-Labeling and Pre-training Scheme for Remote Sensing Segmentation With Segment Anything Model](http://arxiv.org/abs/2406.10855v1)** | 2024-06-16 |  |
+| **[Embedding Generalized Semantic Knowledge into Few-Shot Remote Sensing Segmentation](http://arxiv.org/abs/2405.13686v1)** | 2024-05-22 |  |
+| **[SFFNet: A Wavelet-Based Spatial and Frequency Domain Fusion Network for Remote Sensing Segmentation](http://arxiv.org/abs/2405.01992v1)** | 2024-05-03 |  |
 
 ## Remote Sensing Vision Language Model - Preview 11 papers
 | **Title** | **Date** | **Comment** |
@@ -72,19 +77,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TABLET: A Large-Scale Dataset for Robust Visual Table Understanding](http://arxiv.org/abs/2509.21205v2)** | 2025-11-05 |  |
-| **[Text-guided Fine-Grained Video Anomaly Detection](http://arxiv.org/abs/2511.00524v2)** | 2025-11-05 |  |
-| **[Hulu-Med: A Transparent Generalist Model towards Holistic Medical Vision-Language Understanding](http://arxiv.org/abs/2510.08668v2)** | 2025-11-05 |  |
-| **[Exploring Typographic Visual Prompts Injection Threats in Cross-Modality Generation Models](http://arxiv.org/abs/2503.11519v4)** | 2025-11-05 | <details><summary>This ...</summary><p>This paper is accepted by IJCAI2025 Workshop on Deepfake Detection, Localization, and Interpretability as Best Student Paper</p></details> |
-| **[Revisiting Multimodal Positional Encoding in Vision-Language Models](http://arxiv.org/abs/2510.23095v2)** | 2025-11-05 | 16 pages |
-| **[ViFP: A Framework for Visual False Positive Detection to Enhance Reasoning Reliability in VLMs](http://arxiv.org/abs/2508.04201v2)** | 2025-11-05 |  |
-| **[GUIDES: Guidance Using Instructor-Distilled Embeddings for Pre-trained Robot Policy Enhancement](http://arxiv.org/abs/2511.03400v1)** | 2025-11-05 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, Accepted by IEEE IROS 2025 Workshop WIR-M</p></details> |
-| **[Decoupling Augmentation Bias in Prompt Learning for Vision-Language Models](http://arxiv.org/abs/2511.03367v1)** | 2025-11-05 | <details><summary>Accep...</summary><p>Accepted in Pattern Recognition</p></details> |
-| **[Which Way Does Time Flow? A Psychophysics-Grounded Evaluation for Vision-Language Models](http://arxiv.org/abs/2510.26241v2)** | 2025-11-05 | 10 pages |
-| **[ROADWork: A Dataset and Benchmark for Learning to Recognize, Observe, Analyze and Drive Through Work Zones](http://arxiv.org/abs/2406.07661v3)** | 2025-11-04 | <details><summary>ICCV ...</summary><p>ICCV 2025 Accepted Paper</p></details> |
-| **[NaviTrace: Evaluating Embodied Navigation of Vision-Language Models](http://arxiv.org/abs/2510.26909v2)** | 2025-11-04 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, under review at IEEE conference</p></details> |
-| **[LEGO-Eval: Towards Fine-Grained Evaluation on Synthesizing 3D Embodied Environments with Tool Augmentation](http://arxiv.org/abs/2511.03001v1)** | 2025-11-04 | Work in Progress |
-| **[SCALE-VLP: Soft-Weighted Contrastive Volumetric Vision-Language Pre-training with Spatial-Knowledge Semantics](http://arxiv.org/abs/2511.02996v1)** | 2025-11-04 |  |
-| **[XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](http://arxiv.org/abs/2511.02776v1)** | 2025-11-04 |  |
-| **[Prompt to Restore, Restore to Prompt: Cyclic Prompting for Universal Adverse Weather Removal](http://arxiv.org/abs/2503.09013v2)** | 2025-11-04 |  |
+| **[SAFe-Copilot: Unified Shared Autonomy Framework](http://arxiv.org/abs/2511.04664v1)** | 2025-11-06 |  |
+| **[DashCLIP: Leveraging multimodal models for generating semantic embeddings for DoorDash](http://arxiv.org/abs/2504.07110v2)** | 2025-11-06 |  |
+| **[Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm](http://arxiv.org/abs/2511.04570v1)** | 2025-11-06 | 36 pages, 14 figures |
+| **[Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment](http://arxiv.org/abs/2511.04555v1)** | 2025-11-06 | <details><summary>Githu...</summary><p>Github: https://github.com/MINT-SJTU/Evo-1</p></details> |
+| **[ThaiOCRBench: A Task-Diverse Benchmark for Vision-Language Understanding in Thai](http://arxiv.org/abs/2511.04479v1)** | 2025-11-06 | <details><summary>Accep...</summary><p>Accepted at the IJCNLP-AACL 2025 (Main)</p></details> |
+| **[HoliSafe: Holistic Safety Benchmarking and Modeling for Vision-Language Model](http://arxiv.org/abs/2506.04704v4)** | 2025-11-06 | <details><summary>Proje...</summary><p>Project page: https://youngwanlee.github.io/holisafe</p></details> |
+| **[GUI-360: A Comprehensive Dataset and Benchmark for Computer-Using Agents](http://arxiv.org/abs/2511.04307v1)** | 2025-11-06 |  |
+| **[TowerVision: Understanding and Improving Multilinguality in Vision-Language Models](http://arxiv.org/abs/2510.21849v3)** | 2025-11-06 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, submitted to arXiv October 2025. All models, datasets, and training code will be released at https://huggingface.co/collections/utter-project/towervision</p></details> |
+| **[On the Brittleness of CLIP Text Encoders](http://arxiv.org/abs/2511.04247v1)** | 2025-11-06 | <details><summary>Accep...</summary><p>Accepted for publication at MMM'26</p></details> |
+| **[Text to Sketch Generation with Multi-Styles](http://arxiv.org/abs/2511.04123v1)** | 2025-11-06 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[Poutine: Vision-Language-Trajectory Pre-Training and Reinforcement Learning Post-Training Enable Robust End-to-End Autonomous Driving](http://arxiv.org/abs/2506.11234v4)** | 2025-11-06 |  |
+| **[Team Xiaomi EV-AD VLA: Caption-Guided Retrieval System for Cross-Modal Drone Navigation -- Technical Report for IROS 2025 RoboSense Challenge Track 4](http://arxiv.org/abs/2510.02728v2)** | 2025-11-06 |  |
+| **[Gestura: A LVLM-Powered System Bridging Motion and Semantics for Real-Time Free-Form Gesture Understanding](http://arxiv.org/abs/2510.21814v2)** | 2025-11-06 | IMWUT2025 |
+| **[Context informs pragmatic interpretation in vision-language models](http://arxiv.org/abs/2511.03908v1)** | 2025-11-05 | <details><summary>Accep...</summary><p>Accepted at CogInterp Workshop, NeurIPS 2025</p></details> |
+| **[Seg the HAB: Language-Guided Geospatial Algae Bloom Reasoning and Segmentation](http://arxiv.org/abs/2510.18751v2)** | 2025-11-05 |  |
 
