@@ -1,5 +1,5 @@
 ---
-title: Papers - November 13, 2025
+title: Papers - November 14, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -15,9 +15,9 @@ labels: documentation
 | **[SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation](https://arxiv.org/pdf/2311.15537v2)** | 2024-02-28 | Accepted by CVPR2024 |
 | **[Incorporating Feature Pyramid Tokenization and Open Vocabulary Semantic Segmentation](https://arxiv.org/pdf/2412.14145v1)** | 2024-12-19 | 6 pages, 6 figures |
 | **[Open-RGBT: Open-vocabulary RGB-T Zero-shot Semantic Segmentation in Open-world Environments](https://arxiv.org/pdf/2410.06626v1)** | 2024-10-10 |  |
-| **[Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter](https://arxiv.org/pdf/2309.02773v3)** | 2024-01-23 |  |
 | **[TAG: Guidance-free Open-Vocabulary Semantic Segmentation](https://arxiv.org/pdf/2403.11197v1)** | 2024-03-19 | 18 pages |
 | **[Side Adapter Network for Open-Vocabulary Semantic Segmentation](https://arxiv.org/pdf/2302.12242v2)** | 2023-03-23 | CVPR2023 Highlight |
+| **[Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter](https://arxiv.org/pdf/2309.02773v3)** | 2024-01-23 |  |
 | **[Exploring Open-Vocabulary Semantic Segmentation without Human Labels](https://arxiv.org/pdf/2306.00450v1)** | 2023-06-02 |  |
 | **[Effective SAM Combination for Open-Vocabulary Semantic Segmentation](https://arxiv.org/pdf/2411.14723v2)** | 2025-04-01 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
 
@@ -31,14 +31,14 @@ labels: documentation
 | **[SAM-CP: Marrying SAM with Composable Prompts for Versatile Segmentation](https://arxiv.org/pdf/2407.16682v2)** | 2025-04-15 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025; codes:https://github.com/ucas-vg/SAM-CP</p></details> |
 | **[SAM-SP: Self-Prompting Makes SAM Great Again](https://arxiv.org/pdf/2408.12364v1)** | 2024-08-23 | Under Review |
 | **[Polyp-SAM++: Can A Text Guided SAM Perform Better for Polyp Segmentation?](https://arxiv.org/pdf/2308.06623v1)** | 2023-08-15 |  |
-| **[Is SAM 2 Better than SAM in Medical Image Segmentation?](https://arxiv.org/pdf/2408.04212v2)** | 2025-04-16 |  |
 | **[SEG-SAM: Semantic-Guided SAM for Unified Medical Image Segmentation](https://arxiv.org/pdf/2412.12660v1)** | 2024-12-18 | 12 pages, 3 figures |
+| **[Is SAM 2 Better than SAM in Medical Image Segmentation?](https://arxiv.org/pdf/2408.04212v2)** | 2025-04-16 |  |
 | **[PA-SAM: Prompt Adapter SAM for High-Quality Image Segmentation](https://arxiv.org/pdf/2401.13051v1)** | 2024-01-25 | <details><summary>Code ...</summary><p>Code is available at https://github.com/xzz2/pa-sam</p></details> |
 | **[EMA-SAM: Exponential Moving-average for SAM-based PTMC Segmentation](https://arxiv.org/pdf/2510.18213v1)** | 2025-10-22 |  |
 | **[From SAM to SAM 2: Exploring Improvements in Meta's Segment Anything Model](https://arxiv.org/pdf/2408.06305v1)** | 2024-08-13 |  |
 | **[SAM for Poultry Science](https://arxiv.org/pdf/2305.10254v1)** | 2023-05-18 |  |
-| **[Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes](https://arxiv.org/pdf/2408.12406v1)** | 2024-08-23 | <details><summary>Accep...</summary><p>Accepted by ECCV2024 Workshop "Computational Aspects of Deep Learning (CADL)"</p></details> |
 | **[BLO-SAM: Bi-level Optimization Based Overfitting-Preventing Finetuning of SAM](https://arxiv.org/pdf/2402.16338v4)** | 2024-03-12 |  |
+| **[Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes](https://arxiv.org/pdf/2408.12406v1)** | 2024-08-23 | <details><summary>Accep...</summary><p>Accepted by ECCV2024 Workshop "Computational Aspects of Deep Learning (CADL)"</p></details> |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -70,13 +70,13 @@ labels: documentation
 | **[RSGPT: A Remote Sensing Vision Language Model and Benchmark](https://arxiv.org/pdf/2307.15266v1)** | 2023-07-31 |  |
 | **[Falcon: A Remote Sensing Vision-Language Foundation Model (Technical Report)](https://arxiv.org/pdf/2503.11070v2)** | 2025-10-17 |  |
 | **[Remote Sensing SpatioTemporal Vision-Language Models: A Comprehensive Survey](https://arxiv.org/pdf/2412.02573v3)** | 2025-09-16 | <details><summary>Publi...</summary><p>Published in IEEE Geoscience and Remote Sensing Magazine</p></details> |
-| **[DDFAV: Remote Sensing Large Vision Language Models Dataset and Evaluation Benchmark](https://arxiv.org/pdf/2411.02733v1)** | 2024-11-06 |  |
 | **[Large Vision-Language Models for Remote Sensing Visual Question Answering](https://arxiv.org/pdf/2411.10857v1)** | 2024-11-19 |  |
+| **[DDFAV: Remote Sensing Large Vision Language Models Dataset and Evaluation Benchmark](https://arxiv.org/pdf/2411.02733v1)** | 2024-11-06 |  |
 | **[Pushing the Limits of Vision-Language Models in Remote Sensing without Human Annotations](https://arxiv.org/pdf/2409.07048v1)** | 2024-09-12 | <details><summary>This ...</summary><p>This study was primarily conducted during the latter half of 2023</p></details> |
-| **[CHOICE: Benchmarking the Remote Sensing Capabilities of Large Vision-Language Models](https://arxiv.org/pdf/2411.18145v3)** | 2025-05-14 | 32 pages, 15 figures |
 | **[Vision-Language Modeling Meets Remote Sensing: Models, Datasets and Perspectives](https://arxiv.org/pdf/2505.14361v1)** | 2025-06-11 | <details><summary>Accep...</summary><p>Accepted by IEEE Geoscience and Remote Sensing Magazine</p></details> |
 | **[Enhancing Remote Sensing Vision-Language Models for Zero-Shot Scene Classification](https://arxiv.org/pdf/2409.00698v2)** | 2025-01-08 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2025</p></details> |
-| **[RemoteCLIP: A Vision Language Foundation Model for Remote Sensing](https://arxiv.org/pdf/2306.11029v4)** | 2024-04-17 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS)</p></details> |
+| **[CHOICE: Benchmarking the Remote Sensing Capabilities of Large Vision-Language Models](https://arxiv.org/pdf/2411.18145v4)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 Track on Datasets and Benchmarks</p></details> |
+| **[UniRS: Unifying Multi-temporal Remote Sensing Tasks through Vision Language Models](https://arxiv.org/pdf/2412.20742v1)** | 2024-12-31 | 12 pages, 5 figures |
 
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
