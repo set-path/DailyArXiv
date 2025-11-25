@@ -1,10 +1,14 @@
 ---
-title: Papers - November 25, 2025
+title: Papers - November 26, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rethinking Intermediate Representation for VLM-based Robot Manipulation](https://arxiv.org/abs/2511.19315v1)** | 2025-11-24 |  |
+| **[MedSAM3: Delving into Segment Anything with Medical Concepts](https://arxiv.org/abs/2511.19046v1)** | 2025-11-24 |  |
+| **[SegSplat: Feed-forward Gaussian Splatting and Open-Set Semantic Segmentation](https://arxiv.org/abs/2511.18386v1)** | 2025-11-23 |  |
+| **[Leverage Cross-Attention for End-to-End Open-Vocabulary Panoptic Reconstruction](https://arxiv.org/abs/2501.01119v2)** | 2025-11-23 | 18 pages, 10 figures |
 | **[Target Refocusing via Attention Redistribution for Open-Vocabulary Semantic Segmentation: An Explainability Perspective](https://arxiv.org/abs/2511.16170v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[InfoCLIP: Bridging Vision-Language Pretraining and Open-Vocabulary Semantic Segmentation via Information-Theoretic Alignment Transfer](https://arxiv.org/abs/2511.15967v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training](https://arxiv.org/abs/2511.15379v1)** | 2025-11-19 |  |
@@ -16,14 +20,14 @@ labels: documentation
 | **[NERVE: Neighbourhood & Entropy-guided Random-walk for training free open-Vocabulary sEgmentation](https://arxiv.org/abs/2511.08248v1)** | 2025-11-11 |  |
 | **[RSVG-ZeroOV: Exploring a Training-Free Framework for Zero-Shot Open-Vocabulary Visual Grounding in Remote Sensing Images](https://arxiv.org/abs/2509.18711v2)** | 2025-11-11 | <details><summary>This ...</summary><p>This work is accepted by AAAI 2026</p></details> |
 | **[Exploring the Underwater World Segmentation without Extra Training](https://arxiv.org/abs/2511.07923v1)** | 2025-11-11 |  |
-| **[Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2505.21844v2)** | 2025-11-09 |  |
-| **[TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models](https://arxiv.org/abs/2505.23769v2)** | 2025-11-06 | <details><summary>Publi...</summary><p>Published in TMLR, with a J2C Certification</p></details> |
-| **[RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Chest X-ray with Zero-Shot Multi-Task Capability](https://arxiv.org/abs/2504.07416v3)** | 2025-11-06 | NeurIPS 2025 |
-| **[ROADWork: A Dataset and Benchmark for Learning to Recognize, Observe, Analyze and Drive Through Work Zones](https://arxiv.org/abs/2406.07661v3)** | 2025-11-04 | <details><summary>ICCV ...</summary><p>ICCV 2025 Accepted Paper</p></details> |
 
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DEAP-3DSAM: Decoder Enhanced and Auto Prompt SAM for 3D Medical Image Segmentation](https://arxiv.org/abs/2511.19071v1)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted by BIBM 2024</p></details> |
+| **[Granular Computing-driven SAM: From Coarse-to-Fine Guidance for Prompt-Free Segmentation](https://arxiv.org/abs/2511.19062v1)** | 2025-11-24 | 19 pages, 7 figures |
+| **[SGDFuse: SAM-Guided Diffusion for High-Fidelity Infrared and Visible Image Fusion](https://arxiv.org/abs/2508.05264v4)** | 2025-11-24 | <details><summary>Submi...</summary><p>Submitted to Information Fusion</p></details> |
+| **[SCALER: SAM-Enhanced Collaborative Learning for Label-Deficient Concealed Object Segmentation](https://arxiv.org/abs/2511.18136v1)** | 2025-11-22 | 4 figures, 6 tables |
 | **[A Unified Stability Analysis of SAM vs SGD: Role of Data Coherence and Emergence of Simplicity Bias](https://arxiv.org/abs/2511.17378v1)** | 2025-11-21 | Neurips 2025 |
 | **[Continual Alignment for SAM: Rethinking Foundation Models for Medical Image Segmentation in Continual Learning](https://arxiv.org/abs/2511.17201v1)** | 2025-11-21 |  |
 | **[SAM 3: Segment Anything with Concepts](https://arxiv.org/abs/2511.16719v1)** | 2025-11-20 |  |
@@ -35,10 +39,6 @@ labels: documentation
 | **[NOVO: Bridging LLaVA and SAM with Visual-only Prompts for Reasoning Segmentation](https://arxiv.org/abs/2511.06651v1)** | 2025-11-10 |  |
 | **[SAMora: Enhancing SAM through Hierarchical Self-Supervised Pre-Training for Medical Images](https://arxiv.org/abs/2511.08626v1)** | 2025-11-09 |  |
 | **[SAM-EM: Real-Time Segmentation for Automated Liquid Phase Transmission Electron Microscopy](https://arxiv.org/abs/2501.03153v2)** | 2025-11-04 |  |
-| **[BoxCell: Leveraging SAM for Cell Segmentation with Box Supervision](https://arxiv.org/abs/2311.17960v2)** | 2025-11-04 |  |
-| **[CenterMamba-SAM: Center-Prioritized Scanning and Temporal Prototypes for Brain Lesion Segmentation](https://arxiv.org/abs/2511.01243v1)** | 2025-11-03 |  |
-| **[Accelerating Volumetric Medical Image Annotation via Short-Long Memory SAM 2](https://arxiv.org/abs/2505.01854v2)** | 2025-11-03 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Medical Imaging (IEEE TMI)</p></details> |
-| **[VRP-SAM: SAM with Visual Reference Prompt](https://arxiv.org/abs/2402.17726v4)** | 2025-11-01 | <details><summary>Accep...</summary><p>Accepted by CVPR 2024; The camera-ready version</p></details> |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RynnVLA-002: A Unified Vision-Language-Action and World Model](https://arxiv.org/abs/2511.17502v1)** | 2025-11-21 |  |
-| **[ID-Crafter: VLM-Grounded Online RL for Compositional Multi-Subject Video Generation](https://arxiv.org/abs/2511.00511v3)** | 2025-11-21 |  |
-| **[MMT-ARD: Multimodal Multi-Teacher Adversarial Distillation for Robust Vision-Language Models](https://arxiv.org/abs/2511.17448v1)** | 2025-11-21 | 10 pages |
-| **[REMSA: An LLM Agent for Foundation Model Selection in Remote Sensing](https://arxiv.org/abs/2511.17442v1)** | 2025-11-21 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/be-chen/REMSA</p></details> |
-| **[SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding](https://arxiv.org/abs/2511.17411v1)** | 2025-11-21 |  |
-| **[Seeing the Forest and the Trees: Query-Aware Tokenizer for Long-Video Multimodal Language Models](https://arxiv.org/abs/2511.11910v2)** | 2025-11-21 |  |
-| **[IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation](https://arxiv.org/abs/2511.17384v1)** | 2025-11-21 |  |
-| **[METIS: Multi-Source Egocentric Training for Integrated Dexterous Vision-Language-Action Model](https://arxiv.org/abs/2511.17366v1)** | 2025-11-21 |  |
-| **[UAM: A Unified Attention-Mamba Backbone of Multimodal Framework for Tumor Cell Classification](https://arxiv.org/abs/2511.17355v1)** | 2025-11-21 |  |
-| **[Agentic Program Verification](https://arxiv.org/abs/2511.17330v1)** | 2025-11-21 | 21 pages, 8 figures |
-| **[SpatialGeo:Boosting Spatial Reasoning in Multimodal LLMs via Geometry-Semantics Fusion](https://arxiv.org/abs/2511.17308v1)** | 2025-11-21 |  |
-| **[OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model](https://arxiv.org/abs/2503.23463v2)** | 2025-11-21 |  |
-| **[MOCHA: Multi-modal Objects-aware Cross-arcHitecture Alignment](https://arxiv.org/abs/2509.14001v4)** | 2025-11-21 |  |
-| **[Platonic Representations for Poverty Mapping: Unified Vision-Language Codes or Agent-Induced Novelty?](https://arxiv.org/abs/2508.01109v2)** | 2025-11-21 | 7 figures |
-| **[DocSLM: A Small Vision-Language Model for Long Multimodal Document Understanding](https://arxiv.org/abs/2511.11313v3)** | 2025-11-21 |  |
+| **[Mixture of Horizons in Action Chunking](https://arxiv.org/abs/2511.19433v1)** | 2025-11-24 | 15 pages, 14 figures |
+| **[Cognitive Foundations for Reasoning and Their Manifestation in LLMs](https://arxiv.org/abs/2511.16660v2)** | 2025-11-24 | <details><summary>40 pa...</summary><p>40 pages, 4 tables, 6 figures</p></details> |
+| **[Chain-of-Visual-Thought: Teaching VLMs to See and Think Better with Continuous Visual Tokens](https://arxiv.org/abs/2511.19418v1)** | 2025-11-24 | <details><summary>Proje...</summary><p>Project page: https://wakalsprojectpage.github.io/comt-website/</p></details> |
+| **[Be My Eyes: Extending Large Language Models to New Modalities Through Multi-Agent Collaboration](https://arxiv.org/abs/2511.19417v1)** | 2025-11-24 |  |
+| **[UISearch: Graph-Based Embeddings for Multimodal Enterprise UI Screenshots Retrieval](https://arxiv.org/abs/2511.19380v1)** | 2025-11-24 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 3 algorithms, 4 tables</p></details> |
+| **[ALMAS: an Autonomous LLM-based Multi-Agent Software Engineering Framework](https://arxiv.org/abs/2510.03463v2)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted to MAS-GAIN Workshop at ASE 2025</p></details> |
+| **[Rethinking Intermediate Representation for VLM-based Robot Manipulation](https://arxiv.org/abs/2511.19315v1)** | 2025-11-24 |  |
+| **[The SA-FARI Dataset: Segment Anything in Footage of Animals for Recognition and Identification](https://arxiv.org/abs/2511.15622v2)** | 2025-11-24 |  |
+| **[FOCUS: Efficient Keyframe Selection for Long Video Understanding](https://arxiv.org/abs/2510.27280v2)** | 2025-11-24 |  |
+| **[VideoLights: Feature Refinement and Cross-Task Alignment Transformer for Joint Video Highlight Detection and Moment Retrieval](https://arxiv.org/abs/2412.01558v2)** | 2025-11-24 |  |
+| **[LAST: LeArning to Think in Space and Time for Generalist Vision-Language Models](https://arxiv.org/abs/2511.19261v1)** | 2025-11-24 |  |
+| **[Medusa: Cross-Modal Transferable Adversarial Attacks on Multimodal Medical Retrieval-Augmented Generation](https://arxiv.org/abs/2511.19257v1)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted at KDD 2026 First Cycle (full version). Authors marked with * contributed equally. Yi Liu is the lead author</p></details> |
+| **[Percept-WAM: Perception-Enhanced World-Awareness-Action Model for Robust End-to-End Autonomous Driving](https://arxiv.org/abs/2511.19221v1)** | 2025-11-24 |  |
+| **[Are Large Vision Language Models Truly Grounded in Medical Images? Evidence from Italian Clinical Visual Question Answering](https://arxiv.org/abs/2511.19220v1)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted at the Workshop on Multimodal Representation Learning for Healthcare (MMRL4H), EurIPS 2025</p></details> |
+| **[MedBridge: Bridging Foundation Vision-Language Models to Medical Image Diagnosis in Chest X-Ray](https://arxiv.org/abs/2505.21698v2)** | 2025-11-24 |  |
 
