@@ -1,10 +1,11 @@
 ---
-title: Papers - December 02, 2025
+title: Papers - December 03, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Language-Guided Open-World Anomaly Segmentation](https://arxiv.org/abs/2512.01427v1)** | 2025-12-01 |  |
 | **[Open Vocabulary Compositional Explanations for Neuron Alignment](https://arxiv.org/abs/2511.20931v1)** | 2025-11-25 | 47 pages, 11 figures |
 | **[SAM-MI: A Mask-Injected Framework for Enhancing Open-Vocabulary Semantic Segmentation with SAM](https://arxiv.org/abs/2511.20027v1)** | 2025-11-25 |  |
 | **[RADSeg: Unleashing Parameter and Compute Efficient Zero-Shot Open-Vocabulary Segmentation Using Agglomerative Models](https://arxiv.org/abs/2511.19704v1)** | 2025-11-24 |  |
@@ -19,11 +20,11 @@ labels: documentation
 | **[Exploring Efficient Open-Vocabulary Segmentation in the Remote Sensing](https://arxiv.org/abs/2509.12040v2)** | 2025-11-15 |  |
 | **[SynSeg: Feature Synergy for Multi-Category Contrastive Learning in End-to-End Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2508.06115v2)** | 2025-11-15 |  |
 | **[OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts](https://arxiv.org/abs/2507.05427v3)** | 2025-11-12 |  |
-| **[DGL-RSIS: Decoupling Global Spatial Context and Local Class Semantics for Training-Free Remote Sensing Image Segmentation](https://arxiv.org/abs/2509.00598v2)** | 2025-11-11 |  |
 
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GBT-SAM: A Parameter-Efficient Depth-Aware Model for Generalizable Brain tumour Segmentation on mp-MRI](https://arxiv.org/abs/2503.04325v4)** | 2025-12-01 |  |
 | **[SAM 2++: Tracking Anything at Any Granularity](https://arxiv.org/abs/2510.18822v3)** | 2025-11-27 | 8 pages, with supp |
 | **[Comparing SAM 2 and SAM 3 for Zero-Shot Segmentation of 3D Medical Data](https://arxiv.org/abs/2511.21926v1)** | 2025-11-26 |  |
 | **[SAM Guided Semantic and Motion Changed Region Mining for Remote Sensing Change Captioning](https://arxiv.org/abs/2511.21420v1)** | 2025-11-26 |  |
@@ -38,11 +39,11 @@ labels: documentation
 | **[Continual Alignment for SAM: Rethinking Foundation Models for Medical Image Segmentation in Continual Learning](https://arxiv.org/abs/2511.17201v1)** | 2025-11-21 |  |
 | **[SAM 3: Segment Anything with Concepts](https://arxiv.org/abs/2511.16719v1)** | 2025-11-20 |  |
 | **[SAM 3D: 3Dfy Anything in Images](https://arxiv.org/abs/2511.16624v1)** | 2025-11-20 | <details><summary>Websi...</summary><p>Website: https://ai.meta.com/sam3d/</p></details> |
-| **[SAM-Fed: SAM-Guided Federated Semi-Supervised Learning for Medical Image Segmentation](https://arxiv.org/abs/2511.14302v1)** | 2025-11-18 |  |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RS-ISRefiner: Towards Better Adapting Vision Foundation Models for Interactive Segmentation of Remote Sensing Images](https://arxiv.org/abs/2512.00718v1)** | 2025-11-30 |  |
 | **[UniGeoSeg: Towards Unified Open-World Segmentation for Geospatial Scenes](https://arxiv.org/abs/2511.23332v1)** | 2025-11-28 | <details><summary>Datas...</summary><p>Datasets and source code were released at https://github.com/MiliLab/UniGeoSeg</p></details> |
 | **[Learning to Predict Aboveground Biomass from RGB Images with 3D Synthetic Scenes](https://arxiv.org/abs/2511.23249v1)** | 2025-11-28 | <details><summary>Prese...</summary><p>Presented at STAG 2025</p></details> |
 | **[TEFormer: Texture-Aware and Edge-Guided Transformer for Semantic Segmentation of Urban Remote Sensing Images](https://arxiv.org/abs/2508.06224v2)** | 2025-11-28 | <details><summary>Accep...</summary><p>Accepted by IEEE GRSL</p></details> |
@@ -57,17 +58,17 @@ labels: documentation
 | **[Mapping the Vanishing and Transformation of Urban Villages in China](https://arxiv.org/abs/2511.13507v1)** | 2025-11-17 | <details><summary>Appen...</summary><p>Appendix A. Supplementary data at https://ars.els-cdn.com/content/image/1-s2.0-S2210670725008418-mmc1.docx</p></details> |
 | **[ZoomEarth: Active Perception for Ultra-High-Resolution Geospatial Vision-Language Tasks](https://arxiv.org/abs/2511.12267v1)** | 2025-11-15 |  |
 | **[Exploring Efficient Open-Vocabulary Segmentation in the Remote Sensing](https://arxiv.org/abs/2509.12040v2)** | 2025-11-15 |  |
-| **[S5: Scalable Semi-Supervised Semantic Segmentation in Remote Sensing](https://arxiv.org/abs/2508.12409v2)** | 2025-11-15 |  |
 
 ## Remote Sensing Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multilingual Training-Free Remote Sensing Image Captioning](https://arxiv.org/abs/2512.00887v1)** | 2025-11-30 |  |
+| **[VICoT-Agent: A Vision-Interleaved Chain-of-Thought Framework for Interpretable Multimodal Reasoning and Scalable Remote Sensing Analysis](https://arxiv.org/abs/2511.20085v2)** | 2025-11-30 |  |
 | **[GeoZero: Incentivizing Reasoning from Scratch on Geospatial Scenes](https://arxiv.org/abs/2511.22645v1)** | 2025-11-27 | <details><summary>Code,...</summary><p>Code, data, and models will be publicly available at https://github.com/MiliLab/GeoZero</p></details> |
 | **[Asking like Socrates: Socrates helps VLMs understand remote sensing images](https://arxiv.org/abs/2511.22396v1)** | 2025-11-27 | 20 pages, 8 figures |
 | **[EoS-FM: Can an Ensemble of Specialist Models act as a Generalist Feature Extractor?](https://arxiv.org/abs/2511.21523v1)** | 2025-11-26 |  |
 | **[SAM Guided Semantic and Motion Changed Region Mining for Remote Sensing Change Captioning](https://arxiv.org/abs/2511.21420v1)** | 2025-11-26 |  |
 | **[Co-Training Vision Language Models for Remote Sensing Multi-task Learning](https://arxiv.org/abs/2511.21272v1)** | 2025-11-26 | 14 pages, 6 figures |
-| **[VICoT-Agent: A Vision-Interleaved Chain-of-Thought Framework for Interpretable Multimodal Reasoning and Scalable Remote Sensing Analysis](https://arxiv.org/abs/2511.20085v1)** | 2025-11-25 |  |
 | **[REMSA: An LLM Agent for Foundation Model Selection in Remote Sensing](https://arxiv.org/abs/2511.17442v1)** | 2025-11-21 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/be-chen/REMSA</p></details> |
 | **[ISS-Geo142: A Benchmark for Geolocating Astronaut Photography from the International Space Station](https://arxiv.org/abs/2504.21194v2)** | 2025-11-20 |  |
 | **[FarSLIP: Discovering Effective CLIP Adaptation for Fine-Grained Remote Sensing Understanding](https://arxiv.org/abs/2511.14901v1)** | 2025-11-18 |  |
@@ -76,24 +77,23 @@ labels: documentation
 | **[Exploring Efficient Open-Vocabulary Segmentation in the Remote Sensing](https://arxiv.org/abs/2509.12040v2)** | 2025-11-15 |  |
 | **[Frequency-Aware Vision-Language Multimodality Generalization Network for Remote Sensing Image Classification](https://arxiv.org/abs/2511.10774v1)** | 2025-11-13 |  |
 | **[CHOICE: Benchmarking the Remote Sensing Capabilities of Large Vision-Language Models](https://arxiv.org/abs/2411.18145v4)** | 2025-11-12 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 Track on Datasets and Benchmarks</p></details> |
-| **[DGL-RSIS: Decoupling Global Spatial Context and Local Class Semantics for Training-Free Remote Sensing Image Segmentation](https://arxiv.org/abs/2509.00598v2)** | 2025-11-11 |  |
 
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Visual Generation Tuning](https://arxiv.org/abs/2511.23469v1)** | 2025-11-28 |  |
-| **[LFM2 Technical Report](https://arxiv.org/abs/2511.23404v1)** | 2025-11-28 |  |
-| **[Configurable Fairness: Direct Optimization of Parity Metrics via Vision-Language Models](https://arxiv.org/abs/2403.10624v3)** | 2025-11-28 |  |
-| **[LLMAID: Identifying AI Capabilities in Android Apps with LLMs](https://arxiv.org/abs/2511.19059v2)** | 2025-11-28 |  |
-| **[Toward Automatic Safe Driving Instruction: A Large-Scale Vision Language Model Approach](https://arxiv.org/abs/2511.23311v1)** | 2025-11-28 | <details><summary>Accep...</summary><p>Accepted to MMLoSo 2025</p></details> |
-| **[SafeHumanoid: VLM-RAG-driven Control of Upper Body Impedance for Humanoid Robot](https://arxiv.org/abs/2511.23300v1)** | 2025-11-28 |  |
-| **[Transformer-Driven Triple Fusion Framework for Enhanced Multimodal Author Intent Classification in Low-Resource Bangla](https://arxiv.org/abs/2511.23287v1)** | 2025-11-28 | <details><summary>Accep...</summary><p>Accepted at the 28th International Conference on Computer and Information Technology (ICCIT 2025). To be published in IEEE proceedings</p></details> |
-| **[OctoMed: Data Recipes for State-of-the-Art Multimodal Medical Reasoning](https://arxiv.org/abs/2511.23269v1)** | 2025-11-28 |  |
-| **[Adapting Like Humans: A Metacognitive Agent with Test-time Reasoning](https://arxiv.org/abs/2511.23262v1)** | 2025-11-28 |  |
-| **[AgriCoT: A Chain-of-Thought Benchmark for Evaluating Reasoning in Vision-Language Models for Agriculture](https://arxiv.org/abs/2511.23253v1)** | 2025-11-28 |  |
-| **[Unlocking Multilingual Reasoning Capability of LLMs and LVLMs through Representation Engineering](https://arxiv.org/abs/2511.23231v1)** | 2025-11-28 |  |
-| **[Obstruction reasoning for robotic grasping](https://arxiv.org/abs/2511.23186v1)** | 2025-11-28 |  |
-| **[Activation Quantization of Vision Encoders Needs Prefixing Registers](https://arxiv.org/abs/2510.04547v3)** | 2025-11-28 | 19 pages, 8 figures |
-| **[MathSight: A Benchmark Exploring Have Vision-Language Models Really Seen in University-Level Mathematical Reasoning?](https://arxiv.org/abs/2511.23112v1)** | 2025-11-28 | <details><summary>Comme...</summary><p>Comments: 32 pages, 15 figures, 9 tables, includes appendix. Project page: https://cnu-bot-group.github.io/MathSight/</p></details> |
-| **[SpaceMind: Camera-Guided Modality Fusion for Spatial Reasoning in Vision-Language Models](https://arxiv.org/abs/2511.23075v1)** | 2025-11-28 |  |
+| **[ManualVLA: A Unified VLA Model for Chain-of-Thought Manual Generation and Robotic Manipulation](https://arxiv.org/abs/2512.02013v1)** | 2025-12-01 |  |
+| **[STORM: Segment, Track, and Object Re-Localization from a Single Image](https://arxiv.org/abs/2511.09771v2)** | 2025-12-01 |  |
+| **[Low-Rank Prehab: Preparing Neural Networks for SVD Compression](https://arxiv.org/abs/2512.01980v1)** | 2025-12-01 |  |
+| **[Structure is Supervision: Multiview Masked Autoencoders for Radiology](https://arxiv.org/abs/2511.22294v2)** | 2025-12-01 |  |
+| **[Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions](https://arxiv.org/abs/2504.11967v3)** | 2025-12-01 | <details><summary>Best ...</summary><p>Best Paper, Accepted at CVPR Workshop Anti-UAV 2025. 16 pages</p></details> |
+| **[Get RICH or Die Scaling: Profitably Trading Inference Compute for Robustness](https://arxiv.org/abs/2510.06790v2)** | 2025-12-01 | 21 pages |
+| **[Guardian: Detecting Robotic Planning and Execution Errors with Vision-Language Models](https://arxiv.org/abs/2512.01946v1)** | 2025-12-01 | <details><summary>9 pag...</summary><p>9 pages, 9 figures, 6 tables</p></details> |
+| **[Med-VCD: Mitigating Hallucination for Medical Large Vision Language Models through Visual Contrastive Decoding](https://arxiv.org/abs/2512.01922v1)** | 2025-12-01 |  |
+| **[PhyDetEx: Detecting and Explaining the Physical Plausibility of T2V Models](https://arxiv.org/abs/2512.01843v1)** | 2025-12-01 | 17 pages, 8 figures |
+| **[OpenREAD: Reinforced Open-Ended Reasoing for End-to-End Autonomous Driving with LLM-as-Critic](https://arxiv.org/abs/2512.01830v1)** | 2025-12-01 |  |
+| **[CauSight: Learning to Supersense for Visual Causal Discovery](https://arxiv.org/abs/2512.01827v1)** | 2025-12-01 | <details><summary>proje...</summary><p>project page: https://github.com/OpenCausaLab/CauSight</p></details> |
+| **[PRIMT: Preference-based Reinforcement Learning with Multimodal Feedback and Trajectory Synthesis from Foundation Models](https://arxiv.org/abs/2509.15607v2)** | 2025-12-01 |  |
+| **[Generative Action Tell-Tales: Assessing Human Motion in Synthesized Videos](https://arxiv.org/abs/2512.01803v1)** | 2025-12-01 |  |
+| **[GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2512.01801v1)** | 2025-12-01 |  |
+| **[IGen: Scalable Data Generation for Robot Learning from Open-World Images](https://arxiv.org/abs/2512.01773v1)** | 2025-12-01 | 8 pages, 8 figures |
 
