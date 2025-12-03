@@ -1,10 +1,11 @@
 ---
-title: Papers - December 03, 2025
+title: Papers - December 04, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Ov3R: Open-Vocabulary Semantic 3D Reconstruction from RGB Videos](https://arxiv.org/abs/2507.22052v2)** | 2025-12-02 |  |
 | **[Language-Guided Open-World Anomaly Segmentation](https://arxiv.org/abs/2512.01427v1)** | 2025-12-01 |  |
 | **[Open Vocabulary Compositional Explanations for Neuron Alignment](https://arxiv.org/abs/2511.20931v1)** | 2025-11-25 | 47 pages, 11 figures |
 | **[SAM-MI: A Mask-Injected Framework for Enhancing Open-Vocabulary Semantic Segmentation with SAM](https://arxiv.org/abs/2511.20027v1)** | 2025-11-25 |  |
@@ -19,7 +20,6 @@ labels: documentation
 | **[FarSLIP: Discovering Effective CLIP Adaptation for Fine-Grained Remote Sensing Understanding](https://arxiv.org/abs/2511.14901v1)** | 2025-11-18 |  |
 | **[Exploring Efficient Open-Vocabulary Segmentation in the Remote Sensing](https://arxiv.org/abs/2509.12040v2)** | 2025-11-15 |  |
 | **[SynSeg: Feature Synergy for Multi-Category Contrastive Learning in End-to-End Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2508.06115v2)** | 2025-11-15 |  |
-| **[OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts](https://arxiv.org/abs/2507.05427v3)** | 2025-11-12 |  |
 
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -62,6 +62,7 @@ labels: documentation
 ## Remote Sensing Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SkyMoE: A Vision-Language Foundation Model for Enhancing Geospatial Interpretation with Mixture of Experts](https://arxiv.org/abs/2512.02517v1)** | 2025-12-02 |  |
 | **[Multilingual Training-Free Remote Sensing Image Captioning](https://arxiv.org/abs/2512.00887v1)** | 2025-11-30 |  |
 | **[VICoT-Agent: A Vision-Interleaved Chain-of-Thought Framework for Interpretable Multimodal Reasoning and Scalable Remote Sensing Analysis](https://arxiv.org/abs/2511.20085v2)** | 2025-11-30 |  |
 | **[GeoZero: Incentivizing Reasoning from Scratch on Geospatial Scenes](https://arxiv.org/abs/2511.22645v1)** | 2025-11-27 | <details><summary>Code,...</summary><p>Code, data, and models will be publicly available at https://github.com/MiliLab/GeoZero</p></details> |
@@ -76,24 +77,23 @@ labels: documentation
 | **[Landsat30-AU: A Vision-Language Dataset for Australian Landsat Imagery](https://arxiv.org/abs/2508.03127v3)** | 2025-11-15 |  |
 | **[Exploring Efficient Open-Vocabulary Segmentation in the Remote Sensing](https://arxiv.org/abs/2509.12040v2)** | 2025-11-15 |  |
 | **[Frequency-Aware Vision-Language Multimodality Generalization Network for Remote Sensing Image Classification](https://arxiv.org/abs/2511.10774v1)** | 2025-11-13 |  |
-| **[CHOICE: Benchmarking the Remote Sensing Capabilities of Large Vision-Language Models](https://arxiv.org/abs/2411.18145v4)** | 2025-11-12 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 Track on Datasets and Benchmarks</p></details> |
 
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ManualVLA: A Unified VLA Model for Chain-of-Thought Manual Generation and Robotic Manipulation](https://arxiv.org/abs/2512.02013v1)** | 2025-12-01 |  |
-| **[STORM: Segment, Track, and Object Re-Localization from a Single Image](https://arxiv.org/abs/2511.09771v2)** | 2025-12-01 |  |
-| **[Low-Rank Prehab: Preparing Neural Networks for SVD Compression](https://arxiv.org/abs/2512.01980v1)** | 2025-12-01 |  |
-| **[Structure is Supervision: Multiview Masked Autoencoders for Radiology](https://arxiv.org/abs/2511.22294v2)** | 2025-12-01 |  |
-| **[Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions](https://arxiv.org/abs/2504.11967v3)** | 2025-12-01 | <details><summary>Best ...</summary><p>Best Paper, Accepted at CVPR Workshop Anti-UAV 2025. 16 pages</p></details> |
-| **[Get RICH or Die Scaling: Profitably Trading Inference Compute for Robustness](https://arxiv.org/abs/2510.06790v2)** | 2025-12-01 | 21 pages |
-| **[Guardian: Detecting Robotic Planning and Execution Errors with Vision-Language Models](https://arxiv.org/abs/2512.01946v1)** | 2025-12-01 | <details><summary>9 pag...</summary><p>9 pages, 9 figures, 6 tables</p></details> |
-| **[Med-VCD: Mitigating Hallucination for Medical Large Vision Language Models through Visual Contrastive Decoding](https://arxiv.org/abs/2512.01922v1)** | 2025-12-01 |  |
-| **[PhyDetEx: Detecting and Explaining the Physical Plausibility of T2V Models](https://arxiv.org/abs/2512.01843v1)** | 2025-12-01 | 17 pages, 8 figures |
-| **[OpenREAD: Reinforced Open-Ended Reasoing for End-to-End Autonomous Driving with LLM-as-Critic](https://arxiv.org/abs/2512.01830v1)** | 2025-12-01 |  |
-| **[CauSight: Learning to Supersense for Visual Causal Discovery](https://arxiv.org/abs/2512.01827v1)** | 2025-12-01 | <details><summary>proje...</summary><p>project page: https://github.com/OpenCausaLab/CauSight</p></details> |
-| **[PRIMT: Preference-based Reinforcement Learning with Multimodal Feedback and Trajectory Synthesis from Foundation Models](https://arxiv.org/abs/2509.15607v2)** | 2025-12-01 |  |
-| **[Generative Action Tell-Tales: Assessing Human Motion in Synthesized Videos](https://arxiv.org/abs/2512.01803v1)** | 2025-12-01 |  |
-| **[GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2512.01801v1)** | 2025-12-01 |  |
-| **[IGen: Scalable Data Generation for Robot Learning from Open-World Images](https://arxiv.org/abs/2512.01773v1)** | 2025-12-01 | 8 pages, 8 figures |
+| **[Can Vision-Language Models Count? A Synthetic Benchmark and Analysis of Attention-Based Interventions](https://arxiv.org/abs/2511.17722v2)** | 2025-12-02 |  |
+| **[Lumos: Let there be Language Model System Certification](https://arxiv.org/abs/2512.02966v1)** | 2025-12-02 |  |
+| **[Guardian: Detecting Robotic Planning and Execution Errors with Vision-Language Models](https://arxiv.org/abs/2512.01946v2)** | 2025-12-02 | <details><summary>Code,...</summary><p>Code, Data, and Models available at https://www.di.ens.fr/willow/research/guardian/. The paper contains 8 pages, 9 figures, 6 tables</p></details> |
+| **[AutoNeural: Co-Designing Vision-Language Models for NPU Inference](https://arxiv.org/abs/2512.02924v1)** | 2025-12-02 |  |
+| **[AIDEN: Design and Pilot Study of an AI Assistant for the Visually Impaired](https://arxiv.org/abs/2511.06080v3)** | 2025-12-02 |  |
+| **[VLA Models Are More Generalizable Than You Think: Revisiting Physical and Spatial Modeling](https://arxiv.org/abs/2512.02902v1)** | 2025-12-02 |  |
+| **[GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2512.01801v2)** | 2025-12-02 |  |
+| **[OpenLVLM-MIA: A Controlled Benchmark Revealing the Limits of Membership Inference Attacks on Large Vision-Language Models](https://arxiv.org/abs/2510.16295v2)** | 2025-12-02 | WACV2026 Accepted |
+| **[OpenREAD: Reinforced Open-Ended Reasoning for End-to-End Autonomous Driving with LLM-as-Critic](https://arxiv.org/abs/2512.01830v2)** | 2025-12-02 |  |
+| **[Action Anticipation at a Glimpse: To What Extent Can Multimodal Cues Replace Video?](https://arxiv.org/abs/2512.02846v1)** | 2025-12-02 | <details><summary>Accep...</summary><p>Accepted in WACV 2026 - Applications Track</p></details> |
+| **[VLM as Strategist: Adaptive Generation of Safety-critical Testing Scenarios via Guided Diffusion](https://arxiv.org/abs/2512.02844v1)** | 2025-12-02 | 25 pages, 9 figures |
+| **[BioArc: Discovering Optimal Neural Architectures for Biological Foundation Models](https://arxiv.org/abs/2512.00283v2)** | 2025-12-02 |  |
+| **[ReVSeg: Incentivizing the Reasoning Chain for Video Segmentation with Reinforcement Learning](https://arxiv.org/abs/2512.02835v1)** | 2025-12-02 |  |
+| **[Steering Vision-Language-Action Models as Anti-Exploration: A Test-Time Scaling Approach](https://arxiv.org/abs/2512.02834v1)** | 2025-12-02 | <details><summary>The f...</summary><p>The first two authors contributed equally. Yang Zhang leads the whole project</p></details> |
+| **[Radiologist Copilot: An Agentic Assistant with Orchestrated Tools for Radiology Reporting with Quality Control](https://arxiv.org/abs/2512.02814v1)** | 2025-12-02 |  |
 
