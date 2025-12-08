@@ -1,10 +1,11 @@
 ---
-title: Papers - December 08, 2025
+title: Papers - December 09, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving](https://arxiv.org/abs/2405.05258v3)** | 2025-12-05 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</p></details> |
 | **[SAM3-I: Segment Anything with Instructions](https://arxiv.org/abs/2512.04585v1)** | 2025-12-04 | <details><summary>Preli...</summary><p>Preliminary results; work in progress</p></details> |
 | **[Ov3R: Open-Vocabulary Semantic 3D Reconstruction from RGB Videos](https://arxiv.org/abs/2507.22052v2)** | 2025-12-02 |  |
 | **[Language-Guided Open-World Anomaly Segmentation](https://arxiv.org/abs/2512.01427v1)** | 2025-12-01 |  |
@@ -19,7 +20,6 @@ labels: documentation
 | **[InfoCLIP: Bridging Vision-Language Pretraining and Open-Vocabulary Semantic Segmentation via Information-Theoretic Alignment Transfer](https://arxiv.org/abs/2511.15967v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training](https://arxiv.org/abs/2511.15379v1)** | 2025-11-19 |  |
 | **[FarSLIP: Discovering Effective CLIP Adaptation for Fine-Grained Remote Sensing Understanding](https://arxiv.org/abs/2511.14901v1)** | 2025-11-18 |  |
-| **[Exploring Efficient Open-Vocabulary Segmentation in the Remote Sensing](https://arxiv.org/abs/2509.12040v2)** | 2025-11-15 |  |
 
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -43,8 +43,11 @@ labels: documentation
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SegAssess: Panoramic quality mapping for robust and transferable unsupervised segmentation assessment](https://arxiv.org/abs/2509.01183v2)** | 2025-12-05 |  |
+| **[DistillFSS: Synthesizing Few-Shot Knowledge into a Lightweight Segmentation Model](https://arxiv.org/abs/2512.05613v1)** | 2025-12-05 |  |
 | **[S5: Scalable Semi-Supervised Semantic Segmentation in Remote Sensing](https://arxiv.org/abs/2508.12409v3)** | 2025-12-03 | AAAI 2026 Oral |
 | **[HalluGen: Synthesizing Realistic and Controllable Hallucinations for Evaluating Image Restoration](https://arxiv.org/abs/2512.03345v1)** | 2025-12-03 |  |
+| **[FlowEO: Generative Unsupervised Domain Adaptation for Earth Observation](https://arxiv.org/abs/2512.05140v1)** | 2025-12-01 | <details><summary>2026 ...</summary><p>2026 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Mar 2026, Tucson (AZ), United States</p></details> |
 | **[RS-ISRefiner: Towards Better Adapting Vision Foundation Models for Interactive Segmentation of Remote Sensing Images](https://arxiv.org/abs/2512.00718v1)** | 2025-11-30 |  |
 | **[UniGeoSeg: Towards Unified Open-World Segmentation for Geospatial Scenes](https://arxiv.org/abs/2511.23332v1)** | 2025-11-28 | <details><summary>Datas...</summary><p>Datasets and source code were released at https://github.com/MiliLab/UniGeoSeg</p></details> |
 | **[Learning to Predict Aboveground Biomass from RGB Images with 3D Synthetic Scenes](https://arxiv.org/abs/2511.23249v1)** | 2025-11-28 | <details><summary>Prese...</summary><p>Presented at STAG 2025</p></details> |
@@ -55,9 +58,6 @@ labels: documentation
 | **[Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation](https://arxiv.org/abs/2504.06220v4)** | 2025-11-26 | <details><summary>AAAI ...</summary><p>AAAI 2026 camera ready</p></details> |
 | **[DWFF-Net : A Multi-Scale Farmland System Habitat Identification Method with Adaptive Dynamic Weight](https://arxiv.org/abs/2511.11659v2)** | 2025-11-26 | 30 pages,13 figures |
 | **[REMSA: An LLM Agent for Foundation Model Selection in Remote Sensing](https://arxiv.org/abs/2511.17442v1)** | 2025-11-21 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/be-chen/REMSA</p></details> |
-| **[FarSLIP: Discovering Effective CLIP Adaptation for Fine-Grained Remote Sensing Understanding](https://arxiv.org/abs/2511.14901v1)** | 2025-11-18 |  |
-| **[Mapping Reduced Accessibility to WASH Facilities in Rohingya Refugee Camps With Sub-Meter Imagery](https://arxiv.org/abs/2511.07231v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 pages, 13 figures, 2 tables</p></details> |
-| **[Mapping the Vanishing and Transformation of Urban Villages in China](https://arxiv.org/abs/2511.13507v1)** | 2025-11-17 | <details><summary>Appen...</summary><p>Appendix A. Supplementary data at https://ars.els-cdn.com/content/image/1-s2.0-S2210670725008418-mmc1.docx</p></details> |
 
 ## Remote Sensing Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning](https://arxiv.org/abs/2512.05111v1)** | 2025-12-04 |  |
-| **[STARE-VLA: Progressive Stage-Aware Reinforcement for Fine-Tuning Vision-Language-Action Models](https://arxiv.org/abs/2512.05107v1)** | 2025-12-04 |  |
-| **[TV2TV: A Unified Framework for Interleaved Language and Video Generation](https://arxiv.org/abs/2512.05103v1)** | 2025-12-04 |  |
-| **[Aligned but Stereotypical? The Hidden Influence of System Prompts on Social Bias in LVLM-Based Text-to-Image Models](https://arxiv.org/abs/2512.04981v1)** | 2025-12-04 | <details><summary>Proje...</summary><p>Project page: https://fairpro-t2i.github.io</p></details> |
-| **[FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via neural Action Tokenization](https://arxiv.org/abs/2512.04952v1)** | 2025-12-04 |  |
-| **["I Can See Forever!": Evaluating Real-time VideoLLMs for Assisting Individuals with Visual Impairments](https://arxiv.org/abs/2505.04488v2)** | 2025-12-04 | 17 pages |
-| **[EoS-FM: Can an Ensemble of Specialist Models act as a Generalist Feature Extractor?](https://arxiv.org/abs/2511.21523v2)** | 2025-12-04 |  |
-| **[Chameleon: Adaptive Adversarial Agents for Scaling-Based Visual Prompt Injection in Multimodal AI Systems](https://arxiv.org/abs/2512.04895v1)** | 2025-12-04 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, IEEE Transactions on Dependable and Secure Computing</p></details> |
-| **[GigaBrain-0: A World Model-Powered Vision-Language-Action Model](https://arxiv.org/abs/2510.19430v3)** | 2025-12-04 | <details><summary>https...</summary><p>https://gigabrain0.github.io/</p></details> |
-| **[Adaptive Chain-of-Focus Reasoning via Dynamic Visual Search and Zooming for Efficient VLMs](https://arxiv.org/abs/2505.15436v2)** | 2025-12-04 | <details><summary>https...</summary><p>https://github.com/xtong-zhang/Chain-of-Focus</p></details> |
-| **[Multimodal Adversarial Defense for Vision-Language Models by Leveraging One-To-Many Relationships](https://arxiv.org/abs/2405.18770v5)** | 2025-12-04 | <details><summary>WACV ...</summary><p>WACV 2026 Accepted. Code available at https://github.com/CyberAgentAI/multimodal-adversarial-training</p></details> |
-| **[ASTRIDE: A Security Threat Modeling Platform for Agentic-AI Applications](https://arxiv.org/abs/2512.04785v1)** | 2025-12-04 |  |
-| **[TTRV: Test-Time Reinforcement Learning for Vision Language Models](https://arxiv.org/abs/2510.06783v2)** | 2025-12-04 |  |
-| **[MemLoRA: Distilling Expert Adapters for On-Device Memory Systems](https://arxiv.org/abs/2512.04763v1)** | 2025-12-04 |  |
-| **[Jina-VLM: Small Multilingual Vision Language Model](https://arxiv.org/abs/2512.04032v2)** | 2025-12-04 | <details><summary>18 pa...</summary><p>18 pages, 1-7 main content, 13-18 appendix for tables and dataset</p></details> |
+| **[Training-Time Action Conditioning for Efficient Real-Time Chunking](https://arxiv.org/abs/2512.05964v1)** | 2025-12-05 |  |
+| **[M4-RAG: A Massive-Scale Multilingual Multi-Cultural Multimodal RAG](https://arxiv.org/abs/2512.05959v1)** | 2025-12-05 | Preprint |
+| **[iMotion-LLM: Instruction-Conditioned Trajectory Generation](https://arxiv.org/abs/2406.06211v3)** | 2025-12-05 |  |
+| **[SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models](https://arxiv.org/abs/2512.05955v1)** | 2025-12-05 |  |
+| **[TRACE: A Framework for Analyzing and Enhancing Stepwise Reasoning in Vision-Language Models](https://arxiv.org/abs/2512.05943v1)** | 2025-12-05 |  |
+| **[Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding](https://arxiv.org/abs/2512.05941v1)** | 2025-12-05 | <details><summary>Code ...</summary><p>Code is available at https://github.com/Princeton-AI2-Lab/ZoomClick</p></details> |
+| **[PRiSM: An Agentic Multimodal Benchmark for Scientific Reasoning via Python-Grounded Evaluation](https://arxiv.org/abs/2512.05930v1)** | 2025-12-05 |  |
+| **[Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning](https://arxiv.org/abs/2506.02738v3)** | 2025-12-05 | 21 pages |
+| **[Uncovering Grounding IDs: How External Cues Shape Multimodal Binding](https://arxiv.org/abs/2509.24072v3)** | 2025-12-05 | <details><summary>Under...</summary><p>Under review as a conference paper at ICLR 2026</p></details> |
+| **[Probing the effectiveness of World Models for Spatial Reasoning through Test-time Scaling](https://arxiv.org/abs/2512.05809v1)** | 2025-12-05 | <details><summary>Exten...</summary><p>Extended abstract at World Modeling Workshop 2026</p></details> |
+| **[Distilling Expert Surgical Knowledge: How to train local surgical VLMs for anatomy explanation in Complete Mesocolic Excision](https://arxiv.org/abs/2512.05740v1)** | 2025-12-05 |  |
+| **[Rethinking Sparse Autoencoders: Select-and-Project for Fairness and Control from Encoder Features Alone](https://arxiv.org/abs/2509.10809v2)** | 2025-12-05 |  |
+| **[HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies](https://arxiv.org/abs/2512.05693v1)** | 2025-12-05 |  |
+| **[Concept-Guided Backdoor Attack on Vision Language Models](https://arxiv.org/abs/2512.00713v2)** | 2025-12-05 |  |
+| **[AnyAnomaly: Zero-Shot Customizable Video Anomaly Detection with LVLM](https://arxiv.org/abs/2503.04504v4)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted to WACV 2026</p></details> |
 
