@@ -1,10 +1,11 @@
 ---
-title: Papers - December 10, 2025
+title: Papers - December 11, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images](https://arxiv.org/abs/2512.08730v1)** | 2025-12-09 |  |
 | **[Structure-Aware Feature Rectification with Region Adjacency Graphs for Training-Free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2512.07360v1)** | 2025-12-08 | Accepted to WACV2026 |
 | **[Open Vocabulary Compositional Explanations for Neuron Alignment](https://arxiv.org/abs/2511.20931v1)** | 2025-11-25 | 47 pages, 11 figures |
 | **[SAM-MI: A Mask-Injected Framework for Enhancing Open-Vocabulary Semantic Segmentation with SAM](https://arxiv.org/abs/2511.20027v1)** | 2025-11-25 |  |
@@ -19,11 +20,13 @@ labels: documentation
 | **[RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Chest X-ray with Zero-Shot Multi-Task Capability](https://arxiv.org/abs/2504.07416v3)** | 2025-11-06 | NeurIPS 2025 |
 | **[Improving Visual Discriminability of CLIP for Training-Free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2510.23894v1)** | 2025-10-27 | <details><summary>23 pa...</summary><p>23 pages, 10 figures, 14 tables</p></details> |
 | **[Neuro-Symbolic Spatial Reasoning in Segmentation](https://arxiv.org/abs/2510.15841v1)** | 2025-10-17 |  |
-| **[Lost in Translation? Vocabulary Alignment for Source-Free Adaptation in Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2509.15225v3)** | 2025-09-29 | <details><summary>BMVC ...</summary><p>BMVC 2025 - Project Page: https://thegoodailab.org/blog/vocalign - Code: https://github.com/Sisso16/VocAlign</p></details> |
 
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images](https://arxiv.org/abs/2512.08730v1)** | 2025-12-09 |  |
+| **[Team-Aware Football Player Tracking with SAM: An Appearance-Based Approach to Occlusion Recovery](https://arxiv.org/abs/2512.08467v1)** | 2025-12-09 | 8 pages, 5 figures |
+| **[SAM-Body4D: Training-Free 4D Human Body Mesh Recovery from Videos](https://arxiv.org/abs/2512.08406v1)** | 2025-12-09 |  |
 | **[More than Segmentation: Benchmarking SAM 3 for Segmentation, 3D Perception, and Reconstruction in Robotic Surgery](https://arxiv.org/abs/2512.07596v1)** | 2025-12-08 | Technical Report |
 | **[SAMCL: Empowering SAM to Continually Learn from Dynamic Domains with Extreme Storage Efficiency](https://arxiv.org/abs/2412.05012v2)** | 2025-12-06 | Accepted by AAAI'26 |
 | **[GBT-SAM: A Parameter-Efficient Depth-Aware Model for Generalizable Brain tumour Segmentation on mp-MRI](https://arxiv.org/abs/2503.04325v4)** | 2025-12-01 |  |
@@ -36,9 +39,6 @@ labels: documentation
 | **[Granular Computing-driven SAM: From Coarse-to-Fine Guidance for Prompt-Free Segmentation](https://arxiv.org/abs/2511.19062v1)** | 2025-11-24 | 19 pages, 7 figures |
 | **[SGDFuse: SAM-Guided Diffusion for High-Fidelity Infrared and Visible Image Fusion](https://arxiv.org/abs/2508.05264v4)** | 2025-11-24 | <details><summary>Submi...</summary><p>Submitted to Information Fusion</p></details> |
 | **[SCALER: SAM-Enhanced Collaborative Learning for Label-Deficient Concealed Object Segmentation](https://arxiv.org/abs/2511.18136v1)** | 2025-11-22 | 4 figures, 6 tables |
-| **[Not Quite Anything: Overcoming SAMs Limitations for 3D Medical Imaging](https://arxiv.org/abs/2511.19471v1)** | 2025-11-22 | <details><summary>Prepr...</summary><p>Preprint; Paper accepted at AIAS 2025</p></details> |
-| **[A Unified Stability Analysis of SAM vs SGD: Role of Data Coherence and Emergence of Simplicity Bias](https://arxiv.org/abs/2511.17378v1)** | 2025-11-21 | Neurips 2025 |
-| **[Continual Alignment for SAM: Rethinking Foundation Models for Medical Image Segmentation in Continual Learning](https://arxiv.org/abs/2511.17201v1)** | 2025-11-21 |  |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -78,19 +78,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Relational Visual Similarity](https://arxiv.org/abs/2512.07833v1)** | 2025-12-08 | <details><summary>Proje...</summary><p>Project page, data, and code: https://thaoshibe.github.io/relsim</p></details> |
-| **[TV2TV: A Unified Framework for Interleaved Language and Video Generation](https://arxiv.org/abs/2512.05103v2)** | 2025-12-08 |  |
-| **[Toward More Reliable Artificial Intelligence: Reducing Hallucinations in Vision-Language Models](https://arxiv.org/abs/2512.07564v1)** | 2025-12-08 | <details><summary>24 pa...</summary><p>24 pages, 3 figures, 2 tables. Training-free self-correction framework for vision-language models. Code and implementation details will be released at: https://github.com/kassoumsanogo1/self-correcting-vlm-re-Attention.git</p></details> |
-| **[From Show Programmes to Data: Designing a Workflow to Make Performing Arts Ephemera Accessible Through Language Models](https://arxiv.org/abs/2512.07452v1)** | 2025-12-08 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 5 tables, 17 references</p></details> |
-| **[Structure-Aware Feature Rectification with Region Adjacency Graphs for Training-Free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2512.07360v1)** | 2025-12-08 | Accepted to WACV2026 |
-| **[Venus: An Efficient Edge Memory-and-Retrieval System for VLM-based Online Video Understanding](https://arxiv.org/abs/2512.07344v1)** | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted by IEEE International Conference on Computer Communications 2026</p></details> |
-| **[Towards Accurate UAV Image Perception: Guiding Vision-Language Models with Stronger Task Prompts](https://arxiv.org/abs/2512.07302v1)** | 2025-12-08 |  |
-| **[Geo3DVQA: Evaluating Vision-Language Models for 3D Geospatial Reasoning from Aerial Imagery](https://arxiv.org/abs/2512.07276v1)** | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted to WACV 2026. Camera-ready-based version with minor edits for readability (no change in the contents)</p></details> |
-| **[RVLF: A Reinforcing Vision-Language Framework for Gloss-Free Sign Language Translation](https://arxiv.org/abs/2512.07273v1)** | 2025-12-08 |  |
-| **[Zero-Shot Textual Explanations via Translating Decision-Critical Features](https://arxiv.org/abs/2512.07245v1)** | 2025-12-08 | <details><summary>11+6 ...</summary><p>11+6 pages, 8 figures, 4 tables</p></details> |
-| **[Dropout Prompt Learning: Towards Robust and Adaptive Vision-Language Models](https://arxiv.org/abs/2512.07234v1)** | 2025-12-08 |  |
-| **[Pay Less Attention to Function Words for Free Robustness of Vision-Language Models](https://arxiv.org/abs/2512.07222v1)** | 2025-12-08 |  |
-| **[VFM-VLM: Vision Foundation Model and Vision Language Model based Visual Comparison for 3D Pose Estimation](https://arxiv.org/abs/2512.07215v1)** | 2025-12-08 |  |
-| **[GeoShield: Safeguarding Geolocation Privacy from Vision-Language Models via Adversarial Perturbations](https://arxiv.org/abs/2508.03209v2)** | 2025-12-08 | AAAI2026 Poster |
-| **[MMRPT: MultiModal Reinforcement Pre-Training via Masked Vision-Dependent Reasoning](https://arxiv.org/abs/2512.07203v1)** | 2025-12-08 | 7 pages, 1 figures |
+| **[Unified Diffusion Transformer for High-fidelity Text-Aware Image Restoration](https://arxiv.org/abs/2512.08922v1)** | 2025-12-09 |  |
+| **[TRACE: A Framework for Analyzing and Enhancing Stepwise Reasoning in Vision-Language Models](https://arxiv.org/abs/2512.05943v2)** | 2025-12-09 |  |
+| **[SATGround: A Spatially-Aware Approach for Visual Grounding in Remote Sensing](https://arxiv.org/abs/2512.08881v1)** | 2025-12-09 |  |
+| **[Tri-Bench: Stress-Testing VLM Reliability on Spatial Reasoning under Camera Tilt and Object Interference](https://arxiv.org/abs/2512.08860v1)** | 2025-12-09 | <details><summary>6 pag...</summary><p>6 pages, 3 figures. Code and data: https://github.com/Amiton7/Tri-Bench. Accepted to the AAAI 2026 Workshop on Trust and Control in Agentic AI (TrustAgent)</p></details> |
+| **[InfiniteVL: Synergizing Linear and Sparse Attention for Highly-Efficient, Unlimited-Input Vision-Language Models](https://arxiv.org/abs/2512.08829v1)** | 2025-12-09 | <details><summary>16 pa...</summary><p>16 pages, 8 figures, conference or other essential info</p></details> |
+| **[Training-Free Dual Hyperbolic Adapters for Better Cross-Modal Reasoning](https://arxiv.org/abs/2512.08820v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted in IEEE Transactions on Multimedia (TMM)</p></details> |
+| **[Small Drafts, Big Verdict: Information-Intensive Visual Reasoning via Speculation](https://arxiv.org/abs/2510.20812v3)** | 2025-12-09 |  |
+| **[Trajectory Densification and Depth from Perspective-based Blur](https://arxiv.org/abs/2512.08627v1)** | 2025-12-09 |  |
+| **[OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows](https://arxiv.org/abs/2510.24411v2)** | 2025-12-09 | work in progress |
+| **[Mind to Hand: Purposeful Robotic Control via Embodied Reasoning](https://arxiv.org/abs/2512.08580v1)** | 2025-12-09 | 49 pages, 25 figures |
+| **[Pay Less Attention to Function Words for Free Robustness of Vision-Language Models](https://arxiv.org/abs/2512.07222v2)** | 2025-12-09 |  |
+| **[Beyond Real Weights: Hypercomplex Representations for Stable Quantization](https://arxiv.org/abs/2512.08524v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted in Winter Conference on Applications of Computer Vision (WACV) 2026</p></details> |
+| **[Enabling Validation for Robust Few-Shot Recognition](https://arxiv.org/abs/2506.04713v3)** | 2025-12-09 | <details><summary>Proje...</summary><p>Project website: https://hannawang09.github.io/projects/vest/</p></details> |
+| **[CHIMERA: Adaptive Cache Injection and Semantic Anchor Prompting for Zero-shot Image Morphing with Morphing-oriented Metrics](https://arxiv.org/abs/2512.07155v2)** | 2025-12-09 | <details><summary>Pleas...</summary><p>Please visit our project page at https://cmlab-korea.github.io/CHIMERA/</p></details> |
+| **[OpenSubject: Leveraging Video-Derived Identity and Diversity Priors for Subject-driven Image Generation and Manipulation](https://arxiv.org/abs/2512.08294v1)** | 2025-12-09 |  |
 
