@@ -1,5 +1,5 @@
 ---
-title: Papers - December 16, 2025
+title: Papers - December 17, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -78,19 +78,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Extending a Parliamentary Corpus with MPs' Tweets: Automatic Annotation and Evaluation Using MultiParTweet](https://arxiv.org/abs/2512.11567v1)** | 2025-12-12 | <details><summary>Submi...</summary><p>Submitted to LREC 2026</p></details> |
-| **[VLM2GeoVec: Toward Universal Multimodal Embeddings for Remote Sensing](https://arxiv.org/abs/2512.11490v1)** | 2025-12-12 | <details><summary>21 pa...</summary><p>21 pages, 7 figures, under review</p></details> |
-| **[From Macro to Micro: Benchmarking Microscopic Spatial Intelligence on Molecules via Vision-Language Models](https://arxiv.org/abs/2512.10867v2)** | 2025-12-12 |  |
-| **[Minimal Clips, Maximum Salience: Long Video Summarization via Key Moment Extraction](https://arxiv.org/abs/2512.11399v1)** | 2025-12-12 |  |
-| **[The N-Body Problem: Parallel Execution from Single-Person Egocentric Video](https://arxiv.org/abs/2512.11393v1)** | 2025-12-12 | <details><summary>proje...</summary><p>project webpage: https://zhifanzhu.github.io/ego-nbody</p></details> |
-| **[Efficiently Seeking Flat Minima for Better Generalization in Fine-Tuning Large Language Models and Beyond](https://arxiv.org/abs/2508.00522v2)** | 2025-12-12 |  |
-| **[Surveillance Video-Based Traffic Accident Detection Using Transformer Architecture](https://arxiv.org/abs/2512.11350v1)** | 2025-12-12 |  |
-| **[Benchmarking the Generality of Vision-Language-Action Models](https://arxiv.org/abs/2512.11315v1)** | 2025-12-12 | <details><summary>23 pa...</summary><p>23 pages, 7 figures, and 1 table</p></details> |
-| **[The Finer the Better: Towards Granular-aware Open-set Domain Generalization](https://arxiv.org/abs/2511.16979v2)** | 2025-12-12 | <details><summary>9 pag...</summary><p>9 pages,3 figures,aaai2026</p></details> |
-| **[Towards Logic-Aware Manipulation: A Knowledge Primitive for VLM-Based Assistants in Smart Manufacturing](https://arxiv.org/abs/2512.11275v1)** | 2025-12-12 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, submitted to the 2026 IFAC World Congress</p></details> |
-| **[Seeing to Act, Prompting to Specify: A Bayesian Factorization of Vision Language Action Policy](https://arxiv.org/abs/2512.11218v1)** | 2025-12-12 |  |
-| **[Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling](https://arxiv.org/abs/2505.17982v5)** | 2025-12-12 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[Noise Matters: Optimizing Matching Noise for Diffusion Classifiers](https://arxiv.org/abs/2508.11330v2)** | 2025-12-12 |  |
-| **[GoalLadder: Incremental Goal Discovery with Vision-Language Models](https://arxiv.org/abs/2506.16396v2)** | 2025-12-12 | NeurIPS 2025 |
-| **[Image Tiling for High-Resolution Reasoning: Balancing Local Detail with Global Context](https://arxiv.org/abs/2512.11167v1)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted in AAAI 2025 Workshop on Reproducible AI</p></details> |
+| **[AgentIAD: Tool-Augmented Single-Agent for Industrial Anomaly Detection](https://arxiv.org/abs/2512.13671v1)** | 2025-12-15 |  |
+| **[RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2512.13660v1)** | 2025-12-15 | <details><summary>Proje...</summary><p>Project page: https://zhoues.github.io/RoboTracer</p></details> |
+| **[Do-Undo: Generating and Reversing Physical Actions in Vision-Language Models](https://arxiv.org/abs/2512.13609v1)** | 2025-12-15 |  |
+| **[Universal Dexterous Functional Grasping via Demonstration-Editing Reinforcement Learning](https://arxiv.org/abs/2512.13380v1)** | 2025-12-15 | 19 pages |
+| **[Learning to Pose Problems: Reasoning-Driven and Solver-Adaptive Data Synthesis for Large Reasoning Models](https://arxiv.org/abs/2511.09907v3)** | 2025-12-15 |  |
+| **[CausalCLIP: Causally-Informed Feature Disentanglement and Filtering for Generalizable Detection of Generated Images](https://arxiv.org/abs/2512.13285v1)** | 2025-12-15 | <details><summary>9 pag...</summary><p>9 pages Accepted to AAAI 2026</p></details> |
+| **[Toward Ambulatory Vision: Learning Visually-Grounded Active View Selection](https://arxiv.org/abs/2512.13250v1)** | 2025-12-15 | <details><summary>Proje...</summary><p>Project page: https://active-view-selection.github.io/</p></details> |
+| **[Reflective Preference Optimization (RPO): Enhancing On-Policy Alignment via Hint-Guided Reflection](https://arxiv.org/abs/2512.13240v1)** | 2025-12-15 |  |
+| **[MMDrive: Interactive Scene Understanding Beyond Vision with Multi-representational Fusion](https://arxiv.org/abs/2512.13177v1)** | 2025-12-15 |  |
+| **[MR-COSMO: Visual-Text Memory Recall and Direct CrOSs-MOdal Alignment Method for Query-Driven 3D Segmentation](https://arxiv.org/abs/2506.20991v3)** | 2025-12-15 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026. Copyright (c) 2026, Association for the Advancement of Artificial Intelligence (www.aaai.org). All rights reserved</p></details> |
+| **[dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model](https://arxiv.org/abs/2512.02498v3)** | 2025-12-15 |  |
+| **[CHIMERA: Adaptive Cache Injection and Semantic Anchor Prompting for Zero-shot Image Morphing with Morphing-oriented Metrics](https://arxiv.org/abs/2512.07155v3)** | 2025-12-15 | <details><summary>Pleas...</summary><p>Please visit our project page at https://cmlab-korea.github.io/CHIMERA/</p></details> |
+| **[Spatial-Aware VLA Pretraining through Visual-Physical Alignment from Human Videos](https://arxiv.org/abs/2512.13080v1)** | 2025-12-15 |  |
+| **[Forging a Dynamic Memory: Retrieval-Guided Continual Learning for Generalist Medical Foundation Models](https://arxiv.org/abs/2512.13072v1)** | 2025-12-15 |  |
+| **[GTR-Turbo: Merged Checkpoint is Secretly a Free Teacher for Agentic VLM Training](https://arxiv.org/abs/2512.13043v1)** | 2025-12-15 |  |
 
