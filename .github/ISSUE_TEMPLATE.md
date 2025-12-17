@@ -1,5 +1,5 @@
 ---
-title: Papers - December 17, 2025
+title: Papers - December 18, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -78,19 +78,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AgentIAD: Tool-Augmented Single-Agent for Industrial Anomaly Detection](https://arxiv.org/abs/2512.13671v1)** | 2025-12-15 |  |
-| **[RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2512.13660v1)** | 2025-12-15 | <details><summary>Proje...</summary><p>Project page: https://zhoues.github.io/RoboTracer</p></details> |
-| **[Do-Undo: Generating and Reversing Physical Actions in Vision-Language Models](https://arxiv.org/abs/2512.13609v1)** | 2025-12-15 |  |
-| **[Universal Dexterous Functional Grasping via Demonstration-Editing Reinforcement Learning](https://arxiv.org/abs/2512.13380v1)** | 2025-12-15 | 19 pages |
-| **[Learning to Pose Problems: Reasoning-Driven and Solver-Adaptive Data Synthesis for Large Reasoning Models](https://arxiv.org/abs/2511.09907v3)** | 2025-12-15 |  |
-| **[CausalCLIP: Causally-Informed Feature Disentanglement and Filtering for Generalizable Detection of Generated Images](https://arxiv.org/abs/2512.13285v1)** | 2025-12-15 | <details><summary>9 pag...</summary><p>9 pages Accepted to AAAI 2026</p></details> |
-| **[Toward Ambulatory Vision: Learning Visually-Grounded Active View Selection](https://arxiv.org/abs/2512.13250v1)** | 2025-12-15 | <details><summary>Proje...</summary><p>Project page: https://active-view-selection.github.io/</p></details> |
-| **[Reflective Preference Optimization (RPO): Enhancing On-Policy Alignment via Hint-Guided Reflection](https://arxiv.org/abs/2512.13240v1)** | 2025-12-15 |  |
-| **[MMDrive: Interactive Scene Understanding Beyond Vision with Multi-representational Fusion](https://arxiv.org/abs/2512.13177v1)** | 2025-12-15 |  |
-| **[MR-COSMO: Visual-Text Memory Recall and Direct CrOSs-MOdal Alignment Method for Query-Driven 3D Segmentation](https://arxiv.org/abs/2506.20991v3)** | 2025-12-15 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026. Copyright (c) 2026, Association for the Advancement of Artificial Intelligence (www.aaai.org). All rights reserved</p></details> |
-| **[dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model](https://arxiv.org/abs/2512.02498v3)** | 2025-12-15 |  |
-| **[CHIMERA: Adaptive Cache Injection and Semantic Anchor Prompting for Zero-shot Image Morphing with Morphing-oriented Metrics](https://arxiv.org/abs/2512.07155v3)** | 2025-12-15 | <details><summary>Pleas...</summary><p>Please visit our project page at https://cmlab-korea.github.io/CHIMERA/</p></details> |
-| **[Spatial-Aware VLA Pretraining through Visual-Physical Alignment from Human Videos](https://arxiv.org/abs/2512.13080v1)** | 2025-12-15 |  |
-| **[Forging a Dynamic Memory: Retrieval-Guided Continual Learning for Generalist Medical Foundation Models](https://arxiv.org/abs/2512.13072v1)** | 2025-12-15 |  |
-| **[GTR-Turbo: Merged Checkpoint is Secretly a Free Teacher for Agentic VLM Training](https://arxiv.org/abs/2512.13043v1)** | 2025-12-15 |  |
+| **[VIBE: Can a VLM Read the Room?](https://arxiv.org/abs/2506.11162v2)** | 2025-12-16 | <details><summary>Findi...</summary><p>Findings of EMNLP, 2025</p></details> |
+| **[Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models](https://arxiv.org/abs/2512.14661v1)** | 2025-12-16 | HPCA 2026 |
+| **[SIGMMA: Hierarchical Graph-Based Multi-Scale Multi-modal Contrastive Alignment of Histopathology Image and Spatial Transcriptome](https://arxiv.org/abs/2511.15464v3)** | 2025-12-16 |  |
+| **[A4-Agent: An Agentic Framework for Zero-Shot Affordance Reasoning](https://arxiv.org/abs/2512.14442v1)** | 2025-12-16 |  |
+| **[DISCODE: Distribution-Aware Score Decoder for Robust Automatic Evaluation of Image Captioning](https://arxiv.org/abs/2512.14420v1)** | 2025-12-16 | <details><summary>Paper...</summary><p>Paper accepted to AAAI 2026</p></details> |
+| **[Vector Prism: Animating Vector Graphics by Stratifying Semantic Structure](https://arxiv.org/abs/2512.14336v1)** | 2025-12-16 | <details><summary>yeolj...</summary><p>yeolj00.github.io/personal-projects/vector-prism</p></details> |
+| **[From YOLO to VLMs: Advancing Zero-Shot and Few-Shot Detection of Wastewater Treatment Plants Using Satellite Imagery in MENA Region](https://arxiv.org/abs/2512.14312v1)** | 2025-12-16 | 9 pages, 9 figures |
+| **[Improving Semantic Uncertainty Quantification in LVLMs with Semantic Gaussian Processes](https://arxiv.org/abs/2512.14177v1)** | 2025-12-16 |  |
+| **[From My View to Yours: Ego-to-Exo Transfer in VLMs for Understanding Activities of Daily Living](https://arxiv.org/abs/2501.05711v3)** | 2025-12-16 |  |
+| **[UIXPOSE: Mobile Malware Detection via Intention-Behaviour Discrepancy Analysis](https://arxiv.org/abs/2512.14130v1)** | 2025-12-16 | 15 pages |
+| **[MMDrive: Interactive Scene Understanding Beyond Vision with Multi-representational Fusion](https://arxiv.org/abs/2512.13177v2)** | 2025-12-16 |  |
+| **[Adapting General-Purpose Foundation Models for X-ray Ptychography in Low-Data Regimes](https://arxiv.org/abs/2511.02503v2)** | 2025-12-16 |  |
+| **[Neurosymbolic Inference On Foundation Models For Remote Sensing Text-to-image Retrieval With Complex Queries](https://arxiv.org/abs/2512.14102v1)** | 2025-12-16 |  |
+| **[Adaptive Detector-Verifier Framework for Zero-Shot Polyp Detection in Open-World Settings](https://arxiv.org/abs/2512.12492v2)** | 2025-12-16 |  |
+| **[Learning neuroimaging models from health system-scale data](https://arxiv.org/abs/2509.18638v2)** | 2025-12-16 |  |
 
