@@ -1,5 +1,5 @@
 ---
-title: Papers - December 18, 2025
+title: Papers - December 19, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,6 +24,7 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MedicoSAM: Robust Improvement of SAM for Medical Imaging](https://arxiv.org/abs/2501.11734v2)** | 2025-12-17 |  |
 | **[More than Segmentation: Benchmarking SAM 3 for Segmentation, 3D Perception, and Reconstruction in Robotic Surgery](https://arxiv.org/abs/2512.07596v2)** | 2025-12-10 | Technical Report |
 | **[From SAM to DINOv2: Towards Distilling Foundation Models to Lightweight Baselines for Generalized Polyp Segmentation](https://arxiv.org/abs/2512.09307v1)** | 2025-12-10 |  |
 | **[SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images](https://arxiv.org/abs/2512.08730v1)** | 2025-12-09 |  |
@@ -38,11 +39,11 @@ labels: documentation
 | **[SAM-MI: A Mask-Injected Framework for Enhancing Open-Vocabulary Semantic Segmentation with SAM](https://arxiv.org/abs/2511.20027v1)** | 2025-11-25 |  |
 | **[DEAP-3DSAM: Decoder Enhanced and Auto Prompt SAM for 3D Medical Image Segmentation](https://arxiv.org/abs/2511.19071v1)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted by BIBM 2024</p></details> |
 | **[Granular Computing-driven SAM: From Coarse-to-Fine Guidance for Prompt-Free Segmentation](https://arxiv.org/abs/2511.19062v1)** | 2025-11-24 | 19 pages, 7 figures |
-| **[SGDFuse: SAM-Guided Diffusion for High-Fidelity Infrared and Visible Image Fusion](https://arxiv.org/abs/2508.05264v4)** | 2025-11-24 | <details><summary>Submi...</summary><p>Submitted to Information Fusion</p></details> |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On the Effectiveness of Textual Prompting with Lightweight Fine-Tuning for SAM3 Remote Sensing Segmentation](https://arxiv.org/abs/2512.15564v1)** | 2025-12-17 |  |
 | **[SAM2-ELNet: Label Enhancement and Automatic Annotation for Remote Sensing Segmentation](https://arxiv.org/abs/2503.12404v2)** | 2025-09-21 | <details><summary>publi...</summary><p>published in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</p></details> |
 | **[TASAM: Terrain-and-Aware Segment Anything Model for Temporal-Scale Remote Sensing Segmentation](https://arxiv.org/abs/2509.15795v1)** | 2025-09-19 |  |
 | **[Baltimore Atlas: FreqWeaver Adapter for Semi-supervised Ultra-high Spatial Resolution Land Cover Classification](https://arxiv.org/abs/2506.15565v2)** | 2025-08-23 |  |
@@ -57,7 +58,6 @@ labels: documentation
 | **[Hi-ResNet: Edge Detail Enhancement for High-Resolution Remote Sensing Segmentation](https://arxiv.org/abs/2305.12691v3)** | 2024-08-15 |  |
 | **[ALPS: An Auto-Labeling and Pre-training Scheme for Remote Sensing Segmentation With Segment Anything Model](https://arxiv.org/abs/2406.10855v1)** | 2024-06-16 |  |
 | **[Embedding Generalized Semantic Knowledge into Few-Shot Remote Sensing Segmentation](https://arxiv.org/abs/2405.13686v1)** | 2024-05-22 |  |
-| **[SFFNet: A Wavelet-Based Spatial and Frequency Domain Fusion Network for Remote Sensing Segmentation](https://arxiv.org/abs/2405.01992v1)** | 2024-05-03 |  |
 
 ## Remote Sensing Vision Language Model - Preview 12 papers
 | **Title** | **Date** | **Comment** |
@@ -78,19 +78,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VIBE: Can a VLM Read the Room?](https://arxiv.org/abs/2506.11162v2)** | 2025-12-16 | <details><summary>Findi...</summary><p>Findings of EMNLP, 2025</p></details> |
-| **[Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models](https://arxiv.org/abs/2512.14661v1)** | 2025-12-16 | HPCA 2026 |
-| **[SIGMMA: Hierarchical Graph-Based Multi-Scale Multi-modal Contrastive Alignment of Histopathology Image and Spatial Transcriptome](https://arxiv.org/abs/2511.15464v3)** | 2025-12-16 |  |
-| **[A4-Agent: An Agentic Framework for Zero-Shot Affordance Reasoning](https://arxiv.org/abs/2512.14442v1)** | 2025-12-16 |  |
-| **[DISCODE: Distribution-Aware Score Decoder for Robust Automatic Evaluation of Image Captioning](https://arxiv.org/abs/2512.14420v1)** | 2025-12-16 | <details><summary>Paper...</summary><p>Paper accepted to AAAI 2026</p></details> |
-| **[Vector Prism: Animating Vector Graphics by Stratifying Semantic Structure](https://arxiv.org/abs/2512.14336v1)** | 2025-12-16 | <details><summary>yeolj...</summary><p>yeolj00.github.io/personal-projects/vector-prism</p></details> |
-| **[From YOLO to VLMs: Advancing Zero-Shot and Few-Shot Detection of Wastewater Treatment Plants Using Satellite Imagery in MENA Region](https://arxiv.org/abs/2512.14312v1)** | 2025-12-16 | 9 pages, 9 figures |
-| **[Improving Semantic Uncertainty Quantification in LVLMs with Semantic Gaussian Processes](https://arxiv.org/abs/2512.14177v1)** | 2025-12-16 |  |
-| **[From My View to Yours: Ego-to-Exo Transfer in VLMs for Understanding Activities of Daily Living](https://arxiv.org/abs/2501.05711v3)** | 2025-12-16 |  |
-| **[UIXPOSE: Mobile Malware Detection via Intention-Behaviour Discrepancy Analysis](https://arxiv.org/abs/2512.14130v1)** | 2025-12-16 | 15 pages |
-| **[MMDrive: Interactive Scene Understanding Beyond Vision with Multi-representational Fusion](https://arxiv.org/abs/2512.13177v2)** | 2025-12-16 |  |
-| **[Adapting General-Purpose Foundation Models for X-ray Ptychography in Low-Data Regimes](https://arxiv.org/abs/2511.02503v2)** | 2025-12-16 |  |
-| **[Neurosymbolic Inference On Foundation Models For Remote Sensing Text-to-image Retrieval With Complex Queries](https://arxiv.org/abs/2512.14102v1)** | 2025-12-16 |  |
-| **[Adaptive Detector-Verifier Framework for Zero-Shot Polyp Detection in Open-World Settings](https://arxiv.org/abs/2512.12492v2)** | 2025-12-16 |  |
-| **[Learning neuroimaging models from health system-scale data](https://arxiv.org/abs/2509.18638v2)** | 2025-12-16 |  |
+| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v1)** | 2025-12-17 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, conference or other essential info</p></details> |
+| **[VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression](https://arxiv.org/abs/2512.15701v1)** | 2025-12-17 | 14 pages, 8 figures |
+| **[VTCBench: Can Vision-Language Models Understand Long Context with Vision-Text Compression?](https://arxiv.org/abs/2512.15649v1)** | 2025-12-17 |  |
+| **[LaF-GRPO: In-Situ Navigation Instruction Generation for the Visually Impaired via GRPO with LLM-as-Follower Reward](https://arxiv.org/abs/2506.04070v3)** | 2025-12-17 | Accepted at AAAI-26 |
+| **[If you can describe it, they can see it: Cross-Modal Learning of Visual Concepts from Textual Descriptions](https://arxiv.org/abs/2411.15611v2)** | 2025-12-17 | <details><summary>27 pa...</summary><p>27 pages. Under review</p></details> |
+| **[Prompt-Based Continual Compositional Zero-Shot Learning](https://arxiv.org/abs/2512.09172v2)** | 2025-12-17 |  |
+| **[Image Complexity-Aware Adaptive Retrieval for Efficient Vision-Language Models](https://arxiv.org/abs/2512.15372v1)** | 2025-12-17 | <details><summary>Accep...</summary><p>Accepted paper for ECIR 2026</p></details> |
+| **[SynthSeg-Agents: Multi-Agent Synthetic Data Generation for Zero-Shot Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2512.15310v1)** | 2025-12-17 |  |
+| **[Chain-of-Evidence Multimodal Reasoning for Few-shot Temporal Action Localization](https://arxiv.org/abs/2504.13460v4)** | 2025-12-17 |  |
+| **[Assessing the Visual Enumeration Abilities of Specialized Counting Architectures and Vision-Language Models](https://arxiv.org/abs/2512.15254v1)** | 2025-12-17 |  |
+| **[Intersectional Fairness in Vision-Language Models for Medical Image Disease Classification](https://arxiv.org/abs/2512.15249v1)** | 2025-12-17 |  |
+| **[EagleVision: A Dual-Stage Framework with BEV-grounding-based Chain-of-Thought for Spatial Intelligence](https://arxiv.org/abs/2512.15160v1)** | 2025-12-17 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 6 tables</p></details> |
+| **[Benchmarking and Mitigating Sycophancy in Medical Vision Language Models](https://arxiv.org/abs/2509.21979v3)** | 2025-12-17 | 19figures, 61pages |
+| **[Abstract 3D Perception for Spatial Intelligence in Vision-Language Models](https://arxiv.org/abs/2511.10946v2)** | 2025-12-17 |  |
+| **[dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model](https://arxiv.org/abs/2512.02498v4)** | 2025-12-17 |  |
 
