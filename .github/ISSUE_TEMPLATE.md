@@ -1,5 +1,5 @@
 ---
-title: Papers - December 22, 2025
+title: Papers - December 23, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -78,19 +78,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning](https://arxiv.org/abs/2512.16909v1)** | 2025-12-18 | <details><summary>25 pa...</summary><p>25 pages, 10 figures. Project page:https://hybridrobotics.github.io/MomaGraph/</p></details> |
-| **[PhysBrain: Human Egocentric Data as a Bridge from Vision Language Models to Physical Intelligence](https://arxiv.org/abs/2512.16793v1)** | 2025-12-18 | 17 pages, 4 figures |
-| **[CitySeeker: How Do VLMS Explore Embodied Urban Navigation With Implicit Human Needs?](https://arxiv.org/abs/2512.16755v1)** | 2025-12-18 |  |
-| **[N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models](https://arxiv.org/abs/2512.16561v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project Page: https://n3d-vlm.github.io</p></details> |
-| **[Scaling Laws for Energy Efficiency of Local LLMs](https://arxiv.org/abs/2512.16531v1)** | 2025-12-18 |  |
-| **[TTP: Test-Time Padding for Adversarial Detection and Robust Adaptation on Vision-Language Models](https://arxiv.org/abs/2512.16523v1)** | 2025-12-18 |  |
-| **[SNOW: Spatio-Temporal Scene Understanding with World Knowledge for Open-World Embodied Reasoning](https://arxiv.org/abs/2512.16461v1)** | 2025-12-18 |  |
-| **[E-SDS: Environment-aware See it, Do it, Sorted - Automated Environment-Aware Reinforcement Learning for Humanoid Locomotion](https://arxiv.org/abs/2512.16446v1)** | 2025-12-18 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 4 tables. Accepted at RiTA 2025 (Springer LNNS)</p></details> |
-| **[VLG-Loc: Vision-Language Global Localization from Labeled Footprint Maps](https://arxiv.org/abs/2512.12793v2)** | 2025-12-18 | <details><summary>v2: U...</summary><p>v2: Updated the citation of SparseLoc from an arXiv preprint to its published version in the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
-| **[Collaborative Edge-to-Server Inference for Vision-Language Models](https://arxiv.org/abs/2512.16349v1)** | 2025-12-18 | 13 pages, 12 figures |
-| **[MoAPT: Mixture of Adversarial Prompt Tuning for Vision-Language Models](https://arxiv.org/abs/2505.17509v2)** | 2025-12-18 |  |
-| **[ManiLong-Shot: Interaction-Aware One-Shot Imitation Learning for Long-Horizon Manipulation](https://arxiv.org/abs/2512.16302v1)** | 2025-12-18 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[LaF-GRPO: In-Situ Navigation Instruction Generation for the Visually Impaired via GRPO with LLM-as-Follower Reward](https://arxiv.org/abs/2506.04070v4)** | 2025-12-18 | Accepted at AAAI-26 |
-| **[Scaling Spatial Reasoning in MLLMs through Programmatic Data Synthesis](https://arxiv.org/abs/2512.16237v1)** | 2025-12-18 |  |
-| **[Visual Alignment of Medical Vision-Language Models for Grounded Radiology Report Generation](https://arxiv.org/abs/2512.16201v1)** | 2025-12-18 |  |
+| **[On the dynamic evolution of CLIP texture-shape bias and its relationship to human alignment and model robustness](https://arxiv.org/abs/2508.09814v2)** | 2025-12-19 |  |
+| **[AdaptPrompt: Parameter-Efficient Adaptation of VLMs for Generalizable Deepfake Detection](https://arxiv.org/abs/2512.17730v1)** | 2025-12-19 | Under Review |
+| **[PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology](https://arxiv.org/abs/2512.17621v1)** | 2025-12-19 |  |
+| **[Xiaomi MiMo-VL-Miloco Technical Report](https://arxiv.org/abs/2512.17436v1)** | 2025-12-19 |  |
+| **[ImagineNav++: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination](https://arxiv.org/abs/2512.17435v1)** | 2025-12-19 | <details><summary>17 pa...</summary><p>17 pages, 10 figures. arXiv admin note: text overlap with arXiv:2410.09874</p></details> |
+| **[RadImageNet-VQA: A Large-Scale CT and MRI Dataset for Radiologic Visual Question Answering](https://arxiv.org/abs/2512.17396v1)** | 2025-12-19 | <details><summary>Prepr...</summary><p>Preprint, 23 pages, 12 figures, 7 tables</p></details> |
+| **[Are Vision Language Models Cross-Cultural Theory of Mind Reasoners?](https://arxiv.org/abs/2512.17394v1)** | 2025-12-19 |  |
+| **[Journey Before Destination: On the importance of Visual Faithfulness in Slow Thinking](https://arxiv.org/abs/2512.12218v2)** | 2025-12-19 | Preprint |
+| **[Democratizing Pathology Co-Pilots: An Open Pipeline and Dataset for Whole-Slide Vision-Language Modelling](https://arxiv.org/abs/2512.17326v1)** | 2025-12-19 | 10 pages, 4 figures |
+| **[A Benchmark for Ultra-High-Resolution Remote Sensing MLLMs](https://arxiv.org/abs/2512.17319v1)** | 2025-12-19 |  |
+| **[Auxiliary Descriptive Knowledge for Few-Shot Adaptation of Vision-Language Model](https://arxiv.org/abs/2512.17313v1)** | 2025-12-19 |  |
+| **[Deep But Reliable: Advancing Multi-turn Reasoning for Thinking with Images](https://arxiv.org/abs/2512.17306v1)** | 2025-12-19 |  |
+| **[Vision-Language Model Guided Image Restoration](https://arxiv.org/abs/2512.17292v1)** | 2025-12-19 |  |
+| **[HOLODECK 2.0: Vision-Language-Guided 3D World Generation with Editing](https://arxiv.org/abs/2508.05899v2)** | 2025-12-19 |  |
+| **[Zero-shot Hierarchical Plant Segmentation via Foundation Segmentation Models and Text-to-image Attention](https://arxiv.org/abs/2509.09116v3)** | 2025-12-19 | WACV 2026 Accepted |
 
