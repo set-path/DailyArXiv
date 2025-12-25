@@ -1,5 +1,5 @@
 ---
-title: Papers - December 25, 2025
+title: Papers - December 26, 2025
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -78,19 +78,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LightTact: A Visual-Tactile Fingertip Sensor for Deformation-Independent Contact Sensing](https://arxiv.org/abs/2512.20591v1)** | 2025-12-23 |  |
-| **[FlashVLM: Text-Guided Visual Token Selection for Large Multimodal Models](https://arxiv.org/abs/2512.20561v1)** | 2025-12-23 | Under submission |
-| **[Learning to Reason in 4D: Dynamic Spatial Understanding for Vision Language Models](https://arxiv.org/abs/2512.20557v1)** | 2025-12-23 |  |
-| **[Multi-Grained Text-Guided Image Fusion for Multi-Exposure and Multi-Focus Scenarios](https://arxiv.org/abs/2512.20556v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted to WACV 2026</p></details> |
-| **[Video Generation Models Are Good Latent Reward Models](https://arxiv.org/abs/2511.21541v2)** | 2025-12-23 |  |
-| **[Scaling Laws for Energy Efficiency of Local LLMs](https://arxiv.org/abs/2512.16531v3)** | 2025-12-23 |  |
-| **[Chain-of-Anomaly Thoughts with Large Vision-Language Models](https://arxiv.org/abs/2512.20417v1)** | 2025-12-23 | <details><summary>2 pag...</summary><p>2 pages, 3 figures, 1 table. Accepted for RECPAD 2025</p></details> |
-| **[CRAFT: Continuous Reasoning and Agentic Feedback Tuning for Multimodal Text-to-Image Generation](https://arxiv.org/abs/2512.20362v1)** | 2025-12-23 | 37 pages, 42 figures |
-| **[ActionFlow: A Pipelined Action Acceleration for Vision Language Models on Edge](https://arxiv.org/abs/2512.20276v1)** | 2025-12-23 |  |
-| **[LADLE-MM: Limited Annotation based Detector with Learned Ensembles for Multimodal Misinformation](https://arxiv.org/abs/2512.20257v1)** | 2025-12-23 |  |
-| **[Asynchronous Fast-Slow Vision-Language-Action Policies for Whole-Body Robotic Manipulation](https://arxiv.org/abs/2512.20188v1)** | 2025-12-23 |  |
-| **[Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection](https://arxiv.org/abs/2508.12711v4)** | 2025-12-23 |  |
-| **[Towards Natural Language-Based Document Image Retrieval: New Dataset and Benchmark](https://arxiv.org/abs/2512.20174v1)** | 2025-12-23 | CVPR 2025 |
-| **[Vision Language Models are Confused Tourists](https://arxiv.org/abs/2511.17004v3)** | 2025-12-23 |  |
-| **[LoLA: Long Horizon Latent Action Learning for General Robot Manipulation](https://arxiv.org/abs/2512.20166v1)** | 2025-12-23 |  |
+| **[Beyond Memorization: A Multi-Modal Ordinal Regression Benchmark to Expose Popularity Bias in Vision-Language Models](https://arxiv.org/abs/2512.21337v1)** | 2025-12-24 | <details><summary>Proje...</summary><p>Project page: https://sytwu.github.io/BeyondMemo/</p></details> |
+| **[Your Reasoning Benchmark May Not Test Reasoning: Revealing Perception Bottleneck in Abstract Reasoning Benchmarks](https://arxiv.org/abs/2512.21329v1)** | 2025-12-24 |  |
+| **[LookPlanGraph: Embodied Instruction Following Method with VLM Graph Augmentation](https://arxiv.org/abs/2512.21243v1)** | 2025-12-24 |  |
+| **[Leveraging Lightweight Entity Extraction for Scalable Event-Based Image Retrieval](https://arxiv.org/abs/2512.21221v1)** | 2025-12-24 | <details><summary>Syste...</summary><p>System description paper for EVENTA Grand Challenge Track 2 at ACM Multimedia 2025 (MM '25). Ranked 4th place. 6 pages, 1 figure, 2 tables</p></details> |
+| **[RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic](https://arxiv.org/abs/2512.21220v1)** | 2025-12-24 | 11 pages, 6 figures |
+| **[VisRes Bench: On Evaluating the Visual Reasoning Capabilities of VLMs](https://arxiv.org/abs/2512.21194v1)** | 2025-12-24 |  |
+| **[SSL4RL: Revisiting Self-supervised Learning as Intrinsic Reward for Visual-Language Reasoning](https://arxiv.org/abs/2510.16416v3)** | 2025-12-24 |  |
+| **[Unbiased Region-Language Alignment for Open-Vocabulary Dense Prediction](https://arxiv.org/abs/2412.06244v4)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025. The code is available at https://github.com/HVision-NKU/DenseVLM</p></details> |
+| **[Intersectional Fairness in Vision-Language Models for Medical Image Disease Classification](https://arxiv.org/abs/2512.15249v2)** | 2025-12-24 |  |
+| **[MarineEval: Assessing the Marine Intelligence of Vision-Language Models](https://arxiv.org/abs/2512.21126v1)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted by The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026</p></details> |
+| **[UniRec-0.1B: Unified Text and Formula Recognition with 0.1B Parameters](https://arxiv.org/abs/2512.21095v1)** | 2025-12-24 |  |
+| **[O3SLM: Open Weight, Open Data, and Open Vocabulary Sketch-Language Model](https://arxiv.org/abs/2511.14368v2)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
+| **[RGMP: Recurrent Geometric-prior Multimodal Policy for Generalizable Humanoid Robot Manipulation](https://arxiv.org/abs/2511.09141v2)** | 2025-12-24 |  |
+| **[GateBreaker: Gate-Guided Attacks on Mixture-of-Expert LLMs](https://arxiv.org/abs/2512.21008v1)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted by USENIX Security'26</p></details> |
+| **[ETP-R1: Evolving Topological Planning with Reinforcement Fine-tuning for Vision-Language Navigation in Continuous Environments](https://arxiv.org/abs/2512.20940v1)** | 2025-12-24 | 8 pages, 6 figures |
 
