@@ -1,5 +1,5 @@
 ---
-title: Papers - December 31, 2025
+title: Papers - January 01, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
