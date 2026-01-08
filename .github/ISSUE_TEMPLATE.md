@@ -1,5 +1,5 @@
 ---
-title: Papers - January 08, 2026
+title: Papers - January 09, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -59,9 +59,10 @@ labels: documentation
 | **[Hi-ResNet: Edge Detail Enhancement for High-Resolution Remote Sensing Segmentation](https://arxiv.org/abs/2305.12691v3)** | 2024-08-15 |  |
 | **[ALPS: An Auto-Labeling and Pre-training Scheme for Remote Sensing Segmentation With Segment Anything Model](https://arxiv.org/abs/2406.10855v1)** | 2024-06-16 |  |
 
-## Remote Sensing Vision Language Model - Preview 14 papers
+## Remote Sensing Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GeoReason: Aligning Thinking And Answering In Remote Sensing Vision-Language Models Via Logical Consistency Reinforcement Learning](https://arxiv.org/abs/2601.04118v1)** | 2026-01-07 |  |
 | **[AirSpatialBot: A Spatially-Aware Aerial Agent for Fine-Grained Vehicle Attribute Recognization and Retrieval](https://arxiv.org/abs/2601.01416v1)** | 2026-01-04 | 12 pages, 9 figures |
 | **[FUSE-RSVLM: Feature Fusion Vision-Language Model for Remote Sensing](https://arxiv.org/abs/2512.24022v1)** | 2025-12-30 |  |
 | **[ISS-Geo142: A Benchmark for Geolocating Astronaut Photography from the International Space Station](https://arxiv.org/abs/2504.21194v2)** | 2025-11-20 |  |
@@ -80,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Musical Score Understanding Benchmark: Evaluating Large Language Models' Comprehension of Complete Musical Scores](https://arxiv.org/abs/2511.20697v2)** | 2026-01-06 |  |
-| **[ReCCur: A Recursive Corner-Case Curation Framework for Robust Vision-Language Understanding in Open and Edge Scenarios](https://arxiv.org/abs/2601.03011v1)** | 2026-01-06 |  |
-| **[Zoom-IQA: Image Quality Assessment with Reliable Region-Aware Reasoning](https://arxiv.org/abs/2601.02918v1)** | 2026-01-06 | <details><summary>Proje...</summary><p>Project Page: https://ethanliang99.github.io/ZOOMIQA-Projectpage</p></details> |
-| **[CaTS-Bench: Can Language Models Describe Time Series?](https://arxiv.org/abs/2509.20823v2)** | 2026-01-06 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 3 tables in the main paper. Many more in the appendix</p></details> |
-| **[RPIQ: Residual-Projected Multi-Collaboration Closed-Loop and Single Instance Quantization for Visually Impaired Assistance](https://arxiv.org/abs/2601.02888v1)** | 2026-01-06 |  |
-| **[Scene-Aware Vectorized Memory Multi-Agent Framework with Cross-Modal Differentiated Quantization VLMs for Visually Impaired Assistance](https://arxiv.org/abs/2508.18177v2)** | 2026-01-06 | 28 pages,9 figures |
-| **[FCMBench: A Comprehensive Financial Credit Multimodal Benchmark for Real-world Applications](https://arxiv.org/abs/2601.00150v2)** | 2026-01-06 |  |
-| **[Intervene-All-Paths: Unified Mitigation of LVLM Hallucinations across Alignment Formats](https://arxiv.org/abs/2511.17254v2)** | 2026-01-06 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025, Project Page: https://github.com/SooLab/AllPath</p></details> |
-| **[RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2512.13660v2)** | 2026-01-06 | <details><summary>Proje...</summary><p>Project page: https://zhoues.github.io/RoboTracer</p></details> |
-| **[DarkEQA: Benchmarking Vision-Language Models for Embodied Question Answering in Low-Light Indoor Environments](https://arxiv.org/abs/2512.24985v2)** | 2026-01-06 | <details><summary>Submi...</summary><p>Submitted to IEEE Robotics and Automation Letters (RA-L)</p></details> |
-| **[MIRAGE: A Benchmark for Multimodal Information-Seeking and Reasoning in Agricultural Expert-Guided Conversations](https://arxiv.org/abs/2506.20100v2)** | 2026-01-06 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
-| **[Aha Moment Revisited: Are VLMs Truly Capable of Self Verification in Inference-time Scaling?](https://arxiv.org/abs/2506.17417v3)** | 2026-01-06 | <details><summary>Neuri...</summary><p>Neurips 2025 Multimodal Algorithmic Reasoning Workshop Oral. In submission</p></details> |
-| **[RxnCaption: Reformulating Reaction Diagram Parsing as Visual Prompt Guided Captioning](https://arxiv.org/abs/2511.02384v2)** | 2026-01-06 |  |
-| **[Agentic Physical AI toward a Domain-Specific Foundation Model for Nuclear Reactor Control](https://arxiv.org/abs/2512.23292v2)** | 2026-01-06 |  |
-| **[VINO: A Unified Visual Generator with Interleaved OmniModal Context](https://arxiv.org/abs/2601.02358v1)** | 2026-01-05 | <details><summary>Proje...</summary><p>Project page: https://sotamak1r.github.io/VINO-web/</p></details> |
+| **[Scanner-Induced Domain Shifts Undermine the Robustness of Pathology Foundation Models](https://arxiv.org/abs/2601.04163v1)** | 2026-01-07 |  |
+| **[Diffusion-DRF: Differentiable Reward Flow for Video Diffusion Fine-Tuning](https://arxiv.org/abs/2601.04153v1)** | 2026-01-07 |  |
+| **[GeoReason: Aligning Thinking And Answering In Remote Sensing Vision-Language Models Via Logical Consistency Reinforcement Learning](https://arxiv.org/abs/2601.04118v1)** | 2026-01-07 |  |
+| **[Venus: An Efficient Edge Memory-and-Retrieval System for VLM-based Online Video Understanding](https://arxiv.org/abs/2512.07344v2)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted by IEEE International Conference on Computer Communications 2026</p></details> |
+| **[FastV-RAG: Towards Fast and Fine-Grained Video QA with Retrieval-Augmented Generation](https://arxiv.org/abs/2601.01513v2)** | 2026-01-07 |  |
+| **[CoINS: Counterfactual Interactive Navigation via Skill-Aware VLM](https://arxiv.org/abs/2601.03956v1)** | 2026-01-07 | 17 pages, 13 figures |
+| **[FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection](https://arxiv.org/abs/2601.03928v1)** | 2026-01-07 | 14 pages, 13 figures |
+| **[Doc-PP: Document Policy Preservation Benchmark for Large Vision-Language Models](https://arxiv.org/abs/2601.03926v1)** | 2026-01-07 |  |
+| **[HemBLIP: A Vision-Language Model for Interpretable Leukemia Cell Morphology Analysis](https://arxiv.org/abs/2601.03915v1)** | 2026-01-07 |  |
+| **[Current Agents Fail to Leverage World Model as Tool for Foresight](https://arxiv.org/abs/2601.03905v1)** | 2026-01-07 | <details><summary>36 Pa...</summary><p>36 Pages, 13 Figures, 17 Tables</p></details> |
+| **[PM4Bench: Benchmarking Large Vision-Language Models with Parallel Multilingual Multi-Modal Multi-task Corpus](https://arxiv.org/abs/2503.18484v2)** | 2026-01-07 | <details><summary>Equal...</summary><p>Equal contribution: Junyuan Gao, Jiahe Song, Jiang Wu; Corresponding author: Conghui He</p></details> |
+| **[Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring](https://arxiv.org/abs/2512.12069v2)** | 2026-01-07 | 37 pages, 13 figures |
+| **[WebGym: Scaling Training Environments for Visual Web Agents with Realistic Tasks](https://arxiv.org/abs/2601.02439v2)** | 2026-01-07 | <details><summary>Sligh...</summary><p>Slightly modified format; added Table 3 for better illustration of the scaling results</p></details> |
+| **[Are Vision Language Models Cross-Cultural Theory of Mind Reasoners?](https://arxiv.org/abs/2512.17394v2)** | 2026-01-07 |  |
+| **[RadDiff: Describing Differences in Radiology Image Sets with Natural Language](https://arxiv.org/abs/2601.03733v1)** | 2026-01-07 |  |
 
