@@ -1,5 +1,5 @@
 ---
-title: Papers - January 12, 2026
+title: Papers - January 13, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,6 +24,7 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Prompt-Free SAM-Based Multi-Task Framework for Breast Ultrasound Lesion Segmentation and Classification](https://arxiv.org/abs/2601.05498v1)** | 2026-01-09 |  |
 | **[DGA-Net: Enhancing SAM with Depth Prompting and Graph-Anchor Guidance for Camouflaged Object Detection](https://arxiv.org/abs/2601.02831v1)** | 2026-01-06 |  |
 | **[TopoLoRA-SAM: Topology-Aware Parameter-Efficient Adaptation of Foundation Segmenters for Thin-Structure and Cross-Domain Binary Semantic Segmentation](https://arxiv.org/abs/2601.02273v1)** | 2026-01-05 |  |
 | **[SAM-aware Test-time Adaptation for Universal Medical Image Segmentation](https://arxiv.org/abs/2506.05221v2)** | 2026-01-05 | 10 pages, 5 figures |
@@ -38,7 +39,6 @@ labels: documentation
 | **[SegGraph: Leveraging Graphs of SAM Segments for Few-Shot 3D Part Segmentation](https://arxiv.org/abs/2512.16143v1)** | 2025-12-18 |  |
 | **[MedicoSAM: Robust Improvement of SAM for Medical Imaging](https://arxiv.org/abs/2501.11734v2)** | 2025-12-17 |  |
 | **[More than Segmentation: Benchmarking SAM 3 for Segmentation, 3D Perception, and Reconstruction in Robotic Surgery](https://arxiv.org/abs/2512.07596v2)** | 2025-12-10 | Technical Report |
-| **[From SAM to DINOv2: Towards Distilling Foundation Models to Lightweight Baselines for Generalized Polyp Segmentation](https://arxiv.org/abs/2512.09307v1)** | 2025-12-10 |  |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mechanisms of Prompt-Induced Hallucination in Vision-Language Models](https://arxiv.org/abs/2601.05201v1)** | 2026-01-08 |  |
-| **[CoV: Chain-of-View Prompting for Spatial Reasoning](https://arxiv.org/abs/2601.05172v1)** | 2026-01-08 |  |
-| **[MVT: Mask-Grounded Vision-Language Models for Taxonomy-Aligned Land-Cover Tagging](https://arxiv.org/abs/2509.18693v3)** | 2026-01-08 | <details><summary>The p...</summary><p>The project is available at https://charlescsyyy.github.io/MVT</p></details> |
-| **[FALCONEye: Finding Answers and Localizing Content in ONE-hour-long videos with multi-modal LLMs](https://arxiv.org/abs/2503.19850v3)** | 2026-01-08 |  |
-| **[VERSE: Visual Embedding Reduction and Space Exploration. Clustering-Guided Insights for Training Data Enhancement in Visually-Rich Document Understanding](https://arxiv.org/abs/2601.05125v1)** | 2026-01-08 |  |
-| **[$π_0$: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/abs/2410.24164v4)** | 2026-01-08 | <details><summary>See p...</summary><p>See project website for videos: https://physicalintelligence.company/blog/pi0 Published in RSS 2025</p></details> |
-| **[POLYCHARTQA: Benchmarking Large Vision-Language Models with Multilingual Chart Question Answering](https://arxiv.org/abs/2507.11939v2)** | 2026-01-08 | Work in Progress |
-| **[Instruction Tuning with and without Context: Behavioral Shifts and Downstream Impact](https://arxiv.org/abs/2506.15480v2)** | 2026-01-08 |  |
-| **[From Understanding to Engagement: Personalized pharmacy Video Clips via Vision Language Models (VLMs)](https://arxiv.org/abs/2601.05059v1)** | 2026-01-08 | <details><summary>Contr...</summary><p>Contributed original research to top tier conference in VLM; currently undergoing peer review</p></details> |
-| **[Scaling Vision Language Models for Pharmaceutical Long Form Video Reasoning on Industrial GenAI Platform](https://arxiv.org/abs/2601.04891v1)** | 2026-01-08 | <details><summary>Submi...</summary><p>Submitted to the Industry Track of Top Tier Conference; currently under peer review</p></details> |
-| **[ImagineNav++: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination](https://arxiv.org/abs/2512.17435v2)** | 2026-01-08 | <details><summary>17 pa...</summary><p>17 pages, 10 figures. arXiv admin note: text overlap with arXiv:2410.09874</p></details> |
-| **[SOVABench: A Vehicle Surveillance Action Retrieval Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2601.04824v1)** | 2026-01-08 | <details><summary>This ...</summary><p>This work has been accepted at Real World Surveillance: Applications and Challenges, 6th (in WACV Workshops)</p></details> |
-| **[Agentic Retoucher for Text-To-Image Generation](https://arxiv.org/abs/2601.02046v2)** | 2026-01-08 |  |
-| **[AECV-Bench: Benchmarking Multimodal Models on Architectural and Engineering Drawings Understanding](https://arxiv.org/abs/2601.04819v1)** | 2026-01-08 |  |
-| **[Crafting Adversarial Inputs for Large Vision-Language Models Using Black-Box Optimization](https://arxiv.org/abs/2601.01747v2)** | 2026-01-08 | EACL |
+| **[Co-Training Vision Language Models for Remote Sensing Multi-task Learning](https://arxiv.org/abs/2511.21272v2)** | 2026-01-09 | 14 pages, 6 figures |
+| **[Open-Vocabulary 3D Instruction Ambiguity Detection](https://arxiv.org/abs/2601.05991v1)** | 2026-01-09 |  |
+| **[Context-Aware Decoding for Faithful Vision-Language Generation](https://arxiv.org/abs/2601.05939v1)** | 2026-01-09 |  |
+| **[Router-Suggest: Dynamic Routing for Multimodal Auto-Completion in Visually-Grounded Dialogs](https://arxiv.org/abs/2601.05851v1)** | 2026-01-09 | <details><summary>Accep...</summary><p>Accepted to EACL 2026 Industry Track, 12 pages, 6 figures</p></details> |
+| **[From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation](https://arxiv.org/abs/2601.05787v1)** | 2026-01-09 | Work In Progress |
+| **[Multimodal Interpretation of Remote Sensing Images: Dynamic Resolution Input Strategy and Multi-scale Vision-Language Alignment Mechanism](https://arxiv.org/abs/2512.23243v2)** | 2026-01-09 |  |
+| **[PII-VisBench: Evaluating Personally Identifiable Information Safety in Vision Language Models Along a Continuum of Visibility](https://arxiv.org/abs/2601.05739v1)** | 2026-01-09 |  |
+| **[SOVABench: A Vehicle Surveillance Action Retrieval Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2601.04824v2)** | 2026-01-09 | <details><summary>This ...</summary><p>This work has been accepted at Real World Surveillance: Applications and Challenges, 6th (in WACV Workshops)</p></details> |
+| **[SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving](https://arxiv.org/abs/2601.05640v1)** | 2026-01-09 |  |
+| **[Video Generation Models Are Good Latent Reward Models](https://arxiv.org/abs/2511.21541v3)** | 2026-01-09 |  |
+| **[See or Say Graphs: Agent-Driven Scalable Graph Structure Understanding with Vision-Language Models](https://arxiv.org/abs/2510.16769v2)** | 2026-01-09 |  |
+| **[LatentVLA: Efficient Vision-Language Models for Autonomous Driving via Latent Action Prediction](https://arxiv.org/abs/2601.05611v1)** | 2026-01-09 |  |
+| **[CoV: Chain-of-View Prompting for Spatial Reasoning](https://arxiv.org/abs/2601.05172v2)** | 2026-01-09 | <details><summary>Code ...</summary><p>Code link https://github.com/ziplab/CoV</p></details> |
+| **[VIB-Probe: Detecting and Mitigating Hallucinations in Vision-Language Models via Variational Information Bottleneck](https://arxiv.org/abs/2601.05547v1)** | 2026-01-09 |  |
+| **[Safety Not Found (404): Hidden Risks of LLM-Based Robotics Decision Making](https://arxiv.org/abs/2601.05529v1)** | 2026-01-09 |  |
 
