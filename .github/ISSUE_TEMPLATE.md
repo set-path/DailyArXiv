@@ -1,5 +1,5 @@
 ---
-title: Papers - January 13, 2026
+title: Papers - January 14, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,6 +24,8 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PanoSAMic: Panoramic Image Segmentation from SAM Feature Encoding and Dual View Fusion](https://arxiv.org/abs/2601.07447v1)** | 2026-01-12 |  |
+| **[Unsupervised Domain Adaptation with SAM-RefiSeR for Enhanced Brain Tumor Segmentation](https://arxiv.org/abs/2601.06882v1)** | 2026-01-11 | <details><summary>Accep...</summary><p>Accepted in BIBM 2025</p></details> |
 | **[Prompt-Free SAM-Based Multi-Task Framework for Breast Ultrasound Lesion Segmentation and Classification](https://arxiv.org/abs/2601.05498v1)** | 2026-01-09 |  |
 | **[DGA-Net: Enhancing SAM with Depth Prompting and Graph-Anchor Guidance for Camouflaged Object Detection](https://arxiv.org/abs/2601.02831v1)** | 2026-01-06 |  |
 | **[TopoLoRA-SAM: Topology-Aware Parameter-Efficient Adaptation of Foundation Segmenters for Thin-Structure and Cross-Domain Binary Semantic Segmentation](https://arxiv.org/abs/2601.02273v1)** | 2026-01-05 |  |
@@ -37,13 +39,11 @@ labels: documentation
 | **[Bridging Semantics and Geometry: A Decoupled LVLM-SAM Framework for Reasoning Segmentation in Remote Sensing](https://arxiv.org/abs/2512.19302v1)** | 2025-12-22 |  |
 | **[SAM Audio: Segment Anything in Audio](https://arxiv.org/abs/2512.18099v1)** | 2025-12-19 |  |
 | **[SegGraph: Leveraging Graphs of SAM Segments for Few-Shot 3D Part Segmentation](https://arxiv.org/abs/2512.16143v1)** | 2025-12-18 |  |
-| **[MedicoSAM: Robust Improvement of SAM for Medical Imaging](https://arxiv.org/abs/2501.11734v2)** | 2025-12-17 |  |
-| **[More than Segmentation: Benchmarking SAM 3 for Segmentation, 3D Perception, and Reconstruction in Robotic Surgery](https://arxiv.org/abs/2512.07596v2)** | 2025-12-10 | Technical Report |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Toward Stable Semi-Supervised Remote Sensing Segmentation via Co-Guidance and Co-Fusion](https://arxiv.org/abs/2512.23035v1)** | 2025-12-28 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 10 tables</p></details> |
+| **[Toward Stable Semi-Supervised Remote Sensing Segmentation via Co-Guidance and Co-Fusion](https://arxiv.org/abs/2512.23035v2)** | 2026-01-12 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 9 tables</p></details> |
 | **[On the Effectiveness of Textual Prompting with Lightweight Fine-Tuning for SAM3 Remote Sensing Segmentation](https://arxiv.org/abs/2512.15564v1)** | 2025-12-17 |  |
 | **[SAM2-ELNet: Label Enhancement and Automatic Annotation for Remote Sensing Segmentation](https://arxiv.org/abs/2503.12404v2)** | 2025-09-21 | <details><summary>publi...</summary><p>published in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</p></details> |
 | **[TASAM: Terrain-and-Aware Segment Anything Model for Temporal-Scale Remote Sensing Segmentation](https://arxiv.org/abs/2509.15795v1)** | 2025-09-19 |  |
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Co-Training Vision Language Models for Remote Sensing Multi-task Learning](https://arxiv.org/abs/2511.21272v2)** | 2026-01-09 | 14 pages, 6 figures |
-| **[Open-Vocabulary 3D Instruction Ambiguity Detection](https://arxiv.org/abs/2601.05991v1)** | 2026-01-09 |  |
-| **[Context-Aware Decoding for Faithful Vision-Language Generation](https://arxiv.org/abs/2601.05939v1)** | 2026-01-09 |  |
-| **[Router-Suggest: Dynamic Routing for Multimodal Auto-Completion in Visually-Grounded Dialogs](https://arxiv.org/abs/2601.05851v1)** | 2026-01-09 | <details><summary>Accep...</summary><p>Accepted to EACL 2026 Industry Track, 12 pages, 6 figures</p></details> |
-| **[From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation](https://arxiv.org/abs/2601.05787v1)** | 2026-01-09 | Work In Progress |
-| **[Multimodal Interpretation of Remote Sensing Images: Dynamic Resolution Input Strategy and Multi-scale Vision-Language Alignment Mechanism](https://arxiv.org/abs/2512.23243v2)** | 2026-01-09 |  |
-| **[PII-VisBench: Evaluating Personally Identifiable Information Safety in Vision Language Models Along a Continuum of Visibility](https://arxiv.org/abs/2601.05739v1)** | 2026-01-09 |  |
-| **[SOVABench: A Vehicle Surveillance Action Retrieval Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2601.04824v2)** | 2026-01-09 | <details><summary>This ...</summary><p>This work has been accepted at Real World Surveillance: Applications and Challenges, 6th (in WACV Workshops)</p></details> |
-| **[SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving](https://arxiv.org/abs/2601.05640v1)** | 2026-01-09 |  |
-| **[Video Generation Models Are Good Latent Reward Models](https://arxiv.org/abs/2511.21541v3)** | 2026-01-09 |  |
-| **[See or Say Graphs: Agent-Driven Scalable Graph Structure Understanding with Vision-Language Models](https://arxiv.org/abs/2510.16769v2)** | 2026-01-09 |  |
-| **[LatentVLA: Efficient Vision-Language Models for Autonomous Driving via Latent Action Prediction](https://arxiv.org/abs/2601.05611v1)** | 2026-01-09 |  |
-| **[CoV: Chain-of-View Prompting for Spatial Reasoning](https://arxiv.org/abs/2601.05172v2)** | 2026-01-09 | <details><summary>Code ...</summary><p>Code link https://github.com/ziplab/CoV</p></details> |
-| **[VIB-Probe: Detecting and Mitigating Hallucinations in Vision-Language Models via Variational Information Bottleneck](https://arxiv.org/abs/2601.05547v1)** | 2026-01-09 |  |
-| **[Safety Not Found (404): Hidden Risks of LLM-Based Robotics Decision Making](https://arxiv.org/abs/2601.05529v1)** | 2026-01-09 |  |
+| **[Reference Games as a Testbed for the Alignment of Model Uncertainty and Clarification Requests](https://arxiv.org/abs/2601.07820v1)** | 2026-01-12 |  |
+| **[More Images, More Problems? A Controlled Analysis of VLM Failure Modes](https://arxiv.org/abs/2601.07812v1)** | 2026-01-12 | 19 pages, 16 figures |
+| **[StarFlow: Generating Structured Workflow Outputs From Sketch Images](https://arxiv.org/abs/2503.21889v2)** | 2026-01-12 | <details><summary>To be...</summary><p>To be presented at EACL2026</p></details> |
+| **[Vision-Language Model for Accurate Crater Detection](https://arxiv.org/abs/2601.07795v1)** | 2026-01-12 |  |
+| **[OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agent](https://arxiv.org/abs/2601.07779v1)** | 2026-01-12 | <details><summary>31 pa...</summary><p>31 pages, 11 figures, 12 tables</p></details> |
+| **[Video Evidence to Reasoning Efficient Video Understanding via Explicit Evidence Grounding](https://arxiv.org/abs/2601.07761v1)** | 2026-01-12 | 6 pages |
+| **[Smooth Operator: Smooth Verifiable Reward Activates Spatial Reasoning Ability of Vision-Language Model](https://arxiv.org/abs/2601.07695v1)** | 2026-01-12 |  |
+| **[VirtualEnv: A Platform for Embodied AI Research](https://arxiv.org/abs/2601.07553v1)** | 2026-01-12 |  |
+| **[Controlling Multimodal Conversational Agents with Coverage-Enhanced Latent Actions](https://arxiv.org/abs/2601.07516v1)** | 2026-01-12 |  |
+| **[CaTS-Bench: Can Language Models Describe Time Series?](https://arxiv.org/abs/2509.20823v4)** | 2026-01-12 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 3 tables in the main paper. Many more in the appendix</p></details> |
+| **[Safe Vision-Language Models via Unsafe Weights Manipulation](https://arxiv.org/abs/2503.11742v2)** | 2026-01-12 | WACV 2026 |
+| **[Studying Illustrations in Manuscripts: An Efficient Deep-Learning Approach](https://arxiv.org/abs/2601.05269v2)** | 2026-01-12 | 17 pages, 5 figures |
+| **[Proprioception Enhances Vision Language Model in Generating Captions and Subtask Segmentations for Robot Task](https://arxiv.org/abs/2512.20876v2)** | 2026-01-12 |  |
+| **[VLM-CAD: VLM-Optimized Collaborative Agent Design Workflow for Analog Circuit Sizing](https://arxiv.org/abs/2601.07315v1)** | 2026-01-12 | 8 pages, 5 figures |
+| **[Toward Stable Semi-Supervised Remote Sensing Segmentation via Co-Guidance and Co-Fusion](https://arxiv.org/abs/2512.23035v2)** | 2026-01-12 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 9 tables</p></details> |
 
