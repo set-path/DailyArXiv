@@ -1,5 +1,5 @@
 ---
-title: Papers - January 14, 2026
+title: Papers - January 15, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reference Games as a Testbed for the Alignment of Model Uncertainty and Clarification Requests](https://arxiv.org/abs/2601.07820v1)** | 2026-01-12 |  |
-| **[More Images, More Problems? A Controlled Analysis of VLM Failure Modes](https://arxiv.org/abs/2601.07812v1)** | 2026-01-12 | 19 pages, 16 figures |
-| **[StarFlow: Generating Structured Workflow Outputs From Sketch Images](https://arxiv.org/abs/2503.21889v2)** | 2026-01-12 | <details><summary>To be...</summary><p>To be presented at EACL2026</p></details> |
-| **[Vision-Language Model for Accurate Crater Detection](https://arxiv.org/abs/2601.07795v1)** | 2026-01-12 |  |
-| **[OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agent](https://arxiv.org/abs/2601.07779v1)** | 2026-01-12 | <details><summary>31 pa...</summary><p>31 pages, 11 figures, 12 tables</p></details> |
-| **[Video Evidence to Reasoning Efficient Video Understanding via Explicit Evidence Grounding](https://arxiv.org/abs/2601.07761v1)** | 2026-01-12 | 6 pages |
-| **[Smooth Operator: Smooth Verifiable Reward Activates Spatial Reasoning Ability of Vision-Language Model](https://arxiv.org/abs/2601.07695v1)** | 2026-01-12 |  |
-| **[VirtualEnv: A Platform for Embodied AI Research](https://arxiv.org/abs/2601.07553v1)** | 2026-01-12 |  |
-| **[Controlling Multimodal Conversational Agents with Coverage-Enhanced Latent Actions](https://arxiv.org/abs/2601.07516v1)** | 2026-01-12 |  |
-| **[CaTS-Bench: Can Language Models Describe Time Series?](https://arxiv.org/abs/2509.20823v4)** | 2026-01-12 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 3 tables in the main paper. Many more in the appendix</p></details> |
-| **[Safe Vision-Language Models via Unsafe Weights Manipulation](https://arxiv.org/abs/2503.11742v2)** | 2026-01-12 | WACV 2026 |
-| **[Studying Illustrations in Manuscripts: An Efficient Deep-Learning Approach](https://arxiv.org/abs/2601.05269v2)** | 2026-01-12 | 17 pages, 5 figures |
-| **[Proprioception Enhances Vision Language Model in Generating Captions and Subtask Segmentations for Robot Task](https://arxiv.org/abs/2512.20876v2)** | 2026-01-12 |  |
-| **[VLM-CAD: VLM-Optimized Collaborative Agent Design Workflow for Analog Circuit Sizing](https://arxiv.org/abs/2601.07315v1)** | 2026-01-12 | 8 pages, 5 figures |
-| **[Toward Stable Semi-Supervised Remote Sensing Segmentation via Co-Guidance and Co-Fusion](https://arxiv.org/abs/2512.23035v2)** | 2026-01-12 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 9 tables</p></details> |
+| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
+| **[SoC: Semantic Orthogonal Calibration for Test-Time Prompt Tuning](https://arxiv.org/abs/2601.08617v1)** | 2026-01-13 |  |
+| **[Cascading multi-agent anomaly detection in surveillance systems via vision-language models and embedding-based classification](https://arxiv.org/abs/2601.06204v2)** | 2026-01-13 | <details><summary>Autho...</summary><p>Author email changed, Acknowlegement changes</p></details> |
+| **[Latent Reconstruction from Generated Data for Multimodal Misinformation Detection](https://arxiv.org/abs/2504.06010v3)** | 2026-01-13 |  |
+| **[VideoHEDGE: Entropy-Based Hallucination Detection for Video-VLMs via Semantic Clustering and Spatiotemporal Perturbations](https://arxiv.org/abs/2601.08557v1)** | 2026-01-13 |  |
+| **[Sketch-Based Facade Renovation With Generative AI: A Streamlined Framework for Bypassing As-Built Modelling in Industrial Adaptive Reuse](https://arxiv.org/abs/2601.08531v1)** | 2026-01-13 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, Proceedings of CAADRIA 2026</p></details> |
+| **[DriveRX: A Vision-Language Reasoning Model for Cross-Task Autonomous Driving](https://arxiv.org/abs/2505.20665v2)** | 2026-01-13 |  |
+| **[Cross-modal Proxy Evolving for OOD Detection with Vision-Language Models](https://arxiv.org/abs/2601.08476v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[Towards Safer Mobile Agents: Scalable Generation and Evaluation of Diverse Scenarios for VLMs](https://arxiv.org/abs/2601.08470v1)** | 2026-01-13 |  |
+| **[ClimateIQA: A New Dataset and Benchmark to Advance Vision-Language Models in Meteorology Anomalies Analysis](https://arxiv.org/abs/2406.09838v4)** | 2026-01-13 |  |
+| **[Zero-Shot Distracted Driver Detection via Vision Language Models with Double Decoupling](https://arxiv.org/abs/2601.08467v1)** | 2026-01-13 |  |
+| **[CoMa: Contextual Massing Generation with Vision-Language Models](https://arxiv.org/abs/2601.08464v1)** | 2026-01-13 | <details><summary>Code ...</summary><p>Code and dataset will be released later</p></details> |
+| **[Real2Sim based on Active Perception with automatically VLM-generated Behavior Trees](https://arxiv.org/abs/2601.08454v1)** | 2026-01-13 |  |
+| **[MMLGNet: Cross-Modal Alignment of Remote Sensing Data using CLIP](https://arxiv.org/abs/2601.08420v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted at InGARSS 2025</p></details> |
+| **[Edge-Optimized Multimodal Learning for UAV Video Understanding via BLIP-2](https://arxiv.org/abs/2601.08408v1)** | 2026-01-13 | <details><summary>The T...</summary><p>The Tenth International Conference on Data Mining and Big Data (DMBD'2025)</p></details> |
 
