@@ -1,5 +1,5 @@
 ---
-title: Papers - January 15, 2026
+title: Papers - January 16, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,6 +24,8 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAM-Aug: Leveraging SAM Priors for Few-Shot Parcel Segmentation in Satellite Time Series](https://arxiv.org/abs/2601.09110v1)** | 2026-01-14 | 13 pages, 6 figures |
+| **[SAM-pose2seg: Pose-Guided Human Instance Segmentation in Crowds](https://arxiv.org/abs/2601.08982v1)** | 2026-01-13 | <details><summary>GitHu...</summary><p>GitHub: https://github.com/MiraPurkrabek/BBoxMaskPose/</p></details> |
 | **[PanoSAMic: Panoramic Image Segmentation from SAM Feature Encoding and Dual View Fusion](https://arxiv.org/abs/2601.07447v1)** | 2026-01-12 |  |
 | **[Unsupervised Domain Adaptation with SAM-RefiSeR for Enhanced Brain Tumor Segmentation](https://arxiv.org/abs/2601.06882v1)** | 2026-01-11 | <details><summary>Accep...</summary><p>Accepted in BIBM 2025</p></details> |
 | **[Prompt-Free SAM-Based Multi-Task Framework for Breast Ultrasound Lesion Segmentation and Classification](https://arxiv.org/abs/2601.05498v1)** | 2026-01-09 |  |
@@ -37,8 +39,6 @@ labels: documentation
 | **[SAM 3D for 3D Object Reconstruction from Remote Sensing Images](https://arxiv.org/abs/2512.22452v1)** | 2025-12-27 |  |
 | **[World-Coordinate Human Motion Retargeting via SAM 3D Body](https://arxiv.org/abs/2512.21573v1)** | 2025-12-25 |  |
 | **[Bridging Semantics and Geometry: A Decoupled LVLM-SAM Framework for Reasoning Segmentation in Remote Sensing](https://arxiv.org/abs/2512.19302v1)** | 2025-12-22 |  |
-| **[SAM Audio: Segment Anything in Audio](https://arxiv.org/abs/2512.18099v1)** | 2025-12-19 |  |
-| **[SegGraph: Leveraging Graphs of SAM Segments for Few-Shot 3D Part Segmentation](https://arxiv.org/abs/2512.16143v1)** | 2025-12-18 |  |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
-| **[SoC: Semantic Orthogonal Calibration for Test-Time Prompt Tuning](https://arxiv.org/abs/2601.08617v1)** | 2026-01-13 |  |
-| **[Cascading multi-agent anomaly detection in surveillance systems via vision-language models and embedding-based classification](https://arxiv.org/abs/2601.06204v2)** | 2026-01-13 | <details><summary>Autho...</summary><p>Author email changed, Acknowlegement changes</p></details> |
-| **[Latent Reconstruction from Generated Data for Multimodal Misinformation Detection](https://arxiv.org/abs/2504.06010v3)** | 2026-01-13 |  |
-| **[VideoHEDGE: Entropy-Based Hallucination Detection for Video-VLMs via Semantic Clustering and Spatiotemporal Perturbations](https://arxiv.org/abs/2601.08557v1)** | 2026-01-13 |  |
-| **[Sketch-Based Facade Renovation With Generative AI: A Streamlined Framework for Bypassing As-Built Modelling in Industrial Adaptive Reuse](https://arxiv.org/abs/2601.08531v1)** | 2026-01-13 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, Proceedings of CAADRIA 2026</p></details> |
-| **[DriveRX: A Vision-Language Reasoning Model for Cross-Task Autonomous Driving](https://arxiv.org/abs/2505.20665v2)** | 2026-01-13 |  |
-| **[Cross-modal Proxy Evolving for OOD Detection with Vision-Language Models](https://arxiv.org/abs/2601.08476v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[Towards Safer Mobile Agents: Scalable Generation and Evaluation of Diverse Scenarios for VLMs](https://arxiv.org/abs/2601.08470v1)** | 2026-01-13 |  |
-| **[ClimateIQA: A New Dataset and Benchmark to Advance Vision-Language Models in Meteorology Anomalies Analysis](https://arxiv.org/abs/2406.09838v4)** | 2026-01-13 |  |
-| **[Zero-Shot Distracted Driver Detection via Vision Language Models with Double Decoupling](https://arxiv.org/abs/2601.08467v1)** | 2026-01-13 |  |
-| **[CoMa: Contextual Massing Generation with Vision-Language Models](https://arxiv.org/abs/2601.08464v1)** | 2026-01-13 | <details><summary>Code ...</summary><p>Code and dataset will be released later</p></details> |
-| **[Real2Sim based on Active Perception with automatically VLM-generated Behavior Trees](https://arxiv.org/abs/2601.08454v1)** | 2026-01-13 |  |
-| **[MMLGNet: Cross-Modal Alignment of Remote Sensing Data using CLIP](https://arxiv.org/abs/2601.08420v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted at InGARSS 2025</p></details> |
-| **[Edge-Optimized Multimodal Learning for UAV Video Understanding via BLIP-2](https://arxiv.org/abs/2601.08408v1)** | 2026-01-13 | <details><summary>The T...</summary><p>The Tenth International Conference on Data Mining and Big Data (DMBD'2025)</p></details> |
+| **[Self-Supervised Animal Identification for Long Videos](https://arxiv.org/abs/2601.09663v1)** | 2026-01-14 | 11 pages, 1 figure |
+| **[LiteEmbed: Adapting CLIP to Rare Classes](https://arxiv.org/abs/2601.09661v1)** | 2026-01-14 | 14 pages, 12 figures |
+| **[Image2Garment: Simulation-ready Garment Generation from a Single Image](https://arxiv.org/abs/2601.09658v1)** | 2026-01-14 |  |
+| **[Head Pursuit: Probing Attention Specialization in Multimodal Transformers](https://arxiv.org/abs/2510.21518v2)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 (spotlight)</p></details> |
+| **[OpenVoxel: Training-Free Grouping and Captioning Voxels for Open-Vocabulary 3D Scene Understanding](https://arxiv.org/abs/2601.09575v1)** | 2026-01-14 | <details><summary>proje...</summary><p>project page: https://peterjohnsonhuang.github.io/openvoxel-pages/</p></details> |
+| **[PrivLEX: Detecting legal concepts in images through Vision-Language Models](https://arxiv.org/abs/2601.09449v1)** | 2026-01-14 |  |
+| **[Uncovering Intrinsic Capabilities: A Paradigm for Data Curation in Vision-Language Models](https://arxiv.org/abs/2510.00040v2)** | 2026-01-14 |  |
+| **[ProfVLM: A Lightweight Video-Language Model for Multi-View Proficiency Estimation](https://arxiv.org/abs/2509.26278v2)** | 2026-01-14 |  |
+| **[Frequency Is What You Need: Considering Word Frequency When Text Masking Benefits Vision-Language Model Pre-training](https://arxiv.org/abs/2412.16148v3)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted by WACV 2026</p></details> |
+| **[Prototypical Contrastive Learning-based CLIP Fine-tuning for Object Re-identification](https://arxiv.org/abs/2310.17218v3)** | 2026-01-14 |  |
+| **[DatBench: Discriminative, Faithful, and Efficient VLM Evaluations](https://arxiv.org/abs/2601.02316v2)** | 2026-01-14 |  |
+| **[Weakly Supervised Concept Learning with Class-Level Priors for Interpretable Medical Diagnosis](https://arxiv.org/abs/2511.01131v2)** | 2026-01-14 |  |
+| **[Do What You Say: Steering Vision-Language-Action Models via Runtime Reasoning-Action Alignment Verification](https://arxiv.org/abs/2510.16281v2)** | 2026-01-14 |  |
+| **[SSVP: Synergistic Semantic-Visual Prompting for Industrial Zero-Shot Anomaly Detection](https://arxiv.org/abs/2601.09147v1)** | 2026-01-14 |  |
+| **[SkinFlow: Efficient Information Transmission for Open Dermatological Diagnosis via Dynamic Visual Encoding and Staged RL](https://arxiv.org/abs/2601.09136v1)** | 2026-01-14 |  |
 
