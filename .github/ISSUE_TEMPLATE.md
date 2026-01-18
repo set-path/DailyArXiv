@@ -1,5 +1,5 @@
 ---
-title: Papers - January 16, 2026
+title: Papers - January 19, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,6 +24,7 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[X-SAM: Boosting Sharpness-Aware Minimization with Dominant-Eigenvector Gradient Correction](https://arxiv.org/abs/2601.10251v1)** | 2026-01-15 |  |
 | **[SAM-Aug: Leveraging SAM Priors for Few-Shot Parcel Segmentation in Satellite Time Series](https://arxiv.org/abs/2601.09110v1)** | 2026-01-14 | 13 pages, 6 figures |
 | **[SAM-pose2seg: Pose-Guided Human Instance Segmentation in Crowds](https://arxiv.org/abs/2601.08982v1)** | 2026-01-13 | <details><summary>GitHu...</summary><p>GitHub: https://github.com/MiraPurkrabek/BBoxMaskPose/</p></details> |
 | **[PanoSAMic: Panoramic Image Segmentation from SAM Feature Encoding and Dual View Fusion](https://arxiv.org/abs/2601.07447v1)** | 2026-01-12 |  |
@@ -38,7 +39,6 @@ labels: documentation
 | **[Scalpel-SAM: A Semi-Supervised Paradigm for Adapting SAM to Infrared Small Object Detection](https://arxiv.org/abs/2512.22483v1)** | 2025-12-27 | 9 pages, 3 figures |
 | **[SAM 3D for 3D Object Reconstruction from Remote Sensing Images](https://arxiv.org/abs/2512.22452v1)** | 2025-12-27 |  |
 | **[World-Coordinate Human Motion Retargeting via SAM 3D Body](https://arxiv.org/abs/2512.21573v1)** | 2025-12-25 |  |
-| **[Bridging Semantics and Geometry: A Decoupled LVLM-SAM Framework for Reasoning Segmentation in Remote Sensing](https://arxiv.org/abs/2512.19302v1)** | 2025-12-22 |  |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Self-Supervised Animal Identification for Long Videos](https://arxiv.org/abs/2601.09663v1)** | 2026-01-14 | 11 pages, 1 figure |
-| **[LiteEmbed: Adapting CLIP to Rare Classes](https://arxiv.org/abs/2601.09661v1)** | 2026-01-14 | 14 pages, 12 figures |
-| **[Image2Garment: Simulation-ready Garment Generation from a Single Image](https://arxiv.org/abs/2601.09658v1)** | 2026-01-14 |  |
-| **[Head Pursuit: Probing Attention Specialization in Multimodal Transformers](https://arxiv.org/abs/2510.21518v2)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 (spotlight)</p></details> |
-| **[OpenVoxel: Training-Free Grouping and Captioning Voxels for Open-Vocabulary 3D Scene Understanding](https://arxiv.org/abs/2601.09575v1)** | 2026-01-14 | <details><summary>proje...</summary><p>project page: https://peterjohnsonhuang.github.io/openvoxel-pages/</p></details> |
-| **[PrivLEX: Detecting legal concepts in images through Vision-Language Models](https://arxiv.org/abs/2601.09449v1)** | 2026-01-14 |  |
-| **[Uncovering Intrinsic Capabilities: A Paradigm for Data Curation in Vision-Language Models](https://arxiv.org/abs/2510.00040v2)** | 2026-01-14 |  |
-| **[ProfVLM: A Lightweight Video-Language Model for Multi-View Proficiency Estimation](https://arxiv.org/abs/2509.26278v2)** | 2026-01-14 |  |
-| **[Frequency Is What You Need: Considering Word Frequency When Text Masking Benefits Vision-Language Model Pre-training](https://arxiv.org/abs/2412.16148v3)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted by WACV 2026</p></details> |
-| **[Prototypical Contrastive Learning-based CLIP Fine-tuning for Object Re-identification](https://arxiv.org/abs/2310.17218v3)** | 2026-01-14 |  |
-| **[DatBench: Discriminative, Faithful, and Efficient VLM Evaluations](https://arxiv.org/abs/2601.02316v2)** | 2026-01-14 |  |
-| **[Weakly Supervised Concept Learning with Class-Level Priors for Interpretable Medical Diagnosis](https://arxiv.org/abs/2511.01131v2)** | 2026-01-14 |  |
-| **[Do What You Say: Steering Vision-Language-Action Models via Runtime Reasoning-Action Alignment Verification](https://arxiv.org/abs/2510.16281v2)** | 2026-01-14 |  |
-| **[SSVP: Synergistic Semantic-Visual Prompting for Industrial Zero-Shot Anomaly Detection](https://arxiv.org/abs/2601.09147v1)** | 2026-01-14 |  |
-| **[SkinFlow: Efficient Information Transmission for Open Dermatological Diagnosis via Dynamic Visual Encoding and Staged RL](https://arxiv.org/abs/2601.09136v1)** | 2026-01-14 |  |
+| **[Alterbute: Editing Intrinsic Attributes of Objects in Images](https://arxiv.org/abs/2601.10714v1)** | 2026-01-15 | <details><summary>Proje...</summary><p>Project page is available at https://talreiss.github.io/alterbute/</p></details> |
+| **[From One-to-One to Many-to-Many: Dynamic Cross-Layer Injection for Deep Vision-Language Fusion](https://arxiv.org/abs/2601.10710v1)** | 2026-01-15 |  |
+| **[Explicit Abstention Knobs for Predictable Reliability in Video Question Answering](https://arxiv.org/abs/2601.00138v2)** | 2026-01-15 | <details><summary>Prepr...</summary><p>Preprint. Diagnostic study of confidence-based abstention under evidence truncation</p></details> |
+| **[Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding](https://arxiv.org/abs/2601.10611v1)** | 2026-01-15 |  |
+| **[Semantic Misalignment in Vision-Language Models under Perceptual Degradation](https://arxiv.org/abs/2601.08355v2)** | 2026-01-15 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 6 tables</p></details> |
+| **[Image Complexity-Aware Adaptive Retrieval for Efficient Vision-Language Models](https://arxiv.org/abs/2512.15372v2)** | 2026-01-15 | <details><summary>Camer...</summary><p>Camera-ready version for ECIR 2026</p></details> |
+| **[Unleashing the Capabilities of Large Vision-Language Models for Intelligent Perception of Roadside Infrastructure](https://arxiv.org/abs/2601.10551v1)** | 2026-01-15 |  |
+| **[SVII-3D: Advancing Roadside Infrastructure Inventory with Decimeter-level 3D Localization and Comprehension from Sparse Street Imagery](https://arxiv.org/abs/2601.10535v1)** | 2026-01-15 |  |
+| **[mergetune: Continued fine-tuning of vision-language models](https://arxiv.org/abs/2601.10497v1)** | 2026-01-15 | 20 pages, 5 figures |
+| **[Urban Socio-Semantic Segmentation with Vision-Language Reasoning](https://arxiv.org/abs/2601.10477v1)** | 2026-01-15 |  |
+| **[SurgGoal: Rethinking Surgical Planning Evaluation via Goal-Satisfiability](https://arxiv.org/abs/2601.10455v1)** | 2026-01-15 |  |
+| **[Zoom-IQA: Image Quality Assessment with Reliable Region-Aware Reasoning](https://arxiv.org/abs/2601.02918v2)** | 2026-01-15 | <details><summary>Proje...</summary><p>Project Page: https://ethanliang99.github.io/ZOOMIQA-Projectpage</p></details> |
+| **[Global Context Compression with Interleaved Vision-Text Transformation](https://arxiv.org/abs/2601.10378v1)** | 2026-01-15 |  |
+| **[Hierarchical Refinement of Universal Multimodal Attacks on Vision-Language Models](https://arxiv.org/abs/2601.10313v1)** | 2026-01-15 | 15 pages, 7 figures |
+| **[Robot-R1: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics](https://arxiv.org/abs/2506.00070v2)** | 2026-01-15 | 29 pages, 13 figures |
 
