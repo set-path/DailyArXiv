@@ -1,5 +1,5 @@
 ---
-title: Papers - January 19, 2026
+title: Papers - January 20, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,9 +24,10 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Causal-SAM-LLM: Large Language Models as Causal Reasoners for Robust Medical Segmentation](https://arxiv.org/abs/2507.03585v2)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted by IEEE ICASSP 2026</p></details> |
+| **[SAM-pose2seg: Pose-Guided Human Instance Segmentation in Crowds](https://arxiv.org/abs/2601.08982v2)** | 2026-01-16 | <details><summary>GitHu...</summary><p>GitHub: https://github.com/MiraPurkrabek/BBoxMaskPose/</p></details> |
 | **[X-SAM: Boosting Sharpness-Aware Minimization with Dominant-Eigenvector Gradient Correction](https://arxiv.org/abs/2601.10251v1)** | 2026-01-15 |  |
 | **[SAM-Aug: Leveraging SAM Priors for Few-Shot Parcel Segmentation in Satellite Time Series](https://arxiv.org/abs/2601.09110v1)** | 2026-01-14 | 13 pages, 6 figures |
-| **[SAM-pose2seg: Pose-Guided Human Instance Segmentation in Crowds](https://arxiv.org/abs/2601.08982v1)** | 2026-01-13 | <details><summary>GitHu...</summary><p>GitHub: https://github.com/MiraPurkrabek/BBoxMaskPose/</p></details> |
 | **[PanoSAMic: Panoramic Image Segmentation from SAM Feature Encoding and Dual View Fusion](https://arxiv.org/abs/2601.07447v1)** | 2026-01-12 |  |
 | **[Unsupervised Domain Adaptation with SAM-RefiSeR for Enhanced Brain Tumor Segmentation](https://arxiv.org/abs/2601.06882v1)** | 2026-01-11 | <details><summary>Accep...</summary><p>Accepted in BIBM 2025</p></details> |
 | **[Prompt-Free SAM-Based Multi-Task Framework for Breast Ultrasound Lesion Segmentation and Classification](https://arxiv.org/abs/2601.05498v1)** | 2026-01-09 |  |
@@ -38,7 +39,6 @@ labels: documentation
 | **[Geometry-Aware Optimization for Respiratory Sound Classification: Enhancing Sensitivity with SAM-Optimized Audio Spectrogram Transformers](https://arxiv.org/abs/2512.22564v1)** | 2025-12-27 | <details><summary>10 pa...</summary><p>10 pages, 3 figures,2 tables</p></details> |
 | **[Scalpel-SAM: A Semi-Supervised Paradigm for Adapting SAM to Infrared Small Object Detection](https://arxiv.org/abs/2512.22483v1)** | 2025-12-27 | 9 pages, 3 figures |
 | **[SAM 3D for 3D Object Reconstruction from Remote Sensing Images](https://arxiv.org/abs/2512.22452v1)** | 2025-12-27 |  |
-| **[World-Coordinate Human Motion Retargeting via SAM 3D Body](https://arxiv.org/abs/2512.21573v1)** | 2025-12-25 |  |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Alterbute: Editing Intrinsic Attributes of Objects in Images](https://arxiv.org/abs/2601.10714v1)** | 2026-01-15 | <details><summary>Proje...</summary><p>Project page is available at https://talreiss.github.io/alterbute/</p></details> |
-| **[From One-to-One to Many-to-Many: Dynamic Cross-Layer Injection for Deep Vision-Language Fusion](https://arxiv.org/abs/2601.10710v1)** | 2026-01-15 |  |
-| **[Explicit Abstention Knobs for Predictable Reliability in Video Question Answering](https://arxiv.org/abs/2601.00138v2)** | 2026-01-15 | <details><summary>Prepr...</summary><p>Preprint. Diagnostic study of confidence-based abstention under evidence truncation</p></details> |
-| **[Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding](https://arxiv.org/abs/2601.10611v1)** | 2026-01-15 |  |
-| **[Semantic Misalignment in Vision-Language Models under Perceptual Degradation](https://arxiv.org/abs/2601.08355v2)** | 2026-01-15 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 6 tables</p></details> |
-| **[Image Complexity-Aware Adaptive Retrieval for Efficient Vision-Language Models](https://arxiv.org/abs/2512.15372v2)** | 2026-01-15 | <details><summary>Camer...</summary><p>Camera-ready version for ECIR 2026</p></details> |
-| **[Unleashing the Capabilities of Large Vision-Language Models for Intelligent Perception of Roadside Infrastructure](https://arxiv.org/abs/2601.10551v1)** | 2026-01-15 |  |
-| **[SVII-3D: Advancing Roadside Infrastructure Inventory with Decimeter-level 3D Localization and Comprehension from Sparse Street Imagery](https://arxiv.org/abs/2601.10535v1)** | 2026-01-15 |  |
-| **[mergetune: Continued fine-tuning of vision-language models](https://arxiv.org/abs/2601.10497v1)** | 2026-01-15 | 20 pages, 5 figures |
-| **[Urban Socio-Semantic Segmentation with Vision-Language Reasoning](https://arxiv.org/abs/2601.10477v1)** | 2026-01-15 |  |
-| **[SurgGoal: Rethinking Surgical Planning Evaluation via Goal-Satisfiability](https://arxiv.org/abs/2601.10455v1)** | 2026-01-15 |  |
-| **[Zoom-IQA: Image Quality Assessment with Reliable Region-Aware Reasoning](https://arxiv.org/abs/2601.02918v2)** | 2026-01-15 | <details><summary>Proje...</summary><p>Project Page: https://ethanliang99.github.io/ZOOMIQA-Projectpage</p></details> |
-| **[Global Context Compression with Interleaved Vision-Text Transformation](https://arxiv.org/abs/2601.10378v1)** | 2026-01-15 |  |
-| **[Hierarchical Refinement of Universal Multimodal Attacks on Vision-Language Models](https://arxiv.org/abs/2601.10313v1)** | 2026-01-15 | 15 pages, 7 figures |
-| **[Robot-R1: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics](https://arxiv.org/abs/2506.00070v2)** | 2026-01-15 | 29 pages, 13 figures |
+| **[ShapeR: Robust Conditional 3D Shape Generation from Casual Captures](https://arxiv.org/abs/2601.11514v1)** | 2026-01-16 | <details><summary>Proje...</summary><p>Project Page: http://facebookresearch.github.io/ShapeR Video: https://www.youtube.com/watch?v=EbY30KAA55I</p></details> |
+| **[MHA2MLA-VLM: Enabling DeepSeek's Economical Multi-Head Latent Attention across Vision-Language Models](https://arxiv.org/abs/2601.11464v1)** | 2026-01-16 |  |
+| **[ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models](https://arxiv.org/abs/2601.11404v1)** | 2026-01-16 |  |
+| **[Causal-SAM-LLM: Large Language Models as Causal Reasoners for Robust Medical Segmentation](https://arxiv.org/abs/2507.03585v2)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted by IEEE ICASSP 2026</p></details> |
+| **[Enhancing Vision Language Models with Logic Reasoning for Situational Awareness](https://arxiv.org/abs/2601.11322v1)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on AI</p></details> |
+| **[X-Distill: Cross-Architecture Vision Distillation for Visuomotor Learning](https://arxiv.org/abs/2601.11269v1)** | 2026-01-16 |  |
+| **[VINO: A Unified Visual Generator with Interleaved OmniModal Context](https://arxiv.org/abs/2601.02358v2)** | 2026-01-16 | <details><summary>Proje...</summary><p>Project page: https://sotamak1r.github.io/VINO-web/</p></details> |
+| **[Language-Agnostic Visual Embeddings for Cross-Script Handwriting Retrieval](https://arxiv.org/abs/2601.11248v1)** | 2026-01-16 | 9 pages,5 figures |
+| **[Robot-R1: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics](https://arxiv.org/abs/2506.00070v3)** | 2026-01-16 | NeurIPS 2025 |
+| **[Image-Text Knowledge Modeling for Unsupervised Multi-Scenario Person Re-Identification](https://arxiv.org/abs/2601.11243v1)** | 2026-01-16 | 12 pages, 10 figures |
+| **[Attention Debiasing for Token Pruning in Vision Language Models](https://arxiv.org/abs/2508.17807v2)** | 2026-01-16 | <details><summary>https...</summary><p>https://github.com/intcomp/attention-bias</p></details> |
+| **[Cascading multi-agent anomaly detection in surveillance systems via vision-language models and embedding-based classification](https://arxiv.org/abs/2601.06204v3)** | 2026-01-16 | <details><summary>Autho...</summary><p>Author email changed, Acknowlegement changes</p></details> |
+| **[MERGETUNE: Continued fine-tuning of vision-language models](https://arxiv.org/abs/2601.10497v2)** | 2026-01-16 | 20 pages, 5 figures |
+| **[MMedExpert-R1: Strengthening Multimodal Medical Reasoning via Domain-Specific Adaptation and Clinical Guideline Reinforcement](https://arxiv.org/abs/2601.10949v1)** | 2026-01-16 |  |
+| **[PatientVLM Meets DocVLM: Pre-Consultation Dialogue Between Vision-Language Models for Efficient Diagnosis](https://arxiv.org/abs/2601.10945v1)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026 Main Track</p></details> |
 
