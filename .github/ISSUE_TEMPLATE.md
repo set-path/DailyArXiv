@@ -1,5 +1,5 @@
 ---
-title: Papers - January 22, 2026
+title: Papers - January 23, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LightOnOCR: A 1B End-to-End Multilingual Vision-Language Model for State-of-the-Art OCR](https://arxiv.org/abs/2601.14251v1)** | 2026-01-20 |  |
-| **[Transformer Architectures for Respiratory Sound Analysis and Multimodal Diagnosis](https://arxiv.org/abs/2601.14227v1)** | 2026-01-20 | 7 pages, 4 figures |
-| **[IIR-VLM: In-Context Instance-level Recognition for Large Vision-Language Models](https://arxiv.org/abs/2601.14188v1)** | 2026-01-20 |  |
-| **[TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers](https://arxiv.org/abs/2601.14133v1)** | 2026-01-20 | <details><summary>GitHu...</summary><p>GitHub: https://github.com/ZGC-EmbodyAI/TwinBrainVLA</p></details> |
-| **[Zero-shot adaptable task planning for autonomous construction robots: a comparative study of lightweight single and multi-AI agent systems](https://arxiv.org/abs/2601.14091v1)** | 2026-01-20 |  |
-| **[DermaBench: A Clinician-Annotated Benchmark Dataset for Dermatology Visual Question Answering and Reasoning](https://arxiv.org/abs/2601.14084v1)** | 2026-01-20 |  |
-| **[Feature-Aware Test Generation for Deep Learning Models](https://arxiv.org/abs/2601.14081v1)** | 2026-01-20 |  |
-| **[Weather-R1: Logically Consistent Reinforcement Fine-Tuning for Multimodal Reasoning in Meteorology](https://arxiv.org/abs/2601.14044v1)** | 2026-01-20 |  |
-| **[HyperWalker: Dynamic Hypergraph-Based Deep Diagnosis for Multi-Hop Clinical Modeling across EHR and X-Ray in Medical VLMs](https://arxiv.org/abs/2601.13919v1)** | 2026-01-20 | Under Review |
-| **[Revisiting Multi-Task Visual Representation Learning](https://arxiv.org/abs/2601.13886v1)** | 2026-01-20 | <details><summary>Code:...</summary><p>Code: https://github.com/Becomebright/MTV</p></details> |
-| **[DisasterVQA: A Visual Question Answering Benchmark Dataset for Disaster Scenes](https://arxiv.org/abs/2601.13839v1)** | 2026-01-20 |  |
-| **[PREGEN: Uncovering Latent Thoughts in Composed Video Retrieval](https://arxiv.org/abs/2601.13797v1)** | 2026-01-20 |  |
-| **[Hierarchical Long Video Understanding with Audiovisual Entity Cohesion and Agentic Search](https://arxiv.org/abs/2601.13719v1)** | 2026-01-20 |  |
-| **[Attention-space Contrastive Guidance for Efficient Hallucination Mitigation in LVLMs](https://arxiv.org/abs/2601.13707v1)** | 2026-01-20 |  |
-| **[Reasoning or Pattern Matching? Probing Large Vision-Language Models with Visual Puzzles](https://arxiv.org/abs/2601.13705v1)** | 2026-01-20 |  |
+| **[Towards Understanding Best Practices for Quantization of Vision-Language Models](https://arxiv.org/abs/2601.15287v1)** | 2026-01-21 | <details><summary>15 pa...</summary><p>15 pages, 12 figures, 1 table</p></details> |
+| **[Iterative Refinement Improves Compositional Image Generation](https://arxiv.org/abs/2601.15286v1)** | 2026-01-21 | <details><summary>Proje...</summary><p>Project webpage: https://iterative-img-gen.github.io/</p></details> |
+| **[PROGRESSLM: Towards Progress Reasoning in Vision-Language Models](https://arxiv.org/abs/2601.15224v1)** | 2026-01-21 | <details><summary>Websi...</summary><p>Website: https://progresslm.github.io/ProgressLM/</p></details> |
+| **[CRAFT: Continuous Reasoning and Agentic Feedback Tuning for Multimodal Text-to-Image Generation](https://arxiv.org/abs/2512.20362v2)** | 2026-01-21 | 37 pages, 42 figures |
+| **[Training-Free and Interpretable Hateful Video Detection via Multi-stage Adversarial Reasoning](https://arxiv.org/abs/2601.15115v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026. \c{opyright} 2026 IEEE. This is the author accepted manuscript. The final published version will be available via IEEE Xplore</p></details> |
+| **[Unified Multi-Dataset Training for TBPS](https://arxiv.org/abs/2601.14978v1)** | 2026-01-21 |  |
+| **[GAIA: A Global, Multi-modal, Multi-scale Vision-Language Dataset for Remote Sensing Image Analysis](https://arxiv.org/abs/2502.09598v2)** | 2026-01-21 | 26 pages, 14 figures |
+| **[Vision-Language Models on the Edge for Real-Time Robotic Perception](https://arxiv.org/abs/2601.14921v1)** | 2026-01-21 |  |
+| **[HumanoidVLM: Vision-Language-Guided Impedance Control for Contact-Rich Humanoid Manipulation](https://arxiv.org/abs/2601.14874v1)** | 2026-01-21 | <details><summary>This ...</summary><p>This paper has been accepted for publication at LBR of HRI 2026 conference</p></details> |
+| **[Measuring and Aligning Abstraction in Vision-Language Models with Medical Taxonomies](https://arxiv.org/abs/2601.14827v1)** | 2026-01-21 |  |
+| **[Does medical specialization of VLMs enhance discriminative power?: A comprehensive investigation through feature distribution analysis](https://arxiv.org/abs/2601.14774v1)** | 2026-01-21 | <details><summary>A sho...</summary><p>A short version paper of this research has been accepted for The IEEE International Symposium on Biomedical Imaging (ISBI) 2026</p></details> |
+| **[A Training-Free Guess What Vision Language Model from Snippets to Open-Vocabulary Object Detection](https://arxiv.org/abs/2601.11910v2)** | 2026-01-21 |  |
+| **[Render-of-Thought: Rendering Textual Chain-of-Thought as Images for Visual Latent Reasoning](https://arxiv.org/abs/2601.14750v1)** | 2026-01-21 |  |
+| **[DeepMoLM: Leveraging Visual and Geometric Structural Information for Molecule-Text Modeling](https://arxiv.org/abs/2601.14732v1)** | 2026-01-21 | Under review |
+| **[Typhoon OCR: Open Vision-Language Model For Thai Document Extraction](https://arxiv.org/abs/2601.14722v1)** | 2026-01-21 |  |
 
