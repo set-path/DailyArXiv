@@ -1,5 +1,5 @@
 ---
-title: Papers - January 23, 2026
+title: Papers - January 26, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,6 +24,7 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Atlas-Assisted Segment Anything Model for Fetal Brain MRI (FeTal-SAM)](https://arxiv.org/abs/2601.15759v1)** | 2026-01-22 |  |
 | **[OmniOVCD: Streamlining Open-Vocabulary Change Detection with SAM 3](https://arxiv.org/abs/2601.13895v1)** | 2026-01-20 |  |
 | **[Causal-SAM-LLM: Large Language Models as Causal Reasoners for Robust Medical Segmentation](https://arxiv.org/abs/2507.03585v2)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted by IEEE ICASSP 2026</p></details> |
 | **[SAM-pose2seg: Pose-Guided Human Instance Segmentation in Crowds](https://arxiv.org/abs/2601.08982v2)** | 2026-01-16 | <details><summary>GitHu...</summary><p>GitHub: https://github.com/MiraPurkrabek/BBoxMaskPose/</p></details> |
@@ -38,7 +39,6 @@ labels: documentation
 | **[FedSCAM (Federated Sharpness-Aware Minimization with Clustered Aggregation and Modulation): Scam-resistant SAM for Robust Federated Optimization in Heterogeneous Environments](https://arxiv.org/abs/2601.00853v1)** | 2025-12-29 | 13 pages, 27 figures |
 | **[Rethinking Memory Design in SAM-Based Visual Object Tracking](https://arxiv.org/abs/2512.22624v1)** | 2025-12-27 | <details><summary>\text...</summary><p>\textbf{This is a preprint. Some results are being finalized and may be updated in a future revision.}</p></details> |
 | **[Geometry-Aware Optimization for Respiratory Sound Classification: Enhancing Sensitivity with SAM-Optimized Audio Spectrogram Transformers](https://arxiv.org/abs/2512.22564v1)** | 2025-12-27 | <details><summary>10 pa...</summary><p>10 pages, 3 figures,2 tables</p></details> |
-| **[Scalpel-SAM: A Semi-Supervised Paradigm for Adapting SAM to Infrared Small Object Detection](https://arxiv.org/abs/2512.22483v1)** | 2025-12-27 | 9 pages, 3 figures |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards Understanding Best Practices for Quantization of Vision-Language Models](https://arxiv.org/abs/2601.15287v1)** | 2026-01-21 | <details><summary>15 pa...</summary><p>15 pages, 12 figures, 1 table</p></details> |
-| **[Iterative Refinement Improves Compositional Image Generation](https://arxiv.org/abs/2601.15286v1)** | 2026-01-21 | <details><summary>Proje...</summary><p>Project webpage: https://iterative-img-gen.github.io/</p></details> |
-| **[PROGRESSLM: Towards Progress Reasoning in Vision-Language Models](https://arxiv.org/abs/2601.15224v1)** | 2026-01-21 | <details><summary>Websi...</summary><p>Website: https://progresslm.github.io/ProgressLM/</p></details> |
-| **[CRAFT: Continuous Reasoning and Agentic Feedback Tuning for Multimodal Text-to-Image Generation](https://arxiv.org/abs/2512.20362v2)** | 2026-01-21 | 37 pages, 42 figures |
-| **[Training-Free and Interpretable Hateful Video Detection via Multi-stage Adversarial Reasoning](https://arxiv.org/abs/2601.15115v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026. \c{opyright} 2026 IEEE. This is the author accepted manuscript. The final published version will be available via IEEE Xplore</p></details> |
-| **[Unified Multi-Dataset Training for TBPS](https://arxiv.org/abs/2601.14978v1)** | 2026-01-21 |  |
-| **[GAIA: A Global, Multi-modal, Multi-scale Vision-Language Dataset for Remote Sensing Image Analysis](https://arxiv.org/abs/2502.09598v2)** | 2026-01-21 | 26 pages, 14 figures |
-| **[Vision-Language Models on the Edge for Real-Time Robotic Perception](https://arxiv.org/abs/2601.14921v1)** | 2026-01-21 |  |
-| **[HumanoidVLM: Vision-Language-Guided Impedance Control for Contact-Rich Humanoid Manipulation](https://arxiv.org/abs/2601.14874v1)** | 2026-01-21 | <details><summary>This ...</summary><p>This paper has been accepted for publication at LBR of HRI 2026 conference</p></details> |
-| **[Measuring and Aligning Abstraction in Vision-Language Models with Medical Taxonomies](https://arxiv.org/abs/2601.14827v1)** | 2026-01-21 |  |
-| **[Does medical specialization of VLMs enhance discriminative power?: A comprehensive investigation through feature distribution analysis](https://arxiv.org/abs/2601.14774v1)** | 2026-01-21 | <details><summary>A sho...</summary><p>A short version paper of this research has been accepted for The IEEE International Symposium on Biomedical Imaging (ISBI) 2026</p></details> |
-| **[A Training-Free Guess What Vision Language Model from Snippets to Open-Vocabulary Object Detection](https://arxiv.org/abs/2601.11910v2)** | 2026-01-21 |  |
-| **[Render-of-Thought: Rendering Textual Chain-of-Thought as Images for Visual Latent Reasoning](https://arxiv.org/abs/2601.14750v1)** | 2026-01-21 |  |
-| **[DeepMoLM: Leveraging Visual and Geometric Structural Information for Molecule-Text Modeling](https://arxiv.org/abs/2601.14732v1)** | 2026-01-21 | Under review |
-| **[Typhoon OCR: Open Vision-Language Model For Thai Document Extraction](https://arxiv.org/abs/2601.14722v1)** | 2026-01-21 |  |
+| **[Point Bridge: 3D Representations for Cross Domain Policy Learning](https://arxiv.org/abs/2601.16212v1)** | 2026-01-22 |  |
+| **[GutenOCR: A Grounded Vision-Language Front-End for Documents](https://arxiv.org/abs/2601.14490v2)** | 2026-01-22 |  |
+| **[Multimodal Climate Disinformation Detection: Integrating Vision-Language Models with External Knowledge Sources](https://arxiv.org/abs/2601.16108v1)** | 2026-01-22 |  |
+| **[DTP: A Simple yet Effective Distracting Token Pruning Framework for Vision-Language Action Models](https://arxiv.org/abs/2601.16065v1)** | 2026-01-22 |  |
+| **[DextER: Language-driven Dexterous Grasp Generation with Embodied Reasoning](https://arxiv.org/abs/2601.16046v1)** | 2026-01-22 |  |
+| **[Vision-Language Models Align with Human Neural Representations in Concept Processing](https://arxiv.org/abs/2407.17914v3)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted to EACL 2026 main</p></details> |
+| **[SimWorld-Robotics: Synthesizing Photorealistic and Dynamic Urban Environments for Multimodal Robot Navigation and Collaboration](https://arxiv.org/abs/2512.10046v2)** | 2026-01-22 | <details><summary>Confe...</summary><p>Conference: NeurIPS 2025 (main)</p></details> |
+| **[RadJEPA: Radiology Encoder for Chest X-Rays via Joint Embedding Predictive Architecture](https://arxiv.org/abs/2601.15891v1)** | 2026-01-22 |  |
+| **[Render-of-Thought: Rendering Textual Chain-of-Thought as Images for Visual Latent Reasoning](https://arxiv.org/abs/2601.14750v2)** | 2026-01-22 |  |
+| **[VLM-CAD: VLM-Optimized Collaborative Agent Design Workflow for Analog Circuit Sizing](https://arxiv.org/abs/2601.07315v2)** | 2026-01-22 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, submitted to the 10th International Conference on Control, Automation and Diagnosis (ICCAD'26)</p></details> |
+| **[MMP-A*: Multimodal Perception Enhanced Incremental Heuristic Search on Path Planning](https://arxiv.org/abs/2601.01910v2)** | 2026-01-22 |  |
+| **[Assessing Situational and Spatial Awareness of VLMs with Synthetically Generated Video](https://arxiv.org/abs/2601.15780v1)** | 2026-01-22 |  |
+| **[Crafting Adversarial Inputs for Large Vision-Language Models Using Black-Box Optimization](https://arxiv.org/abs/2601.01747v4)** | 2026-01-22 | EACL |
+| **[VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning](https://arxiv.org/abs/2506.09049v3)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 Track on Datasets and Benchmarks. Project page: https://faceong.github.io/VIKI-R/</p></details> |
+| **[Hallucination Mitigating for Medical Report Generation](https://arxiv.org/abs/2601.15745v1)** | 2026-01-22 |  |
 
