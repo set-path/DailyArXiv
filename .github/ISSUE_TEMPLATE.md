@@ -1,5 +1,5 @@
 ---
-title: Papers - January 26, 2026
+title: Papers - January 27, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents](https://arxiv.org/abs/2601.16973v1)** | 2026-01-23 | <details><summary>Proje...</summary><p>Project page: https://visgym.github.io/</p></details> |
+| **[Evaluating Large Vision-language Models for Surgical Tool Detection](https://arxiv.org/abs/2601.16895v1)** | 2026-01-23 |  |
+| **[VMMU: A Vietnamese Multitask Multimodal Understanding and Reasoning Benchmark](https://arxiv.org/abs/2508.13680v4)** | 2026-01-23 |  |
+| **[Data Matters Most: Auditing Social Bias in Contrastive Vision Language Models](https://arxiv.org/abs/2501.13223v7)** | 2026-01-23 | <details><summary>Publi...</summary><p>Published at TMLR; updated version</p></details> |
+| **[A Multi-Stage Hybrid Framework for Automated Interpretation of Multi-View Engineering Drawings Using Vision Language Model](https://arxiv.org/abs/2510.21862v2)** | 2026-01-23 | <details><summary>This ...</summary><p>This draft has been accepted in the 13th International Conference on Industrial Engineering and Applications (ICIEA 2026)</p></details> |
+| **[X-Aligner: Composed Visual Retrieval without the Bells and Whistles](https://arxiv.org/abs/2601.16582v1)** | 2026-01-23 | 8 pages |
+| **[LLM is Not All You Need: A Systematic Evaluation of ML vs. Foundation Models for text and image based Medical Classification](https://arxiv.org/abs/2601.16549v1)** | 2026-01-23 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 3 tables, paper accepted in AAIML'26 conference</p></details> |
+| **[AlphaFace: High Fidelity and Real-time Face Swapper Robust to Facial Pose](https://arxiv.org/abs/2601.16429v1)** | 2026-01-23 |  |
+| **[Gen-DBA: Generative Database Agents (Towards a Move 37 for Databases)](https://arxiv.org/abs/2601.16409v1)** | 2026-01-23 |  |
+| **[Unified Multimodal Interleaved Document Representation for Retrieval](https://arxiv.org/abs/2410.02729v3)** | 2026-01-23 | EACL Findings 2026 |
+| **[The Spatial Blindspot of Vision-Language Models](https://arxiv.org/abs/2601.09954v2)** | 2026-01-22 | <details><summary>Work ...</summary><p>Work done as part of the EleutherAI SOAR Program</p></details> |
 | **[Point Bridge: 3D Representations for Cross Domain Policy Learning](https://arxiv.org/abs/2601.16212v1)** | 2026-01-22 |  |
 | **[GutenOCR: A Grounded Vision-Language Front-End for Documents](https://arxiv.org/abs/2601.14490v2)** | 2026-01-22 |  |
 | **[Multimodal Climate Disinformation Detection: Integrating Vision-Language Models with External Knowledge Sources](https://arxiv.org/abs/2601.16108v1)** | 2026-01-22 |  |
 | **[DTP: A Simple yet Effective Distracting Token Pruning Framework for Vision-Language Action Models](https://arxiv.org/abs/2601.16065v1)** | 2026-01-22 |  |
-| **[DextER: Language-driven Dexterous Grasp Generation with Embodied Reasoning](https://arxiv.org/abs/2601.16046v1)** | 2026-01-22 |  |
-| **[Vision-Language Models Align with Human Neural Representations in Concept Processing](https://arxiv.org/abs/2407.17914v3)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted to EACL 2026 main</p></details> |
-| **[SimWorld-Robotics: Synthesizing Photorealistic and Dynamic Urban Environments for Multimodal Robot Navigation and Collaboration](https://arxiv.org/abs/2512.10046v2)** | 2026-01-22 | <details><summary>Confe...</summary><p>Conference: NeurIPS 2025 (main)</p></details> |
-| **[RadJEPA: Radiology Encoder for Chest X-Rays via Joint Embedding Predictive Architecture](https://arxiv.org/abs/2601.15891v1)** | 2026-01-22 |  |
-| **[Render-of-Thought: Rendering Textual Chain-of-Thought as Images for Visual Latent Reasoning](https://arxiv.org/abs/2601.14750v2)** | 2026-01-22 |  |
-| **[VLM-CAD: VLM-Optimized Collaborative Agent Design Workflow for Analog Circuit Sizing](https://arxiv.org/abs/2601.07315v2)** | 2026-01-22 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, submitted to the 10th International Conference on Control, Automation and Diagnosis (ICCAD'26)</p></details> |
-| **[MMP-A*: Multimodal Perception Enhanced Incremental Heuristic Search on Path Planning](https://arxiv.org/abs/2601.01910v2)** | 2026-01-22 |  |
-| **[Assessing Situational and Spatial Awareness of VLMs with Synthetically Generated Video](https://arxiv.org/abs/2601.15780v1)** | 2026-01-22 |  |
-| **[Crafting Adversarial Inputs for Large Vision-Language Models Using Black-Box Optimization](https://arxiv.org/abs/2601.01747v4)** | 2026-01-22 | EACL |
-| **[VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning](https://arxiv.org/abs/2506.09049v3)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 Track on Datasets and Benchmarks. Project page: https://faceong.github.io/VIKI-R/</p></details> |
-| **[Hallucination Mitigating for Medical Report Generation](https://arxiv.org/abs/2601.15745v1)** | 2026-01-22 |  |
 
