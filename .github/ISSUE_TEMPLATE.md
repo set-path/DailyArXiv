@@ -1,10 +1,11 @@
 ---
-title: Papers - January 29, 2026
+title: Papers - January 30, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DiSa: Saliency-Aware Foreground-Background Disentangled Framework for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2601.20064v1)** | 2026-01-27 | 19 pages, 11 figures |
 | **[ARM: A Learnable, Plug-and-Play Module for CLIP-based Open-vocabulary Semantic Segmentation](https://arxiv.org/abs/2512.24224v1)** | 2025-12-30 | 10 pages, 4 figures |
 | **[Efficient Redundancy Reduction for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2501.17642v2)** | 2025-12-21 |  |
 | **[Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation](https://arxiv.org/abs/2506.09881v3)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
@@ -19,26 +20,25 @@ labels: documentation
 | **[SynSeg: Feature Synergy for Multi-Category Contrastive Learning in End-to-End Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2508.06115v2)** | 2025-11-15 |  |
 | **[DGL-RSIS: Decoupling Global Spatial Context and Local Class Semantics for Training-Free Remote Sensing Image Segmentation](https://arxiv.org/abs/2509.00598v2)** | 2025-11-11 |  |
 | **[NERVE: Neighbourhood & Entropy-guided Random-walk for training free open-Vocabulary sEgmentation](https://arxiv.org/abs/2511.08248v1)** | 2025-11-11 |  |
-| **[Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2505.21844v2)** | 2025-11-09 |  |
 
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Specialist to Generalist: Unlocking SAM's Learning Potential on Unlabeled Medical Images](https://arxiv.org/abs/2601.17934v2)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted to ISBI 2026</p></details> |
+| **[X-SAM: From Segment Anything to Any Segmentation](https://arxiv.org/abs/2508.04655v2)** | 2026-01-28 | AAAI2026 |
+| **[SAM-Aug: Leveraging SAM Priors for Few-Shot Parcel Segmentation in Satellite Time Series](https://arxiv.org/abs/2601.09110v2)** | 2026-01-28 | 13 pages, 6 figures |
 | **[SAM Audio Judge: A Unified Multimodal Framework for Perceptual Evaluation of Audio Separation](https://arxiv.org/abs/2601.19702v1)** | 2026-01-27 |  |
-| **[From Specialist to Generalist: Unlocking SAM's Learning Potential on Unlabeled Medical Images](https://arxiv.org/abs/2601.17934v1)** | 2026-01-25 | <details><summary>Accep...</summary><p>Accepted to ISBI 2026</p></details> |
 | **[MV-SAM: Multi-view Promptable Segmentation using Pointmap Guidance](https://arxiv.org/abs/2601.17866v1)** | 2026-01-25 | <details><summary>Proje...</summary><p>Project page, https://jaesung-choe.github.io/mv_sam/index.html</p></details> |
 | **[Atlas-Assisted Segment Anything Model for Fetal Brain MRI (FeTal-SAM)](https://arxiv.org/abs/2601.15759v1)** | 2026-01-22 |  |
 | **[OmniOVCD: Streamlining Open-Vocabulary Change Detection with SAM 3](https://arxiv.org/abs/2601.13895v1)** | 2026-01-20 |  |
 | **[Causal-SAM-LLM: Large Language Models as Causal Reasoners for Robust Medical Segmentation](https://arxiv.org/abs/2507.03585v2)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted by IEEE ICASSP 2026</p></details> |
 | **[SAM-pose2seg: Pose-Guided Human Instance Segmentation in Crowds](https://arxiv.org/abs/2601.08982v2)** | 2026-01-16 | <details><summary>GitHu...</summary><p>GitHub: https://github.com/MiraPurkrabek/BBoxMaskPose/</p></details> |
 | **[X-SAM: Boosting Sharpness-Aware Minimization with Dominant-Eigenvector Gradient Correction](https://arxiv.org/abs/2601.10251v1)** | 2026-01-15 |  |
-| **[SAM-Aug: Leveraging SAM Priors for Few-Shot Parcel Segmentation in Satellite Time Series](https://arxiv.org/abs/2601.09110v1)** | 2026-01-14 | 13 pages, 6 figures |
 | **[PanoSAMic: Panoramic Image Segmentation from SAM Feature Encoding and Dual View Fusion](https://arxiv.org/abs/2601.07447v1)** | 2026-01-12 |  |
 | **[Unsupervised Domain Adaptation with SAM-RefiSeR for Enhanced Brain Tumor Segmentation](https://arxiv.org/abs/2601.06882v1)** | 2026-01-11 | <details><summary>Accep...</summary><p>Accepted in BIBM 2025</p></details> |
 | **[Prompt-Free SAM-Based Multi-Task Framework for Breast Ultrasound Lesion Segmentation and Classification](https://arxiv.org/abs/2601.05498v1)** | 2026-01-09 |  |
 | **[DGA-Net: Enhancing SAM with Depth Prompting and Graph-Anchor Guidance for Camouflaged Object Detection](https://arxiv.org/abs/2601.02831v1)** | 2026-01-06 |  |
 | **[TopoLoRA-SAM: Topology-Aware Parameter-Efficient Adaptation of Foundation Segmenters for Thin-Structure and Cross-Domain Binary Semantic Segmentation](https://arxiv.org/abs/2601.02273v1)** | 2026-01-05 |  |
-| **[SAM-aware Test-time Adaptation for Universal Medical Image Segmentation](https://arxiv.org/abs/2506.05221v2)** | 2026-01-05 | 10 pages, 5 figures |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MIP against Agent: Malicious Image Patches Hijacking Multimodal OS Agents](https://arxiv.org/abs/2503.10809v3)** | 2026-01-27 | NeurIPS 2025 |
-| **[Will It Zero-Shot?: Predicting Zero-Shot Classification Performance For Arbitrary Queries](https://arxiv.org/abs/2601.17535v2)** | 2026-01-27 |  |
-| **[EgoHandICL: Egocentric 3D Hand Reconstruction with In-Context Learning](https://arxiv.org/abs/2601.19850v1)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted in ICLR 2026, Codebase: https://github.com/Nicous20/EgoHandICL</p></details> |
-| **[ReVision: A Dataset and Baseline VLM for Privacy-Preserving Task-Oriented Visual Instruction Rewriting](https://arxiv.org/abs/2502.14780v3)** | 2026-01-27 | <details><summary>In Pr...</summary><p>In Proceedings of the IJCNLP-AACL 2025</p></details> |
-| **[Youtu-VL: Unleashing Visual Potential via Unified Vision-Language Supervision](https://arxiv.org/abs/2601.19798v1)** | 2026-01-27 |  |
-| **[SCoPE VLM: Selective Context Processing for Efficient Document Navigation in Vision-Language Models](https://arxiv.org/abs/2510.21850v2)** | 2026-01-27 |  |
-| **[Physics-Aware Novel-View Acoustic Synthesis with Vision-Language Priors and 3D Acoustic Environment Modeling](https://arxiv.org/abs/2601.19712v1)** | 2026-01-27 | <details><summary>ICASS...</summary><p>ICASSP 2026 Accept, Project page: https://physnvas.github.io/</p></details> |
-| **[KeepLoRA: Continual Learning with Residual Gradient Adaptation](https://arxiv.org/abs/2601.19659v1)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
-| **[Learning to Detect Unseen Jailbreak Attacks in Large Vision-Language Models](https://arxiv.org/abs/2508.09201v4)** | 2026-01-27 | <details><summary>12 pa...</summary><p>12 pages; Previously this version appeared as arXiv:2510.15430 which was submitted as a new work by accident</p></details> |
-| **[ScenePilot-Bench: A Large-Scale Dataset and Benchmark for Evaluation of Vision-Language Models in Autonomous Driving](https://arxiv.org/abs/2601.19582v1)** | 2026-01-27 |  |
-| **[Automated Safety Benchmarking: A Multi-agent Pipeline for LVLMs](https://arxiv.org/abs/2601.19507v1)** | 2026-01-27 |  |
-| **[Self-Evolving Vision-Language Models for Image Quality Assessment via Voting and Ranking](https://arxiv.org/abs/2509.25787v4)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[From Internal Diagnosis to External Auditing: A VLM-Driven Paradigm for Online Test-Time Backdoor Defense](https://arxiv.org/abs/2601.19448v1)** | 2026-01-27 | <details><summary>19 pa...</summary><p>19 pages, 10 figures, 12 tables</p></details> |
-| **[RoamScene3D: Immersive Text-to-3D Scene Generation via Adaptive Object-aware Roaming](https://arxiv.org/abs/2601.19433v1)** | 2026-01-27 |  |
-| **[Gazeify Then Voiceify: Physical Object Referencing Through Gaze and Voice Interaction with Displayless Smart Glasses](https://arxiv.org/abs/2601.19281v1)** | 2026-01-27 |  |
+| **[BlindSight: Harnessing Sparsity for Efficient Vision-Language Models](https://arxiv.org/abs/2507.09071v2)** | 2026-01-28 |  |
+| **[Open-Vocabulary Functional 3D Human-Scene Interaction Generation](https://arxiv.org/abs/2601.20835v1)** | 2026-01-28 | 18 pages |
+| **[FaithSCAN: Model-Driven Single-Pass Hallucination Detection for Faithful Visual Question Answering](https://arxiv.org/abs/2601.00269v2)** | 2026-01-28 | <details><summary>21 pa...</summary><p>21 pages, 13 figures, 8 tables</p></details> |
+| **[bi-modal textual prompt learning for vision-language models in remote sensing](https://arxiv.org/abs/2601.20675v1)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted in ICASSP 2026</p></details> |
+| **[Investigating the Development of Task-Oriented Communication in Vision-Language Models](https://arxiv.org/abs/2601.20641v1)** | 2026-01-28 |  |
+| **[SketchDynamics: Exploring Free-Form Sketches for Dynamic Intent Expression in Animation Generation](https://arxiv.org/abs/2601.20622v1)** | 2026-01-28 | <details><summary>condi...</summary><p>conditionally accepted by CHI'26</p></details> |
+| **[DeepSeek-OCR 2: Visual Causal Flow](https://arxiv.org/abs/2601.20552v1)** | 2026-01-28 |  |
+| **[AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors](https://arxiv.org/abs/2601.20524v1)** | 2026-01-28 |  |
+| **[Mixing Importance with Diversity: Joint Optimization for KV Cache Compression in Large Vision-Language Models](https://arxiv.org/abs/2510.20707v2)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. Our code is available at https://github.com/xuyang-liu16/MixKV</p></details> |
+| **[MARE: Multimodal Alignment and Reinforcement for Explainable Deepfake Detection via Vision-Language Models](https://arxiv.org/abs/2601.20433v1)** | 2026-01-28 |  |
+| **[Let's Roll a BiFTA: Bi-refinement for Fine-grained Text-visual Alignment in Vision-Language Models](https://arxiv.org/abs/2601.20419v1)** | 2026-01-28 | 25 pages |
+| **[NLPrompt: Noise-Label Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2412.01256v3)** | 2026-01-28 |  |
+| **[TABED: Test-Time Adaptive Ensemble Drafting for Robust Speculative Decoding in LVLMs](https://arxiv.org/abs/2601.20357v1)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted to Findings of EACL 2026</p></details> |
+| **[Grounding or Guessing? Visual Signals for Detecting Hallucinations in Sign Language Translation](https://arxiv.org/abs/2510.18439v2)** | 2026-01-28 | Accepted at ICLR2026 |
+| **[Visual Instruction Pretraining for Domain-Specific Foundation Models](https://arxiv.org/abs/2509.17562v3)** | 2026-01-28 |  |
 
