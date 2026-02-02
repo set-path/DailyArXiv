@@ -1,5 +1,5 @@
 ---
-title: Papers - February 02, 2026
+title: Papers - February 03, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions](https://arxiv.org/abs/2601.22150v1)** | 2026-01-29 | <details><summary>26 pa...</summary><p>26 pages, 31 figures, 13 tables. Project Page: https://sites.google.com/view/vi-probe/</p></details> |
-| **[SINA: A Circuit Schematic Image-to-Netlist Generator Using Artificial Intelligence](https://arxiv.org/abs/2601.22114v1)** | 2026-01-29 |  |
-| **[VTC-R1: Vision-Text Compression for Efficient Long-Context Reasoning](https://arxiv.org/abs/2601.22069v1)** | 2026-01-29 | <details><summary>Code:...</summary><p>Code: https://github.com/w-yibo/VTC-R1</p></details> |
-| **[Clarity: The Flexibility-Interpretability Trade-Off in Sparsity-aware Concept Bottleneck Models](https://arxiv.org/abs/2601.21944v1)** | 2026-01-29 |  |
-| **[Mil-SCORE: Benchmarking Long-Context Geospatial Reasoning and Planning in Large Language Models](https://arxiv.org/abs/2601.21826v1)** | 2026-01-29 |  |
-| **[MMFineReason: Closing the Multimodal Reasoning Gap via Open Data-Centric Methods](https://arxiv.org/abs/2601.21821v1)** | 2026-01-29 |  |
-| **[Moral Outrage Shapes Commitments Beyond Attention: Multimodal Moral Emotions on YouTube in Korea and the US](https://arxiv.org/abs/2601.21815v1)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted at The Web Conference 2026. We release Korean and English multimodal moral emotion classifiers</p></details> |
-| **[Knowledge Vector Weakening: Efficient Training-free Unlearning for Large Vision-Language Models](https://arxiv.org/abs/2601.21794v1)** | 2026-01-29 |  |
-| **[Bridging Weakly-Supervised Learning and VLM Distillation: Noisy Partial Label Learning for Efficient Downstream Adaptation](https://arxiv.org/abs/2506.03229v3)** | 2026-01-29 |  |
-| **[Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching](https://arxiv.org/abs/2601.21662v1)** | 2026-01-29 |  |
-| **[OCRVerse: Towards Holistic OCR in End-to-End Vision-Language Models](https://arxiv.org/abs/2601.21639v1)** | 2026-01-29 |  |
-| **[PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Model via Knowledge-Guided Policy Optimization](https://arxiv.org/abs/2601.21617v1)** | 2026-01-29 |  |
-| **[WMVLM: Evaluating Diffusion Model Image Watermarking via Vision-Language Models](https://arxiv.org/abs/2601.21610v1)** | 2026-01-29 |  |
-| **[On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression](https://arxiv.org/abs/2601.21531v1)** | 2026-01-29 | <details><summary>Under...</summary><p>Under Review, 20 pages</p></details> |
-| **[IROS: A Dual-Process Architecture for Real-Time VLM-Based Indoor Navigation](https://arxiv.org/abs/2601.21506v1)** | 2026-01-29 |  |
+| **[User Prompting Strategies and Prompt Enhancement Methods for Open-Set Object Detection in XR Environments](https://arxiv.org/abs/2601.23281v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted by IEEE VR 2026: GenAI-XR workshop</p></details> |
+| **[Training-Free Test-Time Adaptation with Brownian Distance Covariance in Vision-Language Models](https://arxiv.org/abs/2601.23253v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted in ICASSP 2026</p></details> |
+| **[Structured Over Scale: Learning Spatial Reasoning from Educational Video](https://arxiv.org/abs/2601.23251v1)** | 2026-01-30 |  |
+| **[Open-Vocabulary Functional 3D Human-Scene Interaction Generation](https://arxiv.org/abs/2601.20835v2)** | 2026-01-30 | 18 pages |
+| **[Hearing is Believing? Evaluating and Analyzing Audio Language Model Sycophancy with SYAUDIO](https://arxiv.org/abs/2601.23149v1)** | 2026-01-30 |  |
+| **[The Narrow Gate: Localized Image-Text Communication in Native Multimodal Models](https://arxiv.org/abs/2412.06646v4)** | 2026-01-30 | NeurIPS 2025 |
+| **[One-shot Optimized Steering Vector for Hallucination Mitigation for VLMs](https://arxiv.org/abs/2601.23041v1)** | 2026-01-30 |  |
+| **[TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers](https://arxiv.org/abs/2601.14133v2)** | 2026-01-30 | <details><summary>GitHu...</summary><p>GitHub: https://github.com/ZGC-EmbodyAI/TwinBrainVLA</p></details> |
+| **[Triage: Hierarchical Visual Budgeting for Efficient Video Reasoning in Vision-Language Models](https://arxiv.org/abs/2601.22959v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)</p></details> |
+| **[Alignment among Language, Vision and Action Representations](https://arxiv.org/abs/2601.22948v1)** | 2026-01-30 |  |
+| **[From Street View to Visibility Network: Mapping Urban Visual Relationships with Vision-Language Models](https://arxiv.org/abs/2505.11809v2)** | 2026-01-30 |  |
+| **[Moral Outrage Shapes Commitments Beyond Attention: Multimodal Moral Emotions on YouTube in Korea and the US](https://arxiv.org/abs/2601.21815v2)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at The Web Conference 2026. We release Korean and English multimodal moral emotion classifiers</p></details> |
+| **[From Tokens to Photons: Test-Time Physical Prompting for Vision-Language Models](https://arxiv.org/abs/2512.12571v2)** | 2026-01-30 |  |
+| **[A Comparative Evaluation of Large Vision-Language Models for 2D Object Detection under SOTIF Conditions](https://arxiv.org/abs/2601.22830v1)** | 2026-01-30 | 6 pages, 11 figures |
+| **[Decomposing and Composing: Towards Efficient Vision-Language Continual Learning via Rank-1 Expert Pool in a Single LoRA](https://arxiv.org/abs/2601.22828v1)** | 2026-01-30 |  |
 
