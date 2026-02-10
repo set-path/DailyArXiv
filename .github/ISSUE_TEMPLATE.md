@@ -1,10 +1,11 @@
 ---
-title: Papers - February 10, 2026
+title: Papers - February 11, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Geospatial-Reasoning-Driven Vocabulary-Agnostic Remote Sensing Semantic Segmentation](https://arxiv.org/abs/2602.08206v1)** | 2026-02-09 | 5 pages, 3 figures |
 | **[LoGoSeg: Integrating Local and Global Features for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2602.05578v1)** | 2026-02-05 |  |
 | **[Bidirectional Cross-Perception for Open-Vocabulary Semantic Segmentation in Remote Sensing Imagery](https://arxiv.org/abs/2601.21159v1)** | 2026-01-29 |  |
 | **[DiSa: Saliency-Aware Foreground-Background Disentangled Framework for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2601.20064v1)** | 2026-01-27 | 19 pages, 11 figures |
@@ -19,7 +20,6 @@ labels: documentation
 | **[Target Refocusing via Attention Redistribution for Open-Vocabulary Semantic Segmentation: An Explainability Perspective](https://arxiv.org/abs/2511.16170v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[InfoCLIP: Bridging Vision-Language Pretraining and Open-Vocabulary Semantic Segmentation via Information-Theoretic Alignment Transfer](https://arxiv.org/abs/2511.15967v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[FarSLIP: Discovering Effective CLIP Adaptation for Fine-Grained Remote Sensing Understanding](https://arxiv.org/abs/2511.14901v1)** | 2025-11-18 |  |
-| **[SynSeg: Feature Synergy for Multi-Category Contrastive Learning in End-to-End Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2508.06115v2)** | 2025-11-15 |  |
 
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Evaluation of Hybrid Annotation Workflows on High-Ambiguity Spatiotemporal Video Footage](https://arxiv.org/abs/2510.21798v2)** | 2026-02-06 |  |
-| **[POP: Online Structural Pruning Enables Efficient Inference of Large Foundation Models](https://arxiv.org/abs/2602.06822v1)** | 2026-02-06 |  |
-| **[DarkEQA: Benchmarking Vision-Language Models for Embodied Question Answering in Low-Light Indoor Environments](https://arxiv.org/abs/2512.24985v3)** | 2026-02-06 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Same Answer, Different Representations: Hidden instability in VLMs](https://arxiv.org/abs/2602.06652v1)** | 2026-02-06 |  |
-| **[CauCLIP: Bridging the Sim-to-Real Gap in Surgical Video Understanding via Causality-Inspired Vision-Language Modeling](https://arxiv.org/abs/2602.06619v1)** | 2026-02-06 |  |
-| **[SPARC: Separating Perception And Reasoning Circuits for Test-time Scaling of VLMs](https://arxiv.org/abs/2602.06566v1)** | 2026-02-06 |  |
-| **[Universal Anti-forensics Attack against Image Forgery Detection via Multi-modal Guidance](https://arxiv.org/abs/2602.06530v1)** | 2026-02-06 | 17 pages, 11 figures |
-| **[FloorplanVLM: A Vision-Language Model for Floorplan Vectorization](https://arxiv.org/abs/2602.06507v1)** | 2026-02-06 |  |
-| **[MeDocVL: A Visual Language Model for Medical Document Understanding and Parsing](https://arxiv.org/abs/2602.06402v1)** | 2026-02-06 | <details><summary>20 pa...</summary><p>20 pages, 8 figures. Technical report</p></details> |
-| **[POINTS-GUI-G: GUI-Grounding Journey](https://arxiv.org/abs/2602.06391v1)** | 2026-02-06 |  |
-| **[Probing Perceptual Constancy in Large Vision-Language Models](https://arxiv.org/abs/2502.10273v3)** | 2026-02-06 | Under Review |
-| **[Enhancing Features in Long-tailed Data Using Large Vision Model](https://arxiv.org/abs/2504.10852v3)** | 2026-02-06 |  |
-| **[Adaptive Rank, Reduced Forgetting: Continual Learning with Dynamic Rank-Selective LoRA](https://arxiv.org/abs/2412.01004v7)** | 2026-02-06 | Preprint |
-| **[Hi-Agent: Hierarchical Vision-Language Agents for Mobile Device Control](https://arxiv.org/abs/2510.14388v2)** | 2026-02-06 |  |
-| **[Cross-Modal Redundancy and the Geometry of Vision-Language Embeddings](https://arxiv.org/abs/2602.06218v1)** | 2026-02-05 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
+| **[From Obstacles to Etiquette: Robot Social Navigation with VLM-Informed Path Selection](https://arxiv.org/abs/2602.09002v1)** | 2026-02-09 | <details><summary>Accep...</summary><p>Accepted to IEEE Robotics and Automation Letters (RA-L)</p></details> |
+| **[LatentLens: Revealing Highly Interpretable Visual Tokens in LLMs](https://arxiv.org/abs/2602.00462v2)** | 2026-02-09 |  |
+| **[Focus-Scan-Refine: From Human Visual Perception to Efficient Visual Token Pruning](https://arxiv.org/abs/2602.05809v2)** | 2026-02-09 |  |
+| **[Learning Self-Correction in Vision-Language Models via Rollout Augmentation](https://arxiv.org/abs/2602.08503v1)** | 2026-02-09 | 17 pages |
+| **[Reading Images Like Texts: Sequential Image Understanding in Vision-Language Models](https://arxiv.org/abs/2509.19191v2)** | 2026-02-09 |  |
+| **[A Survey on Class-Agnostic Counting: Advancements from Reference-Based to Open-World Text-Guided Approaches](https://arxiv.org/abs/2501.19184v4)** | 2026-02-09 | <details><summary>Prepr...</summary><p>Preprint version of an article accepted ad Elsevier's CVIU</p></details> |
+| **[When LLaVA Meets Objects: Token Composition for Vision-Language-Models](https://arxiv.org/abs/2602.04864v2)** | 2026-02-09 |  |
+| **[SteerVLA: Steering Vision-Language-Action Models in Long-Tail Driving Scenarios](https://arxiv.org/abs/2602.08440v1)** | 2026-02-09 |  |
+| **[OpenGVL -- Benchmarking Visual Temporal Progress for Data Curation](https://arxiv.org/abs/2509.17321v4)** | 2026-02-09 | <details><summary>Works...</summary><p>Workshop on Making Sense of Data in Robotics: Composition, Curation, and Interpretability at Scale at CoRL 2025</p></details> |
+| **[GUI Knowledge Bench: Revealing the Knowledge Gap of VLMs in GUI Tasks](https://arxiv.org/abs/2510.26098v2)** | 2026-02-09 |  |
+| **[What, Whether and How? Unveiling Process Reward Models for Thinking with Images Reasoning](https://arxiv.org/abs/2602.08346v1)** | 2026-02-09 |  |
+| **[CoTZero: Annotation-Free Human-Like Vision Reasoning via Hierarchical Synthetic CoT](https://arxiv.org/abs/2602.08339v1)** | 2026-02-09 | 16 pages 6 figures |
+| **[ReaMOT: A Benchmark and Framework for Reasoning-based Multi-Object Tracking](https://arxiv.org/abs/2505.20381v2)** | 2026-02-09 | <details><summary>https...</summary><p>https://github.com/chen-si-jia/ReaMOT</p></details> |
+| **[Moral Sycophancy in Vision Language Models](https://arxiv.org/abs/2602.08311v1)** | 2026-02-09 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 8 tables, Submitted for review in ACL</p></details> |
+| **[Hierarchical Refinement of Universal Multimodal Attacks on Vision-Language Models](https://arxiv.org/abs/2601.10313v2)** | 2026-02-09 | 10 pages, 7 figures |
 
