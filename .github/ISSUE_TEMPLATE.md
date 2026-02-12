@@ -1,5 +1,5 @@
 ---
-title: Papers - February 12, 2026
+title: Papers - February 13, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ST4VLA: Spatially Guided Training for Vision-Language-Action Models](https://arxiv.org/abs/2602.10109v1)** | 2026-02-10 | <details><summary>Spati...</summary><p>Spatially Training for VLA, Accepted by ICLR 2026</p></details> |
-| **[Fake-HR1: Rethinking reasoning of vision language model for synthetic image detection](https://arxiv.org/abs/2602.10042v1)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
-| **[RoboInter: A Holistic Intermediate Representation Suite Towards Robotic Manipulation](https://arxiv.org/abs/2602.09973v1)** | 2026-02-10 | <details><summary>Publi...</summary><p>Published to ICLR 2026, 69 pages, 40 figures</p></details> |
-| **[Hydra-Nav: Object Navigation via Adaptive Dual-Process Reasoning](https://arxiv.org/abs/2602.09972v1)** | 2026-02-10 |  |
-| **[Residual Decoding: Mitigating Hallucinations in Large Vision-Language Models via History-Aware Residual Guidance](https://arxiv.org/abs/2602.01047v2)** | 2026-02-10 |  |
-| **[SPARC: Separating Perception And Reasoning Circuits for Test-time Scaling of VLMs](https://arxiv.org/abs/2602.06566v2)** | 2026-02-10 |  |
-| **[Agentic Jigsaw Interaction Learning for Enhancing Visual Perception and Reasoning in Vision-Language Models](https://arxiv.org/abs/2510.01304v2)** | 2026-02-10 |  |
-| **[From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation](https://arxiv.org/abs/2601.05787v2)** | 2026-02-10 | Work In Progress |
-| **[Kelix Technique Report](https://arxiv.org/abs/2602.09843v1)** | 2026-02-10 | Work in progress |
-| **[SAKED: Mitigating Hallucination in Large Vision-Language Models via Stability-Aware Knowledge Enhanced Decoding](https://arxiv.org/abs/2602.09825v1)** | 2026-02-10 |  |
-| **[Learning Tractable Distributions Of Language Model Continuations](https://arxiv.org/abs/2511.16054v2)** | 2026-02-10 |  |
-| **[GenSeg-R1: RL-Driven Vision-Language Grounding for Fine-Grained Referring Segmentation](https://arxiv.org/abs/2602.09701v1)** | 2026-02-10 |  |
-| **[AGMark: Attention-Guided Dynamic Watermarking for Large Vision-Language Models](https://arxiv.org/abs/2602.09611v1)** | 2026-02-10 | preprint |
-| **[Delving into Spectral Clustering with Vision-Language Representations](https://arxiv.org/abs/2602.09586v1)** | 2026-02-10 | ICLR26 |
-| **[Scalpel: Fine-Grained Alignment of Attention Activation Manifolds via Mixture Gaussian Bridges to Mitigate Multimodal Hallucination](https://arxiv.org/abs/2602.09541v1)** | 2026-02-10 | <details><summary>WACV ...</summary><p>WACV 2026 (It was accepted in the first round, with an acceptance rate of 6%.)</p></details> |
+| **[Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling](https://arxiv.org/abs/2602.11146v1)** | 2026-02-11 | <details><summary>Code:...</summary><p>Code: https://github.com/HKUST-C4G/diffusion-rm</p></details> |
+| **[Chatting with Images for Introspective Visual Thinking](https://arxiv.org/abs/2602.11073v1)** | 2026-02-11 |  |
+| **[Agentic Jigsaw Interaction Learning for Enhancing Visual Perception and Reasoning in Vision-Language Models](https://arxiv.org/abs/2510.01304v3)** | 2026-02-11 |  |
+| **[Risk Awareness Injection: Calibrating Vision-Language Models for Safety without Compromising Utility](https://arxiv.org/abs/2602.03402v2)** | 2026-02-11 |  |
+| **[GeoPurify: A Data-Efficient Geometric Distillation Framework for Open-Vocabulary 3D Segmentation](https://arxiv.org/abs/2510.02186v2)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. Code available at: https://github.com/tj12323/GeoPurify</p></details> |
+| **[Unveiling the "Fairness Seesaw": Discovering and Mitigating Gender and Race Bias in Vision-Language Models](https://arxiv.org/abs/2505.23798v2)** | 2026-02-11 |  |
+| **[Safe mobility support system using crowd mapping and avoidance route planning using VLM](https://arxiv.org/abs/2602.10910v1)** | 2026-02-11 |  |
+| **[Chart Specification: Structural Representations for Incentivizing VLM Reasoning in Chart-to-Code Generation](https://arxiv.org/abs/2602.10880v1)** | 2026-02-11 | under review |
+| **[SimuScene: Training and Benchmarking Code Generation to Simulate Physical Scenarios](https://arxiv.org/abs/2602.10840v1)** | 2026-02-11 |  |
+| **[Why Does RL Generalize Better Than SFT? A Data-Centric Perspective on VLM Post-Training](https://arxiv.org/abs/2602.10815v1)** | 2026-02-11 |  |
+| **[DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories](https://arxiv.org/abs/2602.10809v1)** | 2026-02-11 | 17 pages, 5 figures |
+| **[Non-Contrastive Vision-Language Learning with Predictive Embedding Alignment](https://arxiv.org/abs/2602.00653v2)** | 2026-02-11 |  |
+| **[Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation](https://arxiv.org/abs/2512.09446v2)** | 2026-02-11 |  |
+| **[Kelix Technique Report](https://arxiv.org/abs/2602.09843v2)** | 2026-02-11 | Work in progress |
+| **[From Steering to Pedalling: Do Autonomous Driving VLMs Generalize to Cyclist-Assistive Spatial Perception and Planning?](https://arxiv.org/abs/2602.10771v1)** | 2026-02-11 | Preprint |
 
