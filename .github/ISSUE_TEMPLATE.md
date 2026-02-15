@@ -1,12 +1,12 @@
 ---
-title: Papers - February 13, 2026
+title: Papers - February 16, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LoGoSeg: Integrating Local and Global Features for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2602.05578v2)** | 2026-02-12 |  |
 | **[Geospatial-Reasoning-Driven Vocabulary-Agnostic Remote Sensing Semantic Segmentation](https://arxiv.org/abs/2602.08206v1)** | 2026-02-09 | 5 pages, 3 figures |
-| **[LoGoSeg: Integrating Local and Global Features for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2602.05578v1)** | 2026-02-05 |  |
 | **[Bidirectional Cross-Perception for Open-Vocabulary Semantic Segmentation in Remote Sensing Imagery](https://arxiv.org/abs/2601.21159v1)** | 2026-01-29 |  |
 | **[DiSa: Saliency-Aware Foreground-Background Disentangled Framework for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2601.20064v1)** | 2026-01-27 | 19 pages, 11 figures |
 | **[ARM: A Learnable, Plug-and-Play Module for CLIP-based Open-vocabulary Semantic Segmentation](https://arxiv.org/abs/2512.24224v1)** | 2025-12-30 | 10 pages, 4 figures |
@@ -24,6 +24,7 @@ labels: documentation
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hi-SAM: A Hierarchical Structure-Aware Multi-modal Framework for Large-Scale Recommendation](https://arxiv.org/abs/2602.11799v1)** | 2026-02-12 |  |
 | **[SPDA-SAM: A Self-prompted Depth-Aware Segment Anything Model for Instance Segmentation](https://arxiv.org/abs/2602.06335v1)** | 2026-02-06 |  |
 | **[Boosting SAM for Cross-Domain Few-Shot Segmentation via Conditional Point Sparsification](https://arxiv.org/abs/2602.05218v1)** | 2026-02-05 |  |
 | **[A Hybrid Mamba-SAM Architecture for Efficient 3D Medical Image Segmentation](https://arxiv.org/abs/2602.00650v1)** | 2026-01-31 |  |
@@ -38,7 +39,6 @@ labels: documentation
 | **[Causal-SAM-LLM: Large Language Models as Causal Reasoners for Robust Medical Segmentation](https://arxiv.org/abs/2507.03585v2)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted by IEEE ICASSP 2026</p></details> |
 | **[SAM-pose2seg: Pose-Guided Human Instance Segmentation in Crowds](https://arxiv.org/abs/2601.08982v2)** | 2026-01-16 | <details><summary>GitHu...</summary><p>GitHub: https://github.com/MiraPurkrabek/BBoxMaskPose/</p></details> |
 | **[X-SAM: Boosting Sharpness-Aware Minimization with Dominant-Eigenvector Gradient Correction](https://arxiv.org/abs/2601.10251v1)** | 2026-01-15 |  |
-| **[PanoSAMic: Panoramic Image Segmentation from SAM Feature Encoding and Dual View Fusion](https://arxiv.org/abs/2601.07447v1)** | 2026-01-12 |  |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling](https://arxiv.org/abs/2602.11146v1)** | 2026-02-11 | <details><summary>Code:...</summary><p>Code: https://github.com/HKUST-C4G/diffusion-rm</p></details> |
-| **[Chatting with Images for Introspective Visual Thinking](https://arxiv.org/abs/2602.11073v1)** | 2026-02-11 |  |
-| **[Agentic Jigsaw Interaction Learning for Enhancing Visual Perception and Reasoning in Vision-Language Models](https://arxiv.org/abs/2510.01304v3)** | 2026-02-11 |  |
-| **[Risk Awareness Injection: Calibrating Vision-Language Models for Safety without Compromising Utility](https://arxiv.org/abs/2602.03402v2)** | 2026-02-11 |  |
-| **[GeoPurify: A Data-Efficient Geometric Distillation Framework for Open-Vocabulary 3D Segmentation](https://arxiv.org/abs/2510.02186v2)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. Code available at: https://github.com/tj12323/GeoPurify</p></details> |
-| **[Unveiling the "Fairness Seesaw": Discovering and Mitigating Gender and Race Bias in Vision-Language Models](https://arxiv.org/abs/2505.23798v2)** | 2026-02-11 |  |
-| **[Safe mobility support system using crowd mapping and avoidance route planning using VLM](https://arxiv.org/abs/2602.10910v1)** | 2026-02-11 |  |
-| **[Chart Specification: Structural Representations for Incentivizing VLM Reasoning in Chart-to-Code Generation](https://arxiv.org/abs/2602.10880v1)** | 2026-02-11 | under review |
-| **[SimuScene: Training and Benchmarking Code Generation to Simulate Physical Scenarios](https://arxiv.org/abs/2602.10840v1)** | 2026-02-11 |  |
-| **[Why Does RL Generalize Better Than SFT? A Data-Centric Perspective on VLM Post-Training](https://arxiv.org/abs/2602.10815v1)** | 2026-02-11 |  |
-| **[DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories](https://arxiv.org/abs/2602.10809v1)** | 2026-02-11 | 17 pages, 5 figures |
-| **[Non-Contrastive Vision-Language Learning with Predictive Embedding Alignment](https://arxiv.org/abs/2602.00653v2)** | 2026-02-11 |  |
-| **[Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation](https://arxiv.org/abs/2512.09446v2)** | 2026-02-11 |  |
-| **[Kelix Technique Report](https://arxiv.org/abs/2602.09843v2)** | 2026-02-11 | Work in progress |
-| **[From Steering to Pedalling: Do Autonomous Driving VLMs Generalize to Cyclist-Assistive Spatial Perception and Planning?](https://arxiv.org/abs/2602.10771v1)** | 2026-02-11 | Preprint |
+| **[Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment](https://arxiv.org/abs/2602.12281v1)** | 2026-02-12 |  |
+| **[ExStrucTiny: A Benchmark for Schema-Variable Structured Information Extraction from Document Images](https://arxiv.org/abs/2602.12203v1)** | 2026-02-12 | <details><summary>EACL ...</summary><p>EACL 2026, main conference</p></details> |
+| **[LabSafety Bench: Benchmarking LLMs on Safety Issues in Scientific Labs](https://arxiv.org/abs/2410.14182v4)** | 2026-02-12 | <details><summary>Publi...</summary><p>Published at Nature Machine Intelligence</p></details> |
+| **[Chatting with Images for Introspective Visual Thinking](https://arxiv.org/abs/2602.11073v2)** | 2026-02-12 |  |
+| **[3DGSNav: Enhancing Vision-Language Model Reasoning for Object Navigation via Active 3D Gaussian Splatting](https://arxiv.org/abs/2602.12159v1)** | 2026-02-12 |  |
+| **[Kelix Technical Report](https://arxiv.org/abs/2602.09843v3)** | 2026-02-12 | Work in progress |
+| **[Affordance-Graphed Task Worlds: Self-Evolving Task Generation for Scalable Embodied Learning](https://arxiv.org/abs/2602.12065v1)** | 2026-02-12 |  |
+| **[Can Local Vision-Language Models improve Activity Recognition over Vision Transformers? -- Case Study on Newborn Resuscitation](https://arxiv.org/abs/2602.12002v1)** | 2026-02-12 | <details><summary>Prese...</summary><p>Presented at the Satellite Workshop on Workshop 15: Generative AI for World Simulations and Communications & Celebrating 40 Years of Excellence in Education: Honoring Professor Aggelos Katsaggelos, IEEE International Conference on Image Processing (ICIP), 2025</p></details> |
+| **[Benchmarking Vision-Language Models for French PDF-to-Markdown Conversion](https://arxiv.org/abs/2602.11960v1)** | 2026-02-12 | 13 pages, 6 figures |
+| **[Are Two LLMs Better Than One? A Student-Teacher Dual-Head LLMs Architecture for Pharmaceutical Content Optimization](https://arxiv.org/abs/2602.11957v1)** | 2026-02-12 | <details><summary>Submi...</summary><p>Submitted to the Demo Track of Top Tier Conference; currently under peer review</p></details> |
+| **[LoGoSeg: Integrating Local and Global Features for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2602.05578v2)** | 2026-02-12 |  |
+| **[TABLET: A Large-Scale Dataset for Robust Visual Table Understanding](https://arxiv.org/abs/2509.21205v3)** | 2026-02-12 |  |
+| **[LAMP: Implicit Language Map for Robot Navigation](https://arxiv.org/abs/2602.11862v1)** | 2026-02-12 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Robotics and Automation Letters (RA-L). Project page: https://lab-of-ai-and-robotics.github.io/LAMP/</p></details> |
+| **[JEPA-VLA: Video Predictive Embedding is Needed for VLA Models](https://arxiv.org/abs/2602.11832v1)** | 2026-02-12 |  |
+| **[Revis: Sparse Latent Steering to Mitigate Object Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2602.11824v1)** | 2026-02-12 |  |
 
