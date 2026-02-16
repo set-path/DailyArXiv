@@ -1,5 +1,5 @@
 ---
-title: Papers - February 16, 2026
+title: Papers - February 17, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment](https://arxiv.org/abs/2602.12281v1)** | 2026-02-12 |  |
-| **[ExStrucTiny: A Benchmark for Schema-Variable Structured Information Extraction from Document Images](https://arxiv.org/abs/2602.12203v1)** | 2026-02-12 | <details><summary>EACL ...</summary><p>EACL 2026, main conference</p></details> |
-| **[LabSafety Bench: Benchmarking LLMs on Safety Issues in Scientific Labs](https://arxiv.org/abs/2410.14182v4)** | 2026-02-12 | <details><summary>Publi...</summary><p>Published at Nature Machine Intelligence</p></details> |
-| **[Chatting with Images for Introspective Visual Thinking](https://arxiv.org/abs/2602.11073v2)** | 2026-02-12 |  |
-| **[3DGSNav: Enhancing Vision-Language Model Reasoning for Object Navigation via Active 3D Gaussian Splatting](https://arxiv.org/abs/2602.12159v1)** | 2026-02-12 |  |
-| **[Kelix Technical Report](https://arxiv.org/abs/2602.09843v3)** | 2026-02-12 | Work in progress |
-| **[Affordance-Graphed Task Worlds: Self-Evolving Task Generation for Scalable Embodied Learning](https://arxiv.org/abs/2602.12065v1)** | 2026-02-12 |  |
-| **[Can Local Vision-Language Models improve Activity Recognition over Vision Transformers? -- Case Study on Newborn Resuscitation](https://arxiv.org/abs/2602.12002v1)** | 2026-02-12 | <details><summary>Prese...</summary><p>Presented at the Satellite Workshop on Workshop 15: Generative AI for World Simulations and Communications & Celebrating 40 Years of Excellence in Education: Honoring Professor Aggelos Katsaggelos, IEEE International Conference on Image Processing (ICIP), 2025</p></details> |
-| **[Benchmarking Vision-Language Models for French PDF-to-Markdown Conversion](https://arxiv.org/abs/2602.11960v1)** | 2026-02-12 | 13 pages, 6 figures |
-| **[Are Two LLMs Better Than One? A Student-Teacher Dual-Head LLMs Architecture for Pharmaceutical Content Optimization](https://arxiv.org/abs/2602.11957v1)** | 2026-02-12 | <details><summary>Submi...</summary><p>Submitted to the Demo Track of Top Tier Conference; currently under peer review</p></details> |
-| **[LoGoSeg: Integrating Local and Global Features for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2602.05578v2)** | 2026-02-12 |  |
-| **[TABLET: A Large-Scale Dataset for Robust Visual Table Understanding](https://arxiv.org/abs/2509.21205v3)** | 2026-02-12 |  |
-| **[LAMP: Implicit Language Map for Robot Navigation](https://arxiv.org/abs/2602.11862v1)** | 2026-02-12 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Robotics and Automation Letters (RA-L). Project page: https://lab-of-ai-and-robotics.github.io/LAMP/</p></details> |
-| **[JEPA-VLA: Video Predictive Embedding is Needed for VLA Models](https://arxiv.org/abs/2602.11832v1)** | 2026-02-12 |  |
-| **[Revis: Sparse Latent Steering to Mitigate Object Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2602.11824v1)** | 2026-02-12 |  |
+| **[Steerable Vision-Language-Action Policies for Embodied Reasoning and Hierarchical Control](https://arxiv.org/abs/2602.13193v1)** | 2026-02-13 |  |
+| **[Post-hoc Probabilistic Vision-Language Models](https://arxiv.org/abs/2412.06014v5)** | 2026-02-13 | <details><summary>Publi...</summary><p>Published at ICLR 2026. Project page: https://aaltoml.github.io/BayesVLM/</p></details> |
+| **[Implicit-Scale 3D Reconstruction for Multi-Food Volume Estimation from Monocular Images](https://arxiv.org/abs/2602.13041v1)** | 2026-02-13 | <details><summary>Paper...</summary><p>Paper accepted to 2026 IEEE Southwest Symposium on Image Analysis and Interpretation. The dataset can be downloaded at: https://www.kaggle.com/competitions/3d-reconstruction-from-monocular-multi-food-images/data</p></details> |
+| **[Training-Free Acceleration for Document Parsing Vision-Language Model with Hierarchical Speculative Decoding](https://arxiv.org/abs/2602.12957v1)** | 2026-02-13 | <details><summary>Preli...</summary><p>Preliminary version of an ongoing project; the paper will be refined and extended in subsequent revisions</p></details> |
+| **[RoadscapesQA: A Multitask, Multimodal Dataset for Visual Question Answering on Indian Roads](https://arxiv.org/abs/2602.12877v1)** | 2026-02-13 |  |
+| **[Thinking Like a Radiologist: A Dataset for Anatomy-Guided Interleaved Vision Language Reasoning in Chest X-ray Interpretation](https://arxiv.org/abs/2602.12843v1)** | 2026-02-13 |  |
+| **[X-SYS: A Reference Architecture for Interactive Explanation Systems](https://arxiv.org/abs/2602.12748v1)** | 2026-02-13 | 18 pages, 8 figures |
+| **[Assessing Vision-Language Models for Perception in Autonomous Underwater Robotic Software](https://arxiv.org/abs/2602.10655v2)** | 2026-02-13 | 16 pages, 5 figures |
+| **[SteerVLA: Steering Vision-Language-Action Models in Long-Tail Driving Scenarios](https://arxiv.org/abs/2602.08440v2)** | 2026-02-13 |  |
+| **[SignScene: Visual Sign Grounding for Mapless Navigation](https://arxiv.org/abs/2602.12686v1)** | 2026-02-13 | <details><summary>Under...</summary><p>Under review for a conference</p></details> |
+| **[IndicFairFace: Balanced Indian Face Dataset for Auditing and Mitigating Geographical Bias in Vision-Language Models](https://arxiv.org/abs/2602.12659v1)** | 2026-02-13 |  |
+| **[SCAN: Semantic Document Layout Analysis for Textual and Visual Retrieval-Augmented Generation](https://arxiv.org/abs/2505.14381v3)** | 2026-02-13 |  |
+| **[Language-in-the-Loop Culvert Inspection on the Erie Canal](https://arxiv.org/abs/2509.21370v2)** | 2026-02-13 | <details><summary>First...</summary><p>First two authors contributed equally</p></details> |
+| **[PISHYAR: A Socially Intelligent Smart Cane for Indoor Social Navigation and Multimodal Human-Robot Interaction for Visually Impaired People](https://arxiv.org/abs/2602.12597v1)** | 2026-02-13 |  |
+| **[What Matters in Building Vision-Language-Action Models for Generalist Robots](https://arxiv.org/abs/2412.14058v4)** | 2026-02-13 | <details><summary>Proje...</summary><p>Project page: robovlms.github.io. Added limitations and future works. Fix categorization</p></details> |
 
