@@ -1,5 +1,5 @@
 ---
-title: Papers - February 17, 2026
+title: Papers - February 18, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Steerable Vision-Language-Action Policies for Embodied Reasoning and Hierarchical Control](https://arxiv.org/abs/2602.13193v1)** | 2026-02-13 |  |
-| **[Post-hoc Probabilistic Vision-Language Models](https://arxiv.org/abs/2412.06014v5)** | 2026-02-13 | <details><summary>Publi...</summary><p>Published at ICLR 2026. Project page: https://aaltoml.github.io/BayesVLM/</p></details> |
-| **[Implicit-Scale 3D Reconstruction for Multi-Food Volume Estimation from Monocular Images](https://arxiv.org/abs/2602.13041v1)** | 2026-02-13 | <details><summary>Paper...</summary><p>Paper accepted to 2026 IEEE Southwest Symposium on Image Analysis and Interpretation. The dataset can be downloaded at: https://www.kaggle.com/competitions/3d-reconstruction-from-monocular-multi-food-images/data</p></details> |
-| **[Training-Free Acceleration for Document Parsing Vision-Language Model with Hierarchical Speculative Decoding](https://arxiv.org/abs/2602.12957v1)** | 2026-02-13 | <details><summary>Preli...</summary><p>Preliminary version of an ongoing project; the paper will be refined and extended in subsequent revisions</p></details> |
-| **[RoadscapesQA: A Multitask, Multimodal Dataset for Visual Question Answering on Indian Roads](https://arxiv.org/abs/2602.12877v1)** | 2026-02-13 |  |
-| **[Thinking Like a Radiologist: A Dataset for Anatomy-Guided Interleaved Vision Language Reasoning in Chest X-ray Interpretation](https://arxiv.org/abs/2602.12843v1)** | 2026-02-13 |  |
-| **[X-SYS: A Reference Architecture for Interactive Explanation Systems](https://arxiv.org/abs/2602.12748v1)** | 2026-02-13 | 18 pages, 8 figures |
-| **[Assessing Vision-Language Models for Perception in Autonomous Underwater Robotic Software](https://arxiv.org/abs/2602.10655v2)** | 2026-02-13 | 16 pages, 5 figures |
-| **[SteerVLA: Steering Vision-Language-Action Models in Long-Tail Driving Scenarios](https://arxiv.org/abs/2602.08440v2)** | 2026-02-13 |  |
-| **[SignScene: Visual Sign Grounding for Mapless Navigation](https://arxiv.org/abs/2602.12686v1)** | 2026-02-13 | <details><summary>Under...</summary><p>Under review for a conference</p></details> |
-| **[IndicFairFace: Balanced Indian Face Dataset for Auditing and Mitigating Geographical Bias in Vision-Language Models](https://arxiv.org/abs/2602.12659v1)** | 2026-02-13 |  |
-| **[SCAN: Semantic Document Layout Analysis for Textual and Visual Retrieval-Augmented Generation](https://arxiv.org/abs/2505.14381v3)** | 2026-02-13 |  |
-| **[Language-in-the-Loop Culvert Inspection on the Erie Canal](https://arxiv.org/abs/2509.21370v2)** | 2026-02-13 | <details><summary>First...</summary><p>First two authors contributed equally</p></details> |
-| **[PISHYAR: A Socially Intelligent Smart Cane for Indoor Social Navigation and Multimodal Human-Robot Interaction for Visually Impaired People](https://arxiv.org/abs/2602.12597v1)** | 2026-02-13 |  |
-| **[What Matters in Building Vision-Language-Action Models for Generalist Robots](https://arxiv.org/abs/2412.14058v4)** | 2026-02-13 | <details><summary>Proje...</summary><p>Project page: robovlms.github.io. Added limitations and future works. Fix categorization</p></details> |
+| **[BPP: Long-Context Robot Imitation Learning by Focusing on Key History Frames](https://arxiv.org/abs/2602.15010v1)** | 2026-02-16 |  |
+| **[ThermEval: A Structured Benchmark for Evaluation of Vision-Language Models on Thermal Imagery](https://arxiv.org/abs/2602.14989v1)** | 2026-02-16 | <details><summary>8 Pag...</summary><p>8 Pages with 2 figures of main content. 2 pages of References. 10 pages of appendix with 6 figures</p></details> |
+| **[DM0: An Embodied-Native Vision-Language-Action Model towards Physical AI](https://arxiv.org/abs/2602.14974v1)** | 2026-02-16 | <details><summary>Autho...</summary><p>Authors are listed in alphabetical order. Code is available at https://github.com/Dexmal/dexbotic</p></details> |
+| **[Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis](https://arxiv.org/abs/2506.11526v4)** | 2026-02-16 | <details><summary>IEEE ...</summary><p>IEEE Open Journal of Intelligent Transportation Systems</p></details> |
+| **[Efficient Test-Time Scaling for Small Vision-Language Models](https://arxiv.org/abs/2510.03574v2)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. Project Page: https://monurcan.github.io/efficient_test_time_scaling</p></details> |
+| **[Are foundation models for computer vision good conformal predictors?](https://arxiv.org/abs/2412.06082v3)** | 2026-02-16 |  |
+| **[MATEO: A Multimodal Benchmark for Temporal Reasoning and Planning in LVLMs](https://arxiv.org/abs/2602.14589v1)** | 2026-02-16 |  |
+| **[Top-Down Semantic Refinement for Image Captioning](https://arxiv.org/abs/2510.22391v2)** | 2026-02-16 |  |
+| **[Replanning Human-Robot Collaborative Tasks with Vision-Language Models via Semantic and Physical Dual-Correction](https://arxiv.org/abs/2602.14551v1)** | 2026-02-16 | 16 pages, 8 figures |
+| **[Error Patterns in Historical OCR: A Comparative Analysis of TrOCR and a Vision-Language Model](https://arxiv.org/abs/2602.14524v1)** | 2026-02-16 |  |
+| **[S2D: Selective Spectral Decay for Quantization-Friendly Conditioning of Neural Activations](https://arxiv.org/abs/2602.14432v1)** | 2026-02-16 |  |
+| **[Multi-Turn Adaptive Prompting Attack on Large Vision-Language Models](https://arxiv.org/abs/2602.14399v1)** | 2026-02-16 |  |
+| **[LQA: A Lightweight Quantized-Adaptive Framework for Vision-Language Models on the Edge](https://arxiv.org/abs/2602.07849v2)** | 2026-02-16 | <details><summary>15 pa...</summary><p>15 pages, 9 figures ,9 tables, preprint</p></details> |
+| **[LVLM-COUNT: Enhancing the Counting Ability of Large Vision-Language Models](https://arxiv.org/abs/2412.00686v4)** | 2026-02-16 | <details><summary>38 pa...</summary><p>38 pages, 24 Figures, 19 Tables</p></details> |
+| **[Moving Beyond Sparse Grounding with Complete Screen Parsing Supervision](https://arxiv.org/abs/2602.14276v1)** | 2026-02-15 | 28 pages, 15 figures |
 
