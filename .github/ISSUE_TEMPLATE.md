@@ -1,10 +1,11 @@
 ---
-title: Papers - February 19, 2026
+title: Papers - February 20, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LMSeg: Unleashing the Power of Large-Scale Models for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2412.00364v2)** | 2026-02-18 |  |
 | **[LoGoSeg: Integrating Local and Global Features for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2602.05578v2)** | 2026-02-12 |  |
 | **[Geospatial-Reasoning-Driven Vocabulary-Agnostic Remote Sensing Semantic Segmentation](https://arxiv.org/abs/2602.08206v1)** | 2026-02-09 | 5 pages, 3 figures |
 | **[Bidirectional Cross-Perception for Open-Vocabulary Semantic Segmentation in Remote Sensing Imagery](https://arxiv.org/abs/2601.21159v1)** | 2026-01-29 |  |
@@ -19,11 +20,11 @@ labels: documentation
 | **[RADSeg: Unleashing Parameter and Compute Efficient Zero-Shot Open-Vocabulary Segmentation Using Agglomerative Models](https://arxiv.org/abs/2511.19704v1)** | 2025-11-24 |  |
 | **[Target Refocusing via Attention Redistribution for Open-Vocabulary Semantic Segmentation: An Explainability Perspective](https://arxiv.org/abs/2511.16170v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[InfoCLIP: Bridging Vision-Language Pretraining and Open-Vocabulary Semantic Segmentation via Information-Theoretic Alignment Transfer](https://arxiv.org/abs/2511.15967v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[FarSLIP: Discovering Effective CLIP Adaptation for Fine-Grained Remote Sensing Understanding](https://arxiv.org/abs/2511.14901v1)** | 2025-11-18 |  |
 
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAM 3D Body: Robust Full-Body Human Mesh Recovery](https://arxiv.org/abs/2602.15989v1)** | 2026-02-17 | <details><summary>Code:...</summary><p>Code: https://github.com/facebookresearch/sam-3d-body</p></details> |
 | **[Hi-SAM: A Hierarchical Structure-Aware Multi-modal Framework for Large-Scale Recommendation](https://arxiv.org/abs/2602.11799v1)** | 2026-02-12 |  |
 | **[SPDA-SAM: A Self-prompted Depth-Aware Segment Anything Model for Instance Segmentation](https://arxiv.org/abs/2602.06335v1)** | 2026-02-06 |  |
 | **[Boosting SAM for Cross-Domain Few-Shot Segmentation via Conditional Point Sparsification](https://arxiv.org/abs/2602.05218v1)** | 2026-02-05 |  |
@@ -38,7 +39,6 @@ labels: documentation
 | **[OmniOVCD: Streamlining Open-Vocabulary Change Detection with SAM 3](https://arxiv.org/abs/2601.13895v1)** | 2026-01-20 |  |
 | **[Causal-SAM-LLM: Large Language Models as Causal Reasoners for Robust Medical Segmentation](https://arxiv.org/abs/2507.03585v2)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted by IEEE ICASSP 2026</p></details> |
 | **[SAM-pose2seg: Pose-Guided Human Instance Segmentation in Crowds](https://arxiv.org/abs/2601.08982v2)** | 2026-01-16 | <details><summary>GitHu...</summary><p>GitHub: https://github.com/MiraPurkrabek/BBoxMaskPose/</p></details> |
-| **[X-SAM: Boosting Sharpness-Aware Minimization with Dominant-Eigenvector Gradient Correction](https://arxiv.org/abs/2601.10251v1)** | 2026-01-15 |  |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Can Multimodal LLMs Perform Time Series Anomaly Detection?](https://arxiv.org/abs/2502.17812v2)** | 2026-02-17 | <details><summary>ACM W...</summary><p>ACM Web Conference 2026 (WWW'26)</p></details> |
-| **[LeafNet: A Large-Scale Dataset and Comprehensive Benchmark for Foundational Vision-Language Understanding of Plant Diseases](https://arxiv.org/abs/2602.13662v2)** | 2026-02-17 | <details><summary>26 pa...</summary><p>26 pages, 13 figures and 8 tables</p></details> |
-| **[cadrille: Multi-modal CAD Reconstruction with Reinforcement Learning](https://arxiv.org/abs/2505.22914v3)** | 2026-02-17 | ICLR 2026 (Oral) |
-| **[Concept-Enhanced Multimodal RAG: Towards Interpretable and Accurate Radiology Report Generation](https://arxiv.org/abs/2602.15650v1)** | 2026-02-17 |  |
-| **[CARE Drive A Framework for Evaluating Reason-Responsiveness of Vision Language Models in Automated Driving](https://arxiv.org/abs/2602.15645v1)** | 2026-02-17 | <details><summary>21 pa...</summary><p>21 pages, on submission to Transportation Research Part C</p></details> |
-| **[Req2Road: A GenAI Pipeline for SDV Test Artifact Generation and On-Vehicle Execution](https://arxiv.org/abs/2602.15591v1)** | 2026-02-17 | <details><summary>accep...</summary><p>accepted at CAiSE 2026 main</p></details> |
-| **[VLM-DEWM: Dynamic External World Model for Verifiable and Resilient Vision-Language Planning in Manufacturing](https://arxiv.org/abs/2602.15549v1)** | 2026-02-17 |  |
-| **[Selective Perception for Robot: Task-Aware Attention in Multimodal VLA](https://arxiv.org/abs/2602.15543v1)** | 2026-02-17 |  |
-| **[Semantic-Guided 3D Gaussian Splatting for Transient Object Removal](https://arxiv.org/abs/2602.15516v1)** | 2026-02-17 |  |
-| **[LQA: A Lightweight Quantized-Adaptive Framework for Vision-Language Models on the Edge](https://arxiv.org/abs/2602.07849v3)** | 2026-02-17 | <details><summary>15 pa...</summary><p>15 pages, 9 figures ,9 tables, preprint</p></details> |
-| **[Annotation-Efficient Vision-Language Model Adaptation to the Polish Language Using the LLaVA Framework](https://arxiv.org/abs/2602.14073v2)** | 2026-02-17 |  |
-| **[On the Out-of-Distribution Generalization of Reasoning in Multimodal LLMs for Simple Visual Planning Tasks](https://arxiv.org/abs/2602.15460v1)** | 2026-02-17 |  |
-| **[ActionCodec: What Makes for Good Action Tokenizers](https://arxiv.org/abs/2602.15397v1)** | 2026-02-17 |  |
-| **[The Vision Wormhole: Latent-Space Communication in Heterogeneous Multi-Agent Systems](https://arxiv.org/abs/2602.15382v1)** | 2026-02-17 | <details><summary>Prepr...</summary><p>Preprint. Work in progress</p></details> |
-| **[GMAIL: Generative Modality Alignment for generated Image Learning](https://arxiv.org/abs/2602.15368v1)** | 2026-02-17 |  |
+| **[Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning](https://arxiv.org/abs/2602.16702v1)** | 2026-02-18 | <details><summary>prepr...</summary><p>preprint 10 pages, 4 figures</p></details> |
+| **[MC-LLaVA: Multi-Concept Personalized Vision-Language Model](https://arxiv.org/abs/2411.11706v4)** | 2026-02-18 |  |
+| **[A Contrastive Learning Framework Empowered by Attention-based Feature Adaptation for Street-View Image Classification](https://arxiv.org/abs/2602.16590v1)** | 2026-02-18 |  |
+| **[DressWild: Feed-Forward Pose-Agnostic Garment Sewing Pattern Generation from In-the-Wild Images](https://arxiv.org/abs/2602.16502v1)** | 2026-02-18 |  |
+| **[SurgRAW: Multi-Agent Workflow with Chain of Thought Reasoning for Robotic Surgical Video Analysis](https://arxiv.org/abs/2503.10265v2)** | 2026-02-18 |  |
+| **[Visual Self-Refine: A Pixel-Guided Paradigm for Accurate Chart Parsing](https://arxiv.org/abs/2602.16455v1)** | 2026-02-18 |  |
+| **[Designing Production-Scale OCR for India: Multilingual and Domain-Specific Systems](https://arxiv.org/abs/2602.16430v1)** | 2026-02-18 |  |
+| **[Vision and Language: Novel Representations and Artificial intelligence for Driving Scene Safety Assessment and Autonomous Vehicle Planning](https://arxiv.org/abs/2602.07680v2)** | 2026-02-18 |  |
+| **[BPP: Long-Context Robot Imitation Learning by Focusing on Key History Frames](https://arxiv.org/abs/2602.15010v2)** | 2026-02-18 |  |
+| **[RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics](https://arxiv.org/abs/2411.16537v5)** | 2026-02-18 | <details><summary>CVPR ...</summary><p>CVPR 2025 (Oral); Project Website: https://chanh.ee/RoboSpatial</p></details> |
+| **[LMSeg: Unleashing the Power of Large-Scale Models for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2412.00364v2)** | 2026-02-18 |  |
+| **[Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment](https://arxiv.org/abs/2602.12281v2)** | 2026-02-18 |  |
+| **[Peeking Ahead of the Field Study: Exploring VLM Personas as Support Tools for Embodied Studies in HCI](https://arxiv.org/abs/2602.16157v1)** | 2026-02-18 | Accepted to CHI 2026 |
+| **[Evaluating Demographic Misrepresentation in Image-to-Image Portrait Editing](https://arxiv.org/abs/2602.16149v1)** | 2026-02-18 | <details><summary>19 pa...</summary><p>19 pages, 13 figures. Preprint</p></details> |
+| **[Language-Guided Invariance Probing of Vision-Language Models](https://arxiv.org/abs/2511.13494v2)** | 2026-02-18 | <details><summary>Patte...</summary><p>Pattern Recognition Letters 2026</p></details> |
 
