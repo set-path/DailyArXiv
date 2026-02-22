@@ -1,5 +1,5 @@
 ---
-title: Papers - February 20, 2026
+title: Papers - February 23, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting](https://arxiv.org/abs/2602.17645v1)** | 2026-02-19 | <details><summary>Code ...</summary><p>Code at: https://github.com/vila-lab/M-Attack-V2</p></details> |
+| **[Catastrophic Forgetting Resilient One-Shot Incremental Federated Learning](https://arxiv.org/abs/2602.17625v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted for publication in the IEEE International Conference on Big Data (IEEE BigData) 2025</p></details> |
+| **[Boosting Medical Visual Understanding From Multi-Granular Language Learning](https://arxiv.org/abs/2511.15943v2)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. 40 pages</p></details> |
+| **[AI Gamestore: Scalable, Open-Ended Evaluation of Machine General Intelligence with Human Games](https://arxiv.org/abs/2602.17594v1)** | 2026-02-19 | 29 pages, 14 figures |
+| **[LATA: Laplacian-Assisted Transductive Adaptation for Conformal Uncertainty in Medical VLMs](https://arxiv.org/abs/2602.17535v1)** | 2026-02-19 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 4 tables</p></details> |
+| **[I-FailSense: Towards General Robotic Failure Detection with Vision-Language Models](https://arxiv.org/abs/2509.16072v3)** | 2026-02-19 |  |
+| **[Selective Training for Large Vision Language Models via Visual Information Gain](https://arxiv.org/abs/2602.17186v1)** | 2026-02-19 |  |
+| **[Universal Anti-forensics Attack against Image Forgery Detection via Multi-modal Guidance](https://arxiv.org/abs/2602.06530v2)** | 2026-02-19 | 17 pages, 11 figures |
+| **[Narrow fine-tuning erodes safety alignment in vision-language agents](https://arxiv.org/abs/2602.16931v1)** | 2026-02-18 | 24 pages, 11 figures |
+| **[MALLVI: a multi agent framework for integrated generalized robotics manipulation](https://arxiv.org/abs/2602.16898v1)** | 2026-02-18 |  |
+| **[DODO: Discrete OCR Diffusion Models](https://arxiv.org/abs/2602.16872v1)** | 2026-02-18 |  |
+| **[Bongard-RWR+: Real-World Representations of Fine-Grained Concepts in Bongard Problems](https://arxiv.org/abs/2508.12026v2)** | 2026-02-18 | <details><summary>Accep...</summary><p>Accepted to The Fourteenth International Conference on Learning Representations (ICLR 2026)</p></details> |
+| **[Can Vision-Language Models Answer Face to Face Questions in the Real-World?](https://arxiv.org/abs/2503.19356v2)** | 2026-02-18 | ICLR 2026 paper |
 | **[Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning](https://arxiv.org/abs/2602.16702v1)** | 2026-02-18 | <details><summary>prepr...</summary><p>preprint 10 pages, 4 figures</p></details> |
 | **[MC-LLaVA: Multi-Concept Personalized Vision-Language Model](https://arxiv.org/abs/2411.11706v4)** | 2026-02-18 |  |
-| **[A Contrastive Learning Framework Empowered by Attention-based Feature Adaptation for Street-View Image Classification](https://arxiv.org/abs/2602.16590v1)** | 2026-02-18 |  |
-| **[DressWild: Feed-Forward Pose-Agnostic Garment Sewing Pattern Generation from In-the-Wild Images](https://arxiv.org/abs/2602.16502v1)** | 2026-02-18 |  |
-| **[SurgRAW: Multi-Agent Workflow with Chain of Thought Reasoning for Robotic Surgical Video Analysis](https://arxiv.org/abs/2503.10265v2)** | 2026-02-18 |  |
-| **[Visual Self-Refine: A Pixel-Guided Paradigm for Accurate Chart Parsing](https://arxiv.org/abs/2602.16455v1)** | 2026-02-18 |  |
-| **[Designing Production-Scale OCR for India: Multilingual and Domain-Specific Systems](https://arxiv.org/abs/2602.16430v1)** | 2026-02-18 |  |
-| **[Vision and Language: Novel Representations and Artificial intelligence for Driving Scene Safety Assessment and Autonomous Vehicle Planning](https://arxiv.org/abs/2602.07680v2)** | 2026-02-18 |  |
-| **[BPP: Long-Context Robot Imitation Learning by Focusing on Key History Frames](https://arxiv.org/abs/2602.15010v2)** | 2026-02-18 |  |
-| **[RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics](https://arxiv.org/abs/2411.16537v5)** | 2026-02-18 | <details><summary>CVPR ...</summary><p>CVPR 2025 (Oral); Project Website: https://chanh.ee/RoboSpatial</p></details> |
-| **[LMSeg: Unleashing the Power of Large-Scale Models for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2412.00364v2)** | 2026-02-18 |  |
-| **[Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment](https://arxiv.org/abs/2602.12281v2)** | 2026-02-18 |  |
-| **[Peeking Ahead of the Field Study: Exploring VLM Personas as Support Tools for Embodied Studies in HCI](https://arxiv.org/abs/2602.16157v1)** | 2026-02-18 | Accepted to CHI 2026 |
-| **[Evaluating Demographic Misrepresentation in Image-to-Image Portrait Editing](https://arxiv.org/abs/2602.16149v1)** | 2026-02-18 | <details><summary>19 pa...</summary><p>19 pages, 13 figures. Preprint</p></details> |
-| **[Language-Guided Invariance Probing of Vision-Language Models](https://arxiv.org/abs/2511.13494v2)** | 2026-02-18 | <details><summary>Patte...</summary><p>Pattern Recognition Letters 2026</p></details> |
 
