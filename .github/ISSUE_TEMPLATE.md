@@ -1,10 +1,11 @@
 ---
-title: Papers - February 24, 2026
+title: Papers - February 25, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Open-Vocabulary Domain Generalization in Urban-Scene Segmentation](https://arxiv.org/abs/2602.18853v1)** | 2026-02-21 |  |
 | **[Enabling Training-Free Text-Based Remote Sensing Segmentation](https://arxiv.org/abs/2602.17799v1)** | 2026-02-19 |  |
 | **[LMSeg: Unleashing the Power of Large-Scale Models for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2412.00364v2)** | 2026-02-18 |  |
 | **[LoGoSeg: Integrating Local and Global Features for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2602.05578v2)** | 2026-02-12 |  |
@@ -19,7 +20,6 @@ labels: documentation
 | **[Open Vocabulary Compositional Explanations for Neuron Alignment](https://arxiv.org/abs/2511.20931v1)** | 2025-11-25 | 47 pages, 11 figures |
 | **[SAM-MI: A Mask-Injected Framework for Enhancing Open-Vocabulary Semantic Segmentation with SAM](https://arxiv.org/abs/2511.20027v1)** | 2025-11-25 |  |
 | **[RADSeg: Unleashing Parameter and Compute Efficient Zero-Shot Open-Vocabulary Segmentation Using Agglomerative Models](https://arxiv.org/abs/2511.19704v1)** | 2025-11-24 |  |
-| **[Target Refocusing via Attention Redistribution for Open-Vocabulary Semantic Segmentation: An Explainability Perspective](https://arxiv.org/abs/2511.16170v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 
 ## SAM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation](https://arxiv.org/abs/2602.18424v1)** | 2026-02-20 |  |
-| **[Zero-shot Interactive Perception](https://arxiv.org/abs/2602.18374v1)** | 2026-02-20 | <details><summary>Origi...</summary><p>Original manuscript submitted on April 24, 2025. Timestamped and publicly available on OpenReview: https://openreview.net/forum?id=7MhpFcr5Nx</p></details> |
-| **[Simplifying Outcomes of Language Model Component Analyses with ELIA](https://arxiv.org/abs/2602.18262v1)** | 2026-02-20 | <details><summary>EACL ...</summary><p>EACL 2026 System Demonstrations. GitHub: https://github.com/aaron0eidt/ELIA</p></details> |
-| **[FENCE: A Financial and Multimodal Jailbreak Detection Dataset](https://arxiv.org/abs/2602.18154v1)** | 2026-02-20 | <details><summary>lrec ...</summary><p>lrec 2026 accepted paper</p></details> |
-| **[MALLVI: A Multi-Agent Framework for Integrated Generalized Robotics Manipulation](https://arxiv.org/abs/2602.16898v2)** | 2026-02-20 |  |
-| **[LeafNet: A Large-Scale Dataset and Comprehensive Benchmark for Foundational Vision-Language Understanding of Plant Diseases](https://arxiv.org/abs/2602.13662v3)** | 2026-02-20 | <details><summary>26 pa...</summary><p>26 pages, 13 figures and 8 tables</p></details> |
-| **[OODBench: Out-of-Distribution Benchmark for Large Vision-Language Models](https://arxiv.org/abs/2602.18094v1)** | 2026-02-20 | 54 pages, 21 figures |
-| **[When Digital Twins Meet Large Language Models: Realistic, Interactive, and Editable Simulation for Autonomous Driving](https://arxiv.org/abs/2507.00319v2)** | 2026-02-20 | <details><summary>Accep...</summary><p>Accepted in IEEE Robotics & Automation Magazine (RAM)</p></details> |
-| **[GIFT: A Framework Towards Global Interpretable Faithful Textual Explanations of Vision Classifiers](https://arxiv.org/abs/2411.15605v3)** | 2026-02-20 | <details><summary>TMLR ...</summary><p>TMLR 2026 (featured certification)</p></details> |
-| **[UAOR: Uncertainty-aware Observation Reinjection for Vision-Language-Action Models](https://arxiv.org/abs/2602.18020v1)** | 2026-02-20 |  |
-| **[Mod-Adapter: Tuning-Free and Versatile Multi-concept Personalization via Modulation Adapter](https://arxiv.org/abs/2505.18612v4)** | 2026-02-20 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026, project page: https://weizhi-zhong.github.io/Mod-Adapter</p></details> |
-| **[VILLAIN at AVerImaTeC: Verifying Image-Text Claims via Multi-Agent Collaboration](https://arxiv.org/abs/2602.04587v2)** | 2026-02-20 | <details><summary>A sys...</summary><p>A system description paper for the AVerImaTeC shared task at the Ninth FEVER Workshop (co-located with EACL 2026)</p></details> |
-| **[ViGText: Deepfake Image Detection with Vision-Language Model Explanations and Graph Neural Networks](https://arxiv.org/abs/2507.18031v2)** | 2026-02-20 |  |
-| **[Understanding the Fine-Grained Knowledge Capabilities of Vision-Language Models](https://arxiv.org/abs/2602.17871v1)** | 2026-02-19 |  |
-| **[Enabling Training-Free Text-Based Remote Sensing Segmentation](https://arxiv.org/abs/2602.17799v1)** | 2026-02-19 |  |
+| **[NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning](https://arxiv.org/abs/2602.20119v1)** | 2026-02-23 | <details><summary>25 pa...</summary><p>25 pages, 15 figures. Project webpage: https://nova-plan.github.io/</p></details> |
+| **[LocateAnything3D: Vision-Language 3D Detection with Chain-of-Sight](https://arxiv.org/abs/2511.20648v2)** | 2026-02-23 | <details><summary>Tech ...</summary><p>Tech report. Project page: https://nvlabs.github.io/LocateAnything3D/</p></details> |
+| **[StructXLIP: Enhancing Vision-language Models with Multimodal Structural Cues](https://arxiv.org/abs/2602.20089v1)** | 2026-02-23 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[Do Large Language Models Understand Data Visualization Principles?](https://arxiv.org/abs/2602.20084v1)** | 2026-02-23 |  |
+| **[HeatPrompt: Zero-Shot Vision-Language Modeling of Urban Heat Demand from Satellite Images](https://arxiv.org/abs/2602.20066v1)** | 2026-02-23 |  |
+| **[Contextual Safety Reasoning and Grounding for Open-World Robots](https://arxiv.org/abs/2602.19983v1)** | 2026-02-23 |  |
+| **[BeamVLM for Low-altitude Economy: Generative Beam Prediction via Vision-language Models](https://arxiv.org/abs/2602.19929v1)** | 2026-02-23 | <details><summary>We pr...</summary><p>We propose a novel end-to-end generative framework for beam prediction by using vision-language models</p></details> |
+| **[Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery](https://arxiv.org/abs/2602.19910v1)** | 2026-02-23 | <details><summary>15 pa...</summary><p>15 pages, accepted by CVPR 2026</p></details> |
+| **[ApET: Approximation-Error Guided Token Compression for Efficient VLMs](https://arxiv.org/abs/2602.19870v1)** | 2026-02-23 | CVPR2026 |
+| **[U2-BENCH: Benchmarking Large Vision-Language Models on Ultrasound Understanding](https://arxiv.org/abs/2505.17779v4)** | 2026-02-23 |  |
+| **[TraceVision: Trajectory-Aware Vision-Language Model for Human-Like Spatial Understanding](https://arxiv.org/abs/2602.19768v1)** | 2026-02-23 |  |
+| **[Seeing Clearly, Reasoning Confidently: Plug-and-Play Remedies for Vision Language Model Blindness](https://arxiv.org/abs/2602.19615v1)** | 2026-02-23 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[VALD: Multi-Stage Vision Attack Detection for Efficient LVLM Defense](https://arxiv.org/abs/2602.19570v1)** | 2026-02-23 |  |
+| **[Can a Teenager Fool an AI? Evaluating Low-Cost Cosmetic Attacks on Age Estimation Systems](https://arxiv.org/abs/2602.19539v1)** | 2026-02-23 | 13 pages, 6 figures |
+| **[ORION: ORthonormal Text Encoding for Universal VLM AdaptatION](https://arxiv.org/abs/2602.19530v1)** | 2026-02-23 |  |
 
