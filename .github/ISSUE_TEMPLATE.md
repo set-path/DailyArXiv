@@ -1,5 +1,5 @@
 ---
-title: Papers - February 25, 2026
+title: Papers - February 26, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning](https://arxiv.org/abs/2602.20119v1)** | 2026-02-23 | <details><summary>25 pa...</summary><p>25 pages, 15 figures. Project webpage: https://nova-plan.github.io/</p></details> |
-| **[LocateAnything3D: Vision-Language 3D Detection with Chain-of-Sight](https://arxiv.org/abs/2511.20648v2)** | 2026-02-23 | <details><summary>Tech ...</summary><p>Tech report. Project page: https://nvlabs.github.io/LocateAnything3D/</p></details> |
-| **[StructXLIP: Enhancing Vision-language Models with Multimodal Structural Cues](https://arxiv.org/abs/2602.20089v1)** | 2026-02-23 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[Do Large Language Models Understand Data Visualization Principles?](https://arxiv.org/abs/2602.20084v1)** | 2026-02-23 |  |
-| **[HeatPrompt: Zero-Shot Vision-Language Modeling of Urban Heat Demand from Satellite Images](https://arxiv.org/abs/2602.20066v1)** | 2026-02-23 |  |
-| **[Contextual Safety Reasoning and Grounding for Open-World Robots](https://arxiv.org/abs/2602.19983v1)** | 2026-02-23 |  |
-| **[BeamVLM for Low-altitude Economy: Generative Beam Prediction via Vision-language Models](https://arxiv.org/abs/2602.19929v1)** | 2026-02-23 | <details><summary>We pr...</summary><p>We propose a novel end-to-end generative framework for beam prediction by using vision-language models</p></details> |
-| **[Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery](https://arxiv.org/abs/2602.19910v1)** | 2026-02-23 | <details><summary>15 pa...</summary><p>15 pages, accepted by CVPR 2026</p></details> |
-| **[ApET: Approximation-Error Guided Token Compression for Efficient VLMs](https://arxiv.org/abs/2602.19870v1)** | 2026-02-23 | CVPR2026 |
-| **[U2-BENCH: Benchmarking Large Vision-Language Models on Ultrasound Understanding](https://arxiv.org/abs/2505.17779v4)** | 2026-02-23 |  |
-| **[TraceVision: Trajectory-Aware Vision-Language Model for Human-Like Spatial Understanding](https://arxiv.org/abs/2602.19768v1)** | 2026-02-23 |  |
-| **[Seeing Clearly, Reasoning Confidently: Plug-and-Play Remedies for Vision Language Model Blindness](https://arxiv.org/abs/2602.19615v1)** | 2026-02-23 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[VALD: Multi-Stage Vision Attack Detection for Efficient LVLM Defense](https://arxiv.org/abs/2602.19570v1)** | 2026-02-23 |  |
-| **[Can a Teenager Fool an AI? Evaluating Low-Cost Cosmetic Attacks on Age Estimation Systems](https://arxiv.org/abs/2602.19539v1)** | 2026-02-23 | 13 pages, 6 figures |
-| **[ORION: ORthonormal Text Encoding for Universal VLM AdaptatION](https://arxiv.org/abs/2602.19530v1)** | 2026-02-23 |  |
+| **[Spa3R: Predictive Spatial Field Modeling for 3D Visual Reasoning](https://arxiv.org/abs/2602.21186v1)** | 2026-02-24 |  |
+| **[Seeing Through Words: Controlling Visual Retrieval Quality with Language Models](https://arxiv.org/abs/2602.21175v1)** | 2026-02-24 |  |
+| **[LUMEN: Longitudinal Multi-Modal Radiology Model for Prognosis and Diagnosis](https://arxiv.org/abs/2602.21142v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted to IEEE International Symposium on Biomedical Imaging (ISBI) 2026</p></details> |
+| **[VAUQ: Vision-Aware Uncertainty Quantification for LVLM Self-Evaluation](https://arxiv.org/abs/2602.21054v1)** | 2026-02-24 |  |
+| **[OCR-Agent: Agentic OCR with Capability and Memory Reflection](https://arxiv.org/abs/2602.21053v1)** | 2026-02-24 |  |
+| **[OVSegDT: Segmenting Transformer for Open-Vocabulary Object Goal Navigation](https://arxiv.org/abs/2508.11479v2)** | 2026-02-24 |  |
+| **[Not Just What's There: Enabling CLIP to Comprehend Negated Visual Descriptions Without Fine-tuning](https://arxiv.org/abs/2602.21035v1)** | 2026-02-24 |  |
+| **[From Perception to Action: An Interactive Benchmark for Vision Reasoning](https://arxiv.org/abs/2602.21015v1)** | 2026-02-24 | <details><summary>Work ...</summary><p>Work in processing. Website: https://social-ai-studio.github.io/CHAIN/</p></details> |
+| **[SpatiaLQA: A Benchmark for Evaluating Spatial Logical Reasoning in Vision-Language Models](https://arxiv.org/abs/2602.20901v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[Diagnosing Causal Reasoning in Vision-Language Models via Structured Relevance Graphs](https://arxiv.org/abs/2602.20878v1)** | 2026-02-24 |  |
+| **[MUSE: Harnessing Precise and Diverse Semantics for Few-Shot Whole Slide Image Classification](https://arxiv.org/abs/2602.20873v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[On the Explainability of Vision-Language Models in Art History](https://arxiv.org/abs/2602.20853v1)** | 2026-02-24 |  |
+| **[GatedCLIP: Gated Multimodal Fusion for Hateful Memes Detection](https://arxiv.org/abs/2602.20818v1)** | 2026-02-24 | Preprint |
+| **[VGGDrive: Empowering Vision-Language Models with Cross-View Geometric Grounding for Autonomous Driving](https://arxiv.org/abs/2602.20794v1)** | 2026-02-24 | CVPR 2026 |
+| **[Keep it SymPL: Symbolic Projective Layout for Allocentric Spatial Reasoning in Vision-Language Models](https://arxiv.org/abs/2602.19117v2)** | 2026-02-24 |  |
 
