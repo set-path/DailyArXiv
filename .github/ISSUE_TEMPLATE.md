@@ -1,5 +1,5 @@
 ---
-title: Papers - March 03, 2026
+title: Papers - March 04, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -21,24 +21,22 @@ labels: documentation
 | **[Open Vocabulary Compositional Explanations for Neuron Alignment](https://arxiv.org/abs/2511.20931v1)** | 2025-11-25 | 47 pages, 11 figures |
 | **[SAM-MI: A Mask-Injected Framework for Enhancing Open-Vocabulary Semantic Segmentation with SAM](https://arxiv.org/abs/2511.20027v1)** | 2025-11-25 |  |
 
-## SAM - Preview 15 papers
+## SAM3 - Preview 13 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SAM 3D Body: Robust Full-Body Human Mesh Recovery](https://arxiv.org/abs/2602.15989v1)** | 2026-02-17 | <details><summary>Code:...</summary><p>Code: https://github.com/facebookresearch/sam-3d-body</p></details> |
-| **[Hi-SAM: A Hierarchical Structure-Aware Multi-modal Framework for Large-Scale Recommendation](https://arxiv.org/abs/2602.11799v1)** | 2026-02-12 |  |
-| **[SPDA-SAM: A Self-prompted Depth-Aware Segment Anything Model for Instance Segmentation](https://arxiv.org/abs/2602.06335v1)** | 2026-02-06 |  |
-| **[Boosting SAM for Cross-Domain Few-Shot Segmentation via Conditional Point Sparsification](https://arxiv.org/abs/2602.05218v1)** | 2026-02-05 |  |
-| **[A Hybrid Mamba-SAM Architecture for Efficient 3D Medical Image Segmentation](https://arxiv.org/abs/2602.00650v1)** | 2026-01-31 |  |
-| **[BLO-Inst: Bi-Level Optimization Based Alignment of YOLO and SAM for Robust Instance Segmentation](https://arxiv.org/abs/2601.22061v1)** | 2026-01-29 |  |
-| **[From Specialist to Generalist: Unlocking SAM's Learning Potential on Unlabeled Medical Images](https://arxiv.org/abs/2601.17934v2)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted to ISBI 2026</p></details> |
-| **[X-SAM: From Segment Anything to Any Segmentation](https://arxiv.org/abs/2508.04655v2)** | 2026-01-28 | AAAI2026 |
-| **[SAM-Aug: Leveraging SAM Priors for Few-Shot Parcel Segmentation in Satellite Time Series](https://arxiv.org/abs/2601.09110v2)** | 2026-01-28 | 13 pages, 6 figures |
-| **[SAM Audio Judge: A Unified Multimodal Framework for Perceptual Evaluation of Audio Separation](https://arxiv.org/abs/2601.19702v1)** | 2026-01-27 |  |
-| **[MV-SAM: Multi-view Promptable Segmentation using Pointmap Guidance](https://arxiv.org/abs/2601.17866v1)** | 2026-01-25 | <details><summary>Proje...</summary><p>Project page, https://jaesung-choe.github.io/mv_sam/index.html</p></details> |
-| **[Atlas-Assisted Segment Anything Model for Fetal Brain MRI (FeTal-SAM)](https://arxiv.org/abs/2601.15759v1)** | 2026-01-22 |  |
-| **[OmniOVCD: Streamlining Open-Vocabulary Change Detection with SAM 3](https://arxiv.org/abs/2601.13895v1)** | 2026-01-20 |  |
-| **[Causal-SAM-LLM: Large Language Models as Causal Reasoners for Robust Medical Segmentation](https://arxiv.org/abs/2507.03585v2)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted by IEEE ICASSP 2026</p></details> |
-| **[SAM-pose2seg: Pose-Guided Human Instance Segmentation in Crowds](https://arxiv.org/abs/2601.08982v2)** | 2026-01-16 | <details><summary>GitHu...</summary><p>GitHub: https://github.com/MiraPurkrabek/BBoxMaskPose/</p></details> |
+| **[CAD-Prompted SAM3: Geometry-Conditioned Instance Segmentation for Industrial Objects](https://arxiv.org/abs/2602.20551v1)** | 2026-02-24 |  |
+| **[Progressive Per-Branch Depth Optimization for DEFOM-Stereo and SAM3 Joint Analysis in UAV Forestry Applications](https://arxiv.org/abs/2602.20539v1)** | 2026-02-24 |  |
+| **[SAM3-LiteText: An Anatomical Study of the SAM3 Text Encoder for Efficient Vision-Language Segmentation](https://arxiv.org/abs/2602.12173v1)** | 2026-02-12 |  |
+| **[Taming SAM3 in the Wild: A Concept Bank for Open-Vocabulary Segmentation](https://arxiv.org/abs/2602.06333v1)** | 2026-02-06 |  |
+| **[Medical SAM3: A Foundation Model for Universal Prompt-Driven Medical Image Segmentation](https://arxiv.org/abs/2601.10880v1)** | 2026-01-15 |  |
+| **[SAM3-DMS: Decoupled Memory Selection for Multi-target Video Segmentation of SAM3](https://arxiv.org/abs/2601.09699v1)** | 2026-01-14 | <details><summary>Code:...</summary><p>Code: https://github.com/FudanCVL/SAM3-DMS</p></details> |
+| **[Memory-Enhanced SAM3 for Occlusion-Robust Surgical Instrument Segmentation](https://arxiv.org/abs/2512.16880v1)** | 2025-12-18 | Under Review |
+| **[On the Effectiveness of Textual Prompting with Lightweight Fine-Tuning for SAM3 Remote Sensing Segmentation](https://arxiv.org/abs/2512.15564v1)** | 2025-12-17 |  |
+| **[SAM3-I: Segment Anything with Instructions](https://arxiv.org/abs/2512.04585v2)** | 2025-12-16 | <details><summary>Preli...</summary><p>Preliminary results; work in progress</p></details> |
+| **[Generalization vs. Specialization: Evaluating Segment Anything Model (SAM3) Zero-Shot Segmentation Against Fine-Tuned YOLO Detectors](https://arxiv.org/abs/2512.11884v1)** | 2025-12-09 |  |
+| **[The SAM2-to-SAM3 Gap in the Segment Anything Model Family: Why Prompt-Based Expertise Fails in Concept-Driven Image Segmentation](https://arxiv.org/abs/2512.06032v1)** | 2025-12-04 |  |
+| **[SAM3-UNet: Simplified Adaptation of Segment Anything Model 3](https://arxiv.org/abs/2512.01789v1)** | 2025-12-01 | Technical Report |
+| **[SAM3-Adapter: Efficient Adaptation of Segment Anything 3 for Camouflage Object Segmentation, Shadow Detection, and Medical Image Segmentation](https://arxiv.org/abs/2511.19425v1)** | 2025-11-24 |  |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -81,19 +79,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Increasing Computation Resolves Conflicts in Vision Language Models](https://arxiv.org/abs/2505.18969v2)** | 2026-02-27 |  |
-| **[Toward Guarantees for Clinical Reasoning in Vision Language Models via Formal Verification](https://arxiv.org/abs/2602.24111v1)** | 2026-02-27 |  |
-| **[AutoDebias: Automated Framework for Debiasing Text-to-Image Models](https://arxiv.org/abs/2508.00445v2)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[FRIEDA: Benchmarking Multi-Step Cartographic Reasoning in Vision-Language Models](https://arxiv.org/abs/2512.08016v2)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[Quant Experts: Token-aware Adaptive Error Reconstruction with Mixture of Experts for Large Vision-Language Models Quantization](https://arxiv.org/abs/2602.24059v1)** | 2026-02-27 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, including appendix, Accepted at CVPR 2026</p></details> |
-| **[Small Drafts, Big Verdict: Information-Intensive Visual Reasoning via Speculation](https://arxiv.org/abs/2510.20812v4)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[GuardAlign: Test-time Safety Alignment in Multimodal Large Language Models](https://arxiv.org/abs/2602.24027v1)** | 2026-02-27 | ICLR 2026 |
-| **[Interpretable Debiasing of Vision-Language Models for Social Fairness](https://arxiv.org/abs/2602.24014v1)** | 2026-02-27 | <details><summary>25 pa...</summary><p>25 pages, 30 figures, 13 Tables Accepted to CVPR 2026</p></details> |
-| **[Empowering Small VLMs to Think with Dynamic Memorization and Exploration](https://arxiv.org/abs/2506.23061v2)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[CC-VQA: Conflict- and Correlation-Aware Method for Mitigating Knowledge Conflict in Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2602.23952v1)** | 2026-02-27 | Accepted by CVPR2026 |
-| **[Open-Vocabulary Semantic Segmentation in Remote Sensing via Hierarchical Attention Masking and Model Composition](https://arxiv.org/abs/2602.23869v1)** | 2026-02-27 | <details><summary>Publi...</summary><p>Published in the proceedings of the British Machine Vision Conference Workshops 2025</p></details> |
-| **[Human-Centered Multimodal Fusion for Sexism Detection in Memes with Eye-Tracking, Heart Rate, and EEG Signals](https://arxiv.org/abs/2602.23862v1)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted to appear in the Proceedings of LREC 2026</p></details> |
-| **[SpatiaLab: Can Vision-Language Models Perform Spatial Reasoning in the Wild?](https://arxiv.org/abs/2602.03916v2)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026 (https://openreview.net/forum?id=fWWUPOb0CT). 92 Pages. 42 Figures and 29 Tables</p></details> |
-| **[Radiologist Copilot: An Agentic Framework Orchestrating Specialized Tools for Reliable Radiology Reporting](https://arxiv.org/abs/2512.02814v2)** | 2026-02-27 |  |
-| **[Less is More: Lean yet Powerful Vision-Language Model for Autonomous Driving](https://arxiv.org/abs/2510.00060v3)** | 2026-02-27 |  |
+| **[OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens](https://arxiv.org/abs/2603.02138v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project Page: https://openvglab.github.io/OmniLottie/</p></details> |
+| **[Recursive Think-Answer Process for LLMs and VLMs](https://arxiv.org/abs/2603.02099v1)** | 2026-03-02 | <details><summary>CVPR ...</summary><p>CVPR 2026 Findings, Project page: https://litcoderr.github.io/rtap_page/</p></details> |
+| **[Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation](https://arxiv.org/abs/2504.18453v2)** | 2026-03-02 |  |
+| **[Learning to Read Where to Look: Disease-Aware Vision-Language Pretraining for 3D CT](https://arxiv.org/abs/2603.02026v1)** | 2026-03-02 |  |
+| **[Semantic Similarity is a Spurious Measure of Comic Understanding: Lessons Learned from Hallucinations in a Benchmarking Experiment](https://arxiv.org/abs/2603.01950v1)** | 2026-03-02 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 3 tables. Includes link to code</p></details> |
+| **[ProfVLM: A Lightweight Video-Language Model for Multi-View Proficiency Estimation](https://arxiv.org/abs/2509.26278v3)** | 2026-03-02 |  |
+| **[Pseudo Contrastive Learning for Diagram Comprehension in Multimodal Models](https://arxiv.org/abs/2602.23589v2)** | 2026-03-02 | 9 pages, 3 figures |
+| **[FireRed-OCR Technical Report](https://arxiv.org/abs/2603.01840v1)** | 2026-03-02 |  |
+| **[Prune2Drive: A Plug-and-Play Framework for Accelerating Vision-Language Models in Autonomous Driving](https://arxiv.org/abs/2508.13305v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[SSMG-Nav: Enhancing Lifelong Object Navigation with Semantic Skeleton Memory Graph](https://arxiv.org/abs/2603.01813v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by 2026 ICRA</p></details> |
+| **[Safety Mirage: How Spurious Correlations Undermine VLM Safety Fine-Tuning and Can Be Mitigated by Machine Unlearning](https://arxiv.org/abs/2503.11832v3)** | 2026-03-02 |  |
+| **[Spotlight on Token Perception for Multimodal Reinforcement Learning](https://arxiv.org/abs/2510.09285v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026, project page: https://github.com/huaixuheqing/VPPO-RL</p></details> |
+| **[DAWA: Dynamic Ambiguity-Wise Adaptation for Real-Time Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2409.01072v2)** | 2026-03-02 | PRCV 2025 |
+| **[Cross-modal Identity Mapping: Minimizing Information Loss in Modality Conversion via Reinforcement Learning](https://arxiv.org/abs/2603.01696v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[MVR: Multi-view Video Reward Shaping for Reinforcement Learning](https://arxiv.org/abs/2603.01694v1)** | 2026-03-02 | ICLR 2026 |
 
