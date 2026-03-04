@@ -1,5 +1,5 @@
 ---
-title: Papers - March 04, 2026
+title: Papers - March 05, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -79,19 +79,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens](https://arxiv.org/abs/2603.02138v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project Page: https://openvglab.github.io/OmniLottie/</p></details> |
-| **[Recursive Think-Answer Process for LLMs and VLMs](https://arxiv.org/abs/2603.02099v1)** | 2026-03-02 | <details><summary>CVPR ...</summary><p>CVPR 2026 Findings, Project page: https://litcoderr.github.io/rtap_page/</p></details> |
-| **[Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation](https://arxiv.org/abs/2504.18453v2)** | 2026-03-02 |  |
-| **[Learning to Read Where to Look: Disease-Aware Vision-Language Pretraining for 3D CT](https://arxiv.org/abs/2603.02026v1)** | 2026-03-02 |  |
-| **[Semantic Similarity is a Spurious Measure of Comic Understanding: Lessons Learned from Hallucinations in a Benchmarking Experiment](https://arxiv.org/abs/2603.01950v1)** | 2026-03-02 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 3 tables. Includes link to code</p></details> |
-| **[ProfVLM: A Lightweight Video-Language Model for Multi-View Proficiency Estimation](https://arxiv.org/abs/2509.26278v3)** | 2026-03-02 |  |
-| **[Pseudo Contrastive Learning for Diagram Comprehension in Multimodal Models](https://arxiv.org/abs/2602.23589v2)** | 2026-03-02 | 9 pages, 3 figures |
-| **[FireRed-OCR Technical Report](https://arxiv.org/abs/2603.01840v1)** | 2026-03-02 |  |
-| **[Prune2Drive: A Plug-and-Play Framework for Accelerating Vision-Language Models in Autonomous Driving](https://arxiv.org/abs/2508.13305v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[SSMG-Nav: Enhancing Lifelong Object Navigation with Semantic Skeleton Memory Graph](https://arxiv.org/abs/2603.01813v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by 2026 ICRA</p></details> |
-| **[Safety Mirage: How Spurious Correlations Undermine VLM Safety Fine-Tuning and Can Be Mitigated by Machine Unlearning](https://arxiv.org/abs/2503.11832v3)** | 2026-03-02 |  |
-| **[Spotlight on Token Perception for Multimodal Reinforcement Learning](https://arxiv.org/abs/2510.09285v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026, project page: https://github.com/huaixuheqing/VPPO-RL</p></details> |
-| **[DAWA: Dynamic Ambiguity-Wise Adaptation for Real-Time Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2409.01072v2)** | 2026-03-02 | PRCV 2025 |
-| **[Cross-modal Identity Mapping: Minimizing Information Loss in Modality Conversion via Reinforcement Learning](https://arxiv.org/abs/2603.01696v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[MVR: Multi-view Video Reward Shaping for Reinforcement Learning](https://arxiv.org/abs/2603.01694v1)** | 2026-03-02 | ICLR 2026 |
+| **[Utonia: Toward One Encoder for All Point Clouds](https://arxiv.org/abs/2603.03283v1)** | 2026-03-03 | <details><summary>produ...</summary><p>produced by Pointcept, project page: https://pointcept.github.io/Utonia</p></details> |
+| **[Tether: Autonomous Functional Play with Correspondence-Driven Trajectory Warping](https://arxiv.org/abs/2603.03278v1)** | 2026-03-03 | <details><summary>Inter...</summary><p>International Conference on Learning Representations (ICLR), 2026. Project website and code: https://tether-research.github.io</p></details> |
+| **[UniDrive-WM: Unified Understanding, Planning and Generation World Model For Autonomous Driving](https://arxiv.org/abs/2601.04453v2)** | 2026-03-03 | <details><summary>Proje...</summary><p>Project Page: https://unidrive-wm.github.io/UniDrive-WM</p></details> |
+| **[UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?](https://arxiv.org/abs/2603.03241v1)** | 2026-03-03 |  |
+| **[MMTok: Multimodal Coverage Maximization for Efficient Inference of VLMs](https://arxiv.org/abs/2508.18264v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. Code: https://github.com/Ironieser/mmtok , Project Homepage: https://project.ironieser.cc/mmtok</p></details> |
+| **[Know When to Abstain: Optimal Selective Classification with Likelihood Ratios](https://arxiv.org/abs/2505.15008v3)** | 2026-03-03 |  |
+| **[TagaVLM: Topology-Aware Global Action Reasoning for Vision-Language Navigation](https://arxiv.org/abs/2603.02972v1)** | 2026-03-03 |  |
+| **[Semi-Supervised Few-Shot Adaptation of Vision-Language Models](https://arxiv.org/abs/2603.02959v1)** | 2026-03-03 | <details><summary>Code:...</summary><p>Code: https://github.com/jusiro/SS-Text-U</p></details> |
+| **[Are VLMs Ready for Lane Topology Awareness in Autonomous Driving?](https://arxiv.org/abs/2509.16654v3)** | 2026-03-03 | 5 pages, 5 figures |
+| **[Think-as-You-See: Streaming Chain-of-Thought Reasoning for Large Vision-Language Models](https://arxiv.org/abs/2603.02872v1)** | 2026-03-03 |  |
+| **[Nodes Are Early, Edges Are Late: Probing Diagram Representations in Large Vision-Language Models](https://arxiv.org/abs/2603.02865v1)** | 2026-03-03 |  |
+| **[CoFL: Continuous Flow Fields for Language-Conditioned Navigation](https://arxiv.org/abs/2603.02854v1)** | 2026-03-03 | 20 pages, 11 figures |
+| **[Map the Flow: Revealing Hidden Pathways of Information in VideoLLMs](https://arxiv.org/abs/2510.13251v2)** | 2026-03-03 | <details><summary>ICLR ...</summary><p>ICLR 2026, 32 pages, 39 figures, 8 tables</p></details> |
+| **[Recursive Think-Answer Process for LLMs and VLMs](https://arxiv.org/abs/2603.02099v2)** | 2026-03-03 | <details><summary>CVPR ...</summary><p>CVPR 2026 Findings, Project page: https://litcoderr.github.io/rtap_page/</p></details> |
+| **[iGVLM: Dynamic Instruction-Guided Vision Encoding for Question-Aware Multimodal Understanding](https://arxiv.org/abs/2603.02748v1)** | 2026-03-03 |  |
 
