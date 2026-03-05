@@ -1,5 +1,5 @@
 ---
-title: Papers - March 05, 2026
+title: Papers - March 06, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -41,6 +41,7 @@ labels: documentation
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GeoSeg: Training-Free Reasoning-Driven Segmentation in Remote Sensing Imagery](https://arxiv.org/abs/2603.03983v1)** | 2026-03-04 |  |
 | **[Enabling Training-Free Text-Based Remote Sensing Segmentation](https://arxiv.org/abs/2602.17799v1)** | 2026-02-19 |  |
 | **[Mitigating Long-Tail Bias via Prompt-Controlled Diffusion Augmentation](https://arxiv.org/abs/2602.04749v1)** | 2026-02-04 |  |
 | **[DIS2: Disentanglement Meets Distillation with Classwise Attention for Robust Remote Sensing Segmentation under Missing Modalities](https://arxiv.org/abs/2601.13502v1)** | 2026-01-20 | <details><summary>Accep...</summary><p>Accepted to WACV 2026 - Computer Vision for Earth Observation Workshop</p></details> |
@@ -55,7 +56,6 @@ labels: documentation
 | **[Cross-Modal Urban Sensing: Evaluating Sound-Vision Alignment Across Street-Level and Aerial Imagery](https://arxiv.org/abs/2506.03388v1)** | 2025-06-03 |  |
 | **[AerOSeg: Harnessing SAM for Open-Vocabulary Segmentation in Remote Sensing Images](https://arxiv.org/abs/2504.09203v1)** | 2025-04-12 | <details><summary>Accep...</summary><p>Accepted at EarthVision workshop, CVPR 2025</p></details> |
 | **[Center-guided Classifier for Semantic Segmentation of Remote Sensing Images](https://arxiv.org/abs/2503.16963v1)** | 2025-03-21 |  |
-| **[Joint-Optimized Unsupervised Adversarial Domain Adaptation in Remote Sensing Segmentation with Prompted Foundation Model](https://arxiv.org/abs/2411.05878v2)** | 2024-11-18 | <details><summary>12 pa...</summary><p>12 pages,6 figures, 6 tables</p></details> |
 
 ## Remote Sensing Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -79,19 +79,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Utonia: Toward One Encoder for All Point Clouds](https://arxiv.org/abs/2603.03283v1)** | 2026-03-03 | <details><summary>produ...</summary><p>produced by Pointcept, project page: https://pointcept.github.io/Utonia</p></details> |
-| **[Tether: Autonomous Functional Play with Correspondence-Driven Trajectory Warping](https://arxiv.org/abs/2603.03278v1)** | 2026-03-03 | <details><summary>Inter...</summary><p>International Conference on Learning Representations (ICLR), 2026. Project website and code: https://tether-research.github.io</p></details> |
-| **[UniDrive-WM: Unified Understanding, Planning and Generation World Model For Autonomous Driving](https://arxiv.org/abs/2601.04453v2)** | 2026-03-03 | <details><summary>Proje...</summary><p>Project Page: https://unidrive-wm.github.io/UniDrive-WM</p></details> |
-| **[UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?](https://arxiv.org/abs/2603.03241v1)** | 2026-03-03 |  |
-| **[MMTok: Multimodal Coverage Maximization for Efficient Inference of VLMs](https://arxiv.org/abs/2508.18264v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. Code: https://github.com/Ironieser/mmtok , Project Homepage: https://project.ironieser.cc/mmtok</p></details> |
-| **[Know When to Abstain: Optimal Selective Classification with Likelihood Ratios](https://arxiv.org/abs/2505.15008v3)** | 2026-03-03 |  |
-| **[TagaVLM: Topology-Aware Global Action Reasoning for Vision-Language Navigation](https://arxiv.org/abs/2603.02972v1)** | 2026-03-03 |  |
-| **[Semi-Supervised Few-Shot Adaptation of Vision-Language Models](https://arxiv.org/abs/2603.02959v1)** | 2026-03-03 | <details><summary>Code:...</summary><p>Code: https://github.com/jusiro/SS-Text-U</p></details> |
-| **[Are VLMs Ready for Lane Topology Awareness in Autonomous Driving?](https://arxiv.org/abs/2509.16654v3)** | 2026-03-03 | 5 pages, 5 figures |
-| **[Think-as-You-See: Streaming Chain-of-Thought Reasoning for Large Vision-Language Models](https://arxiv.org/abs/2603.02872v1)** | 2026-03-03 |  |
-| **[Nodes Are Early, Edges Are Late: Probing Diagram Representations in Large Vision-Language Models](https://arxiv.org/abs/2603.02865v1)** | 2026-03-03 |  |
-| **[CoFL: Continuous Flow Fields for Language-Conditioned Navigation](https://arxiv.org/abs/2603.02854v1)** | 2026-03-03 | 20 pages, 11 figures |
-| **[Map the Flow: Revealing Hidden Pathways of Information in VideoLLMs](https://arxiv.org/abs/2510.13251v2)** | 2026-03-03 | <details><summary>ICLR ...</summary><p>ICLR 2026, 32 pages, 39 figures, 8 tables</p></details> |
-| **[Recursive Think-Answer Process for LLMs and VLMs](https://arxiv.org/abs/2603.02099v2)** | 2026-03-03 | <details><summary>CVPR ...</summary><p>CVPR 2026 Findings, Project page: https://litcoderr.github.io/rtap_page/</p></details> |
-| **[iGVLM: Dynamic Instruction-Guided Vision Encoding for Question-Aware Multimodal Understanding](https://arxiv.org/abs/2603.02748v1)** | 2026-03-03 |  |
+| **[TaxonRL: Reinforcement Learning with Intermediate Rewards for Interpretable Fine-Grained Visual Reasoning](https://arxiv.org/abs/2603.04380v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at WACV 2026</p></details> |
+| **[Beyond Dominant Patches: Spatial Credit Redistribution For Grounded Vision-Language Models](https://arxiv.org/abs/2602.22469v2)** | 2026-03-04 |  |
+| **[Cognition Envelopes for Bounded Decision Making in Autonomous UAS Operations](https://arxiv.org/abs/2510.26905v3)** | 2026-03-04 | 12 pages, 9 figures |
+| **[Scalable Evaluation of the Realism of Synthetic Environmental Augmentations in Images](https://arxiv.org/abs/2603.04325v1)** | 2026-03-04 |  |
+| **[Real5-OmniDocBench: A Full-Scale Physical Reconstruction Benchmark for Robust Document Parsing in the Wild](https://arxiv.org/abs/2603.04205v1)** | 2026-03-04 |  |
+| **[Beyond Accuracy: What Matters in Designing Well-Behaved Image Classification Models?](https://arxiv.org/abs/2503.17110v3)** | 2026-03-04 | <details><summary>Publi...</summary><p>Published in TMLR (01/2026) | OpenReview: https://openreview.net/forum?id=E7HDtLCoT6 | Project page: https://visinf.github.io/beyond-accuracy/</p></details> |
+| **[SoraNav: Adaptive UAV Task-Centric Navigation via Zeroshot VLM Reasoning](https://arxiv.org/abs/2510.25191v3)** | 2026-03-04 |  |
+| **[Human-Object Interaction via Automatically Designed VLM-Guided Motion Policy](https://arxiv.org/abs/2503.18349v3)** | 2026-03-04 | iclr camera ready |
+| **[Building a Mind Palace: Structuring Environment-Grounded Semantic Graphs for Effective Long Video Analysis with LLMs](https://arxiv.org/abs/2501.04336v2)** | 2026-03-04 |  |
+| **[When Visual Evidence is Ambiguous: Pareidolia as a Diagnostic Probe for Vision Models](https://arxiv.org/abs/2603.03989v1)** | 2026-03-04 |  |
+| **[Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation](https://arxiv.org/abs/2511.22235v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[Evolution 6.0: Robot Evolution through Generative Design](https://arxiv.org/abs/2502.17034v5)** | 2026-03-04 | Accepted to HRI |
+| **[Lightweight Visual Reasoning for Socially-Aware Robots](https://arxiv.org/abs/2603.03942v1)** | 2026-03-04 | ICRA26 |
+| **[Merlin: A Computed Tomography Vision-Language Foundation Model and Dataset](https://arxiv.org/abs/2406.06512v2)** | 2026-03-04 | Nature (2026) |
+| **[DeepScan: A Training-Free Framework for Visually Grounded Reasoning in Large Vision-Language Models](https://arxiv.org/abs/2603.03857v1)** | 2026-03-04 | 18 pages 17 figures |
 
