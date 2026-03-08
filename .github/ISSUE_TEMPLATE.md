@@ -1,5 +1,5 @@
 ---
-title: Papers - March 06, 2026
+title: Papers - March 09, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -79,19 +79,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TaxonRL: Reinforcement Learning with Intermediate Rewards for Interpretable Fine-Grained Visual Reasoning](https://arxiv.org/abs/2603.04380v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at WACV 2026</p></details> |
-| **[Beyond Dominant Patches: Spatial Credit Redistribution For Grounded Vision-Language Models](https://arxiv.org/abs/2602.22469v2)** | 2026-03-04 |  |
-| **[Cognition Envelopes for Bounded Decision Making in Autonomous UAS Operations](https://arxiv.org/abs/2510.26905v3)** | 2026-03-04 | 12 pages, 9 figures |
-| **[Scalable Evaluation of the Realism of Synthetic Environmental Augmentations in Images](https://arxiv.org/abs/2603.04325v1)** | 2026-03-04 |  |
-| **[Real5-OmniDocBench: A Full-Scale Physical Reconstruction Benchmark for Robust Document Parsing in the Wild](https://arxiv.org/abs/2603.04205v1)** | 2026-03-04 |  |
-| **[Beyond Accuracy: What Matters in Designing Well-Behaved Image Classification Models?](https://arxiv.org/abs/2503.17110v3)** | 2026-03-04 | <details><summary>Publi...</summary><p>Published in TMLR (01/2026) | OpenReview: https://openreview.net/forum?id=E7HDtLCoT6 | Project page: https://visinf.github.io/beyond-accuracy/</p></details> |
-| **[SoraNav: Adaptive UAV Task-Centric Navigation via Zeroshot VLM Reasoning](https://arxiv.org/abs/2510.25191v3)** | 2026-03-04 |  |
-| **[Human-Object Interaction via Automatically Designed VLM-Guided Motion Policy](https://arxiv.org/abs/2503.18349v3)** | 2026-03-04 | iclr camera ready |
-| **[Building a Mind Palace: Structuring Environment-Grounded Semantic Graphs for Effective Long Video Analysis with LLMs](https://arxiv.org/abs/2501.04336v2)** | 2026-03-04 |  |
-| **[When Visual Evidence is Ambiguous: Pareidolia as a Diagnostic Probe for Vision Models](https://arxiv.org/abs/2603.03989v1)** | 2026-03-04 |  |
-| **[Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation](https://arxiv.org/abs/2511.22235v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[Evolution 6.0: Robot Evolution through Generative Design](https://arxiv.org/abs/2502.17034v5)** | 2026-03-04 | Accepted to HRI |
-| **[Lightweight Visual Reasoning for Socially-Aware Robots](https://arxiv.org/abs/2603.03942v1)** | 2026-03-04 | ICRA26 |
-| **[Merlin: A Computed Tomography Vision-Language Foundation Model and Dataset](https://arxiv.org/abs/2406.06512v2)** | 2026-03-04 | Nature (2026) |
-| **[DeepScan: A Training-Free Framework for Visually Grounded Reasoning in Large Vision-Language Models](https://arxiv.org/abs/2603.03857v1)** | 2026-03-04 | 18 pages 17 figures |
+| **[HALP: Detecting Hallucinations in Vision-Language Models without Generating a Single Token](https://arxiv.org/abs/2603.05465v1)** | 2026-03-05 |  |
+| **[ORMOT: A Dataset and Framework for Omnidirectional Referring Multi-Object Tracking](https://arxiv.org/abs/2603.05384v1)** | 2026-03-05 | <details><summary>https...</summary><p>https://github.com/chen-si-jia/ORMOT</p></details> |
+| **[Pursuing Minimal Sufficiency in Spatial Reasoning](https://arxiv.org/abs/2510.16688v2)** | 2026-03-05 |  |
+| **[SpineBench: A Clinically Salient, Level-Aware Benchmark Powered by the SpineMed-450k Corpus](https://arxiv.org/abs/2510.03160v3)** | 2026-03-05 |  |
+| **[Vision Language Model-based Testing of Industrial Autonomous Mobile Robots](https://arxiv.org/abs/2508.02338v2)** | 2026-03-05 |  |
+| **[RadarVLM: A Vision-Language Model Approach for Radar Scene Understanding](https://arxiv.org/abs/2511.21105v3)** | 2026-03-05 |  |
+| **[Critic in the Loop: A Tri-System VLA Framework for Robust Long-Horizon Manipulation](https://arxiv.org/abs/2603.05185v1)** | 2026-03-05 |  |
+| **[Logi-PAR: Logic-Infused Patient Activity Recognition via Differentiable Rule](https://arxiv.org/abs/2603.05184v1)** | 2026-03-05 |  |
+| **[Mario: Multimodal Graph Reasoning with Large Language Models](https://arxiv.org/abs/2603.05181v1)** | 2026-03-05 | CVPR 2026 |
+| **[Replacing Parameters with Preferences: Federated Alignment of Heterogeneous Vision-Language Models](https://arxiv.org/abs/2602.00485v2)** | 2026-03-05 | <details><summary>Due t...</summary><p>Due to the need for substantial revisions, the authors believe that the paper should be retracted first.A revised version may be resubmitted</p></details> |
+| **[Flatness Guided Test-Time Adaptation for Vision-Language Models](https://arxiv.org/abs/2501.18864v2)** | 2026-03-05 |  |
+| **[Direct Contact-Tolerant Motion Planning With Vision Language Models](https://arxiv.org/abs/2603.05017v1)** | 2026-03-05 |  |
+| **[Safety Mirage: How Spurious Correlations Undermine VLM Safety Fine-Tuning and Can Be Mitigated by Machine Unlearning](https://arxiv.org/abs/2503.11832v4)** | 2026-03-05 |  |
+| **[AdaIAT: Adaptively Increasing Attention to Generated Text to Alleviate Hallucinations in LVLM](https://arxiv.org/abs/2603.04908v1)** | 2026-03-05 |  |
+| **[Authorize-on-Demand: Dynamic Authorization with Legality-Aware Intellectual Property Protection for VLMs](https://arxiv.org/abs/2603.04896v1)** | 2026-03-05 |  |
 
