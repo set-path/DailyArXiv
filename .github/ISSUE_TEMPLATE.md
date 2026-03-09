@@ -1,10 +1,11 @@
 ---
-title: Papers - March 09, 2026
+title: Papers - March 10, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[JOPP-3D: Joint Open Vocabulary Semantic Segmentation on Point Clouds and Panoramas](https://arxiv.org/abs/2603.06168v1)** | 2026-03-06 |  |
 | **[Open-Vocabulary Semantic Segmentation in Remote Sensing via Hierarchical Attention Masking and Model Composition](https://arxiv.org/abs/2602.23869v1)** | 2026-02-27 | <details><summary>Publi...</summary><p>Published in the proceedings of the British Machine Vision Conference Workshops 2025</p></details> |
 | **[Open-Vocabulary Domain Generalization in Urban-Scene Segmentation](https://arxiv.org/abs/2602.18853v1)** | 2026-02-21 |  |
 | **[Enabling Training-Free Text-Based Remote Sensing Segmentation](https://arxiv.org/abs/2602.17799v1)** | 2026-02-19 |  |
@@ -19,7 +20,6 @@ labels: documentation
 | **[SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images](https://arxiv.org/abs/2512.08730v1)** | 2025-12-09 |  |
 | **[Structure-Aware Feature Rectification with Region Adjacency Graphs for Training-Free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2512.07360v1)** | 2025-12-08 | Accepted to WACV2026 |
 | **[Open Vocabulary Compositional Explanations for Neuron Alignment](https://arxiv.org/abs/2511.20931v1)** | 2025-11-25 | 47 pages, 11 figures |
-| **[SAM-MI: A Mask-Injected Framework for Enhancing Open-Vocabulary Semantic Segmentation with SAM](https://arxiv.org/abs/2511.20027v1)** | 2025-11-25 |  |
 
 ## SAM3 - Preview 13 papers
 | **Title** | **Date** | **Comment** |
@@ -79,19 +79,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HALP: Detecting Hallucinations in Vision-Language Models without Generating a Single Token](https://arxiv.org/abs/2603.05465v1)** | 2026-03-05 |  |
-| **[ORMOT: A Dataset and Framework for Omnidirectional Referring Multi-Object Tracking](https://arxiv.org/abs/2603.05384v1)** | 2026-03-05 | <details><summary>https...</summary><p>https://github.com/chen-si-jia/ORMOT</p></details> |
-| **[Pursuing Minimal Sufficiency in Spatial Reasoning](https://arxiv.org/abs/2510.16688v2)** | 2026-03-05 |  |
-| **[SpineBench: A Clinically Salient, Level-Aware Benchmark Powered by the SpineMed-450k Corpus](https://arxiv.org/abs/2510.03160v3)** | 2026-03-05 |  |
-| **[Vision Language Model-based Testing of Industrial Autonomous Mobile Robots](https://arxiv.org/abs/2508.02338v2)** | 2026-03-05 |  |
-| **[RadarVLM: A Vision-Language Model Approach for Radar Scene Understanding](https://arxiv.org/abs/2511.21105v3)** | 2026-03-05 |  |
-| **[Critic in the Loop: A Tri-System VLA Framework for Robust Long-Horizon Manipulation](https://arxiv.org/abs/2603.05185v1)** | 2026-03-05 |  |
-| **[Logi-PAR: Logic-Infused Patient Activity Recognition via Differentiable Rule](https://arxiv.org/abs/2603.05184v1)** | 2026-03-05 |  |
-| **[Mario: Multimodal Graph Reasoning with Large Language Models](https://arxiv.org/abs/2603.05181v1)** | 2026-03-05 | CVPR 2026 |
-| **[Replacing Parameters with Preferences: Federated Alignment of Heterogeneous Vision-Language Models](https://arxiv.org/abs/2602.00485v2)** | 2026-03-05 | <details><summary>Due t...</summary><p>Due to the need for substantial revisions, the authors believe that the paper should be retracted first.A revised version may be resubmitted</p></details> |
-| **[Flatness Guided Test-Time Adaptation for Vision-Language Models](https://arxiv.org/abs/2501.18864v2)** | 2026-03-05 |  |
-| **[Direct Contact-Tolerant Motion Planning With Vision Language Models](https://arxiv.org/abs/2603.05017v1)** | 2026-03-05 |  |
-| **[Safety Mirage: How Spurious Correlations Undermine VLM Safety Fine-Tuning and Can Be Mitigated by Machine Unlearning](https://arxiv.org/abs/2503.11832v4)** | 2026-03-05 |  |
-| **[AdaIAT: Adaptively Increasing Attention to Generated Text to Alleviate Hallucinations in LVLM](https://arxiv.org/abs/2603.04908v1)** | 2026-03-05 |  |
-| **[Authorize-on-Demand: Dynamic Authorization with Legality-Aware Intellectual Property Protection for VLMs](https://arxiv.org/abs/2603.04896v1)** | 2026-03-05 |  |
+| **[Multimodal Large Language Models as Image Classifiers](https://arxiv.org/abs/2603.06578v1)** | 2026-03-06 |  |
+| **[SUREON: A Benchmark and Vision-Language-Model for Surgical Reasoning](https://arxiv.org/abs/2603.06570v1)** | 2026-03-06 |  |
+| **[Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders](https://arxiv.org/abs/2603.06569v1)** | 2026-03-06 | <details><summary>Pengu...</summary><p>Penguin-VL Technical Report; Code: https://github.com/tencent-ailab/Penguin-VL</p></details> |
+| **[CASA: Cross-Attention over Self-Attention for Efficient Vision-Language Fusion](https://arxiv.org/abs/2512.19535v2)** | 2026-03-06 | <details><summary>updat...</summary><p>updated with improved CA results</p></details> |
+| **[Do Foundation Models Know Geometry? Probing Frozen Features for Continuous Physical Measurement](https://arxiv.org/abs/2603.06459v1)** | 2026-03-06 |  |
+| **[OralGPT-Plus: Learning to Use Visual Tools via Reinforcement Learning for Panoramic X-ray Analysis](https://arxiv.org/abs/2603.06366v1)** | 2026-03-06 | <details><summary>34 pa...</summary><p>34 pages, 24 figures, conference</p></details> |
+| **[K-MaT: Knowledge-Anchored Manifold Transport for Cross-Modal Prompt Learning in Medical Imaging](https://arxiv.org/abs/2603.06340v1)** | 2026-03-06 |  |
+| **[WMoE-CLIP: Wavelet-Enhanced Mixture-of-Experts Prompt Learning for Zero-Shot Anomaly Detection](https://arxiv.org/abs/2603.06313v1)** | 2026-03-06 |  |
+| **[DEX-AR: A Dynamic Explainability Method for Autoregressive Vision-Language Models](https://arxiv.org/abs/2603.06302v1)** | 2026-03-06 | <details><summary>Proje...</summary><p>Project page: https://walidbousselham.com/DEX-AR</p></details> |
+| **[HiPP-Prune: Hierarchical Preference-Conditioned Structured Pruning for Vision-Language Models](https://arxiv.org/abs/2603.06270v1)** | 2026-03-06 |  |
+| **[GazeMoE: Perception of Gaze Target with Mixture-of-Experts](https://arxiv.org/abs/2603.06256v1)** | 2026-03-06 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, ICRA 2026</p></details> |
+| **[A Semi-Supervised Framework for Breast Ultrasound Segmentation with Training-Free Pseudo-Label Generation and Label Refinement](https://arxiv.org/abs/2603.06167v1)** | 2026-03-06 |  |
+| **[VLM-RobustBench: A Comprehensive Benchmark for Robustness of Vision-Language Models](https://arxiv.org/abs/2603.06148v1)** | 2026-03-06 |  |
+| **[Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views](https://arxiv.org/abs/2510.18632v2)** | 2026-03-06 | 25 pages, 17 figures |
+| **[Spatial Colour Mixing Illusions as a Perception Stress Test for Vision-Language Models](https://arxiv.org/abs/2603.06141v1)** | 2026-03-06 |  |
 
