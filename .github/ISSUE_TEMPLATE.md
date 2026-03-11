@@ -1,13 +1,13 @@
 ---
-title: Papers - March 10, 2026
+title: Papers - March 12, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Open-Vocabulary Domain Generalization in Urban-Scene Segmentation](https://arxiv.org/abs/2602.18853v2)** | 2026-03-09 |  |
 | **[JOPP-3D: Joint Open Vocabulary Semantic Segmentation on Point Clouds and Panoramas](https://arxiv.org/abs/2603.06168v1)** | 2026-03-06 |  |
 | **[Open-Vocabulary Semantic Segmentation in Remote Sensing via Hierarchical Attention Masking and Model Composition](https://arxiv.org/abs/2602.23869v1)** | 2026-02-27 | <details><summary>Publi...</summary><p>Published in the proceedings of the British Machine Vision Conference Workshops 2025</p></details> |
-| **[Open-Vocabulary Domain Generalization in Urban-Scene Segmentation](https://arxiv.org/abs/2602.18853v1)** | 2026-02-21 |  |
 | **[Enabling Training-Free Text-Based Remote Sensing Segmentation](https://arxiv.org/abs/2602.17799v1)** | 2026-02-19 |  |
 | **[LMSeg: Unleashing the Power of Large-Scale Models for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2412.00364v2)** | 2026-02-18 |  |
 | **[LoGoSeg: Integrating Local and Global Features for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2602.05578v2)** | 2026-02-12 |  |
@@ -24,13 +24,13 @@ labels: documentation
 ## SAM3 - Preview 13 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ReMeDI: Refined Memory for Disambiguation of Identities with SAM3 in Surgical Segmentation](https://arxiv.org/abs/2512.16880v2)** | 2026-03-08 | Under Review |
 | **[CAD-Prompted SAM3: Geometry-Conditioned Instance Segmentation for Industrial Objects](https://arxiv.org/abs/2602.20551v1)** | 2026-02-24 |  |
 | **[Progressive Per-Branch Depth Optimization for DEFOM-Stereo and SAM3 Joint Analysis in UAV Forestry Applications](https://arxiv.org/abs/2602.20539v1)** | 2026-02-24 |  |
 | **[SAM3-LiteText: An Anatomical Study of the SAM3 Text Encoder for Efficient Vision-Language Segmentation](https://arxiv.org/abs/2602.12173v1)** | 2026-02-12 |  |
 | **[Taming SAM3 in the Wild: A Concept Bank for Open-Vocabulary Segmentation](https://arxiv.org/abs/2602.06333v1)** | 2026-02-06 |  |
 | **[Medical SAM3: A Foundation Model for Universal Prompt-Driven Medical Image Segmentation](https://arxiv.org/abs/2601.10880v1)** | 2026-01-15 |  |
 | **[SAM3-DMS: Decoupled Memory Selection for Multi-target Video Segmentation of SAM3](https://arxiv.org/abs/2601.09699v1)** | 2026-01-14 | <details><summary>Code:...</summary><p>Code: https://github.com/FudanCVL/SAM3-DMS</p></details> |
-| **[Memory-Enhanced SAM3 for Occlusion-Robust Surgical Instrument Segmentation](https://arxiv.org/abs/2512.16880v1)** | 2025-12-18 | Under Review |
 | **[On the Effectiveness of Textual Prompting with Lightweight Fine-Tuning for SAM3 Remote Sensing Segmentation](https://arxiv.org/abs/2512.15564v1)** | 2025-12-17 |  |
 | **[SAM3-I: Segment Anything with Instructions](https://arxiv.org/abs/2512.04585v2)** | 2025-12-16 | <details><summary>Preli...</summary><p>Preliminary results; work in progress</p></details> |
 | **[Generalization vs. Specialization: Evaluating Segment Anything Model (SAM3) Zero-Shot Segmentation Against Fine-Tuned YOLO Detectors](https://arxiv.org/abs/2512.11884v1)** | 2025-12-09 |  |
@@ -60,6 +60,7 @@ labels: documentation
 ## Remote Sensing Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OmniEarth: A Benchmark for Evaluating Vision-Language Models in Geospatial Tasks](https://arxiv.org/abs/2603.09471v1)** | 2026-03-10 |  |
 | **[GeoReason: Aligning Thinking And Answering In Remote Sensing Vision-Language Models Via Logical Consistency Reinforcement Learning](https://arxiv.org/abs/2601.04118v2)** | 2026-01-08 |  |
 | **[AirSpatialBot: A Spatially-Aware Aerial Agent for Fine-Grained Vehicle Attribute Recognization and Retrieval](https://arxiv.org/abs/2601.01416v1)** | 2026-01-04 | 12 pages, 9 figures |
 | **[FUSE-RSVLM: Feature Fusion Vision-Language Model for Remote Sensing](https://arxiv.org/abs/2512.24022v1)** | 2025-12-30 |  |
@@ -74,24 +75,23 @@ labels: documentation
 | **[Enhancing Remote Sensing Vision-Language Models for Zero-Shot Scene Classification](https://arxiv.org/abs/2409.00698v2)** | 2025-01-07 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2025</p></details> |
 | **[RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts](https://arxiv.org/abs/2412.05679v2)** | 2024-12-10 |  |
 | **[Aquila: A Hierarchically Aligned Visual-Language Model for Enhanced Remote Sensing Image Comprehension](https://arxiv.org/abs/2411.06074v1)** | 2024-11-09 |  |
-| **[RSGPT: A Remote Sensing Vision Language Model and Benchmark](https://arxiv.org/abs/2307.15266v1)** | 2023-07-28 |  |
 
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multimodal Large Language Models as Image Classifiers](https://arxiv.org/abs/2603.06578v1)** | 2026-03-06 |  |
-| **[SUREON: A Benchmark and Vision-Language-Model for Surgical Reasoning](https://arxiv.org/abs/2603.06570v1)** | 2026-03-06 |  |
-| **[Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders](https://arxiv.org/abs/2603.06569v1)** | 2026-03-06 | <details><summary>Pengu...</summary><p>Penguin-VL Technical Report; Code: https://github.com/tencent-ailab/Penguin-VL</p></details> |
-| **[CASA: Cross-Attention over Self-Attention for Efficient Vision-Language Fusion](https://arxiv.org/abs/2512.19535v2)** | 2026-03-06 | <details><summary>updat...</summary><p>updated with improved CA results</p></details> |
-| **[Do Foundation Models Know Geometry? Probing Frozen Features for Continuous Physical Measurement](https://arxiv.org/abs/2603.06459v1)** | 2026-03-06 |  |
-| **[OralGPT-Plus: Learning to Use Visual Tools via Reinforcement Learning for Panoramic X-ray Analysis](https://arxiv.org/abs/2603.06366v1)** | 2026-03-06 | <details><summary>34 pa...</summary><p>34 pages, 24 figures, conference</p></details> |
-| **[K-MaT: Knowledge-Anchored Manifold Transport for Cross-Modal Prompt Learning in Medical Imaging](https://arxiv.org/abs/2603.06340v1)** | 2026-03-06 |  |
-| **[WMoE-CLIP: Wavelet-Enhanced Mixture-of-Experts Prompt Learning for Zero-Shot Anomaly Detection](https://arxiv.org/abs/2603.06313v1)** | 2026-03-06 |  |
-| **[DEX-AR: A Dynamic Explainability Method for Autoregressive Vision-Language Models](https://arxiv.org/abs/2603.06302v1)** | 2026-03-06 | <details><summary>Proje...</summary><p>Project page: https://walidbousselham.com/DEX-AR</p></details> |
-| **[HiPP-Prune: Hierarchical Preference-Conditioned Structured Pruning for Vision-Language Models](https://arxiv.org/abs/2603.06270v1)** | 2026-03-06 |  |
-| **[GazeMoE: Perception of Gaze Target with Mixture-of-Experts](https://arxiv.org/abs/2603.06256v1)** | 2026-03-06 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, ICRA 2026</p></details> |
-| **[A Semi-Supervised Framework for Breast Ultrasound Segmentation with Training-Free Pseudo-Label Generation and Label Refinement](https://arxiv.org/abs/2603.06167v1)** | 2026-03-06 |  |
-| **[VLM-RobustBench: A Comprehensive Benchmark for Robustness of Vision-Language Models](https://arxiv.org/abs/2603.06148v1)** | 2026-03-06 |  |
-| **[Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views](https://arxiv.org/abs/2510.18632v2)** | 2026-03-06 | 25 pages, 17 figures |
-| **[Spatial Colour Mixing Illusions as a Perception Stress Test for Vision-Language Models](https://arxiv.org/abs/2603.06141v1)** | 2026-03-06 |  |
+| **[BEACON: Language-Conditioned Navigation Affordance Prediction under Occlusion](https://arxiv.org/abs/2603.09961v1)** | 2026-03-10 | <details><summary>8 pag...</summary><p>8 pages. Project page: https://xin-yu-gao.github.io/beacon</p></details> |
+| **[MedMASLab: A Unified Orchestration Framework for Benchmarking Multimodal Medical Multi-Agent Systems](https://arxiv.org/abs/2603.09909v1)** | 2026-03-10 |  |
+| **[Stepping VLMs onto the Court: Benchmarking Spatial Intelligence in Sports](https://arxiv.org/abs/2603.09896v1)** | 2026-03-10 |  |
+| **[Fairness-Aware Fine-Tuning of Vision-Language Models for Medical Glaucoma Diagnosis](https://arxiv.org/abs/2512.03477v3)** | 2026-03-10 | <details><summary>AMIA ...</summary><p>AMIA 2026 Amplify Informatics Conference (Poster), Denver, CO, May 18-21, 2026. 10 pages, 3 tables</p></details> |
+| **[VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models](https://arxiv.org/abs/2603.09826v1)** | 2026-03-10 | CVPR 2026 |
+| **[Ego: Embedding-Guided Personalization of Vision-Language Models](https://arxiv.org/abs/2603.09771v1)** | 2026-03-10 |  |
+| **[LAP: A Language-Aware Planning Model For Procedure Planning In Instructional Videos](https://arxiv.org/abs/2603.09743v1)** | 2026-03-10 |  |
+| **[X-GS: An Extensible Open Framework Unifying 3DGS Architectures with Downstream Multimodal Models](https://arxiv.org/abs/2603.09632v1)** | 2026-03-10 |  |
+| **[More than the Sum: Panorama-Language Models for Adverse Omni-Scenes](https://arxiv.org/abs/2603.09573v1)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project page: https://github.com/InSAI-Lab/PanoVQA</p></details> |
+| **[GeoSolver: Scaling Test-Time Reasoning in Remote Sensing with Fine-Grained Process Supervision](https://arxiv.org/abs/2603.09551v1)** | 2026-03-10 |  |
+| **[Towards Unified Multimodal Interleaved Generation via Group Relative Policy Optimization](https://arxiv.org/abs/2603.09538v1)** | 2026-03-10 |  |
+| **[VLN-Cache: Enabling Token Caching for VLN Models with Visual/Semantic Dynamics Awareness](https://arxiv.org/abs/2603.07080v2)** | 2026-03-10 |  |
+| **[Probing the Reliability of Driving VLMs: From Inconsistent Responses to Grounded Temporal Reasoning](https://arxiv.org/abs/2603.09512v1)** | 2026-03-10 |  |
+| **[SlowBA: An efficiency backdoor attack towards VLM-based GUI agents](https://arxiv.org/abs/2603.08316v2)** | 2026-03-10 | 25 pages |
+| **[Evolving Prompt Adaptation for Vision-Language Models](https://arxiv.org/abs/2603.09493v1)** | 2026-03-10 |  |
 
