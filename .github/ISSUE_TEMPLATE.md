@@ -1,5 +1,5 @@
 ---
-title: Papers - March 12, 2026
+title: Papers - March 13, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -79,19 +79,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BEACON: Language-Conditioned Navigation Affordance Prediction under Occlusion](https://arxiv.org/abs/2603.09961v1)** | 2026-03-10 | <details><summary>8 pag...</summary><p>8 pages. Project page: https://xin-yu-gao.github.io/beacon</p></details> |
-| **[MedMASLab: A Unified Orchestration Framework for Benchmarking Multimodal Medical Multi-Agent Systems](https://arxiv.org/abs/2603.09909v1)** | 2026-03-10 |  |
-| **[Stepping VLMs onto the Court: Benchmarking Spatial Intelligence in Sports](https://arxiv.org/abs/2603.09896v1)** | 2026-03-10 |  |
-| **[Fairness-Aware Fine-Tuning of Vision-Language Models for Medical Glaucoma Diagnosis](https://arxiv.org/abs/2512.03477v3)** | 2026-03-10 | <details><summary>AMIA ...</summary><p>AMIA 2026 Amplify Informatics Conference (Poster), Denver, CO, May 18-21, 2026. 10 pages, 3 tables</p></details> |
-| **[VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models](https://arxiv.org/abs/2603.09826v1)** | 2026-03-10 | CVPR 2026 |
-| **[Ego: Embedding-Guided Personalization of Vision-Language Models](https://arxiv.org/abs/2603.09771v1)** | 2026-03-10 |  |
-| **[LAP: A Language-Aware Planning Model For Procedure Planning In Instructional Videos](https://arxiv.org/abs/2603.09743v1)** | 2026-03-10 |  |
-| **[X-GS: An Extensible Open Framework Unifying 3DGS Architectures with Downstream Multimodal Models](https://arxiv.org/abs/2603.09632v1)** | 2026-03-10 |  |
-| **[More than the Sum: Panorama-Language Models for Adverse Omni-Scenes](https://arxiv.org/abs/2603.09573v1)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project page: https://github.com/InSAI-Lab/PanoVQA</p></details> |
-| **[GeoSolver: Scaling Test-Time Reasoning in Remote Sensing with Fine-Grained Process Supervision](https://arxiv.org/abs/2603.09551v1)** | 2026-03-10 |  |
-| **[Towards Unified Multimodal Interleaved Generation via Group Relative Policy Optimization](https://arxiv.org/abs/2603.09538v1)** | 2026-03-10 |  |
-| **[VLN-Cache: Enabling Token Caching for VLN Models with Visual/Semantic Dynamics Awareness](https://arxiv.org/abs/2603.07080v2)** | 2026-03-10 |  |
-| **[Probing the Reliability of Driving VLMs: From Inconsistent Responses to Grounded Temporal Reasoning](https://arxiv.org/abs/2603.09512v1)** | 2026-03-10 |  |
-| **[SlowBA: An efficiency backdoor attack towards VLM-based GUI agents](https://arxiv.org/abs/2603.08316v2)** | 2026-03-10 | 25 pages |
-| **[Evolving Prompt Adaptation for Vision-Language Models](https://arxiv.org/abs/2603.09493v1)** | 2026-03-10 |  |
+| **[Does AI See like Art Historians? Interpreting How Vision Language Models Recognize Artistic Style](https://arxiv.org/abs/2603.11024v1)** | 2026-03-11 | 12 pages, 12 figures |
+| **[Prune Redundancy, Preserve Essence: Vision Token Compression in VLMs via Synergistic Importance-Diversity](https://arxiv.org/abs/2603.09480v2)** | 2026-03-11 | accepted by ICLR2026 |
+| **[GroundCount: Grounding Vision-Language Models with Object Detection for Mitigating Counting Hallucinations](https://arxiv.org/abs/2603.10978v1)** | 2026-03-11 |  |
+| **[Generating a Paracosm for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2602.00813v3)** | 2026-03-11 |  |
+| **[Ego: Embedding-Guided Personalization of Vision-Language Models](https://arxiv.org/abs/2603.09771v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted at the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026</p></details> |
+| **[From Images to Words: Efficient Cross-Modal Knowledge Distillation to Language Models from Black-box Teachers](https://arxiv.org/abs/2603.10877v1)** | 2026-03-11 |  |
+| **[UrbanAlign: Post-hoc Semantic Calibration for VLM-Human Preference Alignment](https://arxiv.org/abs/2602.19442v4)** | 2026-03-11 | 26 pages |
+| **[HanMoVLM: Large Vision-Language Models for Professional Artistic Painting Evaluation](https://arxiv.org/abs/2603.10814v1)** | 2026-03-11 | 14 pages |
+| **[Taking Shortcuts for Categorical VQA Using Super Neurons](https://arxiv.org/abs/2603.10781v1)** | 2026-03-11 | <details><summary>25 pa...</summary><p>25 pages, 15 tables, 8 figures</p></details> |
+| **[MonitorVLM:A Vision Language Framework for Safety Violation Detection in Mining Operations](https://arxiv.org/abs/2510.03666v2)** | 2026-03-11 |  |
+| **[WalkGPT: Grounded Vision-Language Conversation with Depth-Aware Segmentation for Pedestrian Navigation](https://arxiv.org/abs/2603.10703v1)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted by CVPR-2026</p></details> |
+| **[OnFly: Onboard Zero-Shot Aerial Vision-Language Navigation toward Safety and Efficiency](https://arxiv.org/abs/2603.10682v1)** | 2026-03-11 |  |
+| **[Are Video Reasoning Models Ready to Go Outside?](https://arxiv.org/abs/2603.10652v1)** | 2026-03-11 | <details><summary>Proje...</summary><p>Project Page: https://robust-video-reason.github.io/</p></details> |
+| **[AdaClearGrasp: Learning Adaptive Clearing for Zero-Shot Robust Dexterous Grasping in Densely Cluttered Environments](https://arxiv.org/abs/2603.10616v1)** | 2026-03-11 | <details><summary>12 pa...</summary><p>12 pages. Under review</p></details> |
+| **[R4-CGQA: Retrieval-based Vision Language Models for Computer Graphics Image Quality Assessment](https://arxiv.org/abs/2603.10578v1)** | 2026-03-11 |  |
 
