@@ -1,5 +1,5 @@
 ---
-title: Papers - March 16, 2026
+title: Papers - March 17, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -79,19 +79,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SceneAssistant: A Visual Feedback Agent for Open-Vocabulary 3D Scene Generation](https://arxiv.org/abs/2603.12238v1)** | 2026-03-12 | <details><summary>Code:...</summary><p>Code: https://github.com/ROUJINN/SceneAssistant</p></details> |
-| **[ForensicZip: More Tokens are Better but Not Necessary in Forensic Vision-Language Models](https://arxiv.org/abs/2603.12208v1)** | 2026-03-12 |  |
-| **[BehaviorVLM: Unified Finetuning-Free Behavioral Understanding with Vision-Language Reasoning](https://arxiv.org/abs/2603.12176v1)** | 2026-03-12 |  |
-| **[HATS: Hardness-Aware Trajectory Synthesis for GUI Agents](https://arxiv.org/abs/2603.12138v1)** | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[EmbTracker: Traceable Black-box Watermarking for Federated Language Models](https://arxiv.org/abs/2603.12089v1)** | 2026-03-12 | Work in progress |
-| **[Paper Title: LoV3D: Grounding Cognitive Prognosis Reasoning in Longitudinal 3D Brain MRI via Regional Volume Assessments](https://arxiv.org/abs/2603.12071v1)** | 2026-03-12 |  |
-| **[Continual Learning with Vision-Language Models via Semantic-Geometry Preservation](https://arxiv.org/abs/2603.12055v1)** | 2026-03-12 | <details><summary>14 pa...</summary><p>14 pages, 11 figures, under review</p></details> |
-| **[HomeSafe-Bench: Evaluating Vision-Language Models on Unsafe Action Detection for Embodied Agents in Household Scenarios](https://arxiv.org/abs/2603.11975v1)** | 2026-03-12 |  |
-| **[SOTA: Self-adaptive Optimal Transport for Zero-Shot Classification with Multiple Foundation Models](https://arxiv.org/abs/2506.13723v3)** | 2026-03-12 |  |
-| **[MedEyes: Learning Dynamic Visual Focus for Medical Progressive Diagnosis](https://arxiv.org/abs/2511.22018v2)** | 2026-03-12 | <details><summary>AAAI ...</summary><p>AAAI 2026, Medical Chain-of-Thought (CoT), Reinforcement Learning with Verifiable Rewards (RLVR), Multimodal Grounded Reasoning</p></details> |
-| **[RADAR: Closed-Loop Robotic Data Generation via Semantic Planning and Autonomous Causal Environment Reset](https://arxiv.org/abs/2603.11811v1)** | 2026-03-12 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
-| **[OSM-based Domain Adaptation for Remote Sensing VLMs](https://arxiv.org/abs/2603.11804v1)** | 2026-03-12 |  |
-| **[Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views](https://arxiv.org/abs/2510.18632v3)** | 2026-03-12 | 25 pages, 17 figures |
-| **[MIMIC: Multimodal Inversion for Model Interpretation and Conceptualization](https://arxiv.org/abs/2508.07833v2)** | 2026-03-12 | <details><summary>Proje...</summary><p>Project page: https://anaekin.github.io/MIMIC</p></details> |
-| **[Generating a Paracosm for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2602.00813v4)** | 2026-03-12 |  |
+| **[Visual-ERM: Reward Modeling for Visual Equivalence](https://arxiv.org/abs/2603.13224v1)** | 2026-03-13 | <details><summary>Proje...</summary><p>Project: https://github.com/InternLM/Visual-ERM</p></details> |
+| **[Navig-AI-tion: Navigation by Contextual AI and Spatial Audio](https://arxiv.org/abs/2603.13200v1)** | 2026-03-13 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, to be published in Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA '26), 6 pages appendix</p></details> |
+| **[Towards Spatio-Temporal World Scene Graph Generation from Monocular Videos](https://arxiv.org/abs/2603.13185v1)** | 2026-03-13 | <details><summary>https...</summary><p>https://github.com/rohithpeddi/WorldSGG</p></details> |
+| **[RobotArena $\infty$: Scalable Robot Benchmarking via Real-to-Sim Translation](https://arxiv.org/abs/2510.23571v2)** | 2026-03-13 | <details><summary>Websi...</summary><p>Website: https://robotarenainf.github.io</p></details> |
+| **[Geometry-Guided Camera Motion Understanding in VideoLLMs](https://arxiv.org/abs/2603.13119v1)** | 2026-03-13 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, supplementary included</p></details> |
+| **[Evaluating VLMs' Spatial Reasoning Over Robot Motion: A Step Towards Robot Planning with Motion Preferences](https://arxiv.org/abs/2603.13100v1)** | 2026-03-13 | <details><summary>Accep...</summary><p>Accepted to the First Workshop on Efficient Spatial Reasoning at ICLR 2026</p></details> |
+| **[DriveMind: A Dual Visual Language Model-based Reinforcement Learning Framework for Autonomous Driving](https://arxiv.org/abs/2506.00819v2)** | 2026-03-13 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Intelligent Vehicles (T-IV)</p></details> |
+| **[Topo-R1: Detecting Topological Anomalies via Vision-Language Models](https://arxiv.org/abs/2603.13054v1)** | 2026-03-13 | 28 pages, 6 figures |
+| **[ESPIRE: A Diagnostic Benchmark for Embodied Spatial Reasoning of Vision-Language Models](https://arxiv.org/abs/2603.13033v1)** | 2026-03-13 |  |
+| **[A Closed-Form Solution for Debiasing Vision-Language Models with Utility Guarantees Across Modalities and Tasks](https://arxiv.org/abs/2603.12998v1)** | 2026-03-13 |  |
+| **[Test-Time Attention Purification for Backdoored Large Vision Language Models](https://arxiv.org/abs/2603.12989v1)** | 2026-03-13 |  |
+| **[RoboStream: Weaving Spatio-Temporal Reasoning with Memory in Vision-Language Models for Robotics](https://arxiv.org/abs/2603.12939v1)** | 2026-03-13 |  |
+| **[MotionAnymesh: Physics-Grounded Articulation for Simulation-Ready Digital Twins](https://arxiv.org/abs/2603.12936v1)** | 2026-03-13 | 5 figures |
+| **[Rethinking VLMs for Image Forgery Detection and Localization](https://arxiv.org/abs/2603.12930v1)** | 2026-03-13 | 8pages |
+| **[GraphPilot: Grounded Scene Graph Conditioning for Language-Based Autonomous Driving](https://arxiv.org/abs/2511.11266v3)** | 2026-03-13 |  |
 
