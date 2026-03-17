@@ -1,10 +1,11 @@
 ---
-title: Papers - March 17, 2026
+title: Papers - March 18, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DCP-CLIP:A Coarse-to-Fine Framework for Open-Vocabulary Semantic Segmentation with Dual Interaction](https://arxiv.org/abs/2603.13951v1)** | 2026-03-14 | 13 pages, 7 figures |
 | **[JOPP-3D: Joint Open Vocabulary Semantic Segmentation on Point Clouds and Panoramas](https://arxiv.org/abs/2603.06168v2)** | 2026-03-12 |  |
 | **[Open-Vocabulary Domain Generalization in Urban-Scene Segmentation](https://arxiv.org/abs/2602.18853v2)** | 2026-03-09 |  |
 | **[Open-Vocabulary Semantic Segmentation in Remote Sensing via Hierarchical Attention Masking and Model Composition](https://arxiv.org/abs/2602.23869v1)** | 2026-02-27 | <details><summary>Publi...</summary><p>Published in the proceedings of the British Machine Vision Conference Workshops 2025</p></details> |
@@ -19,7 +20,6 @@ labels: documentation
 | **[Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation](https://arxiv.org/abs/2506.09881v3)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images](https://arxiv.org/abs/2512.08730v1)** | 2025-12-09 |  |
 | **[Structure-Aware Feature Rectification with Region Adjacency Graphs for Training-Free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2512.07360v1)** | 2025-12-08 | Accepted to WACV2026 |
-| **[Open Vocabulary Compositional Explanations for Neuron Alignment](https://arxiv.org/abs/2511.20931v1)** | 2025-11-25 | 47 pages, 11 figures |
 
 ## SAM3 - Preview 13 papers
 | **Title** | **Date** | **Comment** |
@@ -79,19 +79,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Visual-ERM: Reward Modeling for Visual Equivalence](https://arxiv.org/abs/2603.13224v1)** | 2026-03-13 | <details><summary>Proje...</summary><p>Project: https://github.com/InternLM/Visual-ERM</p></details> |
-| **[Navig-AI-tion: Navigation by Contextual AI and Spatial Audio](https://arxiv.org/abs/2603.13200v1)** | 2026-03-13 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, to be published in Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA '26), 6 pages appendix</p></details> |
-| **[Towards Spatio-Temporal World Scene Graph Generation from Monocular Videos](https://arxiv.org/abs/2603.13185v1)** | 2026-03-13 | <details><summary>https...</summary><p>https://github.com/rohithpeddi/WorldSGG</p></details> |
-| **[RobotArena $\infty$: Scalable Robot Benchmarking via Real-to-Sim Translation](https://arxiv.org/abs/2510.23571v2)** | 2026-03-13 | <details><summary>Websi...</summary><p>Website: https://robotarenainf.github.io</p></details> |
-| **[Geometry-Guided Camera Motion Understanding in VideoLLMs](https://arxiv.org/abs/2603.13119v1)** | 2026-03-13 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, supplementary included</p></details> |
-| **[Evaluating VLMs' Spatial Reasoning Over Robot Motion: A Step Towards Robot Planning with Motion Preferences](https://arxiv.org/abs/2603.13100v1)** | 2026-03-13 | <details><summary>Accep...</summary><p>Accepted to the First Workshop on Efficient Spatial Reasoning at ICLR 2026</p></details> |
-| **[DriveMind: A Dual Visual Language Model-based Reinforcement Learning Framework for Autonomous Driving](https://arxiv.org/abs/2506.00819v2)** | 2026-03-13 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Intelligent Vehicles (T-IV)</p></details> |
-| **[Topo-R1: Detecting Topological Anomalies via Vision-Language Models](https://arxiv.org/abs/2603.13054v1)** | 2026-03-13 | 28 pages, 6 figures |
-| **[ESPIRE: A Diagnostic Benchmark for Embodied Spatial Reasoning of Vision-Language Models](https://arxiv.org/abs/2603.13033v1)** | 2026-03-13 |  |
-| **[A Closed-Form Solution for Debiasing Vision-Language Models with Utility Guarantees Across Modalities and Tasks](https://arxiv.org/abs/2603.12998v1)** | 2026-03-13 |  |
-| **[Test-Time Attention Purification for Backdoored Large Vision Language Models](https://arxiv.org/abs/2603.12989v1)** | 2026-03-13 |  |
-| **[RoboStream: Weaving Spatio-Temporal Reasoning with Memory in Vision-Language Models for Robotics](https://arxiv.org/abs/2603.12939v1)** | 2026-03-13 |  |
-| **[MotionAnymesh: Physics-Grounded Articulation for Simulation-Ready Digital Twins](https://arxiv.org/abs/2603.12936v1)** | 2026-03-13 | 5 figures |
-| **[Rethinking VLMs for Image Forgery Detection and Localization](https://arxiv.org/abs/2603.12930v1)** | 2026-03-13 | 8pages |
-| **[GraphPilot: Grounded Scene Graph Conditioning for Language-Based Autonomous Driving](https://arxiv.org/abs/2511.11266v3)** | 2026-03-13 |  |
+| **[Anatomy of a Lie: A Multi-Stage Diagnostic Framework for Tracing Hallucinations in Vision-Language Models](https://arxiv.org/abs/2603.15557v1)** | 2026-03-16 |  |
+| **[ViX-Ray: A Vietnamese Chest X-Ray Dataset for Vision-Language Models](https://arxiv.org/abs/2603.15513v1)** | 2026-03-16 |  |
+| **[When Tables Go Crazy: Evaluating Multimodal Models on French Financial Documents](https://arxiv.org/abs/2602.10384v3)** | 2026-03-16 | 14 pages, 13 figures |
+| **[MA-VLCM: A Vision Language Critic Model for Value Estimation of Policies in Multi-Agent Team Settings](https://arxiv.org/abs/2603.15418v1)** | 2026-03-16 | 7 pages, 6 figures |
+| **[Pointing-Based Object Recognition](https://arxiv.org/abs/2603.15403v1)** | 2026-03-16 | <details><summary>Submi...</summary><p>Submitted to InnovAIte conference</p></details> |
+| **[Directional Embedding Smoothing for Robust Vision Language Models](https://arxiv.org/abs/2603.15259v1)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026 Workshop on Agents in the Wild</p></details> |
+| **[HalDec-Bench: Benchmarking Hallucination Detector in Image Captioning](https://arxiv.org/abs/2603.15253v1)** | 2026-03-16 |  |
+| **[Multi-turn Physics-informed Vision-language Model for Physics-grounded Anomaly Detection](https://arxiv.org/abs/2603.15237v1)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted by IEEE ICASSP2026</p></details> |
+| **[RAG-3DSG: Enhancing 3D Scene Graphs with Re-Shot Guided Retrieval-Augmented Generation](https://arxiv.org/abs/2601.10168v2)** | 2026-03-16 |  |
+| **[Efficient Document Parsing via Parallel Token Prediction](https://arxiv.org/abs/2603.15206v1)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026 Findings</p></details> |
+| **[DAIT: Distillation from Vision-Language Models to Lightweight Classifiers with Adaptive Intermediate Teacher Transfer](https://arxiv.org/abs/2603.15166v1)** | 2026-03-16 |  |
+| **[Vision-Language Model Based Multi-Expert Fusion for CT Image Classification](https://arxiv.org/abs/2603.15154v1)** | 2026-03-16 |  |
+| **[Confusion-Aware In-Context-Learning for Vision-Language Models in Robotic Manipulation](https://arxiv.org/abs/2603.15134v1)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted by the 29th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2026)</p></details> |
+| **[Rationale-Enhanced Decoding for Multi-modal Chain-of-Thought](https://arxiv.org/abs/2507.07685v2)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 (Main); Code is available at https://github.com/yshinya6/red/</p></details> |
+| **[Open-World Motion Forecasting](https://arxiv.org/abs/2603.09420v2)** | 2026-03-16 | <details><summary>V2: A...</summary><p>V2: Adapt author affiliation</p></details> |
 
