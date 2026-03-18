@@ -1,5 +1,5 @@
 ---
-title: Papers - March 18, 2026
+title: Papers - March 19, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -79,19 +79,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Anatomy of a Lie: A Multi-Stage Diagnostic Framework for Tracing Hallucinations in Vision-Language Models](https://arxiv.org/abs/2603.15557v1)** | 2026-03-16 |  |
-| **[ViX-Ray: A Vietnamese Chest X-Ray Dataset for Vision-Language Models](https://arxiv.org/abs/2603.15513v1)** | 2026-03-16 |  |
-| **[When Tables Go Crazy: Evaluating Multimodal Models on French Financial Documents](https://arxiv.org/abs/2602.10384v3)** | 2026-03-16 | 14 pages, 13 figures |
-| **[MA-VLCM: A Vision Language Critic Model for Value Estimation of Policies in Multi-Agent Team Settings](https://arxiv.org/abs/2603.15418v1)** | 2026-03-16 | 7 pages, 6 figures |
-| **[Pointing-Based Object Recognition](https://arxiv.org/abs/2603.15403v1)** | 2026-03-16 | <details><summary>Submi...</summary><p>Submitted to InnovAIte conference</p></details> |
-| **[Directional Embedding Smoothing for Robust Vision Language Models](https://arxiv.org/abs/2603.15259v1)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026 Workshop on Agents in the Wild</p></details> |
-| **[HalDec-Bench: Benchmarking Hallucination Detector in Image Captioning](https://arxiv.org/abs/2603.15253v1)** | 2026-03-16 |  |
-| **[Multi-turn Physics-informed Vision-language Model for Physics-grounded Anomaly Detection](https://arxiv.org/abs/2603.15237v1)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted by IEEE ICASSP2026</p></details> |
-| **[RAG-3DSG: Enhancing 3D Scene Graphs with Re-Shot Guided Retrieval-Augmented Generation](https://arxiv.org/abs/2601.10168v2)** | 2026-03-16 |  |
-| **[Efficient Document Parsing via Parallel Token Prediction](https://arxiv.org/abs/2603.15206v1)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026 Findings</p></details> |
-| **[DAIT: Distillation from Vision-Language Models to Lightweight Classifiers with Adaptive Intermediate Teacher Transfer](https://arxiv.org/abs/2603.15166v1)** | 2026-03-16 |  |
-| **[Vision-Language Model Based Multi-Expert Fusion for CT Image Classification](https://arxiv.org/abs/2603.15154v1)** | 2026-03-16 |  |
-| **[Confusion-Aware In-Context-Learning for Vision-Language Models in Robotic Manipulation](https://arxiv.org/abs/2603.15134v1)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted by the 29th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2026)</p></details> |
-| **[Rationale-Enhanced Decoding for Multi-modal Chain-of-Thought](https://arxiv.org/abs/2507.07685v2)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 (Main); Code is available at https://github.com/yshinya6/red/</p></details> |
-| **[Open-World Motion Forecasting](https://arxiv.org/abs/2603.09420v2)** | 2026-03-16 | <details><summary>V2: A...</summary><p>V2: Adapt author affiliation</p></details> |
+| **[MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation](https://arxiv.org/abs/2603.16861v1)** | 2026-03-17 |  |
+| **[DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models](https://arxiv.org/abs/2603.16860v1)** | 2026-03-17 |  |
+| **[OrigamiBench: An Interactive Environment to Synthesize Flat-Foldable Origamis](https://arxiv.org/abs/2603.13856v2)** | 2026-03-17 |  |
+| **[Diffusion-DRF: Free, Rich, and Differentiable Reward for Video Diffusion Fine-Tuning](https://arxiv.org/abs/2601.04153v2)** | 2026-03-17 | <details><summary>Webpa...</summary><p>Webpage: https://snap-research.github.io/diffusion-drf/</p></details> |
+| **[IOSVLM: A 3D Vision-Language Model for Unified Dental Diagnosis from Intraoral Scans](https://arxiv.org/abs/2603.16781v1)** | 2026-03-17 |  |
+| **[CompliantVLA-adaptor: VLM-Guided Variable Impedance Action for Safe Contact-Rich Manipulation](https://arxiv.org/abs/2601.15541v2)** | 2026-03-17 | under review |
+| **[Retrieving Counterfactuals Improves Visual In-Context Learning](https://arxiv.org/abs/2603.16737v1)** | 2026-03-17 | CVPR 2026 |
+| **[Synergizing Understanding and Generation with Interleaved Analyzing-Drafting Thinking](https://arxiv.org/abs/2602.21435v2)** | 2026-03-17 | <details><summary>28 pa...</summary><p>28 pages, 17 figures, 6 tables, ICLR conference</p></details> |
+| **[The Cost of Reasoning: Chain-of-Thought Induces Overconfidence in Vision-Language Models](https://arxiv.org/abs/2603.16728v1)** | 2026-03-17 |  |
+| **[VideoVerse: Does Your T2V Generator Have World Model Capability to Synthesize Videos?](https://arxiv.org/abs/2510.08398v3)** | 2026-03-17 | <details><summary>26 Pa...</summary><p>26 Pages, 10 Figures, 13 Tables</p></details> |
+| **[AutothinkRAG: Complexity-Aware Control of Retrieval-Augmented Reasoning for Image-Text Interaction](https://arxiv.org/abs/2603.05551v2)** | 2026-03-17 |  |
+| **[Kestrel: Grounding Self-Refinement for LVLM Hallucination Mitigation](https://arxiv.org/abs/2603.16664v1)** | 2026-03-17 | <details><summary>16 pa...</summary><p>16 pages, 11 figures, 5 tables</p></details> |
+| **[HeBA: Heterogeneous Bottleneck Adapters for Robust Vision-Language Models](https://arxiv.org/abs/2603.16653v1)** | 2026-03-17 |  |
+| **[FlowComposer: Composable Flows for Compositional Zero-Shot Learning](https://arxiv.org/abs/2603.16641v1)** | 2026-03-17 | Accepted to CVPR2026 |
+| **[Rationale Matters: Learning Transferable Rubrics via Proxy-Guided Critique for VLMReward Models](https://arxiv.org/abs/2603.16600v1)** | 2026-03-17 | <details><summary>25 pa...</summary><p>25 pages, 10 figures,</p></details> |
 
