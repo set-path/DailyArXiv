@@ -1,5 +1,5 @@
 ---
-title: Papers - March 19, 2026
+title: Papers - March 20, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -21,9 +21,10 @@ labels: documentation
 | **[SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images](https://arxiv.org/abs/2512.08730v1)** | 2025-12-09 |  |
 | **[Structure-Aware Feature Rectification with Region Adjacency Graphs for Training-Free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2512.07360v1)** | 2025-12-08 | Accepted to WACV2026 |
 
-## SAM3 - Preview 13 papers
+## SAM3 - Preview 14 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Eye image segmentation using visual and concept prompts with Segment Anything Model 3 (SAM3)](https://arxiv.org/abs/2603.17715v1)** | 2026-03-18 |  |
 | **[ReMeDI: Refined Memory for Disambiguation of Identities with SAM3 in Surgical Segmentation](https://arxiv.org/abs/2512.16880v2)** | 2026-03-08 | Under Review |
 | **[CAD-Prompted SAM3: Geometry-Conditioned Instance Segmentation for Industrial Objects](https://arxiv.org/abs/2602.20551v1)** | 2026-02-24 |  |
 | **[Progressive Per-Branch Depth Optimization for DEFOM-Stereo and SAM3 Joint Analysis in UAV Forestry Applications](https://arxiv.org/abs/2602.20539v1)** | 2026-02-24 |  |
@@ -79,19 +80,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation](https://arxiv.org/abs/2603.16861v1)** | 2026-03-17 |  |
-| **[DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models](https://arxiv.org/abs/2603.16860v1)** | 2026-03-17 |  |
-| **[OrigamiBench: An Interactive Environment to Synthesize Flat-Foldable Origamis](https://arxiv.org/abs/2603.13856v2)** | 2026-03-17 |  |
-| **[Diffusion-DRF: Free, Rich, and Differentiable Reward for Video Diffusion Fine-Tuning](https://arxiv.org/abs/2601.04153v2)** | 2026-03-17 | <details><summary>Webpa...</summary><p>Webpage: https://snap-research.github.io/diffusion-drf/</p></details> |
-| **[IOSVLM: A 3D Vision-Language Model for Unified Dental Diagnosis from Intraoral Scans](https://arxiv.org/abs/2603.16781v1)** | 2026-03-17 |  |
-| **[CompliantVLA-adaptor: VLM-Guided Variable Impedance Action for Safe Contact-Rich Manipulation](https://arxiv.org/abs/2601.15541v2)** | 2026-03-17 | under review |
-| **[Retrieving Counterfactuals Improves Visual In-Context Learning](https://arxiv.org/abs/2603.16737v1)** | 2026-03-17 | CVPR 2026 |
-| **[Synergizing Understanding and Generation with Interleaved Analyzing-Drafting Thinking](https://arxiv.org/abs/2602.21435v2)** | 2026-03-17 | <details><summary>28 pa...</summary><p>28 pages, 17 figures, 6 tables, ICLR conference</p></details> |
-| **[The Cost of Reasoning: Chain-of-Thought Induces Overconfidence in Vision-Language Models](https://arxiv.org/abs/2603.16728v1)** | 2026-03-17 |  |
-| **[VideoVerse: Does Your T2V Generator Have World Model Capability to Synthesize Videos?](https://arxiv.org/abs/2510.08398v3)** | 2026-03-17 | <details><summary>26 Pa...</summary><p>26 Pages, 10 Figures, 13 Tables</p></details> |
-| **[AutothinkRAG: Complexity-Aware Control of Retrieval-Augmented Reasoning for Image-Text Interaction](https://arxiv.org/abs/2603.05551v2)** | 2026-03-17 |  |
-| **[Kestrel: Grounding Self-Refinement for LVLM Hallucination Mitigation](https://arxiv.org/abs/2603.16664v1)** | 2026-03-17 | <details><summary>16 pa...</summary><p>16 pages, 11 figures, 5 tables</p></details> |
-| **[HeBA: Heterogeneous Bottleneck Adapters for Robust Vision-Language Models](https://arxiv.org/abs/2603.16653v1)** | 2026-03-17 |  |
-| **[FlowComposer: Composable Flows for Compositional Zero-Shot Learning](https://arxiv.org/abs/2603.16641v1)** | 2026-03-17 | Accepted to CVPR2026 |
-| **[Rationale Matters: Learning Transferable Rubrics via Proxy-Guided Critique for VLMReward Models](https://arxiv.org/abs/2603.16600v1)** | 2026-03-17 | <details><summary>25 pa...</summary><p>25 pages, 10 figures,</p></details> |
+| **[Unified Spatio-Temporal Token Scoring for Efficient Video VLMs](https://arxiv.org/abs/2603.18004v1)** | 2026-03-18 |  |
+| **[Loc3R-VLM: Language-based Localization and 3D Reasoning with Vision-Language Models](https://arxiv.org/abs/2603.18002v1)** | 2026-03-18 | <details><summary>Proje...</summary><p>Project Page: https://kevinqu7.github.io/loc3r-vlm</p></details> |
+| **[Grounding Robot Generalization in Training Data via Retrieval-Augmented VLMs](https://arxiv.org/abs/2603.11426v2)** | 2026-03-18 | 12 pages |
+| **[ProbeFlow: Training-Free Adaptive Flow Matching for Vision-Language-Action Models](https://arxiv.org/abs/2603.17850v1)** | 2026-03-18 |  |
+| **[Fine-Grained Post-Training Quantization for Large Vision Language Models with Quantization-Aware Integrated Gradients](https://arxiv.org/abs/2603.17809v1)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026 Main Conference</p></details> |
+| **[Evidence Packing for Cross-Domain Image Deepfake Detection with LVLMs](https://arxiv.org/abs/2603.17761v1)** | 2026-03-18 |  |
+| **[MultiMedEval: A Benchmark and a Toolkit for Evaluating Medical Vision-Language Models](https://arxiv.org/abs/2402.09262v3)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted at MIDL 2024</p></details> |
+| **[World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training](https://arxiv.org/abs/2509.24948v5)** | 2026-03-18 | Accepted to CVPR2026 |
+| **[SARE: Sample-wise Adaptive Reasoning for Training-free Fine-grained Visual Recognition](https://arxiv.org/abs/2603.17729v1)** | 2026-03-18 | <details><summary>prepr...</summary><p>preprint, under review</p></details> |
+| **[From Virtual Environments to Real-World Trials: Emerging Trends in Autonomous Driving](https://arxiv.org/abs/2603.17714v1)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted manuscript - Transactions on Intelligent Transportation Systems</p></details> |
+| **[Learning Transferable Temporal Primitives for Video Reasoning via Synthetic Videos](https://arxiv.org/abs/2603.17693v1)** | 2026-03-18 |  |
+| **[WeatherReasonSeg: A Benchmark for Weather-Aware Reasoning Segmentation in Visual Language Models](https://arxiv.org/abs/2603.17680v1)** | 2026-03-18 |  |
+| **[AgentVLN: Towards Agentic Vision-and-Language Navigation](https://arxiv.org/abs/2603.17670v1)** | 2026-03-18 | 19pages, 4 figures |
+| **[Interpretable Cross-Domain Few-Shot Learning with Rectified Target-Domain Local Alignment](https://arxiv.org/abs/2603.17655v1)** | 2026-03-18 | CVPR 2026 |
+| **[MM-OVSeg:Multimodal Optical-SAR Fusion for Open-Vocabulary Segmentation in Remote Sensing](https://arxiv.org/abs/2603.17528v1)** | 2026-03-18 |  |
 
