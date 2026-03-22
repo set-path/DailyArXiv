@@ -1,5 +1,5 @@
 ---
-title: Papers - March 20, 2026
+title: Papers - March 23, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -80,19 +80,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Unified Spatio-Temporal Token Scoring for Efficient Video VLMs](https://arxiv.org/abs/2603.18004v1)** | 2026-03-18 |  |
-| **[Loc3R-VLM: Language-based Localization and 3D Reasoning with Vision-Language Models](https://arxiv.org/abs/2603.18002v1)** | 2026-03-18 | <details><summary>Proje...</summary><p>Project Page: https://kevinqu7.github.io/loc3r-vlm</p></details> |
-| **[Grounding Robot Generalization in Training Data via Retrieval-Augmented VLMs](https://arxiv.org/abs/2603.11426v2)** | 2026-03-18 | 12 pages |
-| **[ProbeFlow: Training-Free Adaptive Flow Matching for Vision-Language-Action Models](https://arxiv.org/abs/2603.17850v1)** | 2026-03-18 |  |
-| **[Fine-Grained Post-Training Quantization for Large Vision Language Models with Quantization-Aware Integrated Gradients](https://arxiv.org/abs/2603.17809v1)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026 Main Conference</p></details> |
-| **[Evidence Packing for Cross-Domain Image Deepfake Detection with LVLMs](https://arxiv.org/abs/2603.17761v1)** | 2026-03-18 |  |
-| **[MultiMedEval: A Benchmark and a Toolkit for Evaluating Medical Vision-Language Models](https://arxiv.org/abs/2402.09262v3)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted at MIDL 2024</p></details> |
-| **[World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training](https://arxiv.org/abs/2509.24948v5)** | 2026-03-18 | Accepted to CVPR2026 |
-| **[SARE: Sample-wise Adaptive Reasoning for Training-free Fine-grained Visual Recognition](https://arxiv.org/abs/2603.17729v1)** | 2026-03-18 | <details><summary>prepr...</summary><p>preprint, under review</p></details> |
-| **[From Virtual Environments to Real-World Trials: Emerging Trends in Autonomous Driving](https://arxiv.org/abs/2603.17714v1)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted manuscript - Transactions on Intelligent Transportation Systems</p></details> |
-| **[Learning Transferable Temporal Primitives for Video Reasoning via Synthetic Videos](https://arxiv.org/abs/2603.17693v1)** | 2026-03-18 |  |
-| **[WeatherReasonSeg: A Benchmark for Weather-Aware Reasoning Segmentation in Visual Language Models](https://arxiv.org/abs/2603.17680v1)** | 2026-03-18 |  |
-| **[AgentVLN: Towards Agentic Vision-and-Language Navigation](https://arxiv.org/abs/2603.17670v1)** | 2026-03-18 | 19pages, 4 figures |
-| **[Interpretable Cross-Domain Few-Shot Learning with Rectified Target-Domain Local Alignment](https://arxiv.org/abs/2603.17655v1)** | 2026-03-18 | CVPR 2026 |
-| **[MM-OVSeg:Multimodal Optical-SAR Fusion for Open-Vocabulary Segmentation in Remote Sensing](https://arxiv.org/abs/2603.17528v1)** | 2026-03-18 |  |
+| **[Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders](https://arxiv.org/abs/2603.19209v1)** | 2026-03-19 | <details><summary>Proje...</summary><p>Project page: https://lab-spell.github.io/vlm-ssm-vision-encoders/ ; Code: https://github.com/raykuo18/vlm-ssm-vision-encoders</p></details> |
+| **[Tinted Frames: Question Framing Blinds Vision-Language Models](https://arxiv.org/abs/2603.19203v1)** | 2026-03-19 | <details><summary>Prepr...</summary><p>Preprint. Project page: https://davidhalladay.github.io/tinted_frames_demo/</p></details> |
+| **[Meanings and Measurements: Multi-Agent Probabilistic Grounding for Vision-Language Navigation](https://arxiv.org/abs/2603.19166v1)** | 2026-03-19 | <details><summary>Equal...</summary><p>Equal contribution: Swagat Padhan and Lakshya Jain, 9 pages, 6 figures, paper website: https://lakshya-asu.github.io/Meanings-Measurements-Multi-Agent-Probabilistic-Grounding/</p></details> |
+| **[GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning](https://arxiv.org/abs/2603.19137v1)** | 2026-03-19 | <details><summary>Proje...</summary><p>Project page at https://vulab-ai.github.io/GSMem/</p></details> |
+| **[TAU-R1: Visual Language Model for Traffic Anomaly Understanding](https://arxiv.org/abs/2603.19098v1)** | 2026-03-19 |  |
+| **[SAVeS: Steering Safety Judgments in Vision-Language Models via Semantic Cues](https://arxiv.org/abs/2603.19092v1)** | 2026-03-19 |  |
+| **[SwiftTailor: Efficient 3D Garment Generation with Geometry Image Representation](https://arxiv.org/abs/2603.19053v1)** | 2026-03-19 | CVPR 2026 |
+| **[TerraScope: Pixel-Grounded Visual Reasoning for Earth Observation](https://arxiv.org/abs/2603.19039v1)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted by CVPR20206 (Main Track)</p></details> |
+| **[AgroCoT: A Chain-of-Thought Benchmark for Evaluating Reasoning in Vision-Language Models for Agriculture](https://arxiv.org/abs/2511.23253v2)** | 2026-03-19 |  |
+| **[SEM: Sparse Embedding Modulation for Post-Hoc Debiasing of Vision-Language Models](https://arxiv.org/abs/2603.19028v1)** | 2026-03-19 | <details><summary>CVPR ...</summary><p>CVPR Findings 2026. Project website: https://sparse-embedding-modulation.github.io/</p></details> |
+| **[CrossHOI-Bench: A Unified Benchmark for HOI Evaluation across Vision-Language Models and HOI-Specific Methods](https://arxiv.org/abs/2508.18753v4)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[MERGE: Guided Vision-Language Models for Multi-Actor Event Reasoning and Grounding in Human-Robot Interaction](https://arxiv.org/abs/2603.18988v1)** | 2026-03-19 |  |
+| **[MultihopSpatial: Multi-hop Compositional Spatial Reasoning Benchmark for Vision-Language Model](https://arxiv.org/abs/2603.18892v1)** | 2026-03-19 | <details><summary>Proje...</summary><p>Project page: https://youngwanlee.github.io/multihopspatial</p></details> |
+| **[LucidFlux: Caption-Free Photo-Realistic Image Restoration via a Large-Scale Diffusion Transformer](https://arxiv.org/abs/2509.22414v3)** | 2026-03-19 | <details><summary>Proje...</summary><p>Project Page: https://w2genai-lab.github.io/LucidFlux</p></details> |
+| **[HORNet: Task-Guided Frame Selection for Video Question Answering with Vision-Language Models](https://arxiv.org/abs/2603.18850v1)** | 2026-03-19 |  |
 
