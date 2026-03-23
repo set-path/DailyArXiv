@@ -1,10 +1,11 @@
 ---
-title: Papers - March 23, 2026
+title: Papers - March 24, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[dinov3.seg: Open-Vocabulary Semantic Segmentation with DINOv3](https://arxiv.org/abs/2603.19531v1)** | 2026-03-19 |  |
 | **[DCP-CLIP:A Coarse-to-Fine Framework for Open-Vocabulary Semantic Segmentation with Dual Interaction](https://arxiv.org/abs/2603.13951v1)** | 2026-03-14 | 13 pages, 7 figures |
 | **[JOPP-3D: Joint Open Vocabulary Semantic Segmentation on Point Clouds and Panoramas](https://arxiv.org/abs/2603.06168v2)** | 2026-03-12 |  |
 | **[Open-Vocabulary Domain Generalization in Urban-Scene Segmentation](https://arxiv.org/abs/2602.18853v2)** | 2026-03-09 |  |
@@ -19,7 +20,6 @@ labels: documentation
 | **[Efficient Redundancy Reduction for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2501.17642v2)** | 2025-12-21 |  |
 | **[Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation](https://arxiv.org/abs/2506.09881v3)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images](https://arxiv.org/abs/2512.08730v1)** | 2025-12-09 |  |
-| **[Structure-Aware Feature Rectification with Region Adjacency Graphs for Training-Free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2512.07360v1)** | 2025-12-08 | Accepted to WACV2026 |
 
 ## SAM3 - Preview 14 papers
 | **Title** | **Date** | **Comment** |
@@ -80,19 +80,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders](https://arxiv.org/abs/2603.19209v1)** | 2026-03-19 | <details><summary>Proje...</summary><p>Project page: https://lab-spell.github.io/vlm-ssm-vision-encoders/ ; Code: https://github.com/raykuo18/vlm-ssm-vision-encoders</p></details> |
-| **[Tinted Frames: Question Framing Blinds Vision-Language Models](https://arxiv.org/abs/2603.19203v1)** | 2026-03-19 | <details><summary>Prepr...</summary><p>Preprint. Project page: https://davidhalladay.github.io/tinted_frames_demo/</p></details> |
-| **[Meanings and Measurements: Multi-Agent Probabilistic Grounding for Vision-Language Navigation](https://arxiv.org/abs/2603.19166v1)** | 2026-03-19 | <details><summary>Equal...</summary><p>Equal contribution: Swagat Padhan and Lakshya Jain, 9 pages, 6 figures, paper website: https://lakshya-asu.github.io/Meanings-Measurements-Multi-Agent-Probabilistic-Grounding/</p></details> |
-| **[GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning](https://arxiv.org/abs/2603.19137v1)** | 2026-03-19 | <details><summary>Proje...</summary><p>Project page at https://vulab-ai.github.io/GSMem/</p></details> |
-| **[TAU-R1: Visual Language Model for Traffic Anomaly Understanding](https://arxiv.org/abs/2603.19098v1)** | 2026-03-19 |  |
-| **[SAVeS: Steering Safety Judgments in Vision-Language Models via Semantic Cues](https://arxiv.org/abs/2603.19092v1)** | 2026-03-19 |  |
-| **[SwiftTailor: Efficient 3D Garment Generation with Geometry Image Representation](https://arxiv.org/abs/2603.19053v1)** | 2026-03-19 | CVPR 2026 |
-| **[TerraScope: Pixel-Grounded Visual Reasoning for Earth Observation](https://arxiv.org/abs/2603.19039v1)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted by CVPR20206 (Main Track)</p></details> |
-| **[AgroCoT: A Chain-of-Thought Benchmark for Evaluating Reasoning in Vision-Language Models for Agriculture](https://arxiv.org/abs/2511.23253v2)** | 2026-03-19 |  |
-| **[SEM: Sparse Embedding Modulation for Post-Hoc Debiasing of Vision-Language Models](https://arxiv.org/abs/2603.19028v1)** | 2026-03-19 | <details><summary>CVPR ...</summary><p>CVPR Findings 2026. Project website: https://sparse-embedding-modulation.github.io/</p></details> |
-| **[CrossHOI-Bench: A Unified Benchmark for HOI Evaluation across Vision-Language Models and HOI-Specific Methods](https://arxiv.org/abs/2508.18753v4)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[MERGE: Guided Vision-Language Models for Multi-Actor Event Reasoning and Grounding in Human-Robot Interaction](https://arxiv.org/abs/2603.18988v1)** | 2026-03-19 |  |
-| **[MultihopSpatial: Multi-hop Compositional Spatial Reasoning Benchmark for Vision-Language Model](https://arxiv.org/abs/2603.18892v1)** | 2026-03-19 | <details><summary>Proje...</summary><p>Project page: https://youngwanlee.github.io/multihopspatial</p></details> |
-| **[LucidFlux: Caption-Free Photo-Realistic Image Restoration via a Large-Scale Diffusion Transformer](https://arxiv.org/abs/2509.22414v3)** | 2026-03-19 | <details><summary>Proje...</summary><p>Project Page: https://w2genai-lab.github.io/LucidFlux</p></details> |
-| **[HORNet: Task-Guided Frame Selection for Video Question Answering with Vision-Language Models](https://arxiv.org/abs/2603.18850v1)** | 2026-03-19 |  |
+| **[Adaptive Greedy Frame Selection for Long Video Understanding](https://arxiv.org/abs/2603.20180v1)** | 2026-03-20 |  |
+| **[The Robot's Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning](https://arxiv.org/abs/2603.20164v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026. 8 pages, 9 figures, Project page: https://limjiyu99.github.io/inner-critic/</p></details> |
+| **[On the Cone Effect and Modality Gap in Medical Vision-Language Embeddings](https://arxiv.org/abs/2603.17246v2)** | 2026-03-20 |  |
+| **[HiPath: Hierarchical Vision-Language Alignment for Structured Pathology Report Prediction](https://arxiv.org/abs/2603.19957v1)** | 2026-03-20 | <details><summary>10 pa...</summary><p>10 pages, 1 figures, 3 tables</p></details> |
+| **[CARES: Context-Aware Resolution Selector for VLMs](https://arxiv.org/abs/2510.19496v2)** | 2026-03-20 |  |
+| **[Medical Image Spatial Grounding with Semantic Sampling](https://arxiv.org/abs/2603.14579v2)** | 2026-03-20 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, under review at MICCAI 2026</p></details> |
+| **[IsoCLIP: Decomposing CLIP Projectors for Efficient Intra-modal Alignment](https://arxiv.org/abs/2603.19862v1)** | 2026-03-20 | Accepted at CVPR2026 |
+| **[Beyond detection: cooperative multi-agent reasoning for rapid onboard EO crisis response](https://arxiv.org/abs/2603.19858v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted for presentation at the ESA's 4S Symposium 2026 Conference (see https://atpi.eventsair.com/4s-symposium-2026/)</p></details> |
+| **[From Plausibility to Verifiability: Risk-Controlled Generative OCR for Vision-Language Models](https://arxiv.org/abs/2603.19790v1)** | 2026-03-20 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 5 tables</p></details> |
+| **[EagleVision: A Dual-Stage Framework with BEV-grounding-based Chain-of-Thought for Spatial Intelligence](https://arxiv.org/abs/2512.15160v2)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[VIRO: Robust and Efficient Neuro-Symbolic Reasoning with Verification for Referring Expression Comprehension](https://arxiv.org/abs/2601.12781v2)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[WorldAgents: Can Foundation Image Models be Agents for 3D World Models?](https://arxiv.org/abs/2603.19708v1)** | 2026-03-20 | <details><summary>Webpa...</summary><p>Webpage: https://ziyaerkoc.com/worldagents/ Video: https://www.youtube.com/watch?v=Mj2FqqhurdI</p></details> |
+| **[Vision-Language Attribute Disentanglement and Reinforcement for Lifelong Person Re-Identification](https://arxiv.org/abs/2603.19678v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models](https://arxiv.org/abs/2509.24837v4)** | 2026-03-20 |  |
+| **[FB-CLIP: Fine-Grained Zero-Shot Anomaly Detection with Foreground-Background Disentanglement](https://arxiv.org/abs/2603.19608v1)** | 2026-03-20 |  |
 
