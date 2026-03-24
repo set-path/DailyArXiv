@@ -1,10 +1,11 @@
 ---
-title: Papers - March 24, 2026
+title: Papers - March 25, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PEARL: Geometry Aligns Semantics for Training-Free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2603.21528v1)** | 2026-03-23 | <details><summary>accep...</summary><p>accepted by CVPR 2026</p></details> |
 | **[dinov3.seg: Open-Vocabulary Semantic Segmentation with DINOv3](https://arxiv.org/abs/2603.19531v1)** | 2026-03-19 |  |
 | **[DCP-CLIP:A Coarse-to-Fine Framework for Open-Vocabulary Semantic Segmentation with Dual Interaction](https://arxiv.org/abs/2603.13951v1)** | 2026-03-14 | 13 pages, 7 figures |
 | **[JOPP-3D: Joint Open Vocabulary Semantic Segmentation on Point Clouds and Panoramas](https://arxiv.org/abs/2603.06168v2)** | 2026-03-12 |  |
@@ -19,7 +20,6 @@ labels: documentation
 | **[ARM: A Learnable, Plug-and-Play Module for CLIP-based Open-vocabulary Semantic Segmentation](https://arxiv.org/abs/2512.24224v1)** | 2025-12-30 | 10 pages, 4 figures |
 | **[Efficient Redundancy Reduction for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2501.17642v2)** | 2025-12-21 |  |
 | **[Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation](https://arxiv.org/abs/2506.09881v3)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images](https://arxiv.org/abs/2512.08730v1)** | 2025-12-09 |  |
 
 ## SAM3 - Preview 14 papers
 | **Title** | **Date** | **Comment** |
@@ -80,19 +80,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Adaptive Greedy Frame Selection for Long Video Understanding](https://arxiv.org/abs/2603.20180v1)** | 2026-03-20 |  |
-| **[The Robot's Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning](https://arxiv.org/abs/2603.20164v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026. 8 pages, 9 figures, Project page: https://limjiyu99.github.io/inner-critic/</p></details> |
-| **[On the Cone Effect and Modality Gap in Medical Vision-Language Embeddings](https://arxiv.org/abs/2603.17246v2)** | 2026-03-20 |  |
-| **[HiPath: Hierarchical Vision-Language Alignment for Structured Pathology Report Prediction](https://arxiv.org/abs/2603.19957v1)** | 2026-03-20 | <details><summary>10 pa...</summary><p>10 pages, 1 figures, 3 tables</p></details> |
-| **[CARES: Context-Aware Resolution Selector for VLMs](https://arxiv.org/abs/2510.19496v2)** | 2026-03-20 |  |
-| **[Medical Image Spatial Grounding with Semantic Sampling](https://arxiv.org/abs/2603.14579v2)** | 2026-03-20 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, under review at MICCAI 2026</p></details> |
-| **[IsoCLIP: Decomposing CLIP Projectors for Efficient Intra-modal Alignment](https://arxiv.org/abs/2603.19862v1)** | 2026-03-20 | Accepted at CVPR2026 |
-| **[Beyond detection: cooperative multi-agent reasoning for rapid onboard EO crisis response](https://arxiv.org/abs/2603.19858v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted for presentation at the ESA's 4S Symposium 2026 Conference (see https://atpi.eventsair.com/4s-symposium-2026/)</p></details> |
-| **[From Plausibility to Verifiability: Risk-Controlled Generative OCR for Vision-Language Models](https://arxiv.org/abs/2603.19790v1)** | 2026-03-20 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 5 tables</p></details> |
-| **[EagleVision: A Dual-Stage Framework with BEV-grounding-based Chain-of-Thought for Spatial Intelligence](https://arxiv.org/abs/2512.15160v2)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[VIRO: Robust and Efficient Neuro-Symbolic Reasoning with Verification for Referring Expression Comprehension](https://arxiv.org/abs/2601.12781v2)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[WorldAgents: Can Foundation Image Models be Agents for 3D World Models?](https://arxiv.org/abs/2603.19708v1)** | 2026-03-20 | <details><summary>Webpa...</summary><p>Webpage: https://ziyaerkoc.com/worldagents/ Video: https://www.youtube.com/watch?v=Mj2FqqhurdI</p></details> |
-| **[Vision-Language Attribute Disentanglement and Reinforcement for Lifelong Person Re-Identification](https://arxiv.org/abs/2603.19678v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models](https://arxiv.org/abs/2509.24837v4)** | 2026-03-20 |  |
-| **[FB-CLIP: Fine-Grained Zero-Shot Anomaly Detection with Foreground-Background Disentanglement](https://arxiv.org/abs/2603.19608v1)** | 2026-03-20 |  |
+| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
+| **[3D-Layout-R1: Structured Reasoning for Language-Instructed Spatial Editing](https://arxiv.org/abs/2603.22279v1)** | 2026-03-23 |  |
+| **[The Dual Mechanisms of Spatial Reasoning in Vision-Language Models](https://arxiv.org/abs/2603.22278v1)** | 2026-03-23 | 26 pages, 35 figures |
+| **[Scaling DoRA: High-Rank Adaptation via Factored Norms and Fused Kernels](https://arxiv.org/abs/2603.22276v1)** | 2026-03-23 | <details><summary>30 pa...</summary><p>30 pages, 15 figures, 15 tables, including appendices. Code and data at https://github.com/sockeye44/dorafactors</p></details> |
+| **[SpatialReward: Verifiable Spatial Reward Modeling for Fine-Grained Spatial Consistency in Text-to-Image Generation](https://arxiv.org/abs/2603.22228v1)** | 2026-03-23 |  |
+| **[VL-Nav: A Neuro-Symbolic Approach for Reasoning-based Vision-Language Navigation](https://arxiv.org/abs/2502.00931v6)** | 2026-03-23 |  |
+| **[MARCUS: An agentic, multimodal vision-language model for cardiac diagnosis and management](https://arxiv.org/abs/2603.22179v1)** | 2026-03-23 |  |
+| **[Closed-Loop Verbal Reinforcement Learning for Task-Level Robotic Planning](https://arxiv.org/abs/2603.22169v1)** | 2026-03-23 |  |
+| **[ACPO: Counteracting Likelihood Displacement in Vision-Language Alignment with Asymmetric Constraints](https://arxiv.org/abs/2603.22165v1)** | 2026-03-23 |  |
+| **[Principled Steering via Null-space Projection for Jailbreak Defense in Vision-Language Models](https://arxiv.org/abs/2603.22094v1)** | 2026-03-23 | CVPR 2026 |
+| **[P-Flow: Prompting Visual Effects Generation](https://arxiv.org/abs/2603.22091v1)** | 2026-03-23 |  |
+| **[Do World Action Models Generalize Better than VLAs? A Robustness Study](https://arxiv.org/abs/2603.22078v1)** | 2026-03-23 |  |
+| **[Adapting Point Cloud Analysis via Multimodal Bayesian Distribution Learning](https://arxiv.org/abs/2603.22070v1)** | 2026-03-23 | CVPR 2026 |
+| **[Uncertainty-guided Compositional Alignment with Part-to-Whole Semantic Representativeness in Hyperbolic Vision-Language Models](https://arxiv.org/abs/2603.22042v1)** | 2026-03-23 |  |
+| **[What "Not" to Detect: Negation-Aware VLMs via Structured Reasoning and Token Merging](https://arxiv.org/abs/2510.13232v2)** | 2026-03-23 | 56 pages |
 
