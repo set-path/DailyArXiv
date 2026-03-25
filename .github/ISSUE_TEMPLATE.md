@@ -1,10 +1,11 @@
 ---
-title: Papers - March 25, 2026
+title: Papers - March 26, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2603.23030v1)** | 2026-03-24 | <details><summary>18 pa...</summary><p>18 pages, 13 figures, 12 tables, Accepted to CVPR 2026</p></details> |
 | **[PEARL: Geometry Aligns Semantics for Training-Free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2603.21528v1)** | 2026-03-23 | <details><summary>accep...</summary><p>accepted by CVPR 2026</p></details> |
 | **[dinov3.seg: Open-Vocabulary Semantic Segmentation with DINOv3](https://arxiv.org/abs/2603.19531v1)** | 2026-03-19 |  |
 | **[DCP-CLIP:A Coarse-to-Fine Framework for Open-Vocabulary Semantic Segmentation with Dual Interaction](https://arxiv.org/abs/2603.13951v1)** | 2026-03-14 | 13 pages, 7 figures |
@@ -19,14 +20,13 @@ labels: documentation
 | **[DiSa: Saliency-Aware Foreground-Background Disentangled Framework for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2601.20064v1)** | 2026-01-27 | 19 pages, 11 figures |
 | **[ARM: A Learnable, Plug-and-Play Module for CLIP-based Open-vocabulary Semantic Segmentation](https://arxiv.org/abs/2512.24224v1)** | 2025-12-30 | 10 pages, 4 figures |
 | **[Efficient Redundancy Reduction for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2501.17642v2)** | 2025-12-21 |  |
-| **[Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation](https://arxiv.org/abs/2506.09881v3)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 
 ## SAM3 - Preview 14 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CAD-Prompted SAM3: Geometry-Conditioned Instance Segmentation for Industrial Objects](https://arxiv.org/abs/2602.20551v2)** | 2026-03-24 |  |
 | **[Eye image segmentation using visual and concept prompts with Segment Anything Model 3 (SAM3)](https://arxiv.org/abs/2603.17715v1)** | 2026-03-18 |  |
 | **[ReMeDI: Refined Memory for Disambiguation of Identities with SAM3 in Surgical Segmentation](https://arxiv.org/abs/2512.16880v2)** | 2026-03-08 | Under Review |
-| **[CAD-Prompted SAM3: Geometry-Conditioned Instance Segmentation for Industrial Objects](https://arxiv.org/abs/2602.20551v1)** | 2026-02-24 |  |
 | **[Progressive Per-Branch Depth Optimization for DEFOM-Stereo and SAM3 Joint Analysis in UAV Forestry Applications](https://arxiv.org/abs/2602.20539v1)** | 2026-02-24 |  |
 | **[SAM3-LiteText: An Anatomical Study of the SAM3 Text Encoder for Efficient Vision-Language Segmentation](https://arxiv.org/abs/2602.12173v1)** | 2026-02-12 |  |
 | **[Taming SAM3 in the Wild: A Concept Bank for Open-Vocabulary Segmentation](https://arxiv.org/abs/2602.06333v1)** | 2026-02-06 |  |
@@ -80,19 +80,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
-| **[3D-Layout-R1: Structured Reasoning for Language-Instructed Spatial Editing](https://arxiv.org/abs/2603.22279v1)** | 2026-03-23 |  |
-| **[The Dual Mechanisms of Spatial Reasoning in Vision-Language Models](https://arxiv.org/abs/2603.22278v1)** | 2026-03-23 | 26 pages, 35 figures |
-| **[Scaling DoRA: High-Rank Adaptation via Factored Norms and Fused Kernels](https://arxiv.org/abs/2603.22276v1)** | 2026-03-23 | <details><summary>30 pa...</summary><p>30 pages, 15 figures, 15 tables, including appendices. Code and data at https://github.com/sockeye44/dorafactors</p></details> |
-| **[SpatialReward: Verifiable Spatial Reward Modeling for Fine-Grained Spatial Consistency in Text-to-Image Generation](https://arxiv.org/abs/2603.22228v1)** | 2026-03-23 |  |
-| **[VL-Nav: A Neuro-Symbolic Approach for Reasoning-based Vision-Language Navigation](https://arxiv.org/abs/2502.00931v6)** | 2026-03-23 |  |
-| **[MARCUS: An agentic, multimodal vision-language model for cardiac diagnosis and management](https://arxiv.org/abs/2603.22179v1)** | 2026-03-23 |  |
-| **[Closed-Loop Verbal Reinforcement Learning for Task-Level Robotic Planning](https://arxiv.org/abs/2603.22169v1)** | 2026-03-23 |  |
-| **[ACPO: Counteracting Likelihood Displacement in Vision-Language Alignment with Asymmetric Constraints](https://arxiv.org/abs/2603.22165v1)** | 2026-03-23 |  |
-| **[Principled Steering via Null-space Projection for Jailbreak Defense in Vision-Language Models](https://arxiv.org/abs/2603.22094v1)** | 2026-03-23 | CVPR 2026 |
-| **[P-Flow: Prompting Visual Effects Generation](https://arxiv.org/abs/2603.22091v1)** | 2026-03-23 |  |
-| **[Do World Action Models Generalize Better than VLAs? A Robustness Study](https://arxiv.org/abs/2603.22078v1)** | 2026-03-23 |  |
-| **[Adapting Point Cloud Analysis via Multimodal Bayesian Distribution Learning](https://arxiv.org/abs/2603.22070v1)** | 2026-03-23 | CVPR 2026 |
-| **[Uncertainty-guided Compositional Alignment with Part-to-Whole Semantic Representativeness in Hyperbolic Vision-Language Models](https://arxiv.org/abs/2603.22042v1)** | 2026-03-23 |  |
-| **[What "Not" to Detect: Negation-Aware VLMs via Structured Reasoning and Token Merging](https://arxiv.org/abs/2510.13232v2)** | 2026-03-23 | 56 pages |
+| **[MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage](https://arxiv.org/abs/2603.23501v1)** | 2026-03-24 | 11 Pages |
+| **[VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions](https://arxiv.org/abs/2603.23495v1)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
+| **[POVQA: Preference-Optimized Video Question Answering with Rationales for Data Efficiency](https://arxiv.org/abs/2510.01009v2)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted in MAR at CVPR Workshop (Proceedings Track)</p></details> |
+| **[ARGENT: Adaptive Hierarchical Image-Text Representations](https://arxiv.org/abs/2603.23311v1)** | 2026-03-24 |  |
+| **[GeoDiT: A Diffusion-based Vision-Language Model for Geospatial Understanding](https://arxiv.org/abs/2512.02505v2)** | 2026-03-24 |  |
+| **[TRivia: Self-supervised Fine-tuning of Vision-Language Models for Table Recognition](https://arxiv.org/abs/2512.01248v2)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[Residual Decoding: Mitigating Hallucinations in Large Vision-Language Models via History-Aware Residual Guidance](https://arxiv.org/abs/2602.01047v3)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[Gaze-Regularized VLMs for Ego-Centric Behavior Understanding](https://arxiv.org/abs/2603.23190v1)** | 2026-03-24 |  |
+| **[Conformal Cross-Modal Active Learning](https://arxiv.org/abs/2603.23159v1)** | 2026-03-24 | 20 pages, 14 figures |
+| **[Describe-Then-Act: Proactive Agent Steering via Distilled Language-Action World Models](https://arxiv.org/abs/2603.23149v1)** | 2026-03-24 |  |
+| **[HalDec-Bench: Benchmarking Hallucination Detector in Image Captioning](https://arxiv.org/abs/2511.20515v4)** | 2026-03-24 | <details><summary>Previ...</summary><p>Previously this version appeared as arXiv:2603.15253 which was submitted as a new work by accident</p></details> |
+| **[HalDec-Bench: Benchmarking Hallucination Detector in Image Captioning](https://arxiv.org/abs/2603.15253v2)** | 2026-03-24 | <details><summary>This ...</summary><p>This work was intended as a replacement of arXiv:2511.20515 and any subsequent updates will appear there</p></details> |
+| **[VL-KnG: Persistent Spatiotemporal Knowledge Graphs from Egocentric Video for Embodied Scene Understanding](https://arxiv.org/abs/2510.01483v2)** | 2026-03-24 |  |
+| **[MedCausalX: Adaptive Causal Reasoning with Self-Reflection for Trustworthy Medical Vision-Language Models](https://arxiv.org/abs/2603.23085v1)** | 2026-03-24 |  |
+| **[Uncertainty-guided Compositional Alignment with Part-to-Whole Semantic Representativeness in Hyperbolic Vision-Language Models](https://arxiv.org/abs/2603.22042v2)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 
