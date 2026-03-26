@@ -1,5 +1,5 @@
 ---
-title: Papers - March 26, 2026
+title: Papers - March 27, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -80,19 +80,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage](https://arxiv.org/abs/2603.23501v1)** | 2026-03-24 | 11 Pages |
-| **[VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions](https://arxiv.org/abs/2603.23495v1)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[POVQA: Preference-Optimized Video Question Answering with Rationales for Data Efficiency](https://arxiv.org/abs/2510.01009v2)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted in MAR at CVPR Workshop (Proceedings Track)</p></details> |
-| **[ARGENT: Adaptive Hierarchical Image-Text Representations](https://arxiv.org/abs/2603.23311v1)** | 2026-03-24 |  |
-| **[GeoDiT: A Diffusion-based Vision-Language Model for Geospatial Understanding](https://arxiv.org/abs/2512.02505v2)** | 2026-03-24 |  |
-| **[TRivia: Self-supervised Fine-tuning of Vision-Language Models for Table Recognition](https://arxiv.org/abs/2512.01248v2)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[Residual Decoding: Mitigating Hallucinations in Large Vision-Language Models via History-Aware Residual Guidance](https://arxiv.org/abs/2602.01047v3)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[Gaze-Regularized VLMs for Ego-Centric Behavior Understanding](https://arxiv.org/abs/2603.23190v1)** | 2026-03-24 |  |
-| **[Conformal Cross-Modal Active Learning](https://arxiv.org/abs/2603.23159v1)** | 2026-03-24 | 20 pages, 14 figures |
-| **[Describe-Then-Act: Proactive Agent Steering via Distilled Language-Action World Models](https://arxiv.org/abs/2603.23149v1)** | 2026-03-24 |  |
-| **[HalDec-Bench: Benchmarking Hallucination Detector in Image Captioning](https://arxiv.org/abs/2511.20515v4)** | 2026-03-24 | <details><summary>Previ...</summary><p>Previously this version appeared as arXiv:2603.15253 which was submitted as a new work by accident</p></details> |
-| **[HalDec-Bench: Benchmarking Hallucination Detector in Image Captioning](https://arxiv.org/abs/2603.15253v2)** | 2026-03-24 | <details><summary>This ...</summary><p>This work was intended as a replacement of arXiv:2511.20515 and any subsequent updates will appear there</p></details> |
-| **[VL-KnG: Persistent Spatiotemporal Knowledge Graphs from Egocentric Video for Embodied Scene Understanding](https://arxiv.org/abs/2510.01483v2)** | 2026-03-24 |  |
-| **[MedCausalX: Adaptive Causal Reasoning with Self-Reflection for Trustworthy Medical Vision-Language Models](https://arxiv.org/abs/2603.23085v1)** | 2026-03-24 |  |
-| **[Uncertainty-guided Compositional Alignment with Part-to-Whole Semantic Representativeness in Hyperbolic Vision-Language Models](https://arxiv.org/abs/2603.22042v2)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[Vision-Language Models vs Human: Perceptual Image Quality Assessment](https://arxiv.org/abs/2603.24578v1)** | 2026-03-25 |  |
+| **[VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models](https://arxiv.org/abs/2603.24575v1)** | 2026-03-25 |  |
+| **[LensWalk: Agentic Video Understanding by Planning How You See in Videos](https://arxiv.org/abs/2603.24558v1)** | 2026-03-25 | <details><summary>To be...</summary><p>To be published in CVPR 2026</p></details> |
+| **[Cross-Modal Prototype Alignment and Mixing for Training-Free Few-Shot Classification](https://arxiv.org/abs/2603.24528v1)** | 2026-03-25 | Preprint |
+| **[Adapting Point Cloud Analysis via Multimodal Bayesian Distribution Learning](https://arxiv.org/abs/2603.22070v2)** | 2026-03-25 | CVPR 2026 |
+| **[Unleashing Vision-Language Semantics for Deepfake Video Detection](https://arxiv.org/abs/2603.24454v1)** | 2026-03-25 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, accepted by CVPR 2026</p></details> |
+| **[Principled Steering via Null-space Projection for Jailbreak Defense in Vision-Language Models](https://arxiv.org/abs/2603.22094v2)** | 2026-03-25 | CVPR 2026 |
+| **[Learning To Guide Human Decision Makers With Vision-Language Models](https://arxiv.org/abs/2403.16501v4)** | 2026-03-25 |  |
+| **[Scaling Test-Time Robustness of Vision-Language Models via Self-Critical Inference Framework](https://arxiv.org/abs/2603.07659v2)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Code: https://github.com/KaihuaTang/Self-Critical-Inference-Framework</p></details> |
+| **[ViHOI: Human-Object Interaction Synthesis with Visual Priors](https://arxiv.org/abs/2603.24383v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization](https://arxiv.org/abs/2603.24376v1)** | 2026-03-25 |  |
+| **[PP-OCRv5: A Specialized 5M-Parameter Model Rivaling Billion-Parameter Vision-Language Models on OCR Tasks](https://arxiv.org/abs/2603.24373v1)** | 2026-03-25 |  |
+| **[Boosting Document Parsing Efficiency and Performance with Coarse-to-Fine Visual Processing](https://arxiv.org/abs/2603.24326v1)** | 2026-03-25 | Accepted by CVPR2026 |
+| **[Language-Assisted Image Clustering Guided by Discriminative Relational Signals and Adaptive Semantic Centers](https://arxiv.org/abs/2603.24275v1)** | 2026-03-25 |  |
+| **[Memory-Augmented Vision-Language Agents for Persistent and Semantically Consistent Object Captioning](https://arxiv.org/abs/2603.24257v1)** | 2026-03-25 | <details><summary>24 pa...</summary><p>24 pages, 7 figures, 7 tables (including Supplementary Materials)</p></details> |
 
