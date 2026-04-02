@@ -1,10 +1,11 @@
 ---
-title: Papers - April 01, 2026
+title: Papers - April 03, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ConInfer: Context-Aware Inference for Training-Free Open-Vocabulary Remote Sensing Segmentation](https://arxiv.org/abs/2603.29271v1)** | 2026-03-31 |  |
 | **[FA-Seg: A Fast and Accurate Diffusion-Based Method for Open-Vocabulary Segmentation](https://arxiv.org/abs/2506.23323v4)** | 2026-03-30 |  |
 | **[Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2603.23030v1)** | 2026-03-24 | <details><summary>18 pa...</summary><p>18 pages, 13 figures, 12 tables, Accepted to CVPR 2026</p></details> |
 | **[PEARL: Geometry Aligns Semantics for Training-Free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2603.21528v1)** | 2026-03-23 | <details><summary>accep...</summary><p>accepted by CVPR 2026</p></details> |
@@ -19,11 +20,11 @@ labels: documentation
 | **[Geospatial-Reasoning-Driven Vocabulary-Agnostic Remote Sensing Semantic Segmentation](https://arxiv.org/abs/2602.08206v1)** | 2026-02-09 | 5 pages, 3 figures |
 | **[Bidirectional Cross-Perception for Open-Vocabulary Semantic Segmentation in Remote Sensing Imagery](https://arxiv.org/abs/2601.21159v1)** | 2026-01-29 |  |
 | **[DiSa: Saliency-Aware Foreground-Background Disentangled Framework for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2601.20064v1)** | 2026-01-27 | 19 pages, 11 figures |
-| **[ARM: A Learnable, Plug-and-Play Module for CLIP-based Open-vocabulary Semantic Segmentation](https://arxiv.org/abs/2512.24224v1)** | 2025-12-30 | 10 pages, 4 figures |
 
-## SAM3 - Preview 14 papers
+## SAM3 - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The 1st Winner for 5th PVUW MeViS-Text Challenge: Strong MLLMs Meet SAM3 for Referring Video Object Segmentation](https://arxiv.org/abs/2604.00404v1)** | 2026-04-01 | <details><summary>1st P...</summary><p>1st Place Solution for the 5th PVUW MeViS-Text Challenge (CVPR 2026 Workshop)</p></details> |
 | **[CAD-Prompted SAM3: Geometry-Conditioned Instance Segmentation for Industrial Objects](https://arxiv.org/abs/2602.20551v2)** | 2026-03-24 |  |
 | **[Eye image segmentation using visual and concept prompts with Segment Anything Model 3 (SAM3)](https://arxiv.org/abs/2603.17715v1)** | 2026-03-18 |  |
 | **[ReMeDI: Refined Memory for Disambiguation of Identities with SAM3 in Surgical Segmentation](https://arxiv.org/abs/2512.16880v2)** | 2026-03-08 | Under Review |
@@ -42,6 +43,7 @@ labels: documentation
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ConInfer: Context-Aware Inference for Training-Free Open-Vocabulary Remote Sensing Segmentation](https://arxiv.org/abs/2603.29271v1)** | 2026-03-31 |  |
 | **[Transferring Physical Priors into Remote Sensing Segmentation via Large Language Models](https://arxiv.org/abs/2603.27504v1)** | 2026-03-29 |  |
 | **[Cross-Modal Urban Sensing: Evaluating Sound-Vision Alignment Across Street-Level and Aerial Imagery](https://arxiv.org/abs/2506.03388v2)** | 2026-03-27 | 18 pages, 13 figures |
 | **[LEMMA: Laplacian pyramids for Efficient Marine SeMAntic Segmentation](https://arxiv.org/abs/2603.25689v1)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted at the MaCVi Workshop, CVPR 2026</p></details> |
@@ -56,11 +58,11 @@ labels: documentation
 | **[Baltimore Atlas: FreqWeaver Adapter for Semi-supervised Ultra-high Spatial Resolution Land Cover Classification](https://arxiv.org/abs/2506.15565v2)** | 2025-08-23 |  |
 | **[ViRefSAM: Visual Reference-Guided Segment Anything Model for Remote Sensing Segmentation](https://arxiv.org/abs/2507.02294v1)** | 2025-07-03 |  |
 | **[RS-MTDF: Multi-Teacher Distillation and Fusion for Remote Sensing Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2506.08772v2)** | 2025-06-11 |  |
-| **[F2Net: A Frequency-Fused Network for Ultra-High Resolution Remote Sensing Segmentation](https://arxiv.org/abs/2506.07847v1)** | 2025-06-09 |  |
 
 ## Remote Sensing Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Continual Vision-Language Learning for Remote Sensing: Benchmarking and Analysis](https://arxiv.org/abs/2604.00820v1)** | 2026-04-01 | <details><summary>23 pa...</summary><p>23 pages, 7 figures, 9 tables</p></details> |
 | **[OmniEarth: A Benchmark for Evaluating Vision-Language Models in Geospatial Tasks](https://arxiv.org/abs/2603.09471v1)** | 2026-03-10 |  |
 | **[GeoReason: Aligning Thinking And Answering In Remote Sensing Vision-Language Models Via Logical Consistency Reinforcement Learning](https://arxiv.org/abs/2601.04118v2)** | 2026-01-08 |  |
 | **[AirSpatialBot: A Spatially-Aware Aerial Agent for Fine-Grained Vehicle Attribute Recognization and Retrieval](https://arxiv.org/abs/2601.01416v1)** | 2026-01-04 | 12 pages, 9 figures |
@@ -75,24 +77,23 @@ labels: documentation
 | **[A Survey on Remote Sensing Foundation Models: From Vision to Multimodality](https://arxiv.org/abs/2503.22081v1)** | 2025-03-28 |  |
 | **[Enhancing Remote Sensing Vision-Language Models for Zero-Shot Scene Classification](https://arxiv.org/abs/2409.00698v2)** | 2025-01-07 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2025</p></details> |
 | **[RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts](https://arxiv.org/abs/2412.05679v2)** | 2024-12-10 |  |
-| **[Aquila: A Hierarchically Aligned Visual-Language Model for Enhanced Remote Sensing Image Comprehension](https://arxiv.org/abs/2411.06074v1)** | 2024-11-09 |  |
 
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[See it to Place it: Evolving Macro Placements with Vision-Language Models](https://arxiv.org/abs/2603.28733v1)** | 2026-03-30 | <details><summary>31 pa...</summary><p>31 pages, 11 figures, 14 tables</p></details> |
-| **[SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning](https://arxiv.org/abs/2603.28730v1)** | 2026-03-30 |  |
-| **[ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models](https://arxiv.org/abs/2601.11404v2)** | 2026-03-30 | <details><summary>Accep...</summary><p>Accepted by Conference on Computer Vision and Pattern Recognition (CVPR) 2026</p></details> |
-| **[Vision-Language Agents for Interactive Forest Change Analysis](https://arxiv.org/abs/2601.04497v2)** | 2026-03-30 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Accepted into IGARSS 2026</p></details> |
-| **[Hierarchical Concept Embedding & Pursuit for Interpretable Image Classification](https://arxiv.org/abs/2602.11448v3)** | 2026-03-30 | <details><summary>To be...</summary><p>To be published in Conference on Computer Vision and Pattern Recognition (CVPR) 2026</p></details> |
-| **[AMIGO: Agentic Multi-Image Grounding Oracle Benchmark](https://arxiv.org/abs/2603.28662v1)** | 2026-03-30 |  |
-| **[Unsafe2Safe: Controllable Image Anonymization for Downstream Utility](https://arxiv.org/abs/2603.28605v1)** | 2026-03-30 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026 and CVPR 2026 Workshop on Machine Unlearning for Computer Vision</p></details> |
-| **[Navigating the Mirage: A Dual-Path Agentic Framework for Robust Misleading Chart Question Answering](https://arxiv.org/abs/2603.28583v1)** | 2026-03-30 | 10pages, 4 figures |
-| **[XSPA: Crafting Imperceptible X-Shaped Sparse Adversarial Perturbations for Transferable Attacks on VLMs](https://arxiv.org/abs/2603.28568v1)** | 2026-03-30 |  |
-| **[Domain-Invariant Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2603.28555v1)** | 2026-03-30 |  |
-| **[Hydra: Unifying Document Retrieval and Generation in a Single Vision-Language Model](https://arxiv.org/abs/2603.28554v1)** | 2026-03-30 | <details><summary>Comme...</summary><p>Comments: 17 pages, 2 figures, 7 tables. ## Model Cards - https://huggingface.co/athrael-soju/HydraQwen3.5-4B - https://huggingface.co/athrael-soju/HydraQwen2.5-Omni-3B - https://huggingface.co/athrael-soju/ColQwen3.5-4B-controlled-baseline - https://huggingface.co/athrael-soju/DualHead-GritLM-Qwen3.5-4B ## Scripts & evals - https://github.com/athrael-soju/hydra</p></details> |
-| **[The Scaffold Effect: How Prompt Framing Drives Apparent Multimodal Gains in Clinical VLM Evaluation](https://arxiv.org/abs/2603.28387v1)** | 2026-03-30 |  |
-| **[MALLVI: A Multi-Agent Framework for Integrated Generalized Robotics Manipulation](https://arxiv.org/abs/2602.16898v4)** | 2026-03-30 |  |
-| **[Improving Semantic Uncertainty Quantification in LVLMs with Semantic Gaussian Processes](https://arxiv.org/abs/2512.14177v2)** | 2026-03-30 |  |
-| **[SEA: Evaluating Sketch Abstraction Efficiency via Element-level Commonsense Visual Question Answering](https://arxiv.org/abs/2603.28363v1)** | 2026-03-30 |  |
+| **[A ROS 2 Wrapper for Florence-2: Multi-Mode Local Vision-Language Inference for Robotic Systems](https://arxiv.org/abs/2604.01179v1)** | 2026-04-01 | 5 pages, 1 figure |
+| **[Lightweight Prompt-Guided CLIP Adaptation for Monocular Depth Estimation](https://arxiv.org/abs/2604.01118v1)** | 2026-04-01 | 14 pages, 2 figures |
+| **[Spatial Reasoning is Not a Free Lunch: A Controlled Study on LLaVA](https://arxiv.org/abs/2603.12545v2)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted as a poster at ICLR 2026 workshop ICBINB, typo fixed</p></details> |
+| **[PDA: Text-Augmented Defense Framework for Robust Vision-Language Models against Adversarial Image Attacks](https://arxiv.org/abs/2604.01010v1)** | 2026-04-01 |  |
+| **[CDH-Bench: A Commonsense-Driven Hallucination Benchmark for Evaluating Visual Fidelity in Vision-Language Models](https://arxiv.org/abs/2603.27982v2)** | 2026-04-01 |  |
+| **[ACT Now: Preempting LVLM Hallucinations via Adaptive Context Integration](https://arxiv.org/abs/2604.00983v1)** | 2026-04-01 |  |
+| **[D4C: Data-Free Quantization for Contrastive Language-Image Pre-training Models](https://arxiv.org/abs/2511.15411v2)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted to CVPRF 2026</p></details> |
+| **[Benchmarking and Mechanistic Analysis of Vision-Language Models for Cross-Depiction Assembly Instruction Alignment](https://arxiv.org/abs/2604.00913v1)** | 2026-04-01 |  |
+| **[ProCap: Projection-Aware Captioning for Spatial Augmented Reality](https://arxiv.org/abs/2604.00912v1)** | 2026-04-01 | 16 pages, 7 figures |
+| **[JAMMEval: A Refined Collection of Japanese Benchmarks for Reliable VLM Evaluation](https://arxiv.org/abs/2604.00909v1)** | 2026-04-01 | 16 pages, 11 figures |
+| **[PixelPrune: Pixel-Level Adaptive Visual Token Reduction via Predictive Coding](https://arxiv.org/abs/2604.00886v1)** | 2026-04-01 |  |
+| **[A 4D Representation for Training-Free Agentic Reasoning from Monocular Laparoscopic Video](https://arxiv.org/abs/2604.00867v1)** | 2026-04-01 |  |
+| **[LinguDistill: Recovering Linguistic Ability in Vision- Language Models via Selective Cross-Modal Distillation](https://arxiv.org/abs/2604.00829v1)** | 2026-04-01 |  |
+| **[Continual Vision-Language Learning for Remote Sensing: Benchmarking and Analysis](https://arxiv.org/abs/2604.00820v1)** | 2026-04-01 | <details><summary>23 pa...</summary><p>23 pages, 7 figures, 9 tables</p></details> |
+| **[An Approach to Enriching Surgical Video Datasets for Fine-Grained Spatial-Temporal Understanding of Vision-Language Models](https://arxiv.org/abs/2604.00784v1)** | 2026-04-01 |  |
 
