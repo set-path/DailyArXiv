@@ -1,5 +1,5 @@
 ---
-title: Papers - April 08, 2026
+title: Papers - April 09, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,6 +24,7 @@ labels: documentation
 ## SAM3 - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Few-Shot Semantic Segmentation Meets SAM3](https://arxiv.org/abs/2604.05433v1)** | 2026-04-07 | 14 pages, 3 figures |
 | **[The 1st Winner for 5th PVUW MeViS-Text Challenge: Strong MLLMs Meet SAM3 for Referring Video Object Segmentation](https://arxiv.org/abs/2604.00404v1)** | 2026-04-01 | <details><summary>1st P...</summary><p>1st Place Solution for the 5th PVUW MeViS-Text Challenge (CVPR 2026 Workshop)</p></details> |
 | **[CAD-Prompted SAM3: Geometry-Conditioned Instance Segmentation for Industrial Objects](https://arxiv.org/abs/2602.20551v2)** | 2026-03-24 |  |
 | **[Eye image segmentation using visual and concept prompts with Segment Anything Model 3 (SAM3)](https://arxiv.org/abs/2603.17715v1)** | 2026-03-18 |  |
@@ -38,7 +39,6 @@ labels: documentation
 | **[Generalization vs. Specialization: Evaluating Segment Anything Model (SAM3) Zero-Shot Segmentation Against Fine-Tuned YOLO Detectors](https://arxiv.org/abs/2512.11884v1)** | 2025-12-09 |  |
 | **[The SAM2-to-SAM3 Gap in the Segment Anything Model Family: Why Prompt-Based Expertise Fails in Concept-Driven Image Segmentation](https://arxiv.org/abs/2512.06032v1)** | 2025-12-04 |  |
 | **[SAM3-UNet: Simplified Adaptation of Segment Anything Model 3](https://arxiv.org/abs/2512.01789v1)** | 2025-12-01 | Technical Report |
-| **[SAM3-Adapter: Efficient Adaptation of Segment Anything 3 for Camouflage Object Segmentation, Shadow Detection, and Medical Image Segmentation](https://arxiv.org/abs/2511.19425v1)** | 2025-11-24 |  |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Rethinking Model Efficiency: Multi-Agent Inference with Large Models](https://arxiv.org/abs/2604.04929v1)** | 2026-04-06 |  |
-| **[Vero: An Open RL Recipe for General Visual Reasoning](https://arxiv.org/abs/2604.04917v1)** | 2026-04-06 | <details><summary>Proje...</summary><p>Project page: https://vero-reasoning.github.io/</p></details> |
-| **[ClickAIXR: On-Device Multimodal Vision-Language Interaction with Real-World Objects in Extended Reality](https://arxiv.org/abs/2604.04905v1)** | 2026-04-06 |  |
-| **[Beyond the Global Scores: Fine-Grained Token Grounding as a Robust Detector of LVLM Hallucinations](https://arxiv.org/abs/2604.04863v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted at CVPR2026 Main Track</p></details> |
-| **[The Blind Spot of Adaptation: Quantifying and Mitigating Forgetting in Fine-tuned Driving Models](https://arxiv.org/abs/2604.04857v1)** | 2026-04-06 | received by cvpr2026 |
-| **[Less Detail, Better Answers: Degradation-Driven Prompting for VQA](https://arxiv.org/abs/2604.04838v1)** | 2026-04-06 | <details><summary>11pag...</summary><p>11pages,5 figures,CVPRW</p></details> |
-| **[Discovering Failure Modes in Vision-Language Models using RL](https://arxiv.org/abs/2604.04733v1)** | 2026-04-06 |  |
-| **[Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning](https://arxiv.org/abs/2601.11109v3)** | 2026-04-06 | <details><summary>Proje...</summary><p>Project page: https://fugtemypt123.github.io/VIGA-website/</p></details> |
-| **[ROSClaw: A Hierarchical Semantic-Physical Framework for Heterogeneous Multi-Agent Collaboration](https://arxiv.org/abs/2604.04664v1)** | 2026-04-06 |  |
-| **[InCTRLv2: Generalist Residual Models for Few-Shot Anomaly Detection and Segmentation](https://arxiv.org/abs/2604.04632v1)** | 2026-04-06 |  |
-| **[Beyond Semantics: Uncovering the Physics of Fakes via Universal Physical Descriptors for Cross-Modal Synthetic Detection](https://arxiv.org/abs/2604.04608v1)** | 2026-04-06 |  |
-| **[Clear Roads, Clear Vision: Advancements in Multi-Weather Restoration for Smart Transportation](https://arxiv.org/abs/2510.09228v2)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Intelligent Transportation Systems (2026)</p></details> |
-| **[Firebolt-VL: Efficient Vision-Language Understanding with Cross-Modality Modulation](https://arxiv.org/abs/2604.04579v1)** | 2026-04-06 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2511.11177</p></details> |
-| **[Visual Prompt Based Reasoning for Offroad Mapping using Multimodal LLMs](https://arxiv.org/abs/2604.04564v1)** | 2026-04-06 |  |
-| **[Temporal Inversion for Learning Interval Change in Chest X-Rays](https://arxiv.org/abs/2604.04563v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. 10 pages, 5 figures</p></details> |
+| **[HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models](https://arxiv.org/abs/2604.06165v1)** | 2026-04-07 |  |
+| **[Sim-CLIP: Unsupervised Siamese Adversarial Fine-Tuning for Robust and Semantically-Rich Vision-Language Models](https://arxiv.org/abs/2407.14971v3)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted at IJCNN 2026</p></details> |
+| **[Gym-Anything: Turn any Software into an Agent Environment](https://arxiv.org/abs/2604.06126v1)** | 2026-04-07 |  |
+| **[Lightweight Multimodal Adaptation of Vision Language Models for Species Recognition and Habitat Context Interpretation in Drone Thermal Imagery](https://arxiv.org/abs/2604.06124v1)** | 2026-04-07 |  |
+| **[CoStream: Codec-Guided Resource-Efficient System for Video Streaming Analytics](https://arxiv.org/abs/2604.06036v1)** | 2026-04-07 | 18 pages, 34 figures |
+| **[Online In-Context Distillation for Low-Resource Vision Language Models](https://arxiv.org/abs/2510.18117v2)** | 2026-04-07 |  |
+| **[Vero: An Open RL Recipe for General Visual Reasoning](https://arxiv.org/abs/2604.04917v2)** | 2026-04-07 | <details><summary>Proje...</summary><p>Project page: https://vero-reasoning.github.io/</p></details> |
+| **[Is CLIP Cross-Eyed? Revealing and Mitigating Center Bias in the CLIP Family](https://arxiv.org/abs/2604.05971v1)** | 2026-04-07 |  |
+| **["I See What You Did There": Can Large Vision-Language Models Understand Multimodal Puns?](https://arxiv.org/abs/2604.05930v1)** | 2026-04-07 | ACL 2026 Main |
+| **[AICA-Bench: Holistically Examining the Capabilities of VLMs in Affective Image Content Analysis](https://arxiv.org/abs/2604.05900v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted by Findings of ACL 2026</p></details> |
+| **[EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration](https://arxiv.org/abs/2512.19396v2)** | 2026-04-07 | CVPR 2026 Findings |
+| **[Reading Between the Pixels: An Inscriptive Jailbreak Attack on Text-to-Image Models](https://arxiv.org/abs/2604.05853v1)** | 2026-04-07 |  |
+| **[Vision-Guided Iterative Refinement for Frontend Code Generation](https://arxiv.org/abs/2604.05839v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026 Workshop on AI with Recursive Self-Improvement</p></details> |
+| **[ReMemNav: A Rethinking and Memory-Augmented Framework for Zero-Shot Object Navigation](https://arxiv.org/abs/2603.26788v2)** | 2026-04-07 | 8 pages, 5 figures |
+| **[WikiSeeker: Rethinking the Role of Vision-Language Models in Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2604.05818v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Findings</p></details> |
 
