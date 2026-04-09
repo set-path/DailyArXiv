@@ -1,5 +1,5 @@
 ---
-title: Papers - April 09, 2026
+title: Papers - April 10, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models](https://arxiv.org/abs/2604.06165v1)** | 2026-04-07 |  |
-| **[Sim-CLIP: Unsupervised Siamese Adversarial Fine-Tuning for Robust and Semantically-Rich Vision-Language Models](https://arxiv.org/abs/2407.14971v3)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted at IJCNN 2026</p></details> |
-| **[Gym-Anything: Turn any Software into an Agent Environment](https://arxiv.org/abs/2604.06126v1)** | 2026-04-07 |  |
-| **[Lightweight Multimodal Adaptation of Vision Language Models for Species Recognition and Habitat Context Interpretation in Drone Thermal Imagery](https://arxiv.org/abs/2604.06124v1)** | 2026-04-07 |  |
-| **[CoStream: Codec-Guided Resource-Efficient System for Video Streaming Analytics](https://arxiv.org/abs/2604.06036v1)** | 2026-04-07 | 18 pages, 34 figures |
-| **[Online In-Context Distillation for Low-Resource Vision Language Models](https://arxiv.org/abs/2510.18117v2)** | 2026-04-07 |  |
-| **[Vero: An Open RL Recipe for General Visual Reasoning](https://arxiv.org/abs/2604.04917v2)** | 2026-04-07 | <details><summary>Proje...</summary><p>Project page: https://vero-reasoning.github.io/</p></details> |
-| **[Is CLIP Cross-Eyed? Revealing and Mitigating Center Bias in the CLIP Family](https://arxiv.org/abs/2604.05971v1)** | 2026-04-07 |  |
-| **["I See What You Did There": Can Large Vision-Language Models Understand Multimodal Puns?](https://arxiv.org/abs/2604.05930v1)** | 2026-04-07 | ACL 2026 Main |
-| **[AICA-Bench: Holistically Examining the Capabilities of VLMs in Affective Image Content Analysis](https://arxiv.org/abs/2604.05900v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted by Findings of ACL 2026</p></details> |
-| **[EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration](https://arxiv.org/abs/2512.19396v2)** | 2026-04-07 | CVPR 2026 Findings |
-| **[Reading Between the Pixels: An Inscriptive Jailbreak Attack on Text-to-Image Models](https://arxiv.org/abs/2604.05853v1)** | 2026-04-07 |  |
-| **[Vision-Guided Iterative Refinement for Frontend Code Generation](https://arxiv.org/abs/2604.05839v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026 Workshop on AI with Recursive Self-Improvement</p></details> |
-| **[ReMemNav: A Rethinking and Memory-Augmented Framework for Zero-Shot Object Navigation](https://arxiv.org/abs/2603.26788v2)** | 2026-04-07 | 8 pages, 5 figures |
-| **[WikiSeeker: Rethinking the Role of Vision-Language Models in Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2604.05818v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Findings</p></details> |
+| **[Appear2Meaning: A Cross-Cultural Benchmark for Structured Cultural Metadata Inference from Images](https://arxiv.org/abs/2604.07338v1)** | 2026-04-08 |  |
+| **[Synthetic Homes: A Multimodal Generative AI Pipeline for Residential Building Data Generation under Data Scarcity](https://arxiv.org/abs/2509.09794v4)** | 2026-04-08 | <details><summary>33 pa...</summary><p>33 pages; 2 appendices; 6 figures; 2 tables. Code available at https://github.com/Lafayette-EshbaughSilveyra-Group/synthetic-homes</p></details> |
+| **[MedGRPO: Multi-Task Reinforcement Learning for Heterogeneous Medical Video Understanding](https://arxiv.org/abs/2512.06581v4)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
+| **[Caption-Matching: A Multimodal Approach for Cross-Domain Image Retrieval](https://arxiv.org/abs/2403.15152v3)** | 2026-04-08 |  |
+| **[Learning to Search: A Decision-Based Agent for Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2604.07146v1)** | 2026-04-08 |  |
+| **[A Utility-preserving De-identification Pipeline for Cross-hospital Radiology Data Sharing](https://arxiv.org/abs/2604.07128v1)** | 2026-04-08 |  |
+| **[PRISM: Programmatic Reasoning with Image Sequence Manipulation for LVLM Jailbreaking](https://arxiv.org/abs/2507.21540v3)** | 2026-04-08 | <details><summary>This ...</summary><p>This version is withdrawn to consolidate the submission under the corresponding author's primary account. The most recent and maintained version of this work can be found at arXiv:2603.09246</p></details> |
+| **[KITE: Keyframe-Indexed Tokenized Evidence for VLM-Based Robot Failure Analysis](https://arxiv.org/abs/2604.07034v1)** | 2026-04-08 | <details><summary>ICRA ...</summary><p>ICRA 2026; Project page: https://m80hz.github.io/kite/</p></details> |
+| **[Not All Tokens See Equally: Perception-Grounded Policy Optimization for Large Vision-Language Models](https://arxiv.org/abs/2604.01840v2)** | 2026-04-08 |  |
+| **[Navig-AI-tion: Navigation by Contextual AI and Spatial Audio](https://arxiv.org/abs/2603.13200v2)** | 2026-04-08 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, to be published in Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA '26), 6 pages appendix</p></details> |
+| **[XR-CareerAssist: An Immersive Platform for Personalised Career Guidance Leveraging Extended Reality and Multimodal AI](https://arxiv.org/abs/2604.06901v1)** | 2026-04-08 | 21 |
+| **[AgriPath: A Systematic Exploration of Architectural Trade-offs for Crop Disease Classification](https://arxiv.org/abs/2603.13354v3)** | 2026-04-08 | <details><summary>11 pa...</summary><p>11 pages main text, 24 pages total including references and appendix. 6 figures, 14 tables. Code and dataset will be released upon publication</p></details> |
+| **[Vision-Language Model-Guided Deep Unrolling Enables Personalized, Fast MRI](https://arxiv.org/abs/2604.06849v1)** | 2026-04-08 |  |
+| **[Fast-dVLM: Efficient Block-Diffusion VLM via Direct Conversion from Autoregressive VLM](https://arxiv.org/abs/2604.06832v1)** | 2026-04-08 |  |
+| **[FlowExtract: Procedural Knowledge Extraction from Maintenance Flowcharts](https://arxiv.org/abs/2604.06770v1)** | 2026-04-08 |  |
 
