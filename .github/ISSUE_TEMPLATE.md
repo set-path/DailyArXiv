@@ -1,11 +1,12 @@
 ---
-title: Papers - April 13, 2026
+title: Papers - April 14, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OV-Stitcher: A Global Context-Aware Framework for Training-Free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2604.08110v1)** | 2026-04-09 |  |
+| **[OV-Stitcher: A Global Context-Aware Framework for Training-Free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2604.08110v2)** | 2026-04-10 |  |
+| **[RADSeg: Unleashing Parameter and Compute Efficient Zero-Shot Open-Vocabulary Segmentation Using Agglomerative Models](https://arxiv.org/abs/2511.19704v2)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted to CVPR'26 Findings Code at https://radseg-ovss.github.io/</p></details> |
 | **[Direct Segmentation without Logits Optimization for Training-Free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2604.07723v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[Decouple and Rectify: Semantics-Preserving Structural Enhancement for Open-Vocabulary Remote Sensing Segmentation](https://arxiv.org/abs/2604.02010v1)** | 2026-04-02 |  |
 | **[IGLOSS: Image Generation for Lidar Open-vocabulary Semantic Segmentation](https://arxiv.org/abs/2604.01361v1)** | 2026-04-01 |  |
@@ -19,7 +20,6 @@ labels: documentation
 | **[Open-Vocabulary Domain Generalization in Urban-Scene Segmentation](https://arxiv.org/abs/2602.18853v2)** | 2026-03-09 |  |
 | **[Open-Vocabulary Semantic Segmentation in Remote Sensing via Hierarchical Attention Masking and Model Composition](https://arxiv.org/abs/2602.23869v1)** | 2026-02-27 | <details><summary>Publi...</summary><p>Published in the proceedings of the British Machine Vision Conference Workshops 2025</p></details> |
 | **[Enabling Training-Free Text-Based Remote Sensing Segmentation](https://arxiv.org/abs/2602.17799v1)** | 2026-02-19 |  |
-| **[LMSeg: Unleashing the Power of Large-Scale Models for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2412.00364v2)** | 2026-02-18 |  |
 
 ## SAM3 - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ParseBench: A Document Parsing Benchmark for AI Agents](https://arxiv.org/abs/2604.08538v1)** | 2026-04-09 |  |
-| **[What They Saw, Not Just Where They Looked: Semantic Scanpath Similarity via VLMs and NLP metric](https://arxiv.org/abs/2604.08494v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at ETRA 2026 GenAI workshop</p></details> |
-| **[LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation](https://arxiv.org/abs/2604.08475v1)** | 2026-04-09 |  |
-| **[CrashSight: A Phase-Aware, Infrastructure-Centric Video Benchmark for Traffic Crash Scene Understanding and Reasoning](https://arxiv.org/abs/2604.08457v1)** | 2026-04-09 |  |
-| **[Entropy-Gradient Grounding: Training-Free Evidence Retrieval in Vision-Language Models](https://arxiv.org/abs/2604.08456v1)** | 2026-04-09 | <details><summary>Proje...</summary><p>Project Page : https://entropy-gradient-grounding.github.io/</p></details> |
-| **[Phantasia: Context-Adaptive Backdoors in Vision Language Models](https://arxiv.org/abs/2604.08395v1)** | 2026-04-09 | CVPR 2026 Findings |
-| **[PokeGym: A Visually-Driven Long-Horizon Benchmark for Vision-Language Models](https://arxiv.org/abs/2604.08340v1)** | 2026-04-09 | Tech report |
-| **[Can Vision Language Models Judge Action Quality? An Empirical Evaluation](https://arxiv.org/abs/2604.08294v1)** | 2026-04-09 |  |
-| **[EditCaption: Human-Aligned Instruction Synthesis for Image Editing via Supervised Fine-Tuning and Direct Preference Optimization](https://arxiv.org/abs/2604.08213v1)** | 2026-04-09 |  |
-| **[Vision-Language Foundation Models for Comprehensive Automated Pavement Condition Assessment](https://arxiv.org/abs/2604.08212v1)** | 2026-04-09 |  |
-| **[MedVR: Annotation-Free Medical Visual Reasoning via Agentic Reinforcement Learning](https://arxiv.org/abs/2604.08203v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors](https://arxiv.org/abs/2601.20524v2)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[ViVa: A Video-Generative Value Model for Robot Reinforcement Learning](https://arxiv.org/abs/2604.08168v1)** | 2026-04-09 |  |
-| **[T-Gated Adapter: A Lightweight Temporal Adapter for Vision-Language Medical Segmentation](https://arxiv.org/abs/2604.08167v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at the PHAROS-AIF-MIH Workshop at CVPR 2026</p></details> |
-| **[Small Vision-Language Models are Smart Compressors for Long Video Understanding](https://arxiv.org/abs/2604.08120v1)** | 2026-04-09 | <details><summary>Proje...</summary><p>Project page and demo are available at https://FeiElysia.github.io/tempo-page/</p></details> |
+| **[ParseBench: A Document Parsing Benchmark for AI Agents](https://arxiv.org/abs/2604.08538v2)** | 2026-04-10 |  |
+| **[Seeing is Believing: Robust Vision-Guided Cross-Modal Prompt Learning under Label Noise](https://arxiv.org/abs/2604.09532v1)** | 2026-04-10 |  |
+| **[VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images](https://arxiv.org/abs/2604.09531v1)** | 2026-04-10 | <details><summary>Proje...</summary><p>Project Page: https://zlab-princeton.github.io/VisionFoundry/</p></details> |
+| **[VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning](https://arxiv.org/abs/2604.09529v1)** | 2026-04-10 | <details><summary>24 pa...</summary><p>24 pages, ACL 2026 Main. Repository: https://github.com/Mr-Loevan/VL-Calibration</p></details> |
+| **[VISOR: Agentic Visual Retrieval-Augmented Generation via Iterative Search and Over-horizon Reasoning](https://arxiv.org/abs/2604.09508v1)** | 2026-04-10 |  |
+| **[HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models](https://arxiv.org/abs/2604.06165v2)** | 2026-04-10 |  |
+| **[Towards Knowledgeable Deep Research: Framework and Benchmark](https://arxiv.org/abs/2604.07720v2)** | 2026-04-10 |  |
+| **[Adaptor: Advancing Assistive Teleoperation with Few-Shot Learning and Cross-Operator Generalization](https://arxiv.org/abs/2604.09462v1)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted to the 2026 IEEE International Conference on Robotics and Automation (ICRA 2026)</p></details> |
+| **[ECHO: Efficient Chest X-ray Report Generation with One-step Block Diffusion](https://arxiv.org/abs/2604.09450v1)** | 2026-04-10 |  |
+| **[UIPress: Bringing Optical Token Compression to UI-to-Code Generation](https://arxiv.org/abs/2604.09442v1)** | 2026-04-10 | 10 pages, 3 figures |
+| **[Do Vision Language Models Need to Process Image Tokens?](https://arxiv.org/abs/2604.09425v1)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted (Oral) at TRUE-V Workshop CVPR 2026</p></details> |
+| **[CrashSight: A Phase-Aware, Infrastructure-Centric Video Benchmark for Traffic Crash Scene Understanding and Reasoning](https://arxiv.org/abs/2604.08457v2)** | 2026-04-10 |  |
+| **[Through Their Eyes: Fixation-aligned Tuning for Personalized User Emulation](https://arxiv.org/abs/2604.09368v1)** | 2026-04-10 |  |
+| **[Arbitration Failure, Not Perceptual Blindness: How Vision-Language Models Resolve Visual-Linguistic Conflicts](https://arxiv.org/abs/2604.09364v1)** | 2026-04-10 |  |
+| **[Visually-Guided Policy Optimization for Multimodal Reasoning](https://arxiv.org/abs/2604.09349v1)** | 2026-04-10 | ACL 2026 |
 
