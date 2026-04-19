@@ -1,5 +1,5 @@
 ---
-title: Papers - April 17, 2026
+title: Papers - April 20, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -24,7 +24,7 @@ labels: documentation
 ## SAM3 - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SAM3-I: Segment Anything with Instructions](https://arxiv.org/abs/2512.04585v3)** | 2026-04-14 |  |
+| **[SAM3-I: Segment Anything with Instructions](https://arxiv.org/abs/2512.04585v4)** | 2026-04-16 |  |
 | **[On the Effectiveness of Textual Prompting with Lightweight Fine-Tuning for SAM3 Remote Sensing Segmentation](https://arxiv.org/abs/2512.15564v2)** | 2026-04-12 |  |
 | **[Tarot-SAM3: Training-free SAM3 for Any Referring Expression Segmentation](https://arxiv.org/abs/2604.07916v1)** | 2026-04-09 | Under review |
 | **[Few-Shot Semantic Segmentation Meets SAM3](https://arxiv.org/abs/2604.05433v1)** | 2026-04-07 | 14 pages, 3 figures |
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding](https://arxiv.org/abs/2604.14149v1)** | 2026-04-15 |  |
-| **[HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System](https://arxiv.org/abs/2604.14125v1)** | 2026-04-15 | <details><summary>Proje...</summary><p>Project Page: https://tianshuoy.github.io/HiVLA-page/</p></details> |
-| **[Hierarchical DLO Routing with Reinforcement Learning and In-Context Vision-language Models](https://arxiv.org/abs/2510.19268v2)** | 2026-04-15 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 3 tables</p></details> |
-| **[3D Instruction Ambiguity Detection](https://arxiv.org/abs/2601.05991v2)** | 2026-04-15 |  |
-| **[IGen: Scalable Data Generation for Robot Learning from Open-World Images](https://arxiv.org/abs/2512.01773v2)** | 2026-04-15 | <details><summary>8 pag...</summary><p>8 pages, 8 figures; Accepted to CVPR 2026</p></details> |
-| **[Training-Free Semantic Multi-Object Tracking with Vision-Language Models](https://arxiv.org/abs/2604.14074v1)** | 2026-04-15 | <details><summary>Accep...</summary><p>Accepted to the 20th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2026)</p></details> |
-| **[Hydra: Unifying Document Retrieval and Generation in a Single Vision-Language Model](https://arxiv.org/abs/2603.28554v2)** | 2026-04-15 | <details><summary>18 pa...</summary><p>18 pages, 2 figures, 7 tables, 1 algorithm. v2: lm_head alias via Qwen3.5 weight-tying cuts peak GPU memory 41% -> 48% (10.5 -> 9.2 GB); bitwise-identical outputs verified over 50+ greedy samples, 10 decodes at 1024 tokens, 50 mode-switch round-trips. Code: github.com/athrael-soju/hydra ; HF models under huggingface.co/athrael-soju</p></details> |
-| **[Reward Design for Physical Reasoning in Vision-Language Models](https://arxiv.org/abs/2604.13993v1)** | 2026-04-15 |  |
-| **[MApLe: Multi-instance Alignment of Diagnostic Reports and Large Medical Images](https://arxiv.org/abs/2604.13970v1)** | 2026-04-15 | <details><summary>Accep...</summary><p>Accepted for MIDL 2026; Reviews available at https://openreview.net/forum?id=M8OO3CRbL9#discussion</p></details> |
-| **[GeoAgentBench: A Dynamic Execution Benchmark for Tool-Augmented Agents in Spatial Analysis](https://arxiv.org/abs/2604.13888v1)** | 2026-04-15 | <details><summary>20 pa...</summary><p>20 pages, 3 figures, 6 tables</p></details> |
-| **[Democratising Pathology Co-Pilots: An Open Pipeline and Dataset for Whole-Slide Vision-Language Modelling](https://arxiv.org/abs/2512.17326v2)** | 2026-04-15 | 12 pages, 4 figures |
-| **[VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors](https://arxiv.org/abs/2604.02486v2)** | 2026-04-15 |  |
-| **[Gaslight, Gatekeep, V1-V3: Early Visual Cortex Alignment Shields Vision-Language Models from Sycophantic Manipulation](https://arxiv.org/abs/2604.13803v1)** | 2026-04-15 | <details><summary>28 pa...</summary><p>28 pages, 9 figures, 13 tables</p></details> |
-| **[Failure Identification in Imitation Learning Via Statistical and Semantic Filtering](https://arxiv.org/abs/2604.13788v1)** | 2026-04-15 | <details><summary>8 pag...</summary><p>8 pages, Appendix coming soon, accepted at ICRA 2026</p></details> |
-| **[Vision-and-Language Navigation for UAVs: Progress, Challenges, and a Research Roadmap](https://arxiv.org/abs/2604.13654v1)** | 2026-04-15 |  |
+| **[ArrowGEV: Grounding Events in Video via Learning the Arrow of Time](https://arxiv.org/abs/2601.06559v2)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
+| **[Why Do Vision Language Models Struggle To Recognize Human Emotions?](https://arxiv.org/abs/2604.15280v1)** | 2026-04-16 |  |
+| **[RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography](https://arxiv.org/abs/2604.15231v1)** | 2026-04-16 |  |
+| **[UrbanClipAtlas: A Visual Analytics Framework for Event and Scene Retrieval in Urban Videos](https://arxiv.org/abs/2604.15225v1)** | 2026-04-16 | <details><summary>12 pa...</summary><p>12 pages and 6 figures</p></details> |
+| **[VisPCO: Visual Token Pruning Configuration Optimization via Budget-Aware Pareto-Frontier Learning for Vision-Language Models](https://arxiv.org/abs/2604.15188v1)** | 2026-04-16 |  |
+| **[One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding](https://arxiv.org/abs/2604.14149v2)** | 2026-04-16 | <details><summary>Appea...</summary><p>Appear in the proceedings of NeurIPS 2025</p></details> |
+| **[OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis](https://arxiv.org/abs/2604.15093v1)** | 2026-04-16 | Work in progress |
+| **[Beyond Visual Cues: Semantic-Driven Token Filtering and Expert Routing for Anytime Person ReID](https://arxiv.org/abs/2604.15090v1)** | 2026-04-16 |  |
+| **[DocVAL: Validated Chain-of-Thought Distillation for Grounded Document VQA](https://arxiv.org/abs/2511.22521v2)** | 2026-04-16 |  |
+| **[UniDoc-RL: Coarse-to-Fine Visual RAG with Hierarchical Actions and Dense Rewards](https://arxiv.org/abs/2604.14967v1)** | 2026-04-16 | 17 pages, 11 figures |
+| **[Dual-Axis Generative Reward Model Toward Semantic and Turn-taking Robustness in Interactive Spoken Dialogue Models](https://arxiv.org/abs/2604.14920v1)** | 2026-04-16 |  |
+| **[ADAPT: Benchmarking Commonsense Planning under Unspecified Affordance Constraints](https://arxiv.org/abs/2604.14902v1)** | 2026-04-16 |  |
+| **[Reasoning Dynamics and the Limits of Monitoring Modality Reliance in Vision-Language Models](https://arxiv.org/abs/2604.14888v1)** | 2026-04-16 |  |
+| **[MetaDent: Labeling Clinical Images for Vision-Language Models in Dentistry](https://arxiv.org/abs/2604.14866v1)** | 2026-04-16 | <details><summary>Proje...</summary><p>Project website: https://menxli.github.io/metadent</p></details> |
+| **[Revisiting Compositionality in Dual-Encoder Vision-Language Models: The Role of Inference](https://arxiv.org/abs/2604.11496v2)** | 2026-04-16 |  |
 
