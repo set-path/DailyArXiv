@@ -1,10 +1,11 @@
 ---
-title: Papers - April 22, 2026
+title: Papers - April 23, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CoCo-SAM3: Harnessing Concept Conflict in Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2604.19648v1)** | 2026-04-21 |  |
 | **[T-REN: Learning Text-Aligned Region Tokens Improves Dense Vision-Language Alignment and Scalability](https://arxiv.org/abs/2604.18573v1)** | 2026-04-20 |  |
 | **[Spatial-Regularization-Aware Dual-Branch Collaborative Inference for Training-Free OVSS in Remote Sensing Imagery](https://arxiv.org/abs/2601.21159v2)** | 2026-04-18 |  |
 | **[SENSE: Stereo OpEN Vocabulary SEmantic Segmentation](https://arxiv.org/abs/2604.15946v1)** | 2026-04-17 |  |
@@ -19,11 +20,11 @@ labels: documentation
 | **[FA-Seg: A Fast and Accurate Diffusion-Based Method for Open-Vocabulary Segmentation](https://arxiv.org/abs/2506.23323v4)** | 2026-03-30 |  |
 | **[Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2603.23030v1)** | 2026-03-24 | <details><summary>18 pa...</summary><p>18 pages, 13 figures, 12 tables, Accepted to CVPR 2026</p></details> |
 | **[PEARL: Geometry Aligns Semantics for Training-Free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2603.21528v1)** | 2026-03-23 | <details><summary>accep...</summary><p>accepted by CVPR 2026</p></details> |
-| **[dinov3.seg: Open-Vocabulary Semantic Segmentation with DINOv3](https://arxiv.org/abs/2603.19531v1)** | 2026-03-19 |  |
 
 ## SAM3 - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CoCo-SAM3: Harnessing Concept Conflict in Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2604.19648v1)** | 2026-04-21 |  |
 | **[Is SAM3 ready for pathology segmentation?](https://arxiv.org/abs/2604.18225v1)** | 2026-04-20 |  |
 | **[SAM3-I: Segment Anything with Instructions](https://arxiv.org/abs/2512.04585v4)** | 2026-04-16 |  |
 | **[On the Effectiveness of Textual Prompting with Lightweight Fine-Tuning for SAM3 Remote Sensing Segmentation](https://arxiv.org/abs/2512.15564v2)** | 2026-04-12 |  |
@@ -38,11 +39,11 @@ labels: documentation
 | **[Taming SAM3 in the Wild: A Concept Bank for Open-Vocabulary Segmentation](https://arxiv.org/abs/2602.06333v1)** | 2026-02-06 |  |
 | **[Medical SAM3: A Foundation Model for Universal Prompt-Driven Medical Image Segmentation](https://arxiv.org/abs/2601.10880v1)** | 2026-01-15 |  |
 | **[SAM3-DMS: Decoupled Memory Selection for Multi-target Video Segmentation of SAM3](https://arxiv.org/abs/2601.09699v1)** | 2026-01-14 | <details><summary>Code:...</summary><p>Code: https://github.com/FudanCVL/SAM3-DMS</p></details> |
-| **[Generalization vs. Specialization: Evaluating Segment Anything Model (SAM3) Zero-Shot Segmentation Against Fine-Tuned YOLO Detectors](https://arxiv.org/abs/2512.11884v1)** | 2025-12-09 |  |
 
 ## Remote Sensing Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Controlled Benchmark of Visual State-Space Backbones with Domain-Shift and Boundary Analysis for Remote-Sensing Segmentation](https://arxiv.org/abs/2604.18721v1)** | 2026-04-20 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, Accepted for publication at IEEE IGARSS 2026</p></details> |
 | **[Towards Realistic Open-Vocabulary Remote Sensing Segmentation: Benchmark and Baseline](https://arxiv.org/abs/2604.15652v1)** | 2026-04-17 |  |
 | **[On the Effectiveness of Textual Prompting with Lightweight Fine-Tuning for SAM3 Remote Sensing Segmentation](https://arxiv.org/abs/2512.15564v2)** | 2026-04-12 |  |
 | **[SatReg: Regression-based Neural Architecture Search for Lightweight Satellite Image Segmentation](https://arxiv.org/abs/2604.10306v1)** | 2026-04-11 |  |
@@ -54,7 +55,6 @@ labels: documentation
 | **[LEMMA: Laplacian pyramids for Efficient Marine SeMAntic Segmentation](https://arxiv.org/abs/2603.25689v1)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted at the MaCVi Workshop, CVPR 2026</p></details> |
 | **[GeoSeg: Training-Free Reasoning-Driven Segmentation in Remote Sensing Imagery](https://arxiv.org/abs/2603.03983v1)** | 2026-03-04 |  |
 | **[Enabling Training-Free Text-Based Remote Sensing Segmentation](https://arxiv.org/abs/2602.17799v1)** | 2026-02-19 |  |
-| **[Mitigating Long-Tail Bias via Prompt-Controlled Diffusion Augmentation](https://arxiv.org/abs/2602.04749v1)** | 2026-02-04 |  |
 | **[DIS2: Disentanglement Meets Distillation with Classwise Attention for Robust Remote Sensing Segmentation under Missing Modalities](https://arxiv.org/abs/2601.13502v1)** | 2026-01-20 | <details><summary>Accep...</summary><p>Accepted to WACV 2026 - Computer Vision for Earth Observation Workshop</p></details> |
 | **[Toward Stable Semi-Supervised Remote Sensing Segmentation via Co-Guidance and Co-Fusion](https://arxiv.org/abs/2512.23035v2)** | 2026-01-12 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 9 tables</p></details> |
 | **[SAM2-ELNet: Label Enhancement and Automatic Annotation for Remote Sensing Segmentation](https://arxiv.org/abs/2503.12404v2)** | 2025-09-21 | <details><summary>publi...</summary><p>published in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</p></details> |
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DualToken: Towards Unifying Visual Understanding and Generation with Dual Visual Vocabularies](https://arxiv.org/abs/2503.14324v3)** | 2026-04-20 |  |
-| **[S2H-DPO: Hardness-Aware Preference Optimization for Vision-Language Models](https://arxiv.org/abs/2604.18512v1)** | 2026-04-20 |  |
-| **[GeoRC: A Benchmark for Geolocation Reasoning Chains](https://arxiv.org/abs/2601.21278v2)** | 2026-04-20 | Accepted to ACL 2026 |
-| **[SpatialStack: Layered Geometry-Language Fusion for 3D VLM Spatial Reasoning](https://arxiv.org/abs/2603.27437v2)** | 2026-04-20 | <details><summary>CVPR ...</summary><p>CVPR 2026, Project Website: https://spatial-stack.github.io/</p></details> |
-| **[XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments](https://arxiv.org/abs/2604.18484v1)** | 2026-04-20 | 15 pages, 5 figures |
-| **[VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction](https://arxiv.org/abs/2505.20279v4)** | 2026-04-20 | <details><summary>Proje...</summary><p>Project Page: https://vlm-3r.github.io/</p></details> |
-| **[ESsEN: Training Compact Discriminative Vision-Language Transformers in a Low-Resource Setting](https://arxiv.org/abs/2604.18452v1)** | 2026-04-20 |  |
-| **[ProtoCLIP: Prototype-Aligned Latent Refinement for Robust Zero-Shot Chest X-Ray Classification](https://arxiv.org/abs/2604.18444v1)** | 2026-04-20 |  |
-| **[BridgeEQA: Virtual Embodied Agents for Real Bridge Inspections](https://arxiv.org/abs/2511.12676v2)** | 2026-04-20 |  |
-| **[VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects](https://arxiv.org/abs/2604.16272v2)** | 2026-04-20 |  |
-| **[Revisiting Change VQA in Remote Sensing with Structured and Native Multimodal Qwen Models](https://arxiv.org/abs/2604.18429v1)** | 2026-04-20 |  |
-| **[Multilingual Training and Evaluation Resources for Vision-Language Models](https://arxiv.org/abs/2604.18347v1)** | 2026-04-20 |  |
-| **[MMErroR: A Benchmark for Erroneous Reasoning in Vision-Language Models](https://arxiv.org/abs/2601.03331v2)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Main</p></details> |
-| **[Understanding Counting Mechanisms in Large Language and Vision-Language Models](https://arxiv.org/abs/2511.17699v2)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[Measuring Social Bias in Vision-Language Models with Face-Only Counterfactuals from Real Photos](https://arxiv.org/abs/2601.06931v2)** | 2026-04-20 | <details><summary>18 pa...</summary><p>18 pages, 18 figures, and 3 tables</p></details> |
+| **[InHabit: Leveraging Image Foundation Models for Scalable 3D Human Placement](https://arxiv.org/abs/2604.19673v1)** | 2026-04-21 |  |
+| **[A Gesture-Based Visual Learning Model for Acoustophoretic Interactions using a Swarm of AcoustoBots](https://arxiv.org/abs/2604.19643v1)** | 2026-04-21 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Proceedings of the 2026 4th International Conference on Robotics, Control and Vision Engineering (RCVE 2026)</p></details> |
+| **[CreatiParser: Generative Image Parsing of Raster Graphic Designs into Editable Layers](https://arxiv.org/abs/2604.19632v1)** | 2026-04-21 |  |
+| **[Visual-TableQA: Open-Domain Benchmark for Reasoning over Table Images](https://arxiv.org/abs/2509.07966v2)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted at the First Workshop on Foundations of Reasoning in Language Models, NeurIPS 2025. Available at: https://openreview.net/forum?id=fvJRsGwhPf</p></details> |
+| **[Multi-modal Reasoning with LLMs for Visual Semantic Arithmetic](https://arxiv.org/abs/2604.19567v1)** | 2026-04-21 |  |
+| **[FOCAL: Filtered On-device Continuous Activity Logging for Efficient Personal Desktop Summarization](https://arxiv.org/abs/2604.19541v1)** | 2026-04-21 |  |
+| **[GenerativeMPC: VLM-RAG-guided Whole-Body MPC with Virtual Impedance for Bimanual Mobile Manipulation](https://arxiv.org/abs/2604.19522v1)** | 2026-04-21 | 6 pages, 7 figures |
+| **[Assessing VLM-Driven Semantic-Affordance Inference for Non-Humanoid Robot Morphologies](https://arxiv.org/abs/2604.19509v1)** | 2026-04-21 | <details><summary>AAMAS...</summary><p>AAMAS 2026 (main track), 9 pages, 4 figures</p></details> |
+| **[CLIPoint3D: Language-Grounded Few-Shot Unsupervised 3D Point Cloud Domain Adaptation](https://arxiv.org/abs/2602.20409v2)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted in CVPR 2026</p></details> |
+| **[ReefNet: A Large-Scale Dataset and Benchmark for Fine-Grained Coral Reef Recognition](https://arxiv.org/abs/2510.16822v3)** | 2026-04-21 |  |
+| **[VCE: A zero-cost hallucination mitigation method of LVLMs via visual contrastive editing](https://arxiv.org/abs/2604.19412v1)** | 2026-04-21 | ICASSP 2026 |
+| **[Learning Evolution via Optimization Knowledge Adaptation](https://arxiv.org/abs/2501.02200v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This work has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence</p></details> |
+| **[Lost in Translation: Do LVLM Judges Generalize Across Languages?](https://arxiv.org/abs/2604.19405v1)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Findings</p></details> |
+| **[See2Refine: Vision-Language Feedback Improves LLM-Based eHMI Action Designers](https://arxiv.org/abs/2602.02063v2)** | 2026-04-21 | Accepted to ACL2026 |
+| **[LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation](https://arxiv.org/abs/2604.08475v2)** | 2026-04-21 |  |
 
