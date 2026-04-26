@@ -1,5 +1,5 @@
 ---
-title: Papers - April 24, 2026
+title: Papers - April 27, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance](https://arxiv.org/abs/2604.20834v1)** | 2026-04-22 |  |
-| **[OMIBench: Benchmarking Olympiad-Level Multi-Image Reasoning in Large Vision-Language Model](https://arxiv.org/abs/2604.20806v1)** | 2026-04-22 | <details><summary>ACL 2...</summary><p>ACL 2026 Camera Ready</p></details> |
-| **[CLIP-SVD: Efficient and Interpretable Vision-Language Adaptation via Singular Values](https://arxiv.org/abs/2509.03740v3)** | 2026-04-22 | TMLR 2026 |
-| **[R-CoV: Region-Aware Chain-of-Verification for Alleviating Object Hallucinations in LVLMs](https://arxiv.org/abs/2604.20696v1)** | 2026-04-22 |  |
-| **[The Expense of Seeing: Attaining Trustworthy Multimodal Reasoning Within the Monolithic Paradigm](https://arxiv.org/abs/2604.20665v1)** | 2026-04-22 |  |
-| **[Evian: Towards Explainable Visual Instruction-tuning Data Auditing](https://arxiv.org/abs/2604.20544v1)** | 2026-04-22 | Accepted at ACL 2026 |
-| **[Fast-then-Fine: A Two-Stage Framework with Multi-Granular Representation for Cross-Modal Retrieval in Remote Sensing](https://arxiv.org/abs/2604.20429v1)** | 2026-04-22 |  |
-| **[Cross-Modal Taxonomic Generalization in (Vision-) Language Models](https://arxiv.org/abs/2603.07474v2)** | 2026-04-22 | <details><summary>ACL 2...</summary><p>ACL 2026 (main conference)</p></details> |
-| **[Mitigating Hallucinations in Large Vision-Language Models without Performance Degradation](https://arxiv.org/abs/2604.20366v1)** | 2026-04-22 | ACL 2026 (Oral) |
-| **[Object Referring-Guided Scanpath Prediction with Perception-Enhanced Vision-Language Models](https://arxiv.org/abs/2604.20361v1)** | 2026-04-22 | ICMR 2026 |
-| **[PromptEcho: Annotation-Free Reward from Vision-Language Models for Text-to-Image Reinforcement Learning](https://arxiv.org/abs/2604.12652v2)** | 2026-04-22 |  |
-| **[Evolvable Embodied Agent for Robotic Manipulation via Long Short-Term Reflection and Optimization](https://arxiv.org/abs/2604.13533v2)** | 2026-04-22 | <details><summary>This ...</summary><p>This work has been accepted for publication in the Proceedings of the 2026 International Joint Conference on Neural Networks (IJCNN 2026)</p></details> |
-| **[From Scene to Object: Text-Guided Dual-Gaze Prediction](https://arxiv.org/abs/2604.20191v1)** | 2026-04-22 |  |
-| **[BARD: Bridging AutoRegressive and Diffusion Vision-Language Models Via Highly Efficient Progressive Block Merging and Stage-Wise Distillation](https://arxiv.org/abs/2604.16514v3)** | 2026-04-22 |  |
-| **[LLM-as-Judge Framework for Evaluating Tone-Induced Hallucination in Vision-Language Models](https://arxiv.org/abs/2604.18803v2)** | 2026-04-22 | 23 pages, 12 figures |
+| **[When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs](https://arxiv.org/abs/2604.21911v1)** | 2026-04-23 |  |
+| **[Counterfactual Segmentation Reasoning: Diagnosing and Mitigating Pixel-Grounding Hallucination](https://arxiv.org/abs/2506.21546v4)** | 2026-04-23 | <details><summary>Proje...</summary><p>Project webpage: https://plan-lab.github.io/hallusegbench/</p></details> |
+| **[Fake or Real, Can Robots Tell? Evaluating VLM Robustness to Domain Shift in Single-View Robotic Scene Understanding](https://arxiv.org/abs/2506.19579v3)** | 2026-04-23 |  |
+| **[From Codebooks to VLMs: Evaluating Automated Visual Discourse Analysis for Climate Change on Social Media](https://arxiv.org/abs/2604.21786v1)** | 2026-04-23 |  |
+| **[Ramen: Robust Test-Time Adaptation of Vision-Language Models with Active Sample Selection](https://arxiv.org/abs/2604.21728v1)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026 (Findings Track)</p></details> |
+| **[Musical Score Understanding Benchmark: Evaluating Large Language Models' Comprehension of Complete Musical Scores](https://arxiv.org/abs/2511.20697v4)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main Conference</p></details> |
+| **[Seeing Isn't Believing: Uncovering Blind Spots in Evaluator Vision-Language Models](https://arxiv.org/abs/2604.21523v1)** | 2026-04-23 |  |
+| **[ColorBrowserAgent: Complex Long-Horizon Browser Agent with Adaptive Knowledge Evolution](https://arxiv.org/abs/2601.07262v3)** | 2026-04-23 |  |
+| **[VG-CoT: Towards Trustworthy Visual Reasoning via Grounded Chain-of-Thought](https://arxiv.org/abs/2604.21396v1)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted to LREC 2026</p></details> |
+| **[A Deployable Embodied Vision-Language Navigation System with Hierarchical Cognition and Context-Aware Exploration](https://arxiv.org/abs/2604.21363v1)** | 2026-04-23 | 10 pages, 5 figures, |
+| **[Prototype-Based Test-Time Adaptation of Vision-Language Models](https://arxiv.org/abs/2604.21360v1)** | 2026-04-23 |  |
+| **[Symbolic Grounding Reveals Representational Bottlenecks in Abstract Visual Reasoning](https://arxiv.org/abs/2604.21346v1)** | 2026-04-23 |  |
+| **[ExpressMM: Expressive Mobile Manipulation Behaviors in Human-Robot Interactions](https://arxiv.org/abs/2604.05320v3)** | 2026-04-23 |  |
+| **[Reasoning About Traversability: Language-Guided Off-Road 3D Trajectory Planning](https://arxiv.org/abs/2604.21249v1)** | 2026-04-23 |  |
+| **[PAT3D: Physics-Augmented Text-to-3D Scene Generation](https://arxiv.org/abs/2511.21978v2)** | 2026-04-23 | 19 pages, 12 figures |
 
