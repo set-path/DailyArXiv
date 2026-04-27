@@ -1,5 +1,5 @@
 ---
-title: Papers - April 27, 2026
+title: Papers - April 28, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance](https://arxiv.org/abs/2604.20834v2)** | 2026-04-24 |  |
+| **[Contrastive Semantic Projection: Faithful Neuron Labeling with Contrastive Examples](https://arxiv.org/abs/2604.22477v1)** | 2026-04-24 |  |
+| **[Graph-to-Vision: Multi-graph Understanding and Reasoning using Vision-Language Models](https://arxiv.org/abs/2503.21435v3)** | 2026-04-24 | 26 pages, 23 figures |
+| **[DocPrune:Efficient Document Question Answering via Background, Question, and Comprehension-aware Token Pruning](https://arxiv.org/abs/2604.22281v1)** | 2026-04-24 | CVPR 2026 |
+| **[CAGE-SGG: Counterfactual Active Graph Evidence for Open-Vocabulary Scene Graph Generation](https://arxiv.org/abs/2604.22274v1)** | 2026-04-24 |  |
+| **[Clutter-Robust Vision-Language-Action Models through Object-Centric and Geometry Grounding](https://arxiv.org/abs/2512.22519v2)** | 2026-04-24 | <details><summary>Under...</summary><p>Under review. Project website: https://uark-aicv.github.io/OBEYED_VLA</p></details> |
+| **[CharTide: Data-Centric Chart-to-Code Generation via Tri-Perspective Tuning and Inquiry-Driven Evolution](https://arxiv.org/abs/2604.22192v1)** | 2026-04-24 |  |
+| **[Test-Time Matching: Unlocking Compositional Reasoning in Multimodal Models](https://arxiv.org/abs/2510.07632v2)** | 2026-04-24 | <details><summary>To ap...</summary><p>To appear at ICLR 2026; extended results to generative multimodal models</p></details> |
+| **[Sum-of-Checks: Structured Reasoning for Surgical Safety with Large Vision-Language Models](https://arxiv.org/abs/2604.22156v1)** | 2026-04-24 | <details><summary>IPCAI...</summary><p>IPCAI 2026 short communication</p></details> |
+| **[Incentivizing Neuro-symbolic Language-based Reasoning in VLMs via Reinforcement Learning](https://arxiv.org/abs/2604.22062v1)** | 2026-04-23 |  |
+| **[Source-Modality Monitoring in Vision-Language Models](https://arxiv.org/abs/2604.22038v1)** | 2026-04-23 | <details><summary>All r...</summary><p>All resources will be available at https://github.com/ethahtz/source-modality-monitoring</p></details> |
+| **[System-Mediated Attention Imbalances Make Vision-Language Models Say Yes](https://arxiv.org/abs/2601.12430v2)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted to ACL Findings 2026</p></details> |
 | **[When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs](https://arxiv.org/abs/2604.21911v1)** | 2026-04-23 |  |
 | **[Counterfactual Segmentation Reasoning: Diagnosing and Mitigating Pixel-Grounding Hallucination](https://arxiv.org/abs/2506.21546v4)** | 2026-04-23 | <details><summary>Proje...</summary><p>Project webpage: https://plan-lab.github.io/hallusegbench/</p></details> |
 | **[Fake or Real, Can Robots Tell? Evaluating VLM Robustness to Domain Shift in Single-View Robotic Scene Understanding](https://arxiv.org/abs/2506.19579v3)** | 2026-04-23 |  |
-| **[From Codebooks to VLMs: Evaluating Automated Visual Discourse Analysis for Climate Change on Social Media](https://arxiv.org/abs/2604.21786v1)** | 2026-04-23 |  |
-| **[Ramen: Robust Test-Time Adaptation of Vision-Language Models with Active Sample Selection](https://arxiv.org/abs/2604.21728v1)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026 (Findings Track)</p></details> |
-| **[Musical Score Understanding Benchmark: Evaluating Large Language Models' Comprehension of Complete Musical Scores](https://arxiv.org/abs/2511.20697v4)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main Conference</p></details> |
-| **[Seeing Isn't Believing: Uncovering Blind Spots in Evaluator Vision-Language Models](https://arxiv.org/abs/2604.21523v1)** | 2026-04-23 |  |
-| **[ColorBrowserAgent: Complex Long-Horizon Browser Agent with Adaptive Knowledge Evolution](https://arxiv.org/abs/2601.07262v3)** | 2026-04-23 |  |
-| **[VG-CoT: Towards Trustworthy Visual Reasoning via Grounded Chain-of-Thought](https://arxiv.org/abs/2604.21396v1)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted to LREC 2026</p></details> |
-| **[A Deployable Embodied Vision-Language Navigation System with Hierarchical Cognition and Context-Aware Exploration](https://arxiv.org/abs/2604.21363v1)** | 2026-04-23 | 10 pages, 5 figures, |
-| **[Prototype-Based Test-Time Adaptation of Vision-Language Models](https://arxiv.org/abs/2604.21360v1)** | 2026-04-23 |  |
-| **[Symbolic Grounding Reveals Representational Bottlenecks in Abstract Visual Reasoning](https://arxiv.org/abs/2604.21346v1)** | 2026-04-23 |  |
-| **[ExpressMM: Expressive Mobile Manipulation Behaviors in Human-Robot Interactions](https://arxiv.org/abs/2604.05320v3)** | 2026-04-23 |  |
-| **[Reasoning About Traversability: Language-Guided Off-Road 3D Trajectory Planning](https://arxiv.org/abs/2604.21249v1)** | 2026-04-23 |  |
-| **[PAT3D: Physics-Augmented Text-to-3D Scene Generation](https://arxiv.org/abs/2511.21978v2)** | 2026-04-23 | 19 pages, 12 figures |
 
