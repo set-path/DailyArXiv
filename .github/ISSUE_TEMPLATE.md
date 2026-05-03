@@ -1,5 +1,5 @@
 ---
-title: Papers - May 01, 2026
+title: Papers - May 04, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[World2VLM: Distilling World Model Imagination into VLMs for Dynamic Spatial Reasoning](https://arxiv.org/abs/2604.26934v1)** | 2026-04-29 | <details><summary>The c...</summary><p>The code is available at https://github.com/WanyueZhang-ai/World2VLM. The dataset is available at https://huggingface.co/datasets/WanyueZhang/World2VLM</p></details> |
-| **[Value-Guided Iterative Refinement and the DIQ-H Benchmark for Evaluating VLM Robustness](https://arxiv.org/abs/2512.03992v2)** | 2026-04-29 |  |
-| **[Walk With Me: Long-Horizon Social Navigation for Human-Centric Outdoor Assistance](https://arxiv.org/abs/2604.26839v1)** | 2026-04-29 |  |
-| **[Contrastive Semantic Projection: Faithful Neuron Labeling with Contrastive Examples](https://arxiv.org/abs/2604.22477v2)** | 2026-04-29 |  |
-| **[SynSur: An end-to-end generative pipeline for synthetic industrial surface defect generation and detection](https://arxiv.org/abs/2604.26633v1)** | 2026-04-29 |  |
-| **[Prox-E: Fine-Grained 3D Shape Editing via Primitive-Based Abstractions](https://arxiv.org/abs/2604.23774v2)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH 2026. Project page: https://etaisella.github.io/Prox-E/</p></details> |
-| **[ViTaPEs: Visuotactile Position Encodings for Cross-Modal Alignment in Multimodal Transformers](https://arxiv.org/abs/2505.20032v3)** | 2026-04-29 |  |
-| **[Progressive Semantic Communication for Efficient Edge-Cloud Vision-Language Models](https://arxiv.org/abs/2604.26508v1)** | 2026-04-29 | <details><summary>Under...</summary><p>Under review. Extended version with additional figures and appendices</p></details> |
-| **[A Multistage Extraction Pipeline for Long Scanned Financial Documents: An Empirical Study in Industrial KYC Workflows](https://arxiv.org/abs/2604.26462v1)** | 2026-04-29 |  |
-| **[Delineating Knowledge Boundaries for Honest Large Vision-Language Models](https://arxiv.org/abs/2604.26419v1)** | 2026-04-29 |  |
-| **[Topology-Aware Representation Alignment for Semi-Supervised Vision-Language Learning](https://arxiv.org/abs/2604.26370v1)** | 2026-04-29 | <details><summary>30 pa...</summary><p>30 pages, 10 figures, 24 tables</p></details> |
-| **[VLM Judges Can Rank but Cannot Score: Task-Dependent Uncertainty in Multimodal Evaluation](https://arxiv.org/abs/2604.25235v2)** | 2026-04-29 |  |
-| **[UIGaze: How Closely Can VLMs Approximate Human Visual Attention on User Interfaces?](https://arxiv.org/abs/2604.26352v1)** | 2026-04-29 | <details><summary>6 pag...</summary><p>6 pages, 4 tables, 1 figure</p></details> |
-| **[Efficient, VRAM-Constrained xLM Inference on Clients](https://arxiv.org/abs/2604.26334v1)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted at MLSys 2026 (Industry Track). 17 pages, 7 figures, 9 tables. Code and artifacts available at: https://github.com/deepshnv/pipeshard-mlsys26-ae</p></details> |
-| **[FLARE: Fully Integration of Vision-Language Representations for Deep Cross-Modal Understanding](https://arxiv.org/abs/2504.09925v3)** | 2026-04-29 |  |
+| **[PhyCo: Learning Controllable Physical Priors for Generative Motion](https://arxiv.org/abs/2604.28169v1)** | 2026-04-30 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project Page: https://phyco-video.github.io/</p></details> |
+| **[FreeOcc: Training-Free Embodied Open-Vocabulary Occupancy Prediction](https://arxiv.org/abs/2604.28115v1)** | 2026-04-30 | RSS 2026 |
+| **[Benchmarking Large Vision-Language Models on Fine-Grained Image Tasks: A Comprehensive Evaluation](https://arxiv.org/abs/2504.14988v4)** | 2026-04-30 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
+| **[TransVLM: A Vision-Language Framework and Benchmark for Detecting Any Shot Transitions](https://arxiv.org/abs/2604.27975v1)** | 2026-04-30 | <details><summary>This ...</summary><p>This work has been deployed to production. For more related research, please visit HeyGen Research (https://www.heygen.com/research) and HeyGen Avatar-V (https://www.heygen.com/research/avatar-v-model). Project page: https://chence17.github.io/TransVLM/</p></details> |
+| **[FineState-Bench: Benchmarking State-Conditioned Grounding for Fine-grained GUI State Setting](https://arxiv.org/abs/2604.27974v1)** | 2026-04-30 |  |
+| **[The Effects of Visual Priming on Cooperative Behavior in Vision-Language Models](https://arxiv.org/abs/2604.27953v1)** | 2026-04-30 |  |
+| **[Dynamic Cluster Data Sampling for Efficient and Long-Tail-Aware Vision-Language Pre-training](https://arxiv.org/abs/2604.27932v1)** | 2026-04-30 |  |
+| **[OmniDrive-R1: Reinforcement-driven Interleaved Multi-modal Chain-of-Thought for Trustworthy Vision-Language Autonomous Driving](https://arxiv.org/abs/2512.14044v3)** | 2026-04-30 |  |
+| **[Iterative Multimodal Retrieval-Augmented Generation for Medical Question Answering](https://arxiv.org/abs/2604.27724v1)** | 2026-04-30 |  |
+| **[Auditing Frontier Vision-Language Models for Trustworthy Medical VQA: Grounding Failures, Format Collapse, and Domain Adaptation](https://arxiv.org/abs/2604.27720v1)** | 2026-04-30 |  |
+| **[Improving Calibration in Test-Time Prompt Tuning for Vision-Language Models via Data-Free Flatness-Aware Prompt Pretraining](https://arxiv.org/abs/2604.27715v1)** | 2026-04-30 | CVPR 2026 |
+| **[ImagineNav++: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination](https://arxiv.org/abs/2512.17435v3)** | 2026-04-30 | <details><summary>17 pa...</summary><p>17 pages, 10 figures. arXiv admin note: text overlap with arXiv:2410.09874</p></details> |
+| **[WaferSAGE: Large Language Model-Powered Wafer Defect Analysis via Synthetic Data Generation and Rubric-Guided Reinforcement Learning](https://arxiv.org/abs/2604.27629v1)** | 2026-04-30 | <details><summary>16 pa...</summary><p>16 pages, 3 figures, 8 tables</p></details> |
+| **[Test-Time Distillation for Continual Model Adaptation](https://arxiv.org/abs/2506.02671v3)** | 2026-04-30 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026 Findings</p></details> |
+| **[CheXthought: A global multimodal dataset of clinical chain-of-thought reasoning and visual attention for chest X-ray interpretation](https://arxiv.org/abs/2604.26288v2)** | 2026-04-30 | <details><summary>51 pa...</summary><p>51 pages, 7 figures, 10 tables</p></details> |
 
