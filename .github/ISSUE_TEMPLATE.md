@@ -1,5 +1,5 @@
 ---
-title: Papers - May 04, 2026
+title: Papers - May 05, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PhyCo: Learning Controllable Physical Priors for Generative Motion](https://arxiv.org/abs/2604.28169v1)** | 2026-04-30 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project Page: https://phyco-video.github.io/</p></details> |
-| **[FreeOcc: Training-Free Embodied Open-Vocabulary Occupancy Prediction](https://arxiv.org/abs/2604.28115v1)** | 2026-04-30 | RSS 2026 |
-| **[Benchmarking Large Vision-Language Models on Fine-Grained Image Tasks: A Comprehensive Evaluation](https://arxiv.org/abs/2504.14988v4)** | 2026-04-30 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[TransVLM: A Vision-Language Framework and Benchmark for Detecting Any Shot Transitions](https://arxiv.org/abs/2604.27975v1)** | 2026-04-30 | <details><summary>This ...</summary><p>This work has been deployed to production. For more related research, please visit HeyGen Research (https://www.heygen.com/research) and HeyGen Avatar-V (https://www.heygen.com/research/avatar-v-model). Project page: https://chence17.github.io/TransVLM/</p></details> |
-| **[FineState-Bench: Benchmarking State-Conditioned Grounding for Fine-grained GUI State Setting](https://arxiv.org/abs/2604.27974v1)** | 2026-04-30 |  |
-| **[The Effects of Visual Priming on Cooperative Behavior in Vision-Language Models](https://arxiv.org/abs/2604.27953v1)** | 2026-04-30 |  |
-| **[Dynamic Cluster Data Sampling for Efficient and Long-Tail-Aware Vision-Language Pre-training](https://arxiv.org/abs/2604.27932v1)** | 2026-04-30 |  |
-| **[OmniDrive-R1: Reinforcement-driven Interleaved Multi-modal Chain-of-Thought for Trustworthy Vision-Language Autonomous Driving](https://arxiv.org/abs/2512.14044v3)** | 2026-04-30 |  |
-| **[Iterative Multimodal Retrieval-Augmented Generation for Medical Question Answering](https://arxiv.org/abs/2604.27724v1)** | 2026-04-30 |  |
-| **[Auditing Frontier Vision-Language Models for Trustworthy Medical VQA: Grounding Failures, Format Collapse, and Domain Adaptation](https://arxiv.org/abs/2604.27720v1)** | 2026-04-30 |  |
-| **[Improving Calibration in Test-Time Prompt Tuning for Vision-Language Models via Data-Free Flatness-Aware Prompt Pretraining](https://arxiv.org/abs/2604.27715v1)** | 2026-04-30 | CVPR 2026 |
-| **[ImagineNav++: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination](https://arxiv.org/abs/2512.17435v3)** | 2026-04-30 | <details><summary>17 pa...</summary><p>17 pages, 10 figures. arXiv admin note: text overlap with arXiv:2410.09874</p></details> |
-| **[WaferSAGE: Large Language Model-Powered Wafer Defect Analysis via Synthetic Data Generation and Rubric-Guided Reinforcement Learning](https://arxiv.org/abs/2604.27629v1)** | 2026-04-30 | <details><summary>16 pa...</summary><p>16 pages, 3 figures, 8 tables</p></details> |
-| **[Test-Time Distillation for Continual Model Adaptation](https://arxiv.org/abs/2506.02671v3)** | 2026-04-30 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026 Findings</p></details> |
-| **[CheXthought: A global multimodal dataset of clinical chain-of-thought reasoning and visual attention for chest X-ray interpretation](https://arxiv.org/abs/2604.26288v2)** | 2026-04-30 | <details><summary>51 pa...</summary><p>51 pages, 7 figures, 10 tables</p></details> |
+| **[Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs](https://arxiv.org/abs/2605.00814v1)** | 2026-05-01 |  |
+| **[ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing Supervision](https://arxiv.org/abs/2602.14276v2)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. 28 pages, 15 figures</p></details> |
+| **[Make Your LVLM KV Cache More Lightweight](https://arxiv.org/abs/2605.00789v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted to Transactions on Machine Learning Research (TMLR), 2026</p></details> |
+| **[STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack](https://arxiv.org/abs/2605.00699v1)** | 2026-05-01 |  |
+| **[Adaptive Dual-Teacher Distillation with Subnetwork Rectification for Bridging Semantic Gaps in Black-Box Domain Adaptation](https://arxiv.org/abs/2603.22908v3)** | 2026-05-01 | Under Review |
+| **[Intrinsic Gradient Suppression for Label-Noise Prompt Tuning in Vision-Language Models](https://arxiv.org/abs/2605.00591v1)** | 2026-05-01 |  |
+| **[Jailbreaking Vision-Language Models Through the Visual Modality](https://arxiv.org/abs/2605.00583v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
+| **[RoofNet: A Global Multimodal Dataset for Roof Material Classification](https://arxiv.org/abs/2505.19358v2)** | 2026-05-01 | <details><summary>v2: C...</summary><p>v2: Clarified data sourcing and removed references to imagery subject to licensing restrictions</p></details> |
+| **[Adapting Large VLMs with Iterative and Manual Instructions for Generative Low-light Enhancement](https://arxiv.org/abs/2507.18064v2)** | 2026-05-01 | <details><summary>11 pa...</summary><p>11 papers,8 figures, CVPR2026 Findings</p></details> |
+| **[Leveraging Vision-Language Models as Weak Annotators in Active Learning](https://arxiv.org/abs/2605.00480v1)** | 2026-05-01 | Accepted at ICIP2026 |
+| **[Thinking in Text and Images: Interleaved Vision--Language Reasoning Traces for Long-Horizon Robot Manipulation](https://arxiv.org/abs/2605.00438v1)** | 2026-05-01 |  |
+| **[InterChart: Benchmarking Visual Reasoning Across Decomposed and Distributed Chart Information](https://arxiv.org/abs/2508.07630v2)** | 2026-05-01 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 14 tables. Accepted at IJCNLP-AACL 2025</p></details> |
+| **[RTPrune: Reading-Twice Inspired Token Pruning for Efficient DeepSeek-OCR Inference](https://arxiv.org/abs/2605.00392v1)** | 2026-05-01 | <details><summary>19p p...</summary><p>19p pages, accepted by ICML2026</p></details> |
+| **[Odysseus: Scaling VLMs to 100+ Turn Decision-Making in Games via Reinforcement Learning](https://arxiv.org/abs/2605.00347v1)** | 2026-05-01 |  |
+| **[A Survey on Vision-Language-Action Models for Embodied AI](https://arxiv.org/abs/2405.14093v8)** | 2026-05-01 | <details><summary>Proje...</summary><p>Project page: https://github.com/yueen-ma/Awesome-VLA</p></details> |
 
