@@ -1,5 +1,5 @@
 ---
-title: Papers - May 05, 2026
+title: Papers - May 06, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs](https://arxiv.org/abs/2605.00814v1)** | 2026-05-01 |  |
-| **[ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing Supervision](https://arxiv.org/abs/2602.14276v2)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. 28 pages, 15 figures</p></details> |
-| **[Make Your LVLM KV Cache More Lightweight](https://arxiv.org/abs/2605.00789v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted to Transactions on Machine Learning Research (TMLR), 2026</p></details> |
-| **[STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack](https://arxiv.org/abs/2605.00699v1)** | 2026-05-01 |  |
-| **[Adaptive Dual-Teacher Distillation with Subnetwork Rectification for Bridging Semantic Gaps in Black-Box Domain Adaptation](https://arxiv.org/abs/2603.22908v3)** | 2026-05-01 | Under Review |
-| **[Intrinsic Gradient Suppression for Label-Noise Prompt Tuning in Vision-Language Models](https://arxiv.org/abs/2605.00591v1)** | 2026-05-01 |  |
-| **[Jailbreaking Vision-Language Models Through the Visual Modality](https://arxiv.org/abs/2605.00583v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[RoofNet: A Global Multimodal Dataset for Roof Material Classification](https://arxiv.org/abs/2505.19358v2)** | 2026-05-01 | <details><summary>v2: C...</summary><p>v2: Clarified data sourcing and removed references to imagery subject to licensing restrictions</p></details> |
-| **[Adapting Large VLMs with Iterative and Manual Instructions for Generative Low-light Enhancement](https://arxiv.org/abs/2507.18064v2)** | 2026-05-01 | <details><summary>11 pa...</summary><p>11 papers,8 figures, CVPR2026 Findings</p></details> |
-| **[Leveraging Vision-Language Models as Weak Annotators in Active Learning](https://arxiv.org/abs/2605.00480v1)** | 2026-05-01 | Accepted at ICIP2026 |
-| **[Thinking in Text and Images: Interleaved Vision--Language Reasoning Traces for Long-Horizon Robot Manipulation](https://arxiv.org/abs/2605.00438v1)** | 2026-05-01 |  |
-| **[InterChart: Benchmarking Visual Reasoning Across Decomposed and Distributed Chart Information](https://arxiv.org/abs/2508.07630v2)** | 2026-05-01 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 14 tables. Accepted at IJCNLP-AACL 2025</p></details> |
-| **[RTPrune: Reading-Twice Inspired Token Pruning for Efficient DeepSeek-OCR Inference](https://arxiv.org/abs/2605.00392v1)** | 2026-05-01 | <details><summary>19p p...</summary><p>19p pages, accepted by ICML2026</p></details> |
-| **[Odysseus: Scaling VLMs to 100+ Turn Decision-Making in Games via Reinforcement Learning](https://arxiv.org/abs/2605.00347v1)** | 2026-05-01 |  |
-| **[A Survey on Vision-Language-Action Models for Embodied AI](https://arxiv.org/abs/2405.14093v8)** | 2026-05-01 | <details><summary>Proje...</summary><p>Project page: https://github.com/yueen-ma/Awesome-VLA</p></details> |
+| **[AlbumFill: Album-Guided Reasoning and Retrieval for Personalized Image Completion](https://arxiv.org/abs/2605.02892v1)** | 2026-05-04 | <details><summary>Proje...</summary><p>Project Page: https://liagm.github.io/AlbumFill/</p></details> |
+| **[VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition](https://arxiv.org/abs/2605.02834v1)** | 2026-05-04 | <details><summary>proje...</summary><p>project website at https://tanu.sh/videonet</p></details> |
+| **[jina-vlm: Small Multilingual Vision Language Model](https://arxiv.org/abs/2512.04032v3)** | 2026-05-04 | <details><summary>23 pa...</summary><p>23 pages, 1-10 main content, 11-23 references and appendix</p></details> |
+| **[Perceptual Flow Network for Visually Grounded Reasoning](https://arxiv.org/abs/2605.02730v1)** | 2026-05-04 | <details><summary>36 pa...</summary><p>36 pages with 17 figures, Accepted at ICML 2026</p></details> |
+| **[PubMed-Ophtha: An open resource for training ophthalmology vision-language models on scientific literature](https://arxiv.org/abs/2605.02720v1)** | 2026-05-04 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 3 supplementary figures. Dataset available at https://huggingface.co/datasets/pubmed-ophtha/PubMed-Ophtha. Code available at https://github.com/berenslab/pubmed-ophtha</p></details> |
+| **[AutoFocus: Uncertainty-Aware Active Visual Search for GUI Grounding](https://arxiv.org/abs/2605.02630v1)** | 2026-05-04 | 18 pages, 4 figures |
+| **[Rethinking the Need for Source Models: Source-Free Domain Adaptation from Scratch Guided by a Vision-Language Model](https://arxiv.org/abs/2605.02604v1)** | 2026-05-04 |  |
+| **[CoRAL: Contact-Rich Adaptive LLM-based Control for Robotic Manipulation](https://arxiv.org/abs/2605.02600v1)** | 2026-05-04 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, 3 tables. Accepted to Robotics: Science and Systems (RSS) 2026</p></details> |
+| **[LVLM-Aided Alignment of Task-Specific Vision Models](https://arxiv.org/abs/2512.21985v2)** | 2026-05-04 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
+| **[A Semantic Autonomy Framework for VLM-Integrated Indoor Mobile Robots: Hybrid Deterministic Reasoning and Cross-Robot Adaptive Memory](https://arxiv.org/abs/2605.02525v1)** | 2026-05-04 | <details><summary>33 pa...</summary><p>33 pages, 11 figures, 14 tables</p></details> |
+| **[Enhancing Multimodal In-Context Learning via Inductive-Deductive Reasoning](https://arxiv.org/abs/2605.02378v1)** | 2026-05-04 | Under review |
+| **[Majorization-Guided Test-Time Adaptation for Vision-Language Models under Modality-Specific Shift](https://arxiv.org/abs/2604.24602v2)** | 2026-05-04 |  |
+| **[CoVSpec: Efficient Device-Edge Co-Inference for Vision-Language Models via Speculative Decoding](https://arxiv.org/abs/2605.02218v1)** | 2026-05-04 | <details><summary>6 pag...</summary><p>6 pages, 2 tables, 1 figure. Submitted to IEEE Globecom 2026</p></details> |
+| **[Metric Unreliability in Multimodal Machine Unlearning: A Systematic Analysis and Principled Unified Score](https://arxiv.org/abs/2605.02206v1)** | 2026-05-04 | <details><summary>9 Pag...</summary><p>9 Pages , 6 figures, Neurips 2026</p></details> |
+| **[CBV: Clean-label Backdoor Attacks on Vision Language Models via Diffusion Models](https://arxiv.org/abs/2605.02202v1)** | 2026-05-04 |  |
 
