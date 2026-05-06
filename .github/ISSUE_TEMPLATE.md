@@ -1,10 +1,11 @@
 ---
-title: Papers - May 06, 2026
+title: Papers - May 07, 2026
 labels: documentation
 ---
 ## Open Vocabulary Semantic Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DINO Soars: DINOv3 for Open-Vocabulary Semantic Segmentation of Remote Sensing Imagery](https://arxiv.org/abs/2605.03175v1)** | 2026-05-04 | <details><summary>Accep...</summary><p>Accepted at 2026 CVPR MORSE Workshop</p></details> |
 | **[FA-Seg: A Fast and Accurate Diffusion-Based Method for Open-Vocabulary Segmentation](https://arxiv.org/abs/2506.23323v6)** | 2026-04-29 |  |
 | **[Seeking Consensus: Geometric-Semantic On-the-Fly Recalibration for Open-Vocabulary Remote Sensing Semantic Segmentation](https://arxiv.org/abs/2604.26221v1)** | 2026-04-29 | 11 pages, 9 figures |
 | **[DouC: Dual-Branch CLIP for Training-Free Open-Vocabulary Segmentation](https://arxiv.org/abs/2604.24997v1)** | 2026-04-27 |  |
@@ -19,7 +20,6 @@ labels: documentation
 | **[OV-Stitcher: A Global Context-Aware Framework for Training-Free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2604.08110v2)** | 2026-04-10 |  |
 | **[RADSeg: Unleashing Parameter and Compute Efficient Zero-Shot Open-Vocabulary Segmentation Using Agglomerative Models](https://arxiv.org/abs/2511.19704v2)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted to CVPR'26 Findings Code at https://radseg-ovss.github.io/</p></details> |
 | **[Direct Segmentation without Logits Optimization for Training-Free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2604.07723v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[Decouple and Rectify: Semantics-Preserving Structural Enhancement for Open-Vocabulary Remote Sensing Segmentation](https://arxiv.org/abs/2604.02010v1)** | 2026-04-02 |  |
 
 ## SAM3 - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -81,19 +81,19 @@ labels: documentation
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AlbumFill: Album-Guided Reasoning and Retrieval for Personalized Image Completion](https://arxiv.org/abs/2605.02892v1)** | 2026-05-04 | <details><summary>Proje...</summary><p>Project Page: https://liagm.github.io/AlbumFill/</p></details> |
-| **[VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition](https://arxiv.org/abs/2605.02834v1)** | 2026-05-04 | <details><summary>proje...</summary><p>project website at https://tanu.sh/videonet</p></details> |
-| **[jina-vlm: Small Multilingual Vision Language Model](https://arxiv.org/abs/2512.04032v3)** | 2026-05-04 | <details><summary>23 pa...</summary><p>23 pages, 1-10 main content, 11-23 references and appendix</p></details> |
-| **[Perceptual Flow Network for Visually Grounded Reasoning](https://arxiv.org/abs/2605.02730v1)** | 2026-05-04 | <details><summary>36 pa...</summary><p>36 pages with 17 figures, Accepted at ICML 2026</p></details> |
-| **[PubMed-Ophtha: An open resource for training ophthalmology vision-language models on scientific literature](https://arxiv.org/abs/2605.02720v1)** | 2026-05-04 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 3 supplementary figures. Dataset available at https://huggingface.co/datasets/pubmed-ophtha/PubMed-Ophtha. Code available at https://github.com/berenslab/pubmed-ophtha</p></details> |
-| **[AutoFocus: Uncertainty-Aware Active Visual Search for GUI Grounding](https://arxiv.org/abs/2605.02630v1)** | 2026-05-04 | 18 pages, 4 figures |
-| **[Rethinking the Need for Source Models: Source-Free Domain Adaptation from Scratch Guided by a Vision-Language Model](https://arxiv.org/abs/2605.02604v1)** | 2026-05-04 |  |
-| **[CoRAL: Contact-Rich Adaptive LLM-based Control for Robotic Manipulation](https://arxiv.org/abs/2605.02600v1)** | 2026-05-04 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, 3 tables. Accepted to Robotics: Science and Systems (RSS) 2026</p></details> |
-| **[LVLM-Aided Alignment of Task-Specific Vision Models](https://arxiv.org/abs/2512.21985v2)** | 2026-05-04 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[A Semantic Autonomy Framework for VLM-Integrated Indoor Mobile Robots: Hybrid Deterministic Reasoning and Cross-Robot Adaptive Memory](https://arxiv.org/abs/2605.02525v1)** | 2026-05-04 | <details><summary>33 pa...</summary><p>33 pages, 11 figures, 14 tables</p></details> |
-| **[Enhancing Multimodal In-Context Learning via Inductive-Deductive Reasoning](https://arxiv.org/abs/2605.02378v1)** | 2026-05-04 | Under review |
-| **[Majorization-Guided Test-Time Adaptation for Vision-Language Models under Modality-Specific Shift](https://arxiv.org/abs/2604.24602v2)** | 2026-05-04 |  |
-| **[CoVSpec: Efficient Device-Edge Co-Inference for Vision-Language Models via Speculative Decoding](https://arxiv.org/abs/2605.02218v1)** | 2026-05-04 | <details><summary>6 pag...</summary><p>6 pages, 2 tables, 1 figure. Submitted to IEEE Globecom 2026</p></details> |
-| **[Metric Unreliability in Multimodal Machine Unlearning: A Systematic Analysis and Principled Unified Score](https://arxiv.org/abs/2605.02206v1)** | 2026-05-04 | <details><summary>9 Pag...</summary><p>9 Pages , 6 figures, Neurips 2026</p></details> |
-| **[CBV: Clean-label Backdoor Attacks on Vision Language Models via Diffusion Models](https://arxiv.org/abs/2605.02202v1)** | 2026-05-04 |  |
+| **[IRIS: Intent Resolution via Inference-time Saccades for Open-Ended VQA in Large Vision-Language Models](https://arxiv.org/abs/2602.16138v2)** | 2026-05-05 |  |
+| **[Physically Guided Visual Mass Estimation from a Single RGB Image](https://arxiv.org/abs/2601.20303v2)** | 2026-05-05 | <details><summary>Accep...</summary><p>Accepted to IJCAI 2026 (Main Track)</p></details> |
+| **[StateVLM: A State-Aware Vision-Language Model for Robotic Affordance Reasoning](https://arxiv.org/abs/2605.03927v1)** | 2026-05-05 |  |
+| **[Quantifying the human visual exposome with vision language models](https://arxiv.org/abs/2605.03863v1)** | 2026-05-05 |  |
+| **[Aura-CAPTCHA: A Reinforcement Learning and GAN-Enhanced Multi-Modal CAPTCHA System](https://arxiv.org/abs/2508.14976v2)** | 2026-05-05 |  |
+| **[Before Forgetting, Learn to Remember: Revisiting Foundational Learning Failures in LVLM Unlearning Benchmarks](https://arxiv.org/abs/2605.03759v1)** | 2026-05-05 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
+| **[SurgCheck: Do Vision-Language Models Really Look at Images in Surgical VQA?](https://arxiv.org/abs/2605.01911v2)** | 2026-05-05 |  |
+| **[Deep Interest Mining with Cross-Modal Alignment for SemanticID Generation in Generative Recommendation](https://arxiv.org/abs/2604.20861v2)** | 2026-05-05 |  |
+| **[Closed-Loop Vision-Language Planning for Multi-Agent Coordination](https://arxiv.org/abs/2502.10148v3)** | 2026-05-05 |  |
+| **[The Detector Teaches Itself: Lightweight Self-Supervised Adaptation for Open-Vocabulary Object Detection](https://arxiv.org/abs/2605.03642v1)** | 2026-05-05 | <details><summary>15 pa...</summary><p>15 pages; 4 figures; Accepted to ICPR 2026; Code is available at https://github.com/QM-IPAlab/DAT</p></details> |
+| **[VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition](https://arxiv.org/abs/2605.02834v2)** | 2026-05-05 | <details><summary>CVPR ...</summary><p>CVPR 2026 Highlight. Website at https://tanu.sh/videonet</p></details> |
+| **[Erase Persona, Forget Lore: Benchmarking Multimodal Copyright Unlearning in Large Vision Language Models](https://arxiv.org/abs/2605.03547v1)** | 2026-05-05 | <details><summary>Accep...</summary><p>Accepted to LREC 2026</p></details> |
+| **[AVA: Attentive VLM Agent for Mastering StarCraft II](https://arxiv.org/abs/2503.05383v6)** | 2026-05-05 |  |
+| **[MHPR: Multidimensional Human Perception and Reasoning Benchmark for Large Vision-Languate Models](https://arxiv.org/abs/2605.03485v1)** | 2026-05-05 |  |
+| **[Replacing Parameters with Preferences: Federated Alignment of Heterogeneous Vision-Language Models](https://arxiv.org/abs/2605.03426v1)** | 2026-05-05 |  |
 
