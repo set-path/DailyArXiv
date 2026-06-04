@@ -1,10 +1,12 @@
 ---
-title: Papers - June 03, 2026
+title: Papers - June 05, 2026
 labels: documentation
 ---
 ## Open Vocabulary Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sem-NaVAE: Semantically-Guided Outdoor Mapless Navigation via Generative Trajectory Priors](https://arxiv.org/abs/2602.01429v2)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Robotics and Automation Letters (RA-L). 8 pages, 5 figures</p></details> |
+| **[High-Quality Entity Segmentation and Grounding](https://arxiv.org/abs/2402.02555v2)** | 2026-06-03 |  |
 | **[SegRAG: Training-Free Retrieval-Augmented Semantic Segmentation](https://arxiv.org/abs/2605.17630v2)** | 2026-05-19 |  |
 | **[TravExplorer: Cross-Floor Embodied Exploration via Traversability-Aware 3-D Planning](https://arxiv.org/abs/2605.19958v1)** | 2026-05-19 |  |
 | **[Monocular Open Vocabulary Occupancy Prediction for Indoor Scenes](https://arxiv.org/abs/2602.22667v2)** | 2026-05-18 | <details><summary>Accep...</summary><p>Accepted at CVPR2026 Oral</p></details> |
@@ -18,8 +20,6 @@ labels: documentation
 | **[FA-Seg: A Fast and Accurate Diffusion-Based Method for Open-Vocabulary Segmentation](https://arxiv.org/abs/2506.23323v6)** | 2026-04-29 |  |
 | **[C3G: Learning Compact 3D Representations with 2K Gaussians](https://arxiv.org/abs/2512.04021v2)** | 2026-04-28 | <details><summary>Proje...</summary><p>Project Page : https://cvlab-kaist.github.io/C3G/</p></details> |
 | **[DouC: Dual-Branch CLIP for Training-Free Open-Vocabulary Segmentation](https://arxiv.org/abs/2604.24997v1)** | 2026-04-27 |  |
-| **[Diffusion Model as a Generalist Segmentation Learner](https://arxiv.org/abs/2604.24575v1)** | 2026-04-27 |  |
-| **[Semantic-Fast-SAM: Efficient Semantic Segmenter](https://arxiv.org/abs/2604.20169v2)** | 2026-04-23 | APSIPA ASC 2025 |
 
 ## SAM3 - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -43,57 +43,57 @@ labels: documentation
 ## Large Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling](https://arxiv.org/abs/2606.02578v1)** | 2026-06-01 | ICML 2026 |
-| **[ProtoAda: Prototype-Guided Adaptive Adapter Expansion and Geometric Consolidation for Multimodal Continual Instruction Tuning](https://arxiv.org/abs/2606.02576v1)** | 2026-06-01 |  |
-| **[MineDraft: A Framework for Batch Parallel Speculative Decoding](https://arxiv.org/abs/2603.18016v2)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[AdaCodec: A Predictive Visual Code for Video MLLMs](https://arxiv.org/abs/2606.02569v1)** | 2026-06-01 | 23 pages |
-| **[Probing Minimalist Phase Structure in LLMs: What Universal Dependencies Cannot Represent](https://arxiv.org/abs/2605.26431v2)** | 2026-06-01 |  |
-| **[From Layers to Submodules: Rethinking Granularity in Replacement-Based LLM Compression](https://arxiv.org/abs/2606.02559v1)** | 2026-06-01 |  |
-| **[Pluralistic Leaderboards](https://arxiv.org/abs/2606.02547v1)** | 2026-06-01 |  |
-| **[Transferable Self-Harm Surveillance from Emergency Department Triage Notes Using an Evidence-Augmented Machine Learning Approach](https://arxiv.org/abs/2606.02545v1)** | 2026-06-01 |  |
-| **[SimSD: Simple Speculative Decoding in Diffusion Language Models](https://arxiv.org/abs/2606.02544v1)** | 2026-06-01 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, code available at https://github.com/airevo2/SimSD-release</p></details> |
-| **[SafeSteer: Localized On-Policy Distillation for Efficient Safety Alignment](https://arxiv.org/abs/2606.02530v1)** | 2026-06-01 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 14 tables. Submitted to EMNLP 2026</p></details> |
-| **[Auditing Asset-Specific Preferences in Financial Large Language Models: Evidence from Bitcoin Representations and Portfolio Allocation](https://arxiv.org/abs/2606.02528v1)** | 2026-06-01 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 18 tables</p></details> |
-| **[Moment-Video: Diagnosing Temporal Fidelity of Video MLLMs on Momentary Visual Events](https://arxiv.org/abs/2606.02522v1)** | 2026-06-01 | <details><summary>28 pa...</summary><p>28 pages, 10 figures, 11 tables</p></details> |
-| **[Optimizing Diversity and Quality through Base-Aligned Model Collaboration](https://arxiv.org/abs/2511.05650v2)** | 2026-06-01 | <details><summary>ICML ...</summary><p>ICML 2026. (47 pages, 22 figures)</p></details> |
-| **[What Do LLMs Know About Alzheimer's Disease? Multi-loss Fine-Tuning and Probing for AD Detection](https://arxiv.org/abs/2602.11177v2)** | 2026-06-01 |  |
-| **[When Rating Scales Fall Short: LLM-Assisted Discovery of ADHD Signals in Turkish Teacher Narratives](https://arxiv.org/abs/2606.02509v1)** | 2026-06-01 | <details><summary>15 pa...</summary><p>15 pages. Accepted to CLPsych 2026. Camera-ready author version. The final version will appear in the ACL Anthology</p></details> |
+| **[STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations](https://arxiv.org/abs/2606.05165v1)** | 2026-06-03 | <details><summary>proje...</summary><p>project page: https://stride-tda.github.io/</p></details> |
+| **[Self-Evaluation Is Already There: Eliciting Latent Judge Calibration in Base LLMs with Minimal Data](https://arxiv.org/abs/2606.05122v1)** | 2026-06-03 |  |
+| **[How Software Engineering Students Use LLMs to Write Research Papers: An Experience Report](https://arxiv.org/abs/2606.05114v1)** | 2026-06-03 |  |
+| **[Evaluating Large Language Models in Dynamic Clinical Decision-Making with Standardized Patient Cases](https://arxiv.org/abs/2606.05112v1)** | 2026-06-03 |  |
+| **[Not What, But How: A Framework for Auditing LLM Responses across Positioning, Generalization, Anthromorphism, and Maxims](https://arxiv.org/abs/2606.02493v2)** | 2026-06-03 | <details><summary>34 pa...</summary><p>34 pages, 19 Figures, 4 Tables</p></details> |
+| **[Formal Semantics for Agentic Tool Protocols: A Process Calculus Approach](https://arxiv.org/abs/2603.24747v2)** | 2026-06-03 | <details><summary>Logic...</summary><p>Logical flaw in Theorem 21</p></details> |
+| **[Automatic Generation of Titles for Research Papers Using Language Models](https://arxiv.org/abs/2606.05085v1)** | 2026-06-03 | <details><summary>24 pa...</summary><p>24 pages, 24 tables, 01 figure</p></details> |
+| **[Can Large Language Models Generalize Procedures Across Representations?](https://arxiv.org/abs/2602.03542v2)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[Luminol-AIDetect: Fast Zero-shot Machine-Generated Text Detection based on Perplexity under Text Shuffling](https://arxiv.org/abs/2604.25860v2)** | 2026-06-03 | Under Review |
+| **[Chuck, Wilson and the emergence of artificial minds in human-AI conversations](https://arxiv.org/abs/2601.13081v2)** | 2026-06-03 | 21 pages, 3 figures |
+| **[Fast & Faithful Function Vectors](https://arxiv.org/abs/2606.05079v1)** | 2026-06-03 |  |
+| **[Culturally Grounded Personas in Large Language Models: Characterization and Alignment with Socio-Psychological Value Frameworks](https://arxiv.org/abs/2601.22396v2)** | 2026-06-03 | Under Review |
+| **[UniCAD: A Unified Benchmark and Universal Model for Multi-Modal Multi-Task CAD](https://arxiv.org/abs/2606.05058v1)** | 2026-06-03 |  |
+| **[Boosting Self-Consistency with Ranking](https://arxiv.org/abs/2606.05054v1)** | 2026-06-03 | <details><summary>16 pa...</summary><p>16 pages, 13 figures, accepted at ACL Student Research Workshop 2026</p></details> |
+| **[Unlocking Crowdsourcing for Ontology Matching Validation](https://arxiv.org/abs/2605.12226v4)** | 2026-06-03 | 6 pages, 7 figures |
 
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models](https://arxiv.org/abs/2606.02580v1)** | 2026-06-01 |  |
-| **[VLMs are Good Teachers for Video Reasoning via Adaptive Test-Time Optimization](https://arxiv.org/abs/2606.02564v1)** | 2026-06-01 | <details><summary>Proje...</summary><p>Project Page: https://VLM-as-Teacher.github.io/</p></details> |
-| **[SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models](https://arxiv.org/abs/2605.31597v2)** | 2026-06-01 | <details><summary>Proje...</summary><p>Project page: https://genintel.github.io/SOCO/</p></details> |
-| **[SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL](https://arxiv.org/abs/2512.04069v2)** | 2026-06-01 | CVPR 2026 |
-| **[MASER: Modality-Adaptive Specialist Routing for Embodied 3D Spatial Intelligence](https://arxiv.org/abs/2606.02463v1)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Foundation Models Meet Embodied Agents Workshop</p></details> |
-| **[Active Exploring like a Pigeon: Reinforcing Spatial Reasoning via Agentic Vision-Language Models](https://arxiv.org/abs/2606.02459v1)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[Bridging the Sim-to-Real Gap in Semiconductor Visual Program Synthesis via Input Binarization](https://arxiv.org/abs/2606.02434v1)** | 2026-06-01 |  |
-| **[CLIP Tricks You: Training-free Token Pruning for Efficient Pixel Grounding in Large VIsion-Language Models](https://arxiv.org/abs/2605.13178v2)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[Training-Free Composed Video Retrieval via Visual Representation-Guided Video-LLM Reasoning](https://arxiv.org/abs/2606.02321v1)** | 2026-06-01 | <details><summary>CVPR ...</summary><p>CVPR 2026, VidLLMs workshop</p></details> |
-| **[Cross-modal linkage risk in clinical vision-language models](https://arxiv.org/abs/2606.02276v1)** | 2026-06-01 |  |
-| **[Dexterity-BEV: Aligning 3D World and Actions for Generalizable Robot Policies Learning](https://arxiv.org/abs/2606.02274v1)** | 2026-06-01 | under review |
-| **[Vision-language Models for Driver Monitoring Systems: A Driver Activity Description Dataset](https://arxiv.org/abs/2606.02273v1)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted at IEEE ITSC 2026</p></details> |
-| **[Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments](https://arxiv.org/abs/2605.30280v2)** | 2026-06-01 | 34 pages |
-| **[TRACE: Evidence Grounding-Guided Multi-Video Event Understanding and Claim Generation](https://arxiv.org/abs/2605.16740v2)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Workshop</p></details> |
-| **[AIGaitor: Privacy-preserving and cloud-free motion analysis for everyone, using edge computing](https://arxiv.org/abs/2605.21421v2)** | 2026-06-01 | <details><summary>18 pa...</summary><p>18 pages 3 figures, 2 tables</p></details> |
+| **[Belief-Aware VLM Model for Human-like Reasoning](https://arxiv.org/abs/2604.09686v2)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted for publication at the IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2026). 6 pages, 3 figures, 1 table</p></details> |
+| **[The Mechanistic Emergence of Symbol Grounding in Language Models](https://arxiv.org/abs/2510.13796v3)** | 2026-06-03 |  |
+| **[Food-R1: A Unified Multi-Task Food Vision-Language Model with Reinforcement Learning](https://arxiv.org/abs/2606.04986v1)** | 2026-06-03 |  |
+| **[Improving Semantic Uncertainty Quantification in LVLMs with Semantic Gaussian Processes](https://arxiv.org/abs/2512.14177v3)** | 2026-06-03 |  |
+| **[Geometry-Aware Distillation for Prompt Tuning Biomedical Vision-Language Models](https://arxiv.org/abs/2606.04922v1)** | 2026-06-03 | <details><summary>Prepr...</summary><p>Preprint. Code is available at https://github.com/tientrandinh/OGKD</p></details> |
+| **[StateVLM: A State-Aware Vision-Language Model for Robotic Affordance Reasoning](https://arxiv.org/abs/2605.03927v2)** | 2026-06-03 |  |
+| **[Can VLMs Predict Future States? Bootstrapping World Models from Inverse Dynamics](https://arxiv.org/abs/2506.06006v3)** | 2026-06-03 |  |
+| **[NextMotionQA: Benchmarking and Judging Human Motion Understanding with Vision-Language Models](https://arxiv.org/abs/2606.04773v1)** | 2026-06-03 | <details><summary>23 pa...</summary><p>23 pages, 8 figures, 9 tables</p></details> |
+| **[Toward Trustworthy Portrait Editing: Evaluation of Demographic Misrepresentation in I2I Models](https://arxiv.org/abs/2602.16149v2)** | 2026-06-03 | <details><summary>22 pa...</summary><p>22 pages, 10 figures. Minki Hong and Sieun Choi contributed equally</p></details> |
+| **[Query-based Cross-Modal Projector Bolstering Mamba Multimodal LLM](https://arxiv.org/abs/2606.04719v1)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2024 Findings</p></details> |
+| **[EvoPrompt: Guided Prompt Evolution for Vision-Language Models Adaptation](https://arxiv.org/abs/2603.09493v2)** | 2026-06-03 |  |
+| **[TrajTok: Learning Trajectory Tokens enables better Video Understanding](https://arxiv.org/abs/2602.22779v3)** | 2026-06-03 | CVPR 2026 |
+| **[Beyond Symmetric Alignment: Spectral Diagnostics of Modality Imbalance in Vision-Language Models in the Medical Domain](https://arxiv.org/abs/2606.04613v1)** | 2026-06-03 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 9 tables</p></details> |
+| **[Selectivity Estimation for Semantic Filters on Image Data](https://arxiv.org/abs/2606.04610v1)** | 2026-06-03 |  |
+| **[Impostor: An Agent-Curated Benchmark for Realistic AIGC Manipulation Localization](https://arxiv.org/abs/2606.04545v1)** | 2026-06-03 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 5 tables</p></details> |
 
 ## Agent - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ClinEnv: An Interactive Multi-Stage Long Horizon EHR Environment for Agents](https://arxiv.org/abs/2606.02568v1)** | 2026-06-01 | <details><summary>20 pa...</summary><p>20 pages, 6 figures, 12 tables</p></details> |
-| **[Causal state binding predicts action control in language agents](https://arxiv.org/abs/2605.09692v3)** | 2026-06-01 | <details><summary>85 pa...</summary><p>85 pages, 5 main figures; supplementary information included</p></details> |
-| **[Tracking the Behavioral Trajectories of Adapting Agents](https://arxiv.org/abs/2606.02536v1)** | 2026-06-01 | <details><summary>5 pag...</summary><p>5 pages, 1 figure. To appear at the Second Workshop on Agents in the Wild: Safety, Security, and Beyond (AIWILD) at ICML 2026</p></details> |
-| **[IMAC-AgriVLN: Can Agricultural Vision-and-Language Navigation Agents be Aware of Instruction Mistakes?](https://arxiv.org/abs/2606.02519v1)** | 2026-06-01 |  |
-| **[LLM Anonymization Against Agentic Re-Identification](https://arxiv.org/abs/2605.30848v2)** | 2026-06-01 | 32 pages, 7 figures |
-| **[Bridging the Last Mile of Time Series Forecasting with LLM Agents](https://arxiv.org/abs/2606.02497v1)** | 2026-06-01 |  |
-| **[Monitoring Agentic Systems Before They're Reliable](https://arxiv.org/abs/2606.02494v1)** | 2026-06-01 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 3 tables. Accepted to the Workshop on Agentic Software Engineering (AgenticSE), co-located with ACM CAIS 2026 (non-archival)</p></details> |
-| **[Iteris: Agentic Research Loops for Computational Mathematics](https://arxiv.org/abs/2606.02484v1)** | 2026-06-01 | 43 pages |
-| **[Ghost Tool Calls: Issue-Time Privacy for Speculative Agent Tools](https://arxiv.org/abs/2606.02483v1)** | 2026-06-01 |  |
-| **[MCP-Persona: Benchmarking LLM Agents on Real-World Personal Applications via Environment Simulation](https://arxiv.org/abs/2606.02470v1)** | 2026-06-01 | <details><summary>ICML ...</summary><p>ICML 2026 Camera Ready</p></details> |
-| **[AGENTCL: Toward Rigorous Evaluation of Continual Learning in Language Agents](https://arxiv.org/abs/2606.02461v1)** | 2026-06-01 | 10 pages |
-| **[Active Exploring like a Pigeon: Reinforcing Spatial Reasoning via Agentic Vision-Language Models](https://arxiv.org/abs/2606.02459v1)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[Beyond One-shot: AI Agents for Learning in Field Experiments](https://arxiv.org/abs/2606.02458v1)** | 2026-06-01 |  |
-| **[HLL: Can Agents Cross Humanity's Last Line of Verification?](https://arxiv.org/abs/2606.02449v1)** | 2026-06-01 | 27 pages, 14 figures |
-| **[MACCA: Offline Multi-agent Reinforcement Learning with Causal Credit Assignment](https://arxiv.org/abs/2312.03644v3)** | 2026-06-01 | 21 pages, 4 figures |
+| **[Streaming Communication in Multi-Agent Reasoning](https://arxiv.org/abs/2606.05158v1)** | 2026-06-03 | <details><summary>proje...</summary><p>project page: https://zhenyangcs.github.io/StreamMA-website/</p></details> |
+| **[Towards Efficient and Evidence-grounded Mobility Prediction with LLM-Driven Agent](https://arxiv.org/abs/2606.05130v1)** | 2026-06-03 |  |
+| **[Formal Semantics for Agentic Tool Protocols: A Process Calculus Approach](https://arxiv.org/abs/2603.24747v2)** | 2026-06-03 | <details><summary>Logic...</summary><p>Logical flaw in Theorem 21</p></details> |
+| **[Strabo: Declarative Specification and Implementation of Agentic Interaction Protocols](https://arxiv.org/abs/2606.05043v1)** | 2026-06-03 | <details><summary>Prese...</summary><p>Presented in the Engineering Multiagent Systems Workshop co-located with the 2026 International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)</p></details> |
+| **[VulnAgent-R2: Evidence-Calibrated Multi-Agent Auditing for Repository-Level Vulnerability Detection](https://arxiv.org/abs/2603.13384v3)** | 2026-06-03 | 13 pages, 4 figures |
+| **[Self-Reflective APIs: Structure Beats Verbosity for AI Agent Recovery](https://arxiv.org/abs/2606.05037v1)** | 2026-06-03 |  |
+| **[MetaPoint: Unlocking Precise Spatial Control in Agentic Visual Generation](https://arxiv.org/abs/2606.05031v1)** | 2026-06-03 |  |
+| **[Enhancing the MADDPG Algorithm for Multi-Agent Learning via Action Inference and Importance Sampling](https://arxiv.org/abs/2606.05021v1)** | 2026-06-03 |  |
+| **[DAR: Deontic Reasoning with Agentic Harnesses](https://arxiv.org/abs/2606.05009v1)** | 2026-06-03 |  |
+| **[GroupTravelBench: Benchmarking LLM Agents on Multi-Person Travel Planning](https://arxiv.org/abs/2605.25200v2)** | 2026-06-03 | work in process |
+| **[GARL: Game-Theoretic Reinforcement Learning for Multi-Agent Strategic Prioritisation](https://arxiv.org/abs/2606.05002v1)** | 2026-06-03 |  |
+| **[Solving Zebra Puzzles Using Constraint-Guided Multi-Agent Systems](https://arxiv.org/abs/2407.03956v3)** | 2026-06-03 |  |
+| **[Demystifying Multi-Agent Debate: The Role of Confidence and Diversity](https://arxiv.org/abs/2601.19921v3)** | 2026-06-03 |  |
+| **[From Agent Traces to Trust: Evidence Tracing and Execution Provenance in LLM Agents](https://arxiv.org/abs/2606.04990v1)** | 2026-06-03 |  |
+| **[Be Fair! Can Machine Learning Engineering Agents Adhere to Fairness Constraints?](https://arxiv.org/abs/2606.04971v1)** | 2026-06-03 |  |
 
