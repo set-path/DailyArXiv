@@ -1,5 +1,5 @@
 ---
-title: Papers - June 08, 2026
+title: Papers - June 09, 2026
 labels: documentation
 ---
 ## Open Vocabulary Segmentation - Preview 15 papers
@@ -43,57 +43,57 @@ labels: documentation
 ## Large Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions](https://arxiv.org/abs/2602.05843v2)** | 2026-06-04 | 34 pages |
-| **[PAR3D: A Unified 3D-MLLM with Part-Aware Representation for Scene Understanding](https://arxiv.org/abs/2606.06485v1)** | 2026-06-04 | <details><summary>Proje...</summary><p>Project page: https://atrovast.github.io/PAR3D/</p></details> |
-| **[MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery](https://arxiv.org/abs/2606.06473v1)** | 2026-06-04 |  |
-| **[Human Adults and LLMs as Scientists: Who Benefits from Active Exploration?](https://arxiv.org/abs/2606.06464v1)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted at the 48th Annual Conference of the Cognitive Science Society (CogSci 2026)</p></details> |
-| **[From Out-of-Distribution Detection to Hallucination Detection: A Geometric View](https://arxiv.org/abs/2602.07253v4)** | 2026-06-04 | <details><summary>ICML ...</summary><p>ICML 2026 main conference paper</p></details> |
-| **[Scaffold, Not Vocabulary? A Controlled, Two-Tier, Pre-Registered Study of a Popperian Code-Generation Skill](https://arxiv.org/abs/2606.06454v1)** | 2026-06-04 | <details><summary>34 pa...</summary><p>34 pages, 5 figures, 8 tables</p></details> |
-| **[Vortex: Efficient and Programmable Sparse Attention Serving for AI Agents](https://arxiv.org/abs/2606.06453v1)** | 2026-06-04 |  |
-| **[Latent Reasoning with Normalizing Flows](https://arxiv.org/abs/2606.06447v1)** | 2026-06-04 |  |
-| **[USAD 2.0: Scaling Representation Distillation for Universal Audio Understanding](https://arxiv.org/abs/2606.06444v1)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
-| **[Revising Context, Shifting Simulated Stance: Auditing LLM-Based Stance Simulation in Online Discussions](https://arxiv.org/abs/2606.06443v1)** | 2026-06-04 |  |
-| **[Reinforcement Learning Elicits Contextual Learning of Unseen Language Translation](https://arxiv.org/abs/2606.06428v1)** | 2026-06-04 | 15 pages, 2 figures |
-| **[Annotation of Positive vs Negative User Interactions for Social Sign Prediction](https://arxiv.org/abs/2606.06425v1)** | 2026-06-04 |  |
-| **[RAG Security and Privacy: Formalizing the Threat Model and Attack Surface](https://arxiv.org/abs/2509.20324v2)** | 2026-06-04 | <details><summary>Publi...</summary><p>Published at the 5th ICDM Workshop in November 2025</p></details> |
-| **[A Komi-Yazva--Russian Parallel Corpus and Evaluation Protocol for Zero- and Few-Shot LLM Translation](https://arxiv.org/abs/2606.06420v1)** | 2026-06-04 | <details><summary>18 pa...</summary><p>18 pages, 6 tables, 3 figures</p></details> |
-| **[CollabSim: A CSCW-Grounded Methodology for Investigating Collaborative Competence of LLM Agents through Controlled Multi-Agent Experiments](https://arxiv.org/abs/2606.06399v1)** | 2026-06-04 |  |
+| **[How reliable are LLMs when it comes to playing dice?](https://arxiv.org/abs/2606.07515v1)** | 2026-06-05 |  |
+| **[Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings](https://arxiv.org/abs/2606.07502v1)** | 2026-06-05 | preprint |
+| **[Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning](https://arxiv.org/abs/2606.07500v1)** | 2026-06-05 | <details><summary>19 pa...</summary><p>19 pages. arXiv admin note: text overlap with arXiv:2601.17616</p></details> |
+| **[LLM-Guided Search for Deletion-Correcting Codes](https://arxiv.org/abs/2504.00613v2)** | 2026-06-05 |  |
+| **[Watch, Remember, Reason: Human-View Video Understanding with MLLMs](https://arxiv.org/abs/2606.07433v1)** | 2026-06-05 |  |
+| **[The Masked Advantage: Uncovering Local-Language Access to Cultural Knowledge in LLMs](https://arxiv.org/abs/2606.07422v1)** | 2026-06-05 |  |
+| **[Lost in Migration: Exposing Android Framework Vulnerabilities in Parallel Java-Kotlin Implementations](https://arxiv.org/abs/2606.07420v1)** | 2026-06-05 | 14 pages |
+| **[A Comprehensive Anatomy of Human and DeepSeek-R1 LLM Mathematical Reasoning](https://arxiv.org/abs/2606.07410v1)** | 2026-06-05 |  |
+| **[Mining Useful General Data for Low-Resource Domain Adaptation](https://arxiv.org/abs/2511.07380v2)** | 2026-06-05 | 39 pages |
+| **[Online Pandora's Box for Contextual LLM Cascading](https://arxiv.org/abs/2606.07392v1)** | 2026-06-05 |  |
+| **[Self-evolving LLM agents with in-distribution Optimization](https://arxiv.org/abs/2606.07367v1)** | 2026-06-05 | ICML 2026 |
+| **[Ask Safely: Privacy-Aware LLM Query Generation for Knowledge Graphs](https://arxiv.org/abs/2512.04852v2)** | 2026-06-05 |  |
+| **[LLM-Guided Evolution for Medical Decision Pipelines](https://arxiv.org/abs/2606.07342v1)** | 2026-06-05 |  |
+| **[Beyond tokens: a unified framework for latent communication in LLM-based multi-agent systems](https://arxiv.org/abs/2606.05711v2)** | 2026-06-05 |  |
+| **[Empirical Evaluation of Large Language Models for Migration of Code Fragments to Post-Quantum Cryptography](https://arxiv.org/abs/2606.07341v1)** | 2026-06-05 |  |
 
 ## Vision Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators](https://arxiv.org/abs/2606.06476v1)** | 2026-06-04 | <details><summary>Proje...</summary><p>Project page: https://zcmax.github.io/projects/Thinking-With-Imagination</p></details> |
-| **[EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models](https://arxiv.org/abs/2606.06379v1)** | 2026-06-04 |  |
-| **[SEDualVLN: A Spatially-Enhanced Dual-System for Vision-Language Navigation](https://arxiv.org/abs/2605.17249v2)** | 2026-06-04 |  |
-| **[Beyond False Stability: High-Noise Drift Gating for Test-Time Adversarial Defenses in Vision-Language Models](https://arxiv.org/abs/2606.03730v2)** | 2026-06-04 |  |
-| **[Adversarial Attacks Already Tell the Answer: Directional Bias-Guided Test-time Defense for Vision-Language Models](https://arxiv.org/abs/2606.06186v1)** | 2026-06-04 | Accepted by ICLR2026 |
-| **[AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding](https://arxiv.org/abs/2606.06155v1)** | 2026-06-04 | <details><summary>Prepr...</summary><p>Preprint. Code and project page are available. Code: https://github.com/Skywalker-yqz/AffordanceVLA Project page: https://skywalker-yqz.github.io/AffordanceVLA/</p></details> |
-| **[RedEdit: Agentic Red-Teaming of Image Safety Classifiers via MCTS-Guided Photo-Editing](https://arxiv.org/abs/2606.06140v1)** | 2026-06-04 |  |
-| **[Where, What, Why, and Importance: Structured Defect Grounding for Text-to-Image Feedback](https://arxiv.org/abs/2606.06113v1)** | 2026-06-04 | 25 pages, 9 figures |
-| **[HyperVis: Continuous Latent Visual Relational Graphs on the Lorentz Hyperboloid for Compositional Reasoning](https://arxiv.org/abs/2606.06100v1)** | 2026-06-04 |  |
-| **[Learning Visual Spatial Planning from Symbolic State via Modality-Gap-Aware Self-Distillation](https://arxiv.org/abs/2606.06076v1)** | 2026-06-04 | 17 pages, preprint |
-| **[A Conversational Framework for Human-Robot Collaborative Manipulation with Distributed Generative AI models](https://arxiv.org/abs/2606.06061v1)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted to the 35th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2026). The final published version will appear under the title "A Distributed Conversational Framework for Human-Robot Collaborative Manipulation Using Local LLMs and VLMs"</p></details> |
-| **[Once-For-All: A Train-Once and Select-Anytime Framework for Multimodal Instruction Tuning](https://arxiv.org/abs/2605.26761v2)** | 2026-06-04 | <details><summary>15 pa...</summary><p>15 pages, 6 figures. Mingkang Dong and Hongyi Cai contributed equally to this work. Muxin Pu is the corresponding author</p></details> |
-| **[Global-Local Monte Carlo Tree Search in Vision-Language Models for Text-to-3D Indoor Scene Generation](https://arxiv.org/abs/2606.06002v1)** | 2026-06-04 |  |
-| **[T-FunS3D: Task-Driven Hierarchical Open-Vocabulary 3D Functionality Segmentation](https://arxiv.org/abs/2606.05975v1)** | 2026-06-04 |  |
-| **[Causal Scaffolding for Physical Reasoning: A Benchmark for Causally-Informed Physical World Understanding in VLMs](https://arxiv.org/abs/2606.05966v1)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted by KDD 2026 Dataset and Benchmark Track</p></details> |
+| **[MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism](https://arxiv.org/abs/2606.07512v1)** | 2026-06-05 |  |
+| **[Focus-then-Context: Subject-Centric Progressive Visual Token Reduction for Vision-Language Models](https://arxiv.org/abs/2605.20950v2)** | 2026-06-05 |  |
+| **[TEVI: Text-Conditioned Editing of Visual Representations via Sparse Autoencoders for Improved Vision-Language Alignment](https://arxiv.org/abs/2606.07451v1)** | 2026-06-05 | <details><summary>20 pa...</summary><p>20 pages, 13 figures, 14 tables</p></details> |
+| **[Defending Jailbreak Attacks on Large Language Models via Manifold Trajectory Kinetics](https://arxiv.org/abs/2606.07335v1)** | 2026-06-05 | <details><summary>Accep...</summary><p>Accepted to USENIX Security '26 Cycle 2. Code is available at https://github.com/Rookie143/mtk</p></details> |
+| **[CRAFT: Coaching Reinforcement Learning Autonomously using Foundation Models for Multi-Robot Coordination Tasks](https://arxiv.org/abs/2509.14380v3)** | 2026-06-05 |  |
+| **[Textual Supervision Enhances Geospatial Representations in Vision-Language Models](https://arxiv.org/abs/2606.07172v1)** | 2026-06-05 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[TraRA: Trajectory-level Recognition Aggregation for Video Text Spotting in Urban Surveillance](https://arxiv.org/abs/2606.07161v1)** | 2026-06-05 | <details><summary>22nd ...</summary><p>22nd IEEE International Conference on Advanced Visual and Signal-Based Systems</p></details> |
+| **[Audio-Visual World Models: Grounding Multisensory Imagination for Embodied Agents](https://arxiv.org/abs/2512.00883v3)** | 2026-06-05 |  |
+| **[GP-Adapter: Gaussian Process CLIP-Adapter for Few-Shot Out-of-Distribution Detection](https://arxiv.org/abs/2606.07102v1)** | 2026-06-05 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, Accepted at IJCNN 2026</p></details> |
+| **[Teaching the Way, Not the Answer: Privileged Tutoring Distillation for Multimodal Policy Optimization](https://arxiv.org/abs/2606.07000v1)** | 2026-06-05 |  |
+| **[ViVa: A Video-Generative Value Model for Robot Reinforcement Learning](https://arxiv.org/abs/2604.08168v2)** | 2026-06-05 |  |
+| **[SS-TPT: Stability and Suitability-Guided Test-Time Prompt Tuning for Adversarially Robust Vision-Language Models](https://arxiv.org/abs/2606.06943v1)** | 2026-06-05 | Accepted in ICML2026 |
+| **[When CLIP Sees More, It Fights Back Harder: Multi-View Guided Adaptive Counterattacks for Test-Time Adversarial Robustness](https://arxiv.org/abs/2606.06938v1)** | 2026-06-05 | Accepted in CVPR2026 |
+| **[Rethinking Genomic Modeling Through Optical Character Recognition](https://arxiv.org/abs/2602.02014v2)** | 2026-06-05 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
+| **[Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors](https://arxiv.org/abs/2606.06891v1)** | 2026-06-05 | <details><summary>Proje...</summary><p>Project Page: https://stream3d-vlm.github.io/</p></details> |
 
 ## Agent - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers](https://arxiv.org/abs/2606.06493v1)** | 2026-06-04 | 22 pages, 9 figures |
-| **[ProfiliTable: Profiling-Driven Tabular Data Processing via Agentic Workflows](https://arxiv.org/abs/2605.12376v2)** | 2026-06-04 |  |
-| **[Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators](https://arxiv.org/abs/2606.06476v1)** | 2026-06-04 | <details><summary>Proje...</summary><p>Project page: https://zcmax.github.io/projects/Thinking-With-Imagination</p></details> |
-| **[Will the Agent Recuse Itself? Measuring LLM-Agent Compliance with In-Band Access-Deny Signals](https://arxiv.org/abs/2606.06460v1)** | 2026-06-04 | <details><summary>8 pag...</summary><p>8 pages, 1 figure. Code, specification, and experiment harness: https://github.com/mthamil107/Recuse</p></details> |
-| **[Vortex: Efficient and Programmable Sparse Attention Serving for AI Agents](https://arxiv.org/abs/2606.06453v1)** | 2026-06-04 |  |
-| **[Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads](https://arxiv.org/abs/2606.06448v1)** | 2026-06-04 |  |
-| **[Unsupervised Skill Discovery for Agentic Data Analysis](https://arxiv.org/abs/2606.06416v1)** | 2026-06-04 | Work in progress |
-| **[CollabSim: A CSCW-Grounded Methodology for Investigating Collaborative Competence of LLM Agents through Controlled Multi-Agent Experiments](https://arxiv.org/abs/2606.06399v1)** | 2026-06-04 |  |
-| **[Humans' ALMANAC: A Human Collaboration Dataset of Action-Level Mental Model Annotations for Agent Collaboration](https://arxiv.org/abs/2606.06388v1)** | 2026-06-04 |  |
-| **[WebMCP Tool Surface Poisoning: Runtime Manipulation Attacks on LLM Agents](https://arxiv.org/abs/2606.06387v1)** | 2026-06-04 |  |
-| **[Detecting Perspective Shifts in Multi-agent Systems](https://arxiv.org/abs/2512.05013v2)** | 2026-06-04 |  |
-| **[From Failed Trajectories to Reliable LLM Agents: Diagnosing and Repairing Harness Flaws](https://arxiv.org/abs/2606.06324v1)** | 2026-06-04 |  |
-| **[When Does Multi-Agent Collaboration Help? An Entropy Perspective](https://arxiv.org/abs/2602.04234v6)** | 2026-06-04 | <details><summary>Proje...</summary><p>Project page: https://multiagent-entropy.github.io/</p></details> |
-| **[More than a Judge: An Empirical Study of Agent-Human Interaction in Crowdsourced Testing Assessment](https://arxiv.org/abs/2606.06301v1)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted manuscript to ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
-| **[CaMeLs Can Use Computers Too: System-level Security for Computer Use Agents](https://arxiv.org/abs/2601.09923v3)** | 2026-06-04 |  |
+| **[Agentopia: Long-Term Life Simulation and Learning in Agent Societies](https://arxiv.org/abs/2606.07513v1)** | 2026-06-05 | 79 pages, 19 figures |
+| **[MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism](https://arxiv.org/abs/2606.07512v1)** | 2026-06-05 |  |
+| **[How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope](https://arxiv.org/abs/2606.07489v1)** | 2026-06-05 |  |
+| **[SentinelBench: A Benchmark for Long-Running Monitoring Agents](https://arxiv.org/abs/2606.05342v2)** | 2026-06-05 | 18 pages, 16 figures |
+| **[Act As a Real Researcher: A Suite of Benchmarks Evaluating Frontier LLMs and Agentic Harnesses in Research Lifecycle](https://arxiv.org/abs/2606.07462v1)** | 2026-06-05 |  |
+| **[Agentic Very Much! Adoption of Coding Agent in New GitHub Projects](https://arxiv.org/abs/2606.07448v1)** | 2026-06-05 |  |
+| **[Skill-3D: Evolving Scene-Aware Skills for Agentic 3D Spatial Reasoning](https://arxiv.org/abs/2606.07436v1)** | 2026-06-05 |  |
+| **[Robust Instruction Compliance in Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2605.12655v2)** | 2026-06-05 |  |
+| **[Socratic-SWE: Self-Evolving Coding Agents via Trace-Derived Agent Skills](https://arxiv.org/abs/2606.07412v1)** | 2026-06-05 | <details><summary>21 pa...</summary><p>21 pages, 5 figures. Under review</p></details> |
+| **[M$^3$Exam: Benchmarking Multimodal Memory for Realistic User-Agent Interactions](https://arxiv.org/abs/2606.07402v1)** | 2026-06-05 |  |
+| **[Audio-Oscar: A Multi-Agent System for Complex Audio Scene Generation, Orchestration, and Refinement](https://arxiv.org/abs/2606.07397v1)** | 2026-06-05 |  |
+| **[Do Coding Agents Deceive Us? Detecting and Preventing Cheating via Capped Evaluation with Randomized Tests](https://arxiv.org/abs/2606.07379v1)** | 2026-06-05 |  |
+| **[An End-to-End Encrypted Control Pipeline for Multi-Agent Coordination via CKKS Homomorphic Encryption](https://arxiv.org/abs/2606.07375v1)** | 2026-06-05 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Self-evolving LLM agents with in-distribution Optimization](https://arxiv.org/abs/2606.07367v1)** | 2026-06-05 | ICML 2026 |
+| **[Beyond tokens: a unified framework for latent communication in LLM-based multi-agent systems](https://arxiv.org/abs/2606.05711v2)** | 2026-06-05 |  |
 
