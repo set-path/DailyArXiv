@@ -1,5 +1,5 @@
 ---
-title: Papers - September 08, 2026
+title: Papers - September 09, 2026
 labels: documentation
 ---
 ## Open Vocabulary Segmentation - Preview 15 papers
