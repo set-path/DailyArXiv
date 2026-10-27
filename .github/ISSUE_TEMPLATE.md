@@ -1,10 +1,17 @@
 ---
-title: Papers - October 27, 2026
+title: Papers - October 28, 2026
 labels: documentation
 ---
 ## MLLM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MulFCoder: Framework-conditioned Multi-agent for MLLM-based Multi-framework Front-end Code Generation](https://arxiv.org/abs/2610.34418v1)** | 2026-10-25 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. 17 pages</p></details> |
+| **[Do MLLMs Really See It: Reinforcing Visual Attention in Multimodal LLMs](https://arxiv.org/abs/2602.08241v2)** | 2026-10-25 |  |
+| **[Humans in Space: Can MLLMs Construct Human-Centric Spatial Understanding via Active Exocentric Exploration?](https://arxiv.org/abs/2610.34149v1)** | 2026-10-25 | <details><summary>Winte...</summary><p>Winter Conference on Applications of Computer Vision (WACV) 2027. 33 pages, 14 figures, and 23 tables</p></details> |
+| **[InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants](https://arxiv.org/abs/2610.33966v1)** | 2026-10-25 |  |
+| **[PathKGen: Pathology Knowledge Assisted MLLM for Explainable Histopathology](https://arxiv.org/abs/2610.33691v1)** | 2026-10-24 | <details><summary>Accep...</summary><p>Accepted to the WACV 2027. Source code is available at https://github.com/nadunnr/PathKGen</p></details> |
+| **[Rescuing Your Pruning: Rethinking Visual Token Pruning and Post-Training Recovery in MLLMs](https://arxiv.org/abs/2610.33688v1)** | 2026-10-24 |  |
+| **[TerraVis: Towards Evaluation of World-Grounded Visual Consistency in Text-to-Image Generation via MLLM Workflows](https://arxiv.org/abs/2610.02959v2)** | 2026-10-24 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026 (ED Track). Minor revisions</p></details> |
 | **[The Answer Knows Where to Look: Zooming before MLLMs Answer under Visual-Token Budgets](https://arxiv.org/abs/2610.32664v1)** | 2026-10-23 |  |
 | **[StemBind: When MLLMs Get Lost Between Rules and Instances in Abstract Visual Reasoning](https://arxiv.org/abs/2606.00148v2)** | 2026-10-23 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026 (Evaluations and Datasets Track). Camera-ready version. Project page: https://hexixiang.github.io/StemBind ; Code: https://github.com/hexixiang/StemBind ; Data: https://huggingface.co/datasets/user48271/Stembind</p></details> |
 | **[Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation](https://arxiv.org/abs/2610.30926v2)** | 2026-10-23 |  |
@@ -13,32 +20,25 @@ labels: documentation
 | **[Place-it-R1: Unlocking Environment-aware Reasoning Potential of MLLM for Video Object Insertion](https://arxiv.org/abs/2603.06140v3)** | 2026-10-22 | <details><summary>https...</summary><p>https://nevsnev.github.io/Place-it-R1/</p></details> |
 | **[Human Cognitive Benchmarks Reveal Foundational Visual Gaps in MLLMs](https://arxiv.org/abs/2502.16435v5)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
 | **[PI-MLLM: Psychophysics-Inspired Multimodal Large Language Model for Oddly Satisfying Video Emotion Analysis](https://arxiv.org/abs/2610.28264v1)** | 2026-10-20 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 8 tables; includes supplementary material</p></details> |
-| **[Beyond Omni: A Unified MLLM for Embodied Sensory Understanding](https://arxiv.org/abs/2610.26751v1)** | 2026-10-19 |  |
-| **[Fundus-R1: Training a Fundus-Reading MLLM on Public Data](https://arxiv.org/abs/2604.08322v2)** | 2026-10-19 |  |
-| **[Can MLLMs Find Their Way in a City? Exploring Emergent Navigation from Web-Scale Knowledge](https://arxiv.org/abs/2512.15933v4)** | 2026-10-18 | <details><summary>Accep...</summary><p>Accepted at EACL 2026 (ORAL)</p></details> |
-| **[MLLM-Guided Autonomous Object Detection for Open-World Understanding](https://arxiv.org/abs/2507.10844v2)** | 2026-10-17 |  |
-| **[MobileInject: Evaluating Reasoning-to-Action Security of MLLM-Based Mobile Agents under Cross-Modal Consistency Injection](https://arxiv.org/abs/2610.23307v1)** | 2026-10-16 |  |
-| **[MLLM Frame Subset Ensembling for Audio-Visual Video QA and MLLM-based Reranking for Ad-hoc Video Search in TRECVID 2025](https://arxiv.org/abs/2610.23214v1)** | 2026-10-16 | <details><summary>Proc....</summary><p>Proc. TREC 2025 Workshop, Dec. 2025</p></details> |
-| **[LDDR: Linear-DPP Dynamic-Resolution Frame Sampling for Video MLLMs](https://arxiv.org/abs/2605.11477v2)** | 2026-10-16 | 21 pages, 4 figures |
 
 ## Multimodal Large Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Video-MemComp: Taylor-Guided Sensitivity-Aware Memory Management for Streaming Video Understanding](https://arxiv.org/abs/2610.32784v1)** | 2026-10-23 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2026. Project Page: https://hhnk666.github.io/Video-MemComp.github.io</p></details> |
-| **[The Answer Knows Where to Look: Zooming before MLLMs Answer under Visual-Token Budgets](https://arxiv.org/abs/2610.32664v1)** | 2026-10-23 |  |
-| **[StemBind: When MLLMs Get Lost Between Rules and Instances in Abstract Visual Reasoning](https://arxiv.org/abs/2606.00148v2)** | 2026-10-23 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026 (Evaluations and Datasets Track). Camera-ready version. Project page: https://hexixiang.github.io/StemBind ; Code: https://github.com/hexixiang/StemBind ; Data: https://huggingface.co/datasets/user48271/Stembind</p></details> |
-| **[Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation](https://arxiv.org/abs/2610.30926v2)** | 2026-10-23 |  |
-| **[CASE: Confusion-Aware Skill Evolution for Frozen Multimodal Emotion Models](https://arxiv.org/abs/2610.32481v1)** | 2026-10-23 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 4 tables</p></details> |
-| **[Beyond Post-Hoc Rewards: Privileged Reasoning Exploration for Multimodal Embeddings](https://arxiv.org/abs/2610.32474v1)** | 2026-10-23 |  |
-| **[A Broader Look into MLLM's Retrieval Heads](https://arxiv.org/abs/2610.32411v1)** | 2026-10-23 | work in progress |
-| **[Adaptive Control of Scientific Instruments with Nonstationary Responses through Multimodal Agents](https://arxiv.org/abs/2610.32370v1)** | 2026-10-23 |  |
-| **[Feature-Space Smoothing: Certified Robustness of Deep Representations](https://arxiv.org/abs/2601.16200v4)** | 2026-10-23 | Under review |
-| **[Label-Budgeted Attribute Inference from Protected Features in Edge-Cloud Split Multimodal LLMs](https://arxiv.org/abs/2610.32079v1)** | 2026-10-23 | 5 pages |
-| **[DriveMind: Mind-Evolving Belief Tracking for Closed-Loop Autonomous Driving](https://arxiv.org/abs/2610.32069v1)** | 2026-10-23 | <details><summary>Accep...</summary><p>Accepted by Neurips 2026</p></details> |
-| **[OmniSpace: Efficient Geometry Awareness for Autonomous Vehicles MLLMs](https://arxiv.org/abs/2606.22617v3)** | 2026-10-23 |  |
-| **[KiRoSe: Using Kinematic Data for Efficient Segmentation of Robot Demonstrations](https://arxiv.org/abs/2610.31801v1)** | 2026-10-22 |  |
-| **[Rethinking Sequence Compression with Test-time Regression](https://arxiv.org/abs/2610.31574v1)** | 2026-10-22 | <details><summary>Techn...</summary><p>Technical report (19 pages, 4 figures, project page: https://spherelab.ai/ttr-compressor)</p></details> |
-| **[PointerBench: A Diagnostic Benchmark for Fine-Grained GUI Grounding](https://arxiv.org/abs/2610.31274v1)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted at the 2nd Workshop on Agentic AI Benchmarks and Applications for Enterprise Tasks (AABA4ET), NeurIPS 2026</p></details> |
+| **[Profiling a Frontier Agent with EBench: From Direct Control to Harness with Policy](https://arxiv.org/abs/2610.35832v1)** | 2026-10-26 | <details><summary>Proje...</summary><p>Project page: https://internrobotics.github.io/EBench-Astra-Tech-Report/</p></details> |
+| **[CountVideoBench: A Benchmark to Evaluate Prediction Biases on the Object Counting task by Video-Language Models](https://arxiv.org/abs/2610.28356v3)** | 2026-10-26 | <details><summary>Accep...</summary><p>Accepted at BMVC 2026. Project page: https://countvideobench.github.io</p></details> |
+| **[From Self-Confidence to Statistical Accuracy: Scaling Human-in-the-Loop Evaluation with Direct and LLM-Assisted Auditing](https://arxiv.org/abs/2610.35698v1)** | 2026-10-26 | <details><summary>21 pa...</summary><p>21 pages, 8 figures. Reproduction artifacts available at https://github.com/harinechoi/confidence-auditing-reproduction</p></details> |
+| **[Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence](https://arxiv.org/abs/2608.12290v2)** | 2026-10-26 |  |
+| **[ImgMT: Wikipedia-based Dataset For Evaluating Text-in-Image Translation](https://arxiv.org/abs/2610.35416v1)** | 2026-10-26 |  |
+| **[OneEEG: A Unified Signal-Visual Multimodal Language Model with Task-Aware Mixture of Projectors for Multi-Task EEG Understanding](https://arxiv.org/abs/2610.35355v1)** | 2026-10-26 |  |
+| **[SLVR: Structured Latent Visual Reasoning via Human-like Reasoning Flows](https://arxiv.org/abs/2610.10563v2)** | 2026-10-26 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026.Project page \href{https://bogao-code.github.io/SLVR/}</p></details> |
+| **[FOCUS: Benchmarking Retinal Model Generalization from Foundation Vision Encoders to Multimodal LLMs](https://arxiv.org/abs/2609.33158v2)** | 2026-10-26 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026, Evaluations & Datasets Track. Interactive benchmark dashboard: https://huggingface.co/spaces/dsrestrepo/FOCUS-Retinal-Benchmark</p></details> |
+| **[CropReward: A Human-Preference Benchmark and Reward Model for Aesthetic Image Cropping](https://arxiv.org/abs/2610.34221v1)** | 2026-10-25 | 15 pages |
+| **[From Presence Labels to Bounding Boxes: Can Multimodal Large Language Models Scale Surgical Instrument Localization?](https://arxiv.org/abs/2610.34218v1)** | 2026-10-25 |  |
+| **[Do MLLMs Really See It: Reinforcing Visual Attention in Multimodal LLMs](https://arxiv.org/abs/2602.08241v2)** | 2026-10-25 |  |
+| **[MicroWorld: Empowering Multimodal Large Language Models to Bridge the Microscopic Domain Gap with Multimodal Attributed Property Graph](https://arxiv.org/abs/2605.10120v2)** | 2026-10-25 | 31 pages, 14 figures |
+| **[Towards Explainable Industrial Anomaly Detection via Knowledge-Guided Latent Reasoning](https://arxiv.org/abs/2602.09850v4)** | 2026-10-25 |  |
+| **[Humans in Space: Can MLLMs Construct Human-Centric Spatial Understanding via Active Exocentric Exploration?](https://arxiv.org/abs/2610.34149v1)** | 2026-10-25 | <details><summary>Winte...</summary><p>Winter Conference on Applications of Computer Vision (WACV) 2027. 33 pages, 14 figures, and 23 tables</p></details> |
+| **[OmicsLM: A Multimodal Large Language Model for Multi-Sample Omics Reasoning](https://arxiv.org/abs/2605.06728v2)** | 2026-10-25 | <details><summary>47 pa...</summary><p>47 pages (10 pages main text, 29 pages appendix), 1 figure, 16 tables</p></details> |
 
 ## Open Vocabulary Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -81,19 +81,19 @@ labels: documentation
 ## Agent - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning](https://arxiv.org/abs/2610.32978v1)** | 2026-10-23 |  |
-| **[GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks](https://arxiv.org/abs/2607.05369v2)** | 2026-10-23 |  |
-| **[VETTA: Coordinating Turn- and Token-Level Credit Assignment for Multi-Turn LLM Agents](https://arxiv.org/abs/2610.08402v2)** | 2026-10-23 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 5 tables</p></details> |
-| **[Muse Glimmer 30B: An On-Device Agentic Model](https://arxiv.org/abs/2610.24628v3)** | 2026-10-23 |  |
-| **[Do "True" and "False" Add Up to One? Complement Consistency in LLM-Agent Opinion Simulations](https://arxiv.org/abs/2610.32874v1)** | 2026-10-23 |  |
-| **[AgentGUI: An Interface for Observing and Steering Long-Running AI Agents](https://arxiv.org/abs/2607.26300v3)** | 2026-10-23 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 System Demonstrations</p></details> |
-| **[Reimagining Enterprise RAG for Multi-Agent Systems: A Knowledge Layer That Organizes Before It Retrieves](https://arxiv.org/abs/2610.32851v1)** | 2026-10-23 |  |
-| **[Frontier-OPD: Discovering the Edge of Agent Capability and Teaching Agents to Go Beyond](https://arxiv.org/abs/2610.32802v1)** | 2026-10-23 |  |
-| **[AFRA: Age-Threshold Frame-Based Random Access for Timely Communication in Multi-Agent Systems](https://arxiv.org/abs/2610.32785v1)** | 2026-10-23 | <details><summary>Accep...</summary><p>Accepted for presentation at IEEE ROBIO 2026</p></details> |
-| **[Every Edge Needs a Quote: Building a Quote-Grounded Knowledge Graph of Healthcare Software Adoption with Language-Model Agents](https://arxiv.org/abs/2610.32781v1)** | 2026-10-23 | <details><summary>19 pa...</summary><p>19 pages, 3 figures, 9 tables. Code: https://github.com/MEDomicsLab/healthcare-agentic-kg</p></details> |
-| **[A-MapReduce: Executing Wide Search via Agentic MapReduce](https://arxiv.org/abs/2602.01331v2)** | 2026-10-23 | 27 pages |
-| **[PAIR-SAFE: A Paired-Agent Approach for Runtime Auditing and Refining AI-Mediated Mental Health Support](https://arxiv.org/abs/2601.12754v2)** | 2026-10-23 |  |
-| **[Semantic Representation for Agentic Self-Play in Automated Laboratories](https://arxiv.org/abs/2610.32755v1)** | 2026-10-23 | 16 pages, 4 figures |
-| **[ActionRAG: Evidence-Refining Graph Diffusion for Long-Term Memory in LLM Agents](https://arxiv.org/abs/2610.32752v1)** | 2026-10-23 |  |
-| **[Agentic Hazard Mapper: Emulating Expert Map-Making with AI Agents for Risk Communication](https://arxiv.org/abs/2610.32738v1)** | 2026-10-23 |  |
+| **[VibeVideoBench:Evaluating Multimodal Agents on Code-Driven Video Generation](https://arxiv.org/abs/2610.35864v1)** | 2026-10-26 |  |
+| **[Work Agents: Systems, Capabilities, and Optimization](https://arxiv.org/abs/2610.35845v1)** | 2026-10-26 |  |
+| **[ACARE: Agent-Context-Aware Reranker for Iterative Search](https://arxiv.org/abs/2610.35840v1)** | 2026-10-26 |  |
+| **[Profiling a Frontier Agent with EBench: From Direct Control to Harness with Policy](https://arxiv.org/abs/2610.35832v1)** | 2026-10-26 | <details><summary>Proje...</summary><p>Project page: https://internrobotics.github.io/EBench-Astra-Tech-Report/</p></details> |
+| **[Back to Basics: A Skill-Centric Approach to Generalist Web Agents](https://arxiv.org/abs/2610.35823v1)** | 2026-10-26 |  |
+| **[Pretraining Knows What, Simulation Teaches How: Compositional Generalization in a Sim-Trained Robot Agent](https://arxiv.org/abs/2610.35817v1)** | 2026-10-26 |  |
+| **[FOCUS: Active Critic Learning for Long-Horizon Language Model Agents](https://arxiv.org/abs/2610.35801v1)** | 2026-10-26 | 32 pages, 5 figures |
+| **[Quantifying Claim Smoothing by LLM Research Agents](https://arxiv.org/abs/2610.35793v1)** | 2026-10-26 | <details><summary>Code ...</summary><p>Code and data present at: https://github.com/tiasa2/SmoothScore</p></details> |
+| **[A Unified Arena for LLM Agents across Diverse Eurogame](https://arxiv.org/abs/2610.35773v1)** | 2026-10-26 |  |
+| **[Free to Look, Free to Reason: Simple LLM Harnesses Outdiagnose Hand-Crafted Root Cause Analysis Agents](https://arxiv.org/abs/2610.35767v1)** | 2026-10-26 | 12 pages |
+| **[Preference-Guided Cooperation in Multi-Objective Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2610.35736v1)** | 2026-10-26 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 1 table (plus 3 figures, 3 tables, and 2 algorithms in the appendix)</p></details> |
+| **[Automated Standardization of Legacy Biomedical Metadata Using an Ontology-Constrained LLM Agent](https://arxiv.org/abs/2604.08552v5)** | 2026-10-26 |  |
+| **[MiRL: Error-Targeted Reinforcement Learning for Correcting Terminal Agent Misbehaviors](https://arxiv.org/abs/2610.35697v1)** | 2026-10-26 | <details><summary>20 pa...</summary><p>20 pages, 14 figures, 5 tables. Project page: https://github.com/runchu-tian/MiRL</p></details> |
+| **[MicroAgent: Context-Augmented Multi-Agent Framework for Automatic Microservice Decomposition](https://arxiv.org/abs/2606.29742v2)** | 2026-10-26 | <details><summary>Accep...</summary><p>Accepted at the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)</p></details> |
+| **[EvoRouter: Cost-Efficient Multi-Agent Routing via Insight-Guided On-Policy Distillation](https://arxiv.org/abs/2610.35690v1)** | 2026-10-26 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, 4 tables</p></details> |
 
