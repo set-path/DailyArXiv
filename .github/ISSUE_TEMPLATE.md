@@ -1,5 +1,5 @@
 ---
-title: Papers - October 29, 2026
+title: Papers - October 30, 2026
 labels: documentation
 ---
 ## MLLM - Preview 15 papers
