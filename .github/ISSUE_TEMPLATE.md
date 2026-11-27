@@ -1,10 +1,15 @@
 ---
-title: Papers - November 26, 2026
+title: Papers - November 27, 2026
 labels: documentation
 ---
 ## MLLM - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ProbFaS: Probabilistic Video Frame Selection for MLLMs via Multi-Fidelity Calibration](https://arxiv.org/abs/2611.34903v1)** | 2026-11-25 |  |
+| **[SEAM: A Self-Evolving and Adaptive Probing Framework for Automatic MLLM Hallucination Evaluation](https://arxiv.org/abs/2611.34598v1)** | 2026-11-25 |  |
+| **[K12Vista: Exploring the Boundaries of MLLMs in K-12 Education](https://arxiv.org/abs/2506.01676v2)** | 2026-11-25 |  |
+| **[SPiXSeg: Rethinking MLLM-based Image Segmentation as Superpixel Classification](https://arxiv.org/abs/2611.33842v1)** | 2026-11-25 |  |
+| **[Can Its Own Misses Teach an MLLM to Find Small Brain Metastases?](https://arxiv.org/abs/2611.33836v1)** | 2026-11-25 |  |
 | **[Taming Hallucinations: Boosting MLLMs' Video Understanding via Counterfactual Video Generation](https://arxiv.org/abs/2512.24271v2)** | 2026-11-24 | 18 pages |
 | **[More Powerful, Less Verifiable? Mitigating Hard-to-Verify Hallucinations in MLLM's Reinforcement Learning](https://arxiv.org/abs/2611.32055v1)** | 2026-11-24 | 20 pages, 11 figures |
 | **[Can MLLMs Reason About Visual Persuasion? Evaluating the Efficacy and Faithfulness of Reasoning](https://arxiv.org/abs/2605.08965v3)** | 2026-11-24 |  |
@@ -15,30 +20,25 @@ labels: documentation
 | **[GraphSeer: Multimodal Knowledge Graph Relational Image Retrieval with MLLMs](https://arxiv.org/abs/2611.29470v1)** | 2026-11-22 |  |
 | **[Remote-Sensing City Layout Extraction with MLLM](https://arxiv.org/abs/2608.16484v2)** | 2026-11-22 | <details><summary>4 pag...</summary><p>4 pages, 2 figures, 4 tables. Accepted to IEEE APGARSS 2026</p></details> |
 | **[Beyond Attention Maps: Understanding and Improving Medical MLLMs via Visual Values](https://arxiv.org/abs/2611.29361v1)** | 2026-11-22 |  |
-| **[Counting Symbols on Technical Drawings: A Benchmark and Verified Rewards for MLLMs](https://arxiv.org/abs/2611.29309v1)** | 2026-11-22 | 15 pages, 8 figures |
-| **[MM-DataLoop: Closing the Data-Side Loop for Recursive Self-Improvement in MLLM Post-Training](https://arxiv.org/abs/2611.29254v1)** | 2026-11-22 |  |
-| **[Beyond Single Expert: Harmonizing Diverse Visual Priors in MLLMs for Spatial Understanding](https://arxiv.org/abs/2607.15054v2)** | 2026-11-21 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[Moment-Video: Diagnosing Temporal Fidelity of Video MLLMs on Momentary Visual Events](https://arxiv.org/abs/2606.02522v3)** | 2026-11-20 | <details><summary>36 pa...</summary><p>36 pages, 12 figures, 20 tables</p></details> |
-| **[EVIDENT: Routing MLLM Adaptation through Entity-Grounded Visual Evidence for Cross-Domain Video Temporal Grounding](https://arxiv.org/abs/2605.26104v3)** | 2026-11-19 | <details><summary>NeurI...</summary><p>NeurIPS 2026. Project page: https://mreraser.github.io/EVIDENT_project_page/</p></details> |
 
 ## Multimodal Large Language Model - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VENOMREC: Cross-Modal Interactive Poisoning for Targeted Promotion in Multimodal LLM Recommender Systems](https://arxiv.org/abs/2602.06409v3)** | 2026-11-24 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[C3H: Compression-to-Consensus Criteria Hijacking in Multimodal LLM Recommender Systems](https://arxiv.org/abs/2611.32780v1)** | 2026-11-24 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[SIEVES: Selective Prediction Generalizes through Visual Evidence Scoring](https://arxiv.org/abs/2604.25855v3)** | 2026-11-24 | <details><summary>45 pa...</summary><p>45 pages. NeurIPS 2026 camera-ready version. Code: https://github.com/hector-gr/SIEVES</p></details> |
-| **[Are We Rewarding the Wrong Module? Module-Specific Policy Optimization for Multimodal Reinforcement Learning](https://arxiv.org/abs/2611.32687v1)** | 2026-11-24 |  |
-| **[Evaluating Latent Knowledge Stability in Multimodal Large Language Models](https://arxiv.org/abs/2611.32566v1)** | 2026-11-24 |  |
-| **[SuperNav-1.5: Structured Spatial Memory For Agentic Navigation Systems](https://arxiv.org/abs/2611.29912v2)** | 2026-11-24 | <details><summary>18 pa...</summary><p>18 pages, 8 figures. Project page: https://zju3dv.github.io/SuperNav-1.5/</p></details> |
-| **[ViDM: Efficient and Order-Robust Parallel Visual Decision Making](https://arxiv.org/abs/2611.32461v1)** | 2026-11-24 |  |
-| **[Towards Explainable Industrial Anomaly Detection via Knowledge-Guided Latent Reasoning](https://arxiv.org/abs/2602.09850v5)** | 2026-11-24 |  |
-| **[ASTERISM: Do Multimodal LLMs Actually Look at All the Images?](https://arxiv.org/abs/2611.32316v1)** | 2026-11-24 | <details><summary>Code ...</summary><p>Code and datasets: https://github.com/chanseul01/ASTERISM</p></details> |
-| **[VC-OPD: Learning to See What Matters via Visual Cue On-Policy Self-Distillation](https://arxiv.org/abs/2611.32292v1)** | 2026-11-24 |  |
-| **[DistMoE: Private-data Rehearsal-free Routing in Mixture-of-Experts for Distributed Instruction Tuning](https://arxiv.org/abs/2608.09907v2)** | 2026-11-24 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Project page: https://mainaksingha01.github.io/DistMoE</p></details> |
-| **[Taming Hallucinations: Boosting MLLMs' Video Understanding via Counterfactual Video Generation](https://arxiv.org/abs/2512.24271v2)** | 2026-11-24 | 18 pages |
-| **[Clinical3D-Bench: Evaluating and Improving Spatial Intelligence of Multimodal LLMs in Hospital Environments](https://arxiv.org/abs/2611.32094v1)** | 2026-11-24 |  |
-| **[Pinpoint: Grounded Worldwide Image Geolocation via Cross-Source Retrieval and Reranking](https://arxiv.org/abs/2606.04133v2)** | 2026-11-24 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
-| **[InCue: Making Better Use of What Multimodal LLMs Already See at Test Time](https://arxiv.org/abs/2611.31987v1)** | 2026-11-24 |  |
+| **[ProbFaS: Probabilistic Video Frame Selection for MLLMs via Multi-Fidelity Calibration](https://arxiv.org/abs/2611.34903v1)** | 2026-11-25 |  |
+| **[Stranger Things: When Objects Appear Without Their Typical Neighbors](https://arxiv.org/abs/2611.34881v1)** | 2026-11-25 | <details><summary>This ...</summary><p>This paper was accepted to the 40th Conference on Neural Information Processing Systems (NeurIPS 2026). Track on Evaluations and Datasets. Dataset: huggingface.co/datasets/sidgairo18/strange-bench</p></details> |
+| **[ASTERISM: Do Multimodal LLMs Actually Look at All the Images?](https://arxiv.org/abs/2611.32316v2)** | 2026-11-25 | <details><summary>Code ...</summary><p>Code and datasets: https://github.com/chanseul01/ASTERISM</p></details> |
+| **[Seeing the Right Context: Grounded On-Policy Distillation for Remote Sensing](https://arxiv.org/abs/2611.34700v1)** | 2026-11-25 | <details><summary>20 pa...</summary><p>20 pages, including supplementary material</p></details> |
+| **[C3H: Compression-to-Consensus Criteria Hijacking in Multimodal LLM Recommender Systems](https://arxiv.org/abs/2611.32780v2)** | 2026-11-25 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
+| **[SEAM: A Self-Evolving and Adaptive Probing Framework for Automatic MLLM Hallucination Evaluation](https://arxiv.org/abs/2611.34598v1)** | 2026-11-25 |  |
+| **[Sage-Med: Scaling Medical Multimodal Intelligence](https://arxiv.org/abs/2611.34575v1)** | 2026-11-25 | 101 pages |
+| **[CONCOR: Benchmarking Contrastive Decoding for Visual Hallucination Mitigation Beyond Final-Output Performance](https://arxiv.org/abs/2611.30460v2)** | 2026-11-25 |  |
+| **[Medical Image Alignment Assessment as a Test of Generalist Visual Reasoning in Frontier Multimodal Models](https://arxiv.org/abs/2610.06896v2)** | 2026-11-25 |  |
+| **[In- and Out-of-Distribution Generalization of Reasoning in Multimodal LLMs for Simple Visual Planning Tasks](https://arxiv.org/abs/2602.15460v2)** | 2026-11-25 |  |
+| **[WebVibe: Multimodal Interactive Website Generation via Reverse Synthesis and Visual Self-Distillation](https://arxiv.org/abs/2611.34292v1)** | 2026-11-25 |  |
+| **[Navigent: A Geometry-Grounded Agentic Framework for Vision Language Navigation](https://arxiv.org/abs/2611.34249v1)** | 2026-11-25 |  |
+| **[EgoCaptioner: Towards Comprehensive and Fine-Grained Egocentric Video Captioning](https://arxiv.org/abs/2611.26380v3)** | 2026-11-25 | 44 pages |
+| **[Lost in the Grid: Where Multimodal LLMs Fail Between Seeing and Planning](https://arxiv.org/abs/2611.34152v1)** | 2026-11-25 | <details><summary>31 pa...</summary><p>31 pages, 32 figures, 29 tables. Code: https://github.com/suat-llm/GridProbe</p></details> |
+| **[Projector Subspace Optimization for Multimodal Continual Instruction Tuning](https://arxiv.org/abs/2611.34078v1)** | 2026-11-25 | <details><summary>29 pa...</summary><p>29 pages, 12 figures, including supplementary material</p></details> |
 
 ## Open Vocabulary Segmentation - Preview 15 papers
 | **Title** | **Date** | **Comment** |
@@ -81,19 +81,19 @@ labels: documentation
 ## Agent - Preview 15 papers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Envy-Free Cake-Cutting for Five Agents](https://arxiv.org/abs/2611.33149v1)** | 2026-11-24 |  |
-| **[PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents](https://arxiv.org/abs/2611.33144v1)** | 2026-11-24 | <details><summary>23 pa...</summary><p>23 pages, 9 figures, 7 tables. Project page: https://vme0522.github.io/PyRUA-Dex/</p></details> |
-| **[CANON: Agent-Assisted Construction of Canonical Differential Equations for Feynman Integrals](https://arxiv.org/abs/2611.33100v1)** | 2026-11-24 |  |
-| **[Delegent: A Multi-Agent Harness That Reduces Cost without Sacrificing Performance](https://arxiv.org/abs/2611.33098v1)** | 2026-11-24 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 5 tables</p></details> |
-| **[AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design](https://arxiv.org/abs/2611.33093v1)** | 2026-11-24 |  |
-| **[Approximate MMS allocations for large number of agents](https://arxiv.org/abs/2611.33051v1)** | 2026-11-24 |  |
-| **[GEPA-Curator: Curated Learning for Self Improving Agents](https://arxiv.org/abs/2610.37651v2)** | 2026-11-24 |  |
-| **[RecordRoute: Auditing Agent Failures with Localization-Guided Diagnosis](https://arxiv.org/abs/2611.33022v1)** | 2026-11-24 |  |
-| **[Leto: Utility-Centric Agent Memory](https://arxiv.org/abs/2611.33005v1)** | 2026-11-24 |  |
-| **[RFW-A: Agentic Procedural Generation of 400K Articulated Assets over 500 Categories](https://arxiv.org/abs/2610.40333v2)** | 2026-11-24 | <details><summary>37 pa...</summary><p>37 pages, 19 figures. Project Page: https://roboflywheel-com.github.io/RoboFlywheel-Articulation/</p></details> |
-| **[SpecEngineeringBench: Evaluating Coding Agents as Autonomous Specification Engineers](https://arxiv.org/abs/2611.32973v1)** | 2026-11-24 | 31 pages, 3figures |
-| **[Multi-Agent Coordination Through Stigmergy for Canal Network Formation on Real Terrain](https://arxiv.org/abs/2611.32966v1)** | 2026-11-24 | <details><summary>Submi...</summary><p>Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026</p></details> |
-| **[Attestation is All You Need: Toward a Zero-Trust Architecture for HPC AI Agents](https://arxiv.org/abs/2611.32958v1)** | 2026-11-24 |  |
-| **[Benchmarking Open-Ended Multi-Agent Coordination in Language Agents](https://arxiv.org/abs/2606.08340v2)** | 2026-11-24 | <details><summary>To ap...</summary><p>To appear at the 40th Conference on Neural Information Processing Systems (NeurIPS 2026, Track on Evaluations and Datasets)</p></details> |
-| **[ShellBench: What Matters More for AI Agents, Models, or Harness for Everyday Tasks](https://arxiv.org/abs/2611.32946v1)** | 2026-11-24 | <details><summary>17 pa...</summary><p>17 pages, 9 figures, 10 tables</p></details> |
+| **[Tracking Any Point with Agentic Visual Reasoning](https://arxiv.org/abs/2611.34943v1)** | 2026-11-25 | <details><summary>Proje...</summary><p>Project page: https://agentap.cs.virginia.edu</p></details> |
+| **[$μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents](https://arxiv.org/abs/2611.34920v1)** | 2026-11-25 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 6 tables</p></details> |
+| **[Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation](https://arxiv.org/abs/2611.34907v1)** | 2026-11-25 | <details><summary>28 pa...</summary><p>28 pages, 12 figures. Project page: https://nvlabs.github.io/LongLive/Agentic-LongLive/</p></details> |
+| **[Saliency-Aware Multi-Route Thinking: Grounding and Reasoning on Vision-Language Agents](https://arxiv.org/abs/2602.16702v2)** | 2026-11-25 |  |
+| **[How Much Do Coding Agents Over-Edit, and Why? An Empirical Study of Unneeded Edits in Repository-Level Agent Patches](https://arxiv.org/abs/2611.34875v1)** | 2026-11-25 |  |
+| **[DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents](https://arxiv.org/abs/2611.34852v1)** | 2026-11-25 | <details><summary>Proje...</summary><p>Project Page: https://zjureal.com/DRBenchPro/ Code: https://github.com/ZJU-REAL/DRBenchPro</p></details> |
+| **[Deep Reinforcement Learning for Multi-UAV Data Harvesting Under Variable Team Sizes and Agent Loss](https://arxiv.org/abs/2611.34818v1)** | 2026-11-25 |  |
+| **[Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models](https://arxiv.org/abs/2611.34813v1)** | 2026-11-25 |  |
+| **[RoboTeam: Benchmarking Vision-Based Multi-Agent Control of Many Robot Arms in Real Time](https://arxiv.org/abs/2611.22138v2)** | 2026-11-25 | <details><summary>Proje...</summary><p>Project page: https://changxuanfan.github.io/RoboTeam/ . Code: https://github.com/changxuanfan/RoboTeam . 20 pages, 22 figures, 12 tables, including appendix</p></details> |
+| **[What to Change, What to Keep: Experience-Evolving Agents for Video Recasting](https://arxiv.org/abs/2611.32196v2)** | 2026-11-25 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 2 tables. The first three authors contributed equally to this work. Supplementary material is not included in this version</p></details> |
+| **[SceneDesigner3D: Agentic Evolutionary Search for Principled Rearrangement of 3D Indoor Scenes](https://arxiv.org/abs/2611.34783v1)** | 2026-11-25 | <details><summary>Proje...</summary><p>Project page: http://cy94.github.io/scenedesigner3d, Video: TBD</p></details> |
+| **[Toward Agentic Robotics: A Large-Scale Study of Harness Design for Robot-Use Agents](https://arxiv.org/abs/2611.34778v1)** | 2026-11-25 |  |
+| **[When Every Rollout Fails: Splicing Learner-Conditioned Options into Long-Horizon Agent RL](https://arxiv.org/abs/2611.34777v1)** | 2026-11-25 | 16 pages |
+| **[Collect for Coverage, Replay with Evidence: Adaptive and Efficient On-Policy Distillation for Long-Horizon Agents](https://arxiv.org/abs/2611.34756v1)** | 2026-11-25 | 15 pages |
+| **[AutoRSP: An AI Agent for Radar Sensing Pipeline Design](https://arxiv.org/abs/2611.34754v1)** | 2026-11-25 |  |
 
